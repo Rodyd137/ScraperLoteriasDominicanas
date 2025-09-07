@@ -1,7 +1,9 @@
 # scraper/main.py
-import os, json, hashlib, datetime, requests
+import os, json, hashlib, datetime, traceback
+
+# ✅ IMPORTS RELATIVOS (funcionan con `python -m scraper.main`)
 from .schema import Payload, asdict_payload, now_iso
-from .sites import all_sites  # <- import de paquete
+from .sites import all_sites
 
 OUT_DIR = os.getenv("OUT_DIR", "public")
 
@@ -11,20 +13,17 @@ def sha(d: dict) -> str:
     ).hexdigest()
 
 def main():
+    print("== RUNNING SITES ==")
     draws = []
-
-    print("=== RUNNING SITES ===")
     for key, (url, fn) in all_sites():
         try:
-            print(f"[SITE] {key} -> {url}")
+            print(f"-> {key}: {url}")
             part = fn() or []
-            print(f"    resultados: {len(part)}")
-            if part:
-                s = part[0]
-                print(f"    ejemplo: {s.provider} | {s.game} {s.edition} | {s.numbers}")
+            print(f"   {len(part)} resultados")
             draws.extend(part)
         except Exception as e:
-            print(f"    [WARN] {key} failed: {e}")
+            print(f"[WARN] {key} failed: {e}")
+            traceback.print_exc()
 
     print(f"TOTAL DRAWS: {len(draws)}")
 
@@ -46,21 +45,24 @@ def main():
         print("No changes.")
         return
 
-    # Escribe el snapshot principal
+    # data.json (último snapshot)
     with open(out_file, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-    # Escribe feed diario + alias estable
+    # feed diario + alias estable
     feed_dir = os.path.join(OUT_DIR, "feed")
     os.makedirs(feed_dir, exist_ok=True)
     today = datetime.date.today().isoformat()
 
-    # YYYY-MM-DD.json
+    # YYYY-MM-DD.json (histórico)
     with open(os.path.join(feed_dir, f"{today}.json"), "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-    # latest.json (alias al último)
+    # latest.json (siempre el último)
     with open(os.path.join(feed_dir, "latest.json"), "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
     print("Updated.")
+
+if __name__ == "__main__":
+    main()
