@@ -14,14 +14,22 @@ def today_rd():
 
 @registry.site("la_primera", f"{BASE}/la-primera")
 def scrape_la_primera():
+    """
+    Ajustado a los textos reales que se ven en la web:
+    - La Primera Día
+    - Primera Noche   (¡ojo! no dice "La Primera Noche")
+    - Loto 5
+    (Si aparece El Quinielón, también lo tomamos.)
+    """
     r = requests.get(f"{BASE}/la-primera", timeout=30, headers={"User-Agent":"RD-Bot/1.0"})
     r.raise_for_status()
     soup = BeautifulSoup(r.text, "lxml")
     d = today_rd()
     out = []
+
     map_labels = [
         ("Quiniela", "La Primera Día", "Día"),
-        ("Quiniela", "La Primera Noche", "Noche"),
+        ("Quiniela", "Primera Noche", "Noche"),     # <- cambiado
         ("El Quinielón", "El Quinielón Día", "Día"),
         ("El Quinielón", "El Quinielón Noche", "Noche"),
         ("Loto 5", "Loto 5", None),
@@ -34,11 +42,21 @@ def scrape_la_primera():
 
 @registry.site("leidsa", f"{BASE}/leidsa")
 def scrape_leidsa():
+    """
+    Textos vistos:
+    - Pega 3 Más
+    - Quiniela Leidsa
+    - Loto Pool
+    - Super Kino TV
+    - Loto - Super Loto Más
+    - Super Palé
+    """
     r = requests.get(f"{BASE}/leidsa", timeout=30, headers={"User-Agent":"RD-Bot/1.0"})
     r.raise_for_status()
     soup = BeautifulSoup(r.text, "lxml")
     d = today_rd()
     out = []
+
     map_labels = [
         ("Pega 3 Más", "Pega 3 Más", None),
         ("Quiniela", "Quiniela Leidsa", None),
@@ -55,15 +73,22 @@ def scrape_leidsa():
 
 @registry.site("nacional", f"{BASE}/loteria-nacional")
 def scrape_nacional():
+    """
+    Textos vistos:
+    - Juega + Pega +
+    - Gana Más
+    - Lotería Nacional
+    """
     r = requests.get(f"{BASE}/loteria-nacional", timeout=30, headers={"User-Agent":"RD-Bot/1.0"})
     r.raise_for_status()
     soup = BeautifulSoup(r.text, "lxml")
     d = today_rd()
     out = []
+
     map_labels = [
+        ("Juega + Pega +", "Juega + Pega +", None),
         ("Gana Más", "Gana Más", None),
-        ("Quiniela Nacional", "Lotería Nacional", None),
-        ("La Fecha", "La Fecha", None),
+        ("Lotería Nacional", "Lotería Nacional", None),
     ]
     for game, label, edition in map_labels:
         s = find_after_label(soup, label)
