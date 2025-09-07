@@ -4,7 +4,7 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 
 from . import registry
-from ..schema import Draw
+from ..schema import Draw, slugify
 
 BASE = "https://loteriasdominicanas.com"
 RD_TZ = ZoneInfo("America/Santo_Domingo")
@@ -20,11 +20,25 @@ BROWSER_HEADERS = {
     "Referer": "https://loteriasdominicanas.com/",
 }
 
+PROV = {
+    "La Primera": "la-primera",
+    "Leidsa": "leidsa",
+    "Lotería Nacional": "loteria-nacional",
+    "Lotería Real": "loteria-real",
+    "Loteka": "loteka",
+    "LoteDom": "lotedom",
+    "La Suerte Dominicana": "la-suerte-dominicana",
+    "Florida": "florida",
+    "New York": "nueva-york",
+    "Americanas": "americanas",
+    "Anguila": "anguila",
+    "King Lottery": "king-lottery",
+}
+
 def today_rd() -> str:
     return datetime.now(RD_TZ).date().isoformat()
 
 def _norm(s: str) -> str:
-    # normaliza espacios y NBSP
     return " ".join(s.replace("\u00a0", " ").split())
 
 def _fetch_soup(url: str) -> BeautifulSoup:
@@ -40,7 +54,6 @@ def _extract_title(card) -> str | None:
     return _norm(el.get_text(" ", strip=True)) if el else None
 
 def _extract_numbers(card) -> list[str]:
-    # toma todos los <span class="score"> que sean dígitos (ignora "2X", etc.)
     nums = []
     for s in card.select(".game-scores .score"):
         t = s.get_text(strip=True)
@@ -52,26 +65,32 @@ def _build_from_cards(
     soup: BeautifulSoup,
     provider: str,
     title_map: dict[str, tuple[str, str | None]],
+    game_slug_overrides: dict[str, str] | None = None,
 ) -> list[Draw]:
+    """
+    title_map: { 'La Primera Día': ('Quiniela', 'Día'), ... }
+    game_slug_overrides: {'El Quinielón': 'quinielon'}  # opcional
+    """
     d = today_rd()
     out: list[Draw] = []
+    provider_id = PROV.get(provider, slugify(provider))
     for card in _extract_cards(soup):
         title = _extract_title(card)
         if not title:
             continue
-
-        # tolera pequeños alias si están en el mapa
+        # tolera pequeñas variaciones
         if title not in title_map:
-            # normalizaciones suaves
-            t = title.replace("Mediodía", "Medio Día").replace("Dia", "Día")
-            if t not in title_map:
+            t2 = title.replace("Mediodía", "Medio Día").replace("Dia", "Día")
+            if t2 not in title_map:
                 continue
-            title = t
+            title = t2
 
         game, edition = title_map[title]
         nums = _extract_numbers(card)
         if not nums:
             continue
+
+        game_id = (game_slug_overrides or {}).get(game) or slugify(game)
 
         out.append(
             Draw(
@@ -80,6 +99,8 @@ def _build_from_cards(
                 edition=edition,
                 date=d,
                 numbers=nums,
+                provider_id=provider_id,
+                game_id=game_id,
             )
         )
     return out
@@ -90,12 +111,13 @@ def scrape_la_primera():
     soup = _fetch_soup(f"{BASE}/la-primera")
     title_map = {
         "La Primera Día": ("Quiniela", "Día"),
-        "Primera Noche": ("Quiniela", "Noche"),  # así viene en el DOM (sin "La")
+        "Primera Noche": ("Quiniela", "Noche"),
         "El Quinielón Día": ("El Quinielón", "Día"),
         "El Quinielón Noche": ("El Quinielón", "Noche"),
         "Loto 5": ("Loto 5", None),
     }
-    draws = _build_from_cards(soup, "La Primera", title_map)
+    overrides = {"El Quinielón": "quinielon"}
+    draws = _build_from_cards(soup, "La Primera", title_map, overrides)
     print("[DEBUG][La Primera] encontrados:", [(d.game, d.edition, d.numbers) for d in draws])
     return draws
 
@@ -146,13 +168,13 @@ def scrape_loteka():
     soup = _fetch_soup(f"{BASE}/loteka")
     title_map = {
         "Quiniela Loteka": ("Quiniela", None),
-        # si Loteka publica otros (p. ej. "Mega Chances"), se agregan aquí
+        "Mega Chances": ("Mega Chances", None),
     }
     draws = _build_from_cards(soup, "Loteka", title_map)
     print("[DEBUG][Loteka] encontrados:", [(d.game, d.edition, d.numbers) for d in draws])
     return draws
 
-# ----------------- LoteDom (incluye El Quemaito Mayor) -----------------
+# ----------------- LoteDom (El Quemaito Mayor) -----------------
 @registry.site("lotedom", f"{BASE}/lotedom")
 def scrape_lotedom():
     soup = _fetch_soup(f"{BASE}/lotedom")
@@ -160,7 +182,7 @@ def scrape_lotedom():
         "Quiniela LoteDom": ("Quiniela", None),
         "El Quemaito Mayor": ("El Quemaito Mayor", None),
     }
-    draws = _build_from_cards(soup, "LoteDom", title_map)
+    draws = _build_from_cards(soup, "LoteDom", title_map, {"El Quemaito Mayor": "quemaito-mayor"})
     print("[DEBUG][LoteDom] encontrados:", [(d.game, d.edition, d.numbers) for d in draws])
     return draws
 
@@ -202,7 +224,7 @@ def scrape_nueva_york():
     print("[DEBUG][New York] encontrados:", [(d.game, d.edition, d.numbers) for d in draws])
     return draws
 
-# ----------------- Americanas (jackpots) -----------------
+# ----------------- Americanas -----------------
 @registry.site("americanas", f"{BASE}/americanas")
 def scrape_americanas():
     soup = _fetch_soup(f"{BASE}/americanas")
