@@ -1,5 +1,184 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-09-07T14:35:46.807753Z",
-  "draws": []
+  "last_updated": "2025-09-07T15:11:56.720634Z",
+  "draws": [
+    {
+      "provider": "La Primera",
+      "game": "El Quinielón",
+      "edition": "Día",
+      "date": "2025-09-07",
+      "numbers": [
+        "32"
+      ]
+    },
+    {
+      "provider": "La Primera",
+      "game": "El Quinielón",
+      "edition": "Noche",
+      "date": "2025-09-07",
+      "numbers": [
+        "04"
+      ]
+    },
+    {
+      "provider": "La Primera",
+      "game": "Loto 5",
+      "edition": null,
+      "date": "2025-09-07",
+      "numbers": [
+        "08",
+        "17",
+        "18",
+        "16",
+        "33",
+        "07"
+      ]
+    },
+    {
+      "provider": "La Primera",
+      "game": "Quiniela",
+      "edition": "Día",
+      "date": "2025-09-07",
+      "numbers": [
+        "73",
+        "06",
+        "37"
+      ]
+    },
+    {
+      "provider": "La Primera",
+      "game": "Quiniela",
+      "edition": "Noche",
+      "date": "2025-09-07",
+      "numbers": [
+        "13",
+        "51",
+        "54"
+      ]
+    },
+    {
+      "provider": "Leidsa",
+      "game": "Loto - Super Loto Más",
+      "edition": null,
+      "date": "2025-09-07",
+      "numbers": [
+        "14",
+        "19",
+        "28",
+        "30",
+        "31",
+        "40",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "provider": "Leidsa",
+      "game": "Loto Pool",
+      "edition": null,
+      "date": "2025-09-07",
+      "numbers": [
+        "02",
+        "10",
+        "15",
+        "19",
+        "20"
+      ]
+    },
+    {
+      "provider": "Leidsa",
+      "game": "Pega 3 Más",
+      "edition": null,
+      "date": "2025-09-07",
+      "numbers": [
+        "48",
+        "39",
+        "50"
+      ]
+    },
+    {
+      "provider": "Leidsa",
+      "game": "Quiniela",
+      "edition": null,
+      "date": "2025-09-07",
+      "numbers": [
+        "05",
+        "20",
+        "43"
+      ]
+    },
+    {
+      "provider": "Leidsa",
+      "game": "Super Kino TV",
+      "edition": null,
+      "date": "2025-09-07",
+      "numbers": [
+        "06",
+        "16",
+        "22",
+        "24",
+        "25",
+        "28",
+        "30",
+        "33",
+        "34",
+        "35",
+        "38",
+        "39",
+        "44",
+        "49",
+        "50",
+        "55",
+        "59",
+        "65",
+        "71",
+        "77"
+      ]
+    },
+    {
+      "provider": "Leidsa",
+      "game": "Super Palé",
+      "edition": null,
+      "date": "2025-09-07",
+      "numbers": [
+        "05",
+        "17"
+      ]
+    },
+    {
+      "provider": "Lotería Nacional",
+      "game": "Gana Más",
+      "edition": null,
+      "date": "2025-09-07",
+      "numbers": [
+        "11",
+        "55",
+        "95"
+      ]
+    },
+    {
+      "provider": "Lotería Nacional",
+      "game": "Juega + Pega +",
+      "edition": null,
+      "date": "2025-09-07",
+      "numbers": [
+        "26",
+        "03",
+        "02",
+        "01",
+        "07"
+      ]
+    },
+    {
+      "provider": "Lotería Nacional",
+      "game": "Lotería Nacional",
+      "edition": null,
+      "date": "2025-09-07",
+      "numbers": [
+        "17",
+        "19",
+        "97"
+      ]
+    }
+  ]
 }
