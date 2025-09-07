@@ -42,20 +42,25 @@ def main():
         with open(out_file, "r", encoding="utf-8") as f:
             old = json.load(f)
 
-    if sha(old) == sha(data):
+    if sha(old) == sha(data)):
         print("No changes.")
         return
 
+    # Escribe el snapshot principal
     with open(out_file, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
+    # Escribe feed diario + alias estable
     feed_dir = os.path.join(OUT_DIR, "feed")
     os.makedirs(feed_dir, exist_ok=True)
     today = datetime.date.today().isoformat()
+
+    # YYYY-MM-DD.json
     with open(os.path.join(feed_dir, f"{today}.json"), "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-    print("Updated.")
+    # latest.json (alias al último)
+    with open(os.path.join(feed_dir, "latest.json"), "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
 
-if __name__ == "__main__":
-    main()
+    print("Updated.")
