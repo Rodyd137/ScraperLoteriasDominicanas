@@ -42,7 +42,7 @@ def main():
         with open(out_file, "r", encoding="utf-8") as f:
             old = json.load(f)
 
-    if sha(old) == sha(data)):
+    if sha(old) == sha(data):
         print("No changes.")
         return
 
