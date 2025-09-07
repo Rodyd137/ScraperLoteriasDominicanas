@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-09-07T19:35:24.653938Z",
+  "last_updated": "2025-09-07T20:14:03.496996Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -224,11 +224,11 @@
       "edition": null,
       "date": "2025-09-07",
       "numbers": [
-        "02",
-        "10",
-        "15",
+        "04",
+        "09",
+        "12",
         "19",
-        "20"
+        "26"
       ],
       "provider_id": "leidsa",
       "game_id": "loto-pool"
@@ -257,9 +257,9 @@
       "edition": null,
       "date": "2025-09-07",
       "numbers": [
-        "48",
-        "39",
-        "50"
+        "47",
+        "29",
+        "10"
       ],
       "provider_id": "leidsa",
       "game_id": "pega-3-mas"
@@ -270,9 +270,9 @@
       "edition": null,
       "date": "2025-09-07",
       "numbers": [
-        "05",
-        "20",
-        "43"
+        "52",
+        "52",
+        "67"
       ],
       "provider_id": "leidsa",
       "game_id": "quiniela"
@@ -283,26 +283,26 @@
       "edition": null,
       "date": "2025-09-07",
       "numbers": [
-        "06",
+        "07",
+        "10",
         "16",
-        "22",
-        "24",
+        "20",
         "25",
-        "28",
+        "27",
         "30",
+        "32",
         "33",
         "34",
         "35",
-        "38",
-        "39",
         "44",
-        "49",
-        "50",
-        "55",
-        "59",
+        "46",
+        "47",
+        "53",
+        "61",
+        "62",
         "65",
         "71",
-        "77"
+        "74"
       ],
       "provider_id": "leidsa",
       "game_id": "super-kino-tv"
