@@ -14,14 +14,7 @@ def today_rd():
 
 @registry.site("la_primera", f"{BASE}/la-primera")
 def scrape_la_primera():
-    """
-    Ajustado a los textos reales que se ven en la web:
-    - La Primera Día
-    - Primera Noche   (¡ojo! no dice "La Primera Noche")
-    - Loto 5
-    (Si aparece El Quinielón, también lo tomamos.)
-    """
-    r = requests.get(f"{BASE}/la-primera", timeout=30, headers={"User-Agent":"RD-Bot/1.0"})
+    r = requests.get(f"{BASE}/la-primera", timeout=30, headers={"User-Agent": "RD-Bot/1.0"})
     r.raise_for_status()
     soup = BeautifulSoup(r.text, "lxml")
     d = today_rd()
@@ -29,7 +22,7 @@ def scrape_la_primera():
 
     map_labels = [
         ("Quiniela", "La Primera Día", "Día"),
-        ("Quiniela", "Primera Noche", "Noche"),     # <- cambiado
+        ("Quiniela", "Primera Noche", "Noche"),
         ("El Quinielón", "El Quinielón Día", "Día"),
         ("El Quinielón", "El Quinielón Noche", "Noche"),
         ("Loto 5", "Loto 5", None),
@@ -38,20 +31,18 @@ def scrape_la_primera():
         s = find_after_label(soup, label)
         if s:
             out.append(Draw(provider="La Primera", game=game, edition=edition, date=d, numbers=split_numbers(s)))
+
+    # DEBUG
+    print("=== DEBUG La Primera ===")
+    print("Labels probados:", [lbl for _, lbl, _ in map_labels])
+    print("Resultados encontrados:", [d.numbers for d in out])
+    print("Texto crudo:", soup.get_text(" ", strip=True)[:600])
+    print("========================")
     return out
 
 @registry.site("leidsa", f"{BASE}/leidsa")
 def scrape_leidsa():
-    """
-    Textos vistos:
-    - Pega 3 Más
-    - Quiniela Leidsa
-    - Loto Pool
-    - Super Kino TV
-    - Loto - Super Loto Más
-    - Super Palé
-    """
-    r = requests.get(f"{BASE}/leidsa", timeout=30, headers={"User-Agent":"RD-Bot/1.0"})
+    r = requests.get(f"{BASE}/leidsa", timeout=30, headers={"User-Agent": "RD-Bot/1.0"})
     r.raise_for_status()
     soup = BeautifulSoup(r.text, "lxml")
     d = today_rd()
@@ -69,17 +60,18 @@ def scrape_leidsa():
         s = find_after_label(soup, label)
         if s:
             out.append(Draw(provider="Leidsa", game=game, edition=edition, date=d, numbers=split_numbers(s)))
+
+    # DEBUG
+    print("=== DEBUG Leidsa ===")
+    print("Labels probados:", [lbl for _, lbl, _ in map_labels])
+    print("Resultados encontrados:", [d.numbers for d in out])
+    print("Texto crudo:", soup.get_text(" ", strip=True)[:600])
+    print("====================")
     return out
 
 @registry.site("nacional", f"{BASE}/loteria-nacional")
 def scrape_nacional():
-    """
-    Textos vistos:
-    - Juega + Pega +
-    - Gana Más
-    - Lotería Nacional
-    """
-    r = requests.get(f"{BASE}/loteria-nacional", timeout=30, headers={"User-Agent":"RD-Bot/1.0"})
+    r = requests.get(f"{BASE}/loteria-nacional", timeout=30, headers={"User-Agent": "RD-Bot/1.0"})
     r.raise_for_status()
     soup = BeautifulSoup(r.text, "lxml")
     d = today_rd()
@@ -94,4 +86,11 @@ def scrape_nacional():
         s = find_after_label(soup, label)
         if s:
             out.append(Draw(provider="Lotería Nacional", game=game, edition=edition, date=d, numbers=split_numbers(s)))
+
+    # DEBUG
+    print("=== DEBUG Nacional ===")
+    print("Labels probados:", [lbl for _, lbl, _ in map_labels])
+    print("Resultados encontrados:", [d.numbers for d in out])
+    print("Texto crudo:", soup.get_text(" ", strip=True)[:600])
+    print("======================")
     return out
