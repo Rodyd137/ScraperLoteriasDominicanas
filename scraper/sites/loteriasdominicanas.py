@@ -1,84 +1,131 @@
+import os
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 from zoneinfo import ZoneInfo
+
 from . import registry
 from ..schema import Draw
 
 BASE = "https://loteriasdominicanas.com"
 RD_TZ = ZoneInfo("America/Santo_Domingo")
 
-def today_rd():
+BROWSER_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/127.0.0.0 Safari/537.36"
+    ),
+    "Accept-Language": "es-ES,es;q=0.9",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Referer": "https://loteriasdominicanas.com/",
+}
+
+def today_rd() -> str:
     return datetime.now(RD_TZ).date().isoformat()
 
-# ---------- LA PRIMERA (parser por tarjetas en el DOM real) ----------
-@registry.site("la_primera", f"{BASE}/la-primera")
-def scrape_la_primera():
-    url = f"{BASE}/la-primera"
-    headers = {
-        "User-Agent": ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-                       "AppleWebKit/537.36 (KHTML, like Gecko) "
-                       "Chrome/127.0.0.0 Safari/537.36"),
-        "Accept-Language": "es-ES,es;q=0.9",
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-        "Referer": "https://loteriasdominicanas.com/",
-    }
-    r = requests.get(url, timeout=30, headers=headers)
+def _norm(s: str) -> str:
+    # normaliza espacios y NBSP
+    return " ".join(s.replace("\u00a0", " ").split())
+
+def _extract_cards(soup: BeautifulSoup):
+    return soup.select(".game-block")
+
+def _extract_title(card) -> str | None:
+    el = card.select_one(".game-title span")
+    return _norm(el.get_text(" ", strip=True)) if el else None
+
+def _extract_numbers(card) -> list[str]:
+    nums = []
+    for s in card.select(".game-scores .score"):
+        t = s.get_text(strip=True)
+        if t.isdigit():
+            nums.append(t.zfill(2))
+    return nums
+
+def _fetch_soup(url: str) -> BeautifulSoup:
+    r = requests.get(url, timeout=30, headers=BROWSER_HEADERS)
     r.raise_for_status()
-    soup = BeautifulSoup(r.text, "lxml")
+    return BeautifulSoup(r.text, "lxml")
+
+def _build_from_cards(soup: BeautifulSoup, provider: str, title_map: dict[str, tuple[str, str | None]]) -> list[Draw]:
     d = today_rd()
     out: list[Draw] = []
-
-    def map_title(title: str):
-        t = " ".join(title.split())
-        if t == "La Primera Día":
-            return ("Quiniela", "Día")
-        if t == "Primera Noche":        # así viene en el DOM (sin “La”)
-            return ("Quiniela", "Noche")
-        if t == "El Quinielón Día":
-            return ("El Quinielón", "Día")
-        if t == "El Quinielón Noche":
-            return ("El Quinielón", "Noche")
-        if t == "Loto 5":
-            return ("Loto 5", None)
-        return (None, None)
-
-    for card in soup.select(".game-block"):
-        title_el = card.select_one(".game-title span")
-        if not title_el:
+    for card in _extract_cards(soup):
+        title = _extract_title(card)
+        if not title:
             continue
-        title = " ".join(title_el.get_text(" ", strip=True).split())
-        game, edition = map_title(title)
-        if not game:
+        if title not in title_map:
             continue
-
-        nums = []
-        for s in card.select(".game-scores .score"):
-            txt = s.get_text(strip=True)
-            if txt.isdigit():
-                nums.append(txt.zfill(2))
+        game, edition = title_map[title]
+        nums = _extract_numbers(card)
         if not nums:
             continue
-
-        out.append(Draw(
-            provider="La Primera",
-            game=game,
-            edition=edition,
-            date=d,
-            numbers=nums
-        ))
-
-    # DEBUG breve
-    print("[DEBUG][La Primera] draws:", [(dr.game, dr.edition, dr.numbers) for dr in out])
+        out.append(Draw(provider=provider, game=game, edition=edition, date=d, numbers=nums))
     return out
 
-# ---------- (dejamos Leidsa/Nacional como estaban; luego los migramos igual) ----------
+# ----------------- LA PRIMERA -----------------
+@registry.site("la_primera", f"{BASE}/la-primera")
+def scrape_la_primera():
+    """
+    Parseo por tarjetas:
+      - título: .game-title span (ej. 'La Primera Día', 'Primera Noche', 'El Quinielón Día', 'Loto 5')
+      - números: .game-scores .score
+    """
+    url = f"{BASE}/la-primera"
+    soup = _fetch_soup(url)
+
+    title_map = {
+        "La Primera Día": ("Quiniela", "Día"),
+        "Primera Noche": ("Quiniela", "Noche"),        # en el DOM viene sin "La"
+        "El Quinielón Día": ("El Quinielón", "Día"),
+        "El Quinielón Noche": ("El Quinielón", "Noche"),
+        "Loto 5": ("Loto 5", None),
+    }
+
+    draws = _build_from_cards(soup, "La Primera", title_map)
+    print("[DEBUG][La Primera] encontrados:", [(d.game, d.edition, d.numbers) for d in draws])
+    return draws
+
+# ----------------- LEIDSA -----------------
 @registry.site("leidsa", f"{BASE}/leidsa")
 def scrape_leidsa():
-    # placeholder: hasta migrar a parser por tarjetas
-    return []
+    """
+    Estructura de tarjetas equivalente. Cuando quieras, pásame el HTML
+    para afinar títulos si cambian; por ahora mapeamos los visibles comunes.
+    """
+    url = f"{BASE}/leidsa"
+    soup = _fetch_soup(url)
 
+    title_map = {
+        "Pega 3 Más": ("Pega 3 Más", None),
+        "Quiniela Leidsa": ("Quiniela", None),
+        "Loto Pool": ("Loto Pool", None),
+        "Super Kino TV": ("Super Kino TV", None),
+        "Loto - Super Loto Más": ("Loto - Super Loto Más", None),
+        "Super Palé": ("Super Palé", None),
+    }
+
+    draws = _build_from_cards(soup, "Leidsa", title_map)
+    print("[DEBUG][Leidsa] encontrados:", [(d.game, d.edition, d.numbers) for d in draws])
+    return draws
+
+# ----------------- LOTERÍA NACIONAL -----------------
 @registry.site("nacional", f"{BASE}/loteria-nacional")
 def scrape_nacional():
-    # placeholder: hasta migrar a parser por tarjetas
-    return []
+    """
+    Mismo patrón de tarjetas:
+    - 'Juega + Pega +', 'Gana Más', 'Lotería Nacional'
+    """
+    url = f"{BASE}/loteria-nacional"
+    soup = _fetch_soup(url)
+
+    title_map = {
+        "Juega + Pega +": ("Juega + Pega +", None),
+        "Gana Más": ("Gana Más", None),
+        "Lotería Nacional": ("Lotería Nacional", None),
+    }
+
+    draws = _build_from_cards(soup, "Lotería Nacional", title_map)
+    print("[DEBUG][Nacional] encontrados:", [(d.game, d.edition, d.numbers) for d in draws])
+    return draws
