@@ -1,10 +1,19 @@
-_registry = {}
+# scraper/sites/__init__.py
+"""
+Inicializador del paquete `sites`.
 
-def site(key, url):
-    def deco(fn):
-        _registry[key] = (url, fn)
-        return fn
-    return deco
+- Importa los módulos que definen sitios y se autoregistran con
+  @registry.site(...).
+- Expone `all_sites()` para que `main.py` pueda iterar sobre ellos.
+"""
+
+from . import registry
+
+# IMPORTANTE: importa aquí cada módulo que define sitios para que se registren
+from . import loteriasdominicanas  # noqa: F401
 
 def all_sites():
-    return _registry.items()
+    """
+    Devuelve un iterable de (key, (url, fn)) como espera `main.py`.
+    """
+    return list(registry._registry.items())
