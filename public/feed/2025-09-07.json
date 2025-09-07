@@ -1,7 +1,115 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-09-07T15:16:38.912528Z",
+  "last_updated": "2025-09-07T15:25:39.134801Z",
   "draws": [
+    {
+      "provider": "Americanas",
+      "game": "Cash 4 Life",
+      "edition": null,
+      "date": "2025-09-07",
+      "numbers": [
+        "56",
+        "57",
+        "46",
+        "13",
+        "05",
+        "03"
+      ]
+    },
+    {
+      "provider": "Americanas",
+      "game": "Mega Millions",
+      "edition": null,
+      "date": "2025-09-07",
+      "numbers": [
+        "06",
+        "14",
+        "36",
+        "58",
+        "62",
+        "24"
+      ]
+    },
+    {
+      "provider": "Americanas",
+      "game": "PowerBall",
+      "edition": null,
+      "date": "2025-09-07",
+      "numbers": [
+        "11",
+        "23",
+        "44",
+        "61",
+        "62",
+        "17"
+      ]
+    },
+    {
+      "provider": "Anguila",
+      "game": "Anguila",
+      "edition": "Mañana",
+      "date": "2025-09-07",
+      "numbers": [
+        "72",
+        "59",
+        "90"
+      ]
+    },
+    {
+      "provider": "Anguila",
+      "game": "Anguila",
+      "edition": "Medio Día",
+      "date": "2025-09-07",
+      "numbers": [
+        "55",
+        "49",
+        "99"
+      ]
+    },
+    {
+      "provider": "Anguila",
+      "game": "Anguila",
+      "edition": "Noche",
+      "date": "2025-09-07",
+      "numbers": [
+        "63",
+        "90",
+        "36"
+      ]
+    },
+    {
+      "provider": "Anguila",
+      "game": "Anguila",
+      "edition": "Tarde",
+      "date": "2025-09-07",
+      "numbers": [
+        "72",
+        "97",
+        "23"
+      ]
+    },
+    {
+      "provider": "King Lottery",
+      "game": "King Lottery",
+      "edition": "12:30",
+      "date": "2025-09-07",
+      "numbers": [
+        "22",
+        "20",
+        "24"
+      ]
+    },
+    {
+      "provider": "King Lottery",
+      "game": "King Lottery",
+      "edition": "7:30",
+      "date": "2025-09-07",
+      "numbers": [
+        "56",
+        "21",
+        "18"
+      ]
+    },
     {
       "provider": "La Primera",
       "game": "El Quinielón",
@@ -54,6 +162,28 @@
         "13",
         "51",
         "54"
+      ]
+    },
+    {
+      "provider": "La Suerte Dominicana",
+      "game": "La Suerte",
+      "edition": "12:30",
+      "date": "2025-09-07",
+      "numbers": [
+        "11",
+        "83",
+        "63"
+      ]
+    },
+    {
+      "provider": "La Suerte Dominicana",
+      "game": "La Suerte",
+      "edition": "18:00",
+      "date": "2025-09-07",
+      "numbers": [
+        "98",
+        "88",
+        "02"
       ]
     },
     {
@@ -146,6 +276,37 @@
       ]
     },
     {
+      "provider": "LoteDom",
+      "game": "El Quemaito Mayor",
+      "edition": null,
+      "date": "2025-09-07",
+      "numbers": [
+        "55"
+      ]
+    },
+    {
+      "provider": "LoteDom",
+      "game": "Quiniela",
+      "edition": null,
+      "date": "2025-09-07",
+      "numbers": [
+        "85",
+        "82",
+        "66"
+      ]
+    },
+    {
+      "provider": "Loteka",
+      "game": "Quiniela",
+      "edition": null,
+      "date": "2025-09-07",
+      "numbers": [
+        "50",
+        "21",
+        "14"
+      ]
+    },
+    {
       "provider": "Lotería Nacional",
       "game": "Gana Más",
       "edition": null,
@@ -178,6 +339,31 @@
         "17",
         "19",
         "97"
+      ]
+    },
+    {
+      "provider": "Lotería Real",
+      "game": "Loto Real",
+      "edition": null,
+      "date": "2025-09-07",
+      "numbers": [
+        "02",
+        "04",
+        "12",
+        "19",
+        "22",
+        "34"
+      ]
+    },
+    {
+      "provider": "Lotería Real",
+      "game": "Quiniela",
+      "edition": null,
+      "date": "2025-09-07",
+      "numbers": [
+        "31",
+        "95",
+        "31"
       ]
     }
   ]
