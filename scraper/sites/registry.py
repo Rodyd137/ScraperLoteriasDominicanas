@@ -1,8 +1,12 @@
-# Registro simple de sitios
-sites: dict[str, tuple[str, callable]] = {}
+# scraper/sites/registry.py
+_registry = {}
 
-def site(key: str, url: str):
+def site(key, url):
     def deco(fn):
-        sites[key] = (url, fn)
+        _registry[key] = (url, fn)
         return fn
     return deco
+
+def all_sites():
+    # Devuelve iterable de (key, (url, fn))
+    return _registry.items()
