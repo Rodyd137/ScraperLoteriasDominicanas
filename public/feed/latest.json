@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-09-07T23:35:21.432416Z",
+  "last_updated": "2025-09-08T01:09:37.008231Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -82,9 +82,9 @@
       "edition": "Noche",
       "date": "2025-09-07",
       "numbers": [
+        "65",
         "63",
-        "90",
-        "36"
+        "99"
       ],
       "provider_id": "anguila",
       "game_id": "anguila"
@@ -134,12 +134,12 @@
       "edition": null,
       "date": "2025-09-07",
       "numbers": [
-        "08",
-        "17",
-        "18",
-        "16",
-        "33",
-        "07"
+        "09",
+        "31",
+        "20",
+        "19",
+        "24",
+        "03"
       ],
       "provider_id": "la-primera",
       "game_id": "loto-5"
@@ -163,9 +163,9 @@
       "edition": "Noche",
       "date": "2025-09-07",
       "numbers": [
-        "13",
-        "51",
-        "54"
+        "31",
+        "84",
+        "60"
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela"
@@ -187,7 +187,7 @@
       "edition": "Noche",
       "date": "2025-09-07",
       "numbers": [
-        "04"
+        "44"
       ],
       "provider_id": "la-primera",
       "game_id": "quinielon"
@@ -349,11 +349,11 @@
       "edition": null,
       "date": "2025-09-07",
       "numbers": [
-        "45",
-        "83",
-        "74",
-        "24",
-        "54"
+        "33",
+        "32",
+        "80",
+        "34",
+        "90"
       ],
       "provider_id": "loteka",
       "game_id": "mega-chances"
@@ -364,9 +364,9 @@
       "edition": null,
       "date": "2025-09-07",
       "numbers": [
-        "50",
-        "21",
-        "14"
+        "62",
+        "74",
+        "96"
       ],
       "provider_id": "loteka",
       "game_id": "quiniela"
