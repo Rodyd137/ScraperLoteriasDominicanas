@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-09-09T02:00:20.751961Z",
+  "last_updated": "2025-09-09T02:06:08.475315Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -22,7 +22,7 @@
       "provider": "Americanas",
       "game": "Mega Millions",
       "edition": null,
-      "date": "2025-09-08",
+      "date": "2025-09-05",
       "numbers": [
         "06",
         "14",
@@ -38,7 +38,7 @@
       "provider": "Americanas",
       "game": "PowerBall",
       "edition": null,
-      "date": "2025-09-08",
+      "date": "2025-09-06",
       "numbers": [
         "11",
         "23",
@@ -237,7 +237,7 @@
       "provider": "Leidsa",
       "game": "Loto - Super Loto Más",
       "edition": null,
-      "date": "2025-09-08",
+      "date": "2025-09-06",
       "numbers": [
         "14",
         "19",
@@ -416,7 +416,7 @@
       "provider": "Lotería Real",
       "game": "Loto Real",
       "edition": null,
-      "date": "2025-09-08",
+      "date": "2025-09-05",
       "numbers": [
         "02",
         "04",
