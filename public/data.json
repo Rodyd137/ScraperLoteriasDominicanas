@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-09-09T02:44:51.519782Z",
+  "last_updated": "2025-09-09T03:30:50.233380Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -38,14 +38,14 @@
       "provider": "Americanas",
       "game": "PowerBall",
       "edition": null,
-      "date": "2025-09-06",
+      "date": "2025-09-08",
       "numbers": [
-        "11",
-        "23",
-        "44",
-        "61",
-        "62",
-        "17"
+        "26",
+        "28",
+        "41",
+        "53",
+        "64",
+        "09"
       ],
       "provider_id": "americanas",
       "game_id": "powerball"
