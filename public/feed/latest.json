@@ -1,5 +1,445 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-09-09T01:56:25.446188Z",
-  "draws": []
+  "last_updated": "2025-09-09T02:00:20.751961Z",
+  "draws": [
+    {
+      "provider": "Americanas",
+      "game": "Cash 4 Life",
+      "edition": null,
+      "date": "2025-09-08",
+      "numbers": [
+        "31",
+        "54",
+        "07",
+        "55",
+        "25",
+        "03"
+      ],
+      "provider_id": "americanas",
+      "game_id": "cash-4-life"
+    },
+    {
+      "provider": "Americanas",
+      "game": "Mega Millions",
+      "edition": null,
+      "date": "2025-09-08",
+      "numbers": [
+        "06",
+        "14",
+        "36",
+        "58",
+        "62",
+        "24"
+      ],
+      "provider_id": "americanas",
+      "game_id": "mega-millions"
+    },
+    {
+      "provider": "Americanas",
+      "game": "PowerBall",
+      "edition": null,
+      "date": "2025-09-08",
+      "numbers": [
+        "11",
+        "23",
+        "44",
+        "61",
+        "62",
+        "17"
+      ],
+      "provider_id": "americanas",
+      "game_id": "powerball"
+    },
+    {
+      "provider": "Anguila",
+      "game": "Anguila",
+      "edition": "Mañana",
+      "date": "2025-09-08",
+      "numbers": [
+        "48",
+        "98",
+        "98"
+      ],
+      "provider_id": "anguila",
+      "game_id": "anguila"
+    },
+    {
+      "provider": "Anguila",
+      "game": "Anguila",
+      "edition": "Medio Día",
+      "date": "2025-09-08",
+      "numbers": [
+        "36",
+        "39",
+        "71"
+      ],
+      "provider_id": "anguila",
+      "game_id": "anguila"
+    },
+    {
+      "provider": "Anguila",
+      "game": "Anguila",
+      "edition": "Noche",
+      "date": "2025-09-08",
+      "numbers": [
+        "35",
+        "95",
+        "76"
+      ],
+      "provider_id": "anguila",
+      "game_id": "anguila"
+    },
+    {
+      "provider": "Anguila",
+      "game": "Anguila",
+      "edition": "Tarde",
+      "date": "2025-09-08",
+      "numbers": [
+        "43",
+        "36",
+        "26"
+      ],
+      "provider_id": "anguila",
+      "game_id": "anguila"
+    },
+    {
+      "provider": "King Lottery",
+      "game": "King Lottery",
+      "edition": "12:30",
+      "date": "2025-09-08",
+      "numbers": [
+        "56",
+        "81",
+        "53"
+      ],
+      "provider_id": "king-lottery",
+      "game_id": "king-lottery"
+    },
+    {
+      "provider": "King Lottery",
+      "game": "King Lottery",
+      "edition": "7:30",
+      "date": "2025-09-08",
+      "numbers": [
+        "52",
+        "60",
+        "66"
+      ],
+      "provider_id": "king-lottery",
+      "game_id": "king-lottery"
+    },
+    {
+      "provider": "La Primera",
+      "game": "Loto 5",
+      "edition": null,
+      "date": "2025-09-08",
+      "numbers": [
+        "38",
+        "37",
+        "30",
+        "34",
+        "09",
+        "06"
+      ],
+      "provider_id": "la-primera",
+      "game_id": "loto-5"
+    },
+    {
+      "provider": "La Primera",
+      "game": "Quiniela",
+      "edition": "Día",
+      "date": "2025-09-08",
+      "numbers": [
+        "87",
+        "34",
+        "80"
+      ],
+      "provider_id": "la-primera",
+      "game_id": "quiniela"
+    },
+    {
+      "provider": "La Primera",
+      "game": "Quiniela",
+      "edition": "Noche",
+      "date": "2025-09-08",
+      "numbers": [
+        "69",
+        "82",
+        "90"
+      ],
+      "provider_id": "la-primera",
+      "game_id": "quiniela"
+    },
+    {
+      "provider": "La Primera",
+      "game": "El Quinielón",
+      "edition": "Día",
+      "date": "2025-09-08",
+      "numbers": [
+        "68"
+      ],
+      "provider_id": "la-primera",
+      "game_id": "quinielon"
+    },
+    {
+      "provider": "La Primera",
+      "game": "El Quinielón",
+      "edition": "Noche",
+      "date": "2025-09-08",
+      "numbers": [
+        "99"
+      ],
+      "provider_id": "la-primera",
+      "game_id": "quinielon"
+    },
+    {
+      "provider": "La Suerte Dominicana",
+      "game": "La Suerte",
+      "edition": "12:30",
+      "date": "2025-09-08",
+      "numbers": [
+        "48",
+        "44",
+        "28"
+      ],
+      "provider_id": "la-suerte-dominicana",
+      "game_id": "la-suerte"
+    },
+    {
+      "provider": "La Suerte Dominicana",
+      "game": "La Suerte",
+      "edition": "18:00",
+      "date": "2025-09-08",
+      "numbers": [
+        "65",
+        "38",
+        "93"
+      ],
+      "provider_id": "la-suerte-dominicana",
+      "game_id": "la-suerte"
+    },
+    {
+      "provider": "Leidsa",
+      "game": "Loto Pool",
+      "edition": null,
+      "date": "2025-09-08",
+      "numbers": [
+        "14",
+        "17",
+        "21",
+        "25",
+        "30"
+      ],
+      "provider_id": "leidsa",
+      "game_id": "loto-pool"
+    },
+    {
+      "provider": "Leidsa",
+      "game": "Loto - Super Loto Más",
+      "edition": null,
+      "date": "2025-09-08",
+      "numbers": [
+        "14",
+        "19",
+        "28",
+        "30",
+        "31",
+        "40",
+        "07",
+        "09"
+      ],
+      "provider_id": "leidsa",
+      "game_id": "loto-super-loto-mas"
+    },
+    {
+      "provider": "Leidsa",
+      "game": "Pega 3 Más",
+      "edition": null,
+      "date": "2025-09-08",
+      "numbers": [
+        "07",
+        "37",
+        "45"
+      ],
+      "provider_id": "leidsa",
+      "game_id": "pega-3-mas"
+    },
+    {
+      "provider": "Leidsa",
+      "game": "Quiniela",
+      "edition": null,
+      "date": "2025-09-08",
+      "numbers": [
+        "83",
+        "45",
+        "32"
+      ],
+      "provider_id": "leidsa",
+      "game_id": "quiniela"
+    },
+    {
+      "provider": "Leidsa",
+      "game": "Super Kino TV",
+      "edition": null,
+      "date": "2025-09-08",
+      "numbers": [
+        "01",
+        "04",
+        "05",
+        "09",
+        "12",
+        "22",
+        "25",
+        "26",
+        "27",
+        "48",
+        "50",
+        "56",
+        "58",
+        "66",
+        "72",
+        "74",
+        "75",
+        "77",
+        "78",
+        "80"
+      ],
+      "provider_id": "leidsa",
+      "game_id": "super-kino-tv"
+    },
+    {
+      "provider": "Leidsa",
+      "game": "Super Palé",
+      "edition": null,
+      "date": "2025-09-08",
+      "numbers": [
+        "83",
+        "10"
+      ],
+      "provider_id": "leidsa",
+      "game_id": "super-pale"
+    },
+    {
+      "provider": "LoteDom",
+      "game": "El Quemaito Mayor",
+      "edition": null,
+      "date": "2025-09-08",
+      "numbers": [
+        "41"
+      ],
+      "provider_id": "lotedom",
+      "game_id": "quemaito-mayor"
+    },
+    {
+      "provider": "LoteDom",
+      "game": "Quiniela",
+      "edition": null,
+      "date": "2025-09-08",
+      "numbers": [
+        "73",
+        "95",
+        "37"
+      ],
+      "provider_id": "lotedom",
+      "game_id": "quiniela"
+    },
+    {
+      "provider": "Loteka",
+      "game": "Mega Chances",
+      "edition": null,
+      "date": "2025-09-08",
+      "numbers": [
+        "11",
+        "17",
+        "49",
+        "69",
+        "33"
+      ],
+      "provider_id": "loteka",
+      "game_id": "mega-chances"
+    },
+    {
+      "provider": "Loteka",
+      "game": "Quiniela",
+      "edition": null,
+      "date": "2025-09-08",
+      "numbers": [
+        "64",
+        "99",
+        "30"
+      ],
+      "provider_id": "loteka",
+      "game_id": "quiniela"
+    },
+    {
+      "provider": "Lotería Nacional",
+      "game": "Gana Más",
+      "edition": null,
+      "date": "2025-09-08",
+      "numbers": [
+        "80",
+        "72",
+        "91"
+      ],
+      "provider_id": "loteria-nacional",
+      "game_id": "gana-mas"
+    },
+    {
+      "provider": "Lotería Nacional",
+      "game": "Juega + Pega +",
+      "edition": null,
+      "date": "2025-09-08",
+      "numbers": [
+        "16",
+        "12",
+        "07",
+        "19",
+        "15"
+      ],
+      "provider_id": "loteria-nacional",
+      "game_id": "juega-pega"
+    },
+    {
+      "provider": "Lotería Nacional",
+      "game": "Lotería Nacional",
+      "edition": null,
+      "date": "2025-09-08",
+      "numbers": [
+        "10",
+        "30",
+        "26"
+      ],
+      "provider_id": "loteria-nacional",
+      "game_id": "loteria-nacional"
+    },
+    {
+      "provider": "Lotería Real",
+      "game": "Loto Real",
+      "edition": null,
+      "date": "2025-09-08",
+      "numbers": [
+        "02",
+        "04",
+        "12",
+        "19",
+        "22",
+        "34"
+      ],
+      "provider_id": "loteria-real",
+      "game_id": "loto-real"
+    },
+    {
+      "provider": "Lotería Real",
+      "game": "Quiniela",
+      "edition": null,
+      "date": "2025-09-08",
+      "numbers": [
+        "16",
+        "57",
+        "83"
+      ],
+      "provider_id": "loteria-real",
+      "game_id": "quiniela"
+    }
+  ]
 }
