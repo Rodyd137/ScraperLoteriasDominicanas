@@ -1,10 +1,12 @@
+# scraper/sites/loteriasdominicanas.py
+import re
 import requests
 from bs4 import BeautifulSoup
-from datetime import datetime
+from datetime import datetime, date
 from zoneinfo import ZoneInfo
 
 from . import registry
-from ..schema import Draw, slugify
+from ..schema import Draw
 
 BASE = "https://loteriasdominicanas.com"
 RD_TZ = ZoneInfo("America/Santo_Domingo")
@@ -20,26 +22,11 @@ BROWSER_HEADERS = {
     "Referer": "https://loteriasdominicanas.com/",
 }
 
-PROV = {
-    "La Primera": "la-primera",
-    "Leidsa": "leidsa",
-    "Lotería Nacional": "loteria-nacional",
-    "Lotería Real": "loteria-real",
-    "Loteka": "loteka",
-    "LoteDom": "lotedom",
-    "La Suerte Dominicana": "la-suerte-dominicana",
-    "Florida": "florida",
-    "New York": "nueva-york",
-    "Americanas": "americanas",
-    "Anguila": "anguila",
-    "King Lottery": "king-lottery",
-}
-
 def today_rd() -> str:
     return datetime.now(RD_TZ).date().isoformat()
 
-def _norm(s: str) -> str:
-    return " ".join(s.replace("\u00a0", " ").split())
+def _norm_ws(s: str) -> str:
+    return " ".join((s or "").replace("\u00a0", " ").split())
 
 def _fetch_soup(url: str) -> BeautifulSoup:
     r = requests.get(url, timeout=30, headers=BROWSER_HEADERS)
@@ -51,7 +38,7 @@ def _extract_cards(soup: BeautifulSoup):
 
 def _extract_title(card) -> str | None:
     el = card.select_one(".game-title span")
-    return _norm(el.get_text(" ", strip=True)) if el else None
+    return _norm_ws(el.get_text(" ", strip=True)) if el else None
 
 def _extract_numbers(card) -> list[str]:
     nums = []
@@ -61,24 +48,62 @@ def _extract_numbers(card) -> list[str]:
             nums.append(t.zfill(2))
     return nums
 
+# ----------- NUEVO: fecha por tarjeta (badge tipo 08-09) -----------
+_ddmm = re.compile(r"\b([0-3]?\d)[\-/\.]([01]?\d)\b")
+
+def _extract_card_date(card) -> str | None:
+    """
+    Busca dentro de la tarjeta un patrón dd-mm / dd/mm / dd.mm y
+    lo convierte a ISO (YYYY-MM-DD) usando el año actual en RD.
+    """
+    # 1) Intentos con selectores "típicos" de badge
+    candidates = card.select(
+        ".game-header .badge, .game-header .date, .game-date, .date, .badge"
+    )
+    texts = []
+    for el in candidates:
+        txt = _norm_ws(el.get_text(" ", strip=True))
+        if txt:
+            texts.append(txt)
+
+    # 2) Fallback: todo el texto de la tarjeta (limitado)
+    if not texts:
+        texts = [_norm_ws(card.get_text(" ", strip=True))[:64]]
+
+    # 3) Busca el primer dd-mm plausible
+    today = datetime.now(RD_TZ).date()
+    for txt in texts:
+        m = _ddmm.search(txt)
+        if not m:
+            continue
+        dd = int(m.group(1))
+        mm = int(m.group(2))
+        if 1 <= dd <= 31 and 1 <= mm <= 12:
+            yy = today.year
+            # pequeño ajuste de cambio de año (enero mostrando dic)
+            if today.month == 1 and mm == 12:
+                yy -= 1
+            try:
+                return date(yy, mm, dd).isoformat()
+            except ValueError:
+                pass
+    return None
+
 def _build_from_cards(
     soup: BeautifulSoup,
     provider: str,
     title_map: dict[str, tuple[str, str | None]],
-    game_slug_overrides: dict[str, str] | None = None,
 ) -> list[Draw]:
     """
     title_map: { 'La Primera Día': ('Quiniela', 'Día'), ... }
-    game_slug_overrides: {'El Quinielón': 'quinielon'}  # opcional
     """
-    d = today_rd()
     out: list[Draw] = []
-    provider_id = PROV.get(provider, slugify(provider))
     for card in _extract_cards(soup):
         title = _extract_title(card)
         if not title:
             continue
-        # tolera pequeñas variaciones
+
+        # tolera “Mediodía” vs “Medio Día”, “Dia” vs “Día”
         if title not in title_map:
             t2 = title.replace("Mediodía", "Medio Día").replace("Dia", "Día")
             if t2 not in title_map:
@@ -90,7 +115,8 @@ def _build_from_cards(
         if not nums:
             continue
 
-        game_id = (game_slug_overrides or {}).get(game) or slugify(game)
+        # <<< aquí tomamos la fecha real del card >>>
+        d = _extract_card_date(card) or today_rd()
 
         out.append(
             Draw(
@@ -99,8 +125,6 @@ def _build_from_cards(
                 edition=edition,
                 date=d,
                 numbers=nums,
-                provider_id=provider_id,
-                game_id=game_id,
             )
         )
     return out
@@ -116,9 +140,8 @@ def scrape_la_primera():
         "El Quinielón Noche": ("El Quinielón", "Noche"),
         "Loto 5": ("Loto 5", None),
     }
-    overrides = {"El Quinielón": "quinielon"}
-    draws = _build_from_cards(soup, "La Primera", title_map, overrides)
-    print("[DEBUG][La Primera] encontrados:", [(d.game, d.edition, d.numbers) for d in draws])
+    draws = _build_from_cards(soup, "La Primera", title_map)
+    print("[DEBUG][La Primera] encontrados:", [(d.date, d.game, d.edition, d.numbers) for d in draws])
     return draws
 
 # ----------------- LEIDSA -----------------
@@ -134,7 +157,7 @@ def scrape_leidsa():
         "Super Palé": ("Super Palé", None),
     }
     draws = _build_from_cards(soup, "Leidsa", title_map)
-    print("[DEBUG][Leidsa] encontrados:", [(d.game, d.edition, d.numbers) for d in draws])
+    print("[DEBUG][Leidsa] encontrados:", [(d.date, d.game, d.edition, d.numbers) for d in draws])
     return draws
 
 # ----------------- LOTERÍA NACIONAL -----------------
@@ -147,7 +170,7 @@ def scrape_nacional():
         "Lotería Nacional": ("Lotería Nacional", None),
     }
     draws = _build_from_cards(soup, "Lotería Nacional", title_map)
-    print("[DEBUG][Nacional] encontrados:", [(d.game, d.edition, d.numbers) for d in draws])
+    print("[DEBUG][Nacional] encontrados:", [(d.date, d.game, d.edition, d.numbers) for d in draws])
     return draws
 
 # ----------------- Lotería Real -----------------
@@ -159,7 +182,7 @@ def scrape_real():
         "Loto Real": ("Loto Real", None),
     }
     draws = _build_from_cards(soup, "Lotería Real", title_map)
-    print("[DEBUG][Real] encontrados:", [(d.game, d.edition, d.numbers) for d in draws])
+    print("[DEBUG][Real] encontrados:", [(d.date, d.game, d.edition, d.numbers) for d in draws])
     return draws
 
 # ----------------- Loteka -----------------
@@ -171,7 +194,7 @@ def scrape_loteka():
         "Mega Chances": ("Mega Chances", None),
     }
     draws = _build_from_cards(soup, "Loteka", title_map)
-    print("[DEBUG][Loteka] encontrados:", [(d.game, d.edition, d.numbers) for d in draws])
+    print("[DEBUG][Loteka] encontrados:", [(d.date, d.game, d.edition, d.numbers) for d in draws])
     return draws
 
 # ----------------- LoteDom (El Quemaito Mayor) -----------------
@@ -182,8 +205,8 @@ def scrape_lotedom():
         "Quiniela LoteDom": ("Quiniela", None),
         "El Quemaito Mayor": ("El Quemaito Mayor", None),
     }
-    draws = _build_from_cards(soup, "LoteDom", title_map, {"El Quemaito Mayor": "quemaito-mayor"})
-    print("[DEBUG][LoteDom] encontrados:", [(d.game, d.edition, d.numbers) for d in draws])
+    draws = _build_from_cards(soup, "LoteDom", title_map)
+    print("[DEBUG][LoteDom] encontrados:", [(d.date, d.game, d.edition, d.numbers) for d in draws])
     return draws
 
 # ----------------- La Suerte Dominicana -----------------
@@ -195,7 +218,7 @@ def scrape_la_suerte():
         "La Suerte 18:00": ("La Suerte", "18:00"),
     }
     draws = _build_from_cards(soup, "La Suerte Dominicana", title_map)
-    print("[DEBUG][La Suerte] encontrados:", [(d.game, d.edition, d.numbers) for d in draws])
+    print("[DEBUG][La Suerte] encontrados:", [(d.date, d.game, d.edition, d.numbers) for d in draws])
     return draws
 
 # ----------------- Florida -----------------
@@ -208,7 +231,7 @@ def scrape_florida():
         "Florida Noche": ("Florida", "Noche"),
     }
     draws = _build_from_cards(soup, "Florida", title_map)
-    print("[DEBUG][Florida] encontrados:", [(d.game, d.edition, d.numbers) for d in draws])
+    print("[DEBUG][Florida] encontrados:", [(d.date, d.game, d.edition, d.numbers) for d in draws])
     return draws
 
 # ----------------- Nueva York -----------------
@@ -221,7 +244,7 @@ def scrape_nueva_york():
         "New York Noche": ("New York", "Noche"),
     }
     draws = _build_from_cards(soup, "New York", title_map)
-    print("[DEBUG][New York] encontrados:", [(d.game, d.edition, d.numbers) for d in draws])
+    print("[DEBUG][New York] encontrados:", [(d.date, d.game, d.edition, d.numbers) for d in draws])
     return draws
 
 # ----------------- Americanas -----------------
@@ -234,7 +257,7 @@ def scrape_americanas():
         "Cash 4 Life": ("Cash 4 Life", None),
     }
     draws = _build_from_cards(soup, "Americanas", title_map)
-    print("[DEBUG][Americanas] encontrados:", [(d.game, d.edition, d.numbers) for d in draws])
+    print("[DEBUG][Americanas] encontrados:", [(d.date, d.game, d.edition, d.numbers) for d in draws])
     return draws
 
 # ----------------- Anguila -----------------
@@ -248,7 +271,7 @@ def scrape_anguila():
         "Anguila Noche": ("Anguila", "Noche"),
     }
     draws = _build_from_cards(soup, "Anguila", title_map)
-    print("[DEBUG][Anguila] encontrados:", [(d.game, d.edition, d.numbers) for d in draws])
+    print("[DEBUG][Anguila] encontrados:", [(d.date, d.game, d.edition, d.numbers) for d in draws])
     return draws
 
 # ----------------- King Lottery -----------------
@@ -260,5 +283,5 @@ def scrape_king_lottery():
         "King Lottery 7:30": ("King Lottery", "7:30"),
     }
     draws = _build_from_cards(soup, "King Lottery", title_map)
-    print("[DEBUG][King Lottery] encontrados:", [(d.game, d.edition, d.numbers) for d in draws])
+    print("[DEBUG][King Lottery] encontrados:", [(d.date, d.game, d.edition, d.numbers) for d in draws])
     return draws
