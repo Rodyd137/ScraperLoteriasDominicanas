@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-09-09T21:34:56.009935Z",
+  "last_updated": "2025-09-09T22:12:24.267479Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -93,11 +93,11 @@
       "provider": "Anguila",
       "game": "Anguila",
       "edition": "Tarde",
-      "date": "2025-09-08",
+      "date": "2025-09-09",
       "numbers": [
-        "43",
-        "36",
-        "26"
+        "97",
+        "90",
+        "43"
       ],
       "provider_id": "anguila",
       "game_id": "anguila"
@@ -209,11 +209,11 @@
       "provider": "La Suerte Dominicana",
       "game": "La Suerte",
       "edition": "18:00",
-      "date": "2025-09-08",
+      "date": "2025-09-09",
       "numbers": [
-        "65",
-        "38",
-        "93"
+        "24",
+        "08",
+        "67"
       ],
       "provider_id": "la-suerte-dominicana",
       "game_id": "la-suerte"
