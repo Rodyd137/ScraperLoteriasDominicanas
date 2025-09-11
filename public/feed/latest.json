@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-09-11T18:43:30.247031Z",
+  "last_updated": "2025-09-11T19:11:15.273622Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -377,7 +377,9 @@
       "edition": null,
       "date": "2025-09-11",
       "numbers": [
-        "86"
+        "86",
+        "74",
+        "08"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "gana-mas"
