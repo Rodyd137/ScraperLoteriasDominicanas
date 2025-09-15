@@ -1,18 +1,18 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-09-14T23:35:07.686602Z",
+  "last_updated": "2025-09-15T01:10:38.424124Z",
   "draws": [
     {
       "provider": "Americanas",
       "game": "Cash 4 Life",
       "edition": null,
-      "date": "2025-09-13",
+      "date": "2025-09-14",
       "numbers": [
-        "15",
-        "47",
+        "08",
+        "26",
+        "13",
         "38",
-        "54",
-        "27",
+        "14",
         "02"
       ],
       "provider_id": "americanas",
@@ -80,11 +80,11 @@
       "provider": "Anguila",
       "game": "Anguila",
       "edition": "Noche",
-      "date": "2025-09-13",
+      "date": "2025-09-14",
       "numbers": [
-        "63",
-        "64",
-        "86"
+        "67",
+        "52",
+        "95"
       ],
       "provider_id": "anguila",
       "game_id": "anguila"
@@ -132,14 +132,14 @@
       "provider": "La Primera",
       "game": "Loto 5",
       "edition": null,
-      "date": "2025-09-13",
+      "date": "2025-09-14",
       "numbers": [
-        "13",
-        "10",
-        "14",
-        "11",
-        "29",
-        "08"
+        "23",
+        "16",
+        "26",
+        "24",
+        "08",
+        "10"
       ],
       "provider_id": "la-primera",
       "game_id": "loto-5"
@@ -161,11 +161,11 @@
       "provider": "La Primera",
       "game": "Quiniela",
       "edition": "Noche",
-      "date": "2025-09-13",
+      "date": "2025-09-14",
       "numbers": [
-        "37",
-        "87",
-        "13"
+        "68",
+        "21",
+        "87"
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela"
@@ -185,9 +185,9 @@
       "provider": "La Primera",
       "game": "El Quinielón",
       "edition": "Noche",
-      "date": "2025-09-13",
+      "date": "2025-09-14",
       "numbers": [
-        "44"
+        "03"
       ],
       "provider_id": "la-primera",
       "game_id": "quinielon"
@@ -347,13 +347,13 @@
       "provider": "Loteka",
       "game": "Mega Chances",
       "edition": null,
-      "date": "2025-09-13",
+      "date": "2025-09-14",
       "numbers": [
-        "05",
-        "24",
-        "63",
-        "06",
-        "87"
+        "35",
+        "31",
+        "91",
+        "86",
+        "14"
       ],
       "provider_id": "loteka",
       "game_id": "mega-chances"
@@ -362,11 +362,11 @@
       "provider": "Loteka",
       "game": "Quiniela",
       "edition": null,
-      "date": "2025-09-13",
+      "date": "2025-09-14",
       "numbers": [
-        "57",
-        "03",
-        "86"
+        "31",
+        "17",
+        "55"
       ],
       "provider_id": "loteka",
       "game_id": "quiniela"
