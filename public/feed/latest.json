@@ -1,19 +1,19 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-09-19T01:06:59.573215Z",
+  "last_updated": "2025-09-19T02:43:55.572889Z",
   "draws": [
     {
       "provider": "Americanas",
       "game": "Cash 4 Life",
       "edition": null,
-      "date": "2025-09-17",
+      "date": "2025-09-18",
       "numbers": [
-        "33",
+        "57",
+        "20",
         "29",
         "34",
-        "50",
-        "27",
-        "03"
+        "17",
+        "01"
       ],
       "provider_id": "americanas",
       "game_id": "cash-4-life"
