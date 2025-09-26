@@ -2,7 +2,7 @@ name: Loterias Push
 
 on:
   schedule:
-    - cron: "*/10 * * * *" # cada 10 min
+    - cron: "*/10 * * * *"   # cada 10 min (UTC)
   workflow_dispatch:
 
 permissions:
@@ -20,10 +20,12 @@ jobs:
           node-version: 20
 
       - name: Create notifier script
+        shell: bash
         run: |
+          set -euo pipefail
           mkdir -p .github/scripts
-          cat > .github/scripts/push-on-changes.mjs <<'JS'
-
+          cat > .github/scripts/push-on-changes.mjs << 'EOF'
+// Node 20+
 import fs from "fs";
 import path from "path";
 
@@ -166,7 +168,7 @@ for (const { fk, ymd, item } of changedToday) {
 }
 
 await fs.promises.writeFile(stateFile, JSON.stringify(currentMap, null, 2));
-JS
+EOF
 
       - name: Run notifier
         env:
