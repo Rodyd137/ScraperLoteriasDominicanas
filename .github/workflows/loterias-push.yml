@@ -23,7 +23,7 @@ jobs:
         run: |
           mkdir -p .github/scripts
           cat > .github/scripts/push-on-changes.mjs <<'JS'
-// Node 20+
+
 import fs from "fs";
 import path from "path";
 
