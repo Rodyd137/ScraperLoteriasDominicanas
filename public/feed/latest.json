@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-09-28T22:12:29.325009Z",
+  "last_updated": "2025-09-28T22:36:58.483848Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -311,10 +311,10 @@
       "provider": "Leidsa",
       "game": "Super Palé",
       "edition": null,
-      "date": "2025-09-27",
+      "date": "2025-09-28",
       "numbers": [
-        "69",
-        "96"
+        "66",
+        "41"
       ],
       "provider_id": "leidsa",
       "game_id": "super-pale"
@@ -403,11 +403,11 @@
       "provider": "Lotería Nacional",
       "game": "Lotería Nacional",
       "edition": null,
-      "date": "2025-09-27",
+      "date": "2025-09-28",
       "numbers": [
-        "96",
-        "80",
-        "36"
+        "41",
+        "26",
+        "04"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "loteria-nacional"
