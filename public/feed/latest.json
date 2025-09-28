@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-09-28T19:35:12.225853Z",
+  "last_updated": "2025-09-28T20:14:22.064156Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -222,13 +222,13 @@
       "provider": "Leidsa",
       "game": "Loto Pool",
       "edition": null,
-      "date": "2025-09-27",
+      "date": "2025-09-28",
       "numbers": [
-        "03",
-        "06",
-        "15",
-        "16",
-        "24"
+        "12",
+        "13",
+        "25",
+        "28",
+        "30"
       ],
       "provider_id": "leidsa",
       "game_id": "loto-pool"
@@ -255,11 +255,11 @@
       "provider": "Leidsa",
       "game": "Pega 3 Más",
       "edition": null,
-      "date": "2025-09-27",
+      "date": "2025-09-28",
       "numbers": [
-        "10",
-        "30",
-        "41"
+        "17",
+        "36",
+        "28"
       ],
       "provider_id": "leidsa",
       "game_id": "pega-3-mas"
@@ -268,11 +268,11 @@
       "provider": "Leidsa",
       "game": "Quiniela",
       "edition": null,
-      "date": "2025-09-27",
+      "date": "2025-09-28",
       "numbers": [
-        "69",
-        "69",
-        "80"
+        "66",
+        "49",
+        "18"
       ],
       "provider_id": "leidsa",
       "game_id": "quiniela"
@@ -281,27 +281,27 @@
       "provider": "Leidsa",
       "game": "Super Kino TV",
       "edition": null,
-      "date": "2025-09-27",
+      "date": "2025-09-28",
       "numbers": [
-        "03",
-        "07",
-        "10",
-        "16",
-        "18",
+        "05",
+        "06",
+        "08",
+        "11",
+        "13",
+        "17",
+        "19",
         "20",
         "22",
-        "35",
-        "36",
-        "38",
-        "43",
-        "51",
-        "54",
-        "55",
+        "23",
+        "30",
+        "37",
+        "44",
+        "49",
         "61",
-        "68",
-        "71",
-        "73",
-        "74",
+        "62",
+        "64",
+        "66",
+        "70",
         "78"
       ],
       "provider_id": "leidsa",
