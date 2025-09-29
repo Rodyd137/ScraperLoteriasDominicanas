@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-09-29T15:38:28.777889Z",
+  "last_updated": "2025-09-29T16:15:10.647414Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -148,11 +148,11 @@
       "provider": "La Primera",
       "game": "Quiniela",
       "edition": "Día",
-      "date": "2025-09-28",
+      "date": "2025-09-29",
       "numbers": [
-        "38",
-        "83",
-        "40"
+        "31",
+        "77",
+        "93"
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela"
@@ -174,9 +174,9 @@
       "provider": "La Primera",
       "game": "El Quinielón",
       "edition": "Día",
-      "date": "2025-09-28",
+      "date": "2025-09-29",
       "numbers": [
-        "33"
+        "13"
       ],
       "provider_id": "la-primera",
       "game_id": "quinielon"
@@ -323,9 +323,9 @@
       "provider": "LoteDom",
       "game": "El Quemaito Mayor",
       "edition": null,
-      "date": "2025-09-28",
+      "date": "2025-09-29",
       "numbers": [
-        "71"
+        "27"
       ],
       "provider_id": "lotedom",
       "game_id": "quemaito-mayor"
@@ -334,11 +334,11 @@
       "provider": "LoteDom",
       "game": "Quiniela",
       "edition": null,
-      "date": "2025-09-28",
+      "date": "2025-09-29",
       "numbers": [
-        "49",
-        "74",
-        "22"
+        "15",
+        "21",
+        "21"
       ],
       "provider_id": "lotedom",
       "game_id": "quiniela"
