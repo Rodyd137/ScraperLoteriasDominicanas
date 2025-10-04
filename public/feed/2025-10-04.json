@@ -1,18 +1,18 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-10-04T01:02:08.052505Z",
+  "last_updated": "2025-10-04T02:33:49.723733Z",
   "draws": [
     {
       "provider": "Americanas",
       "game": "Cash 4 Life",
       "edition": null,
-      "date": "2025-10-02",
+      "date": "2025-10-03",
       "numbers": [
-        "54",
-        "43",
-        "49",
-        "40",
-        "60",
+        "08",
+        "15",
+        "56",
+        "33",
+        "25",
         "04"
       ],
       "provider_id": "americanas",
@@ -308,6 +308,18 @@
       "game_id": "super-kino-tv"
     },
     {
+      "provider": "Leidsa",
+      "game": "Super Palé",
+      "edition": null,
+      "date": "2025-10-03",
+      "numbers": [
+        "03",
+        "69"
+      ],
+      "provider_id": "leidsa",
+      "game_id": "super-pale"
+    },
+    {
       "provider": "LoteDom",
       "game": "El Quemaito Mayor",
       "edition": null,
@@ -386,6 +398,19 @@
       ],
       "provider_id": "loteria-nacional",
       "game_id": "juega-pega"
+    },
+    {
+      "provider": "Lotería Nacional",
+      "game": "Lotería Nacional",
+      "edition": null,
+      "date": "2025-10-03",
+      "numbers": [
+        "69",
+        "00",
+        "25"
+      ],
+      "provider_id": "loteria-nacional",
+      "game_id": "loteria-nacional"
     },
     {
       "provider": "Lotería Real",
