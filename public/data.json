@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-10-05T21:35:07.893887Z",
+  "last_updated": "2025-10-05T22:12:32.710288Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -93,11 +93,11 @@
       "provider": "Anguila",
       "game": "Anguila",
       "edition": "Tarde",
-      "date": "2025-10-04",
+      "date": "2025-10-05",
       "numbers": [
-        "08",
-        "10",
-        "34"
+        "88",
+        "87",
+        "52"
       ],
       "provider_id": "anguila",
       "game_id": "anguila"
@@ -209,11 +209,11 @@
       "provider": "La Suerte Dominicana",
       "game": "La Suerte",
       "edition": "18:00",
-      "date": "2025-10-04",
+      "date": "2025-10-05",
       "numbers": [
-        "90",
-        "41",
-        "28"
+        "64",
+        "02",
+        "59"
       ],
       "provider_id": "la-suerte-dominicana",
       "game_id": "la-suerte"
@@ -311,10 +311,10 @@
       "provider": "Leidsa",
       "game": "Super Palé",
       "edition": null,
-      "date": "2025-10-04",
+      "date": "2025-10-05",
       "numbers": [
-        "82",
-        "22"
+        "89",
+        "88"
       ],
       "provider_id": "leidsa",
       "game_id": "super-pale"
@@ -403,11 +403,11 @@
       "provider": "Lotería Nacional",
       "game": "Lotería Nacional",
       "edition": null,
-      "date": "2025-10-04",
+      "date": "2025-10-05",
       "numbers": [
-        "22",
-        "72",
-        "46"
+        "88",
+        "04",
+        "38"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "loteria-nacional"
