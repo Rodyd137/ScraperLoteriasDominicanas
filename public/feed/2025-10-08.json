@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-10-08T18:21:37.723032Z",
+  "last_updated": "2025-10-08T18:48:12.608740Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -375,11 +375,11 @@
       "provider": "Lotería Nacional",
       "game": "Gana Más",
       "edition": null,
-      "date": "2025-10-07",
+      "date": "2025-10-08",
       "numbers": [
-        "00",
-        "50",
-        "48"
+        "33",
+        "08",
+        "44"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "gana-mas"
@@ -388,13 +388,13 @@
       "provider": "Lotería Nacional",
       "game": "Juega + Pega +",
       "edition": null,
-      "date": "2025-10-07",
+      "date": "2025-10-08",
       "numbers": [
+        "11",
+        "05",
         "10",
-        "15",
         "03",
-        "06",
-        "24"
+        "17"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "juega-pega"
