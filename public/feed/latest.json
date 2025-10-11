@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-10-11T18:40:08.645081Z",
+  "last_updated": "2025-10-11T19:10:06.408194Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -375,11 +375,11 @@
       "provider": "Lotería Nacional",
       "game": "Gana Más",
       "edition": null,
-      "date": "2025-10-10",
+      "date": "2025-10-11",
       "numbers": [
-        "28",
-        "92",
-        "84"
+        "25",
+        "27",
+        "37"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "gana-mas"
