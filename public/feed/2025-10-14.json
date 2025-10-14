@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-10-14T02:43:21.282844Z",
+  "last_updated": "2025-10-14T03:30:34.720403Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -33,22 +33,6 @@
       ],
       "provider_id": "americanas",
       "game_id": "mega-millions"
-    },
-    {
-      "provider": "Americanas",
-      "game": "PowerBall",
-      "edition": null,
-      "date": "2025-10-11",
-      "numbers": [
-        "13",
-        "16",
-        "18",
-        "20",
-        "27",
-        "10"
-      ],
-      "provider_id": "americanas",
-      "game_id": "powerball"
     },
     {
       "provider": "Anguila",
