@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-10-18T23:12:36.216958Z",
+  "last_updated": "2025-10-18T23:34:58.534406Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -119,11 +119,11 @@
       "provider": "King Lottery",
       "game": "King Lottery",
       "edition": "7:30",
-      "date": "2025-10-17",
+      "date": "2025-10-18",
       "numbers": [
-        "26",
-        "97",
-        "68"
+        "43",
+        "96",
+        "66"
       ],
       "provider_id": "king-lottery",
       "game_id": "king-lottery"
