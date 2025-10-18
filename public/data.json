@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-10-18T01:04:10.889617Z",
+  "last_updated": "2025-10-18T02:37:31.804402Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -406,7 +406,8 @@
       "date": "2025-10-17",
       "numbers": [
         "07",
-        "72"
+        "72",
+        "92"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "loteria-nacional"
