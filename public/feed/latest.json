@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-10-20T17:14:09.010894Z",
+  "last_updated": "2025-10-20T17:38:27.697801Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -51,79 +51,73 @@
       "game_id": "powerball"
     },
     {
-      "provider": "Anguila",
-      "game": "Anguila",
-      "edition": "Mañana",
-      "date": "2025-10-20",
-      "numbers": [
-        "66",
-        "34",
-        "95"
-      ],
-      "provider_id": "anguila",
-      "game_id": "anguila"
-    },
-    {
-      "provider": "Anguila",
-      "game": "Anguila",
-      "edition": "Medio Día",
-      "date": "2025-10-20",
-      "numbers": [
-        "50",
-        "91",
-        "94"
-      ],
-      "provider_id": "anguila",
-      "game_id": "anguila"
-    },
-    {
-      "provider": "Anguila",
-      "game": "Anguila",
-      "edition": "Noche",
+      "provider": "Lotería Nacional",
+      "game": "Gana Más",
+      "edition": null,
       "date": "2025-10-19",
       "numbers": [
-        "83",
-        "38",
-        "13"
+        "29",
+        "31",
+        "59"
       ],
-      "provider_id": "anguila",
-      "game_id": "anguila"
+      "provider_id": "loteria-nacional",
+      "game_id": "gana-mas"
     },
     {
-      "provider": "Anguila",
-      "game": "Anguila",
-      "edition": "Tarde",
+      "provider": "Lotería Nacional",
+      "game": "Juega + Pega +",
+      "edition": null,
       "date": "2025-10-19",
       "numbers": [
         "26",
-        "40",
-        "05"
+        "23",
+        "01",
+        "14",
+        "22"
       ],
-      "provider_id": "anguila",
-      "game_id": "anguila"
+      "provider_id": "loteria-nacional",
+      "game_id": "juega-pega"
     },
     {
-      "provider": "LoteDom",
-      "game": "El Quemaito Mayor",
+      "provider": "Lotería Nacional",
+      "game": "Lotería Nacional",
       "edition": null,
-      "date": "2025-10-20",
+      "date": "2025-10-19",
       "numbers": [
-        "71"
+        "62",
+        "52",
+        "33"
       ],
-      "provider_id": "lotedom",
-      "game_id": "quemaito-mayor"
+      "provider_id": "loteria-nacional",
+      "game_id": "loteria-nacional"
     },
     {
-      "provider": "LoteDom",
+      "provider": "Lotería Real",
+      "game": "Loto Real",
+      "edition": null,
+      "date": "2025-10-17",
+      "numbers": [
+        "12",
+        "13",
+        "17",
+        "20",
+        "29",
+        "37"
+      ],
+      "provider_id": "loteria-real",
+      "game_id": "loto-real"
+    },
+    {
+      "provider": "Lotería Real",
       "game": "Quiniela",
       "edition": null,
       "date": "2025-10-20",
       "numbers": [
-        "18",
-        "52",
-        "88"
+        "09",
+        "35",
+        "40"
       ],
-      "provider_id": "lotedom",
+      "provider_id": "loteria-real",
       "game_id": "quiniela"
     }
   ]
