@@ -1,19 +1,19 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-10-23T23:35:14.593768Z",
+  "last_updated": "2025-10-24T01:04:50.652859Z",
   "draws": [
     {
       "provider": "Americanas",
       "game": "Cash 4 Life",
       "edition": null,
-      "date": "2025-10-22",
+      "date": "2025-10-23",
       "numbers": [
+        "43",
+        "38",
+        "45",
+        "59",
         "47",
-        "32",
-        "54",
-        "44",
-        "04",
-        "02"
+        "01"
       ],
       "provider_id": "americanas",
       "game_id": "cash-4-life"
@@ -80,11 +80,11 @@
       "provider": "Anguila",
       "game": "Anguila",
       "edition": "Noche",
-      "date": "2025-10-22",
+      "date": "2025-10-23",
       "numbers": [
-        "94",
-        "69",
-        "21"
+        "34",
+        "04",
+        "79"
       ],
       "provider_id": "anguila",
       "game_id": "anguila"
@@ -201,6 +201,19 @@
         "31",
         "82",
         "71"
+      ],
+      "provider_id": "la-suerte-dominicana",
+      "game_id": "la-suerte"
+    },
+    {
+      "provider": "La Suerte Dominicana",
+      "game": "La Suerte",
+      "edition": "18:00",
+      "date": "2025-10-21",
+      "numbers": [
+        "67",
+        "25",
+        "66"
       ],
       "provider_id": "la-suerte-dominicana",
       "game_id": "la-suerte"
