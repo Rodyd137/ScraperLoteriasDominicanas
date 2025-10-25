@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-10-25T15:35:38.519022Z",
+  "last_updated": "2025-10-25T16:16:04.027929Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -169,17 +169,6 @@
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela"
-    },
-    {
-      "provider": "La Primera",
-      "game": "El Quinielón",
-      "edition": "Día",
-      "date": "2025-10-22",
-      "numbers": [
-        "07"
-      ],
-      "provider_id": "la-primera",
-      "game_id": "quinielon"
     },
     {
       "provider": "La Primera",
