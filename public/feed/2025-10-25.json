@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-10-25T17:11:40.745986Z",
+  "last_updated": "2025-10-25T17:36:05.836783Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -143,19 +143,6 @@
       ],
       "provider_id": "la-primera",
       "game_id": "loto-5"
-    },
-    {
-      "provider": "La Primera",
-      "game": "Quiniela",
-      "edition": "Día",
-      "date": "2025-10-22",
-      "numbers": [
-        "36",
-        "51",
-        "02"
-      ],
-      "provider_id": "la-primera",
-      "game_id": "quiniela"
     },
     {
       "provider": "La Primera",
@@ -307,30 +294,6 @@
       ],
       "provider_id": "leidsa",
       "game_id": "super-pale"
-    },
-    {
-      "provider": "LoteDom",
-      "game": "El Quemaito Mayor",
-      "edition": null,
-      "date": "2025-10-22",
-      "numbers": [
-        "58"
-      ],
-      "provider_id": "lotedom",
-      "game_id": "quemaito-mayor"
-    },
-    {
-      "provider": "LoteDom",
-      "game": "Quiniela",
-      "edition": null,
-      "date": "2025-10-22",
-      "numbers": [
-        "15",
-        "08",
-        "38"
-      ],
-      "provider_id": "lotedom",
-      "game_id": "quiniela"
     },
     {
       "provider": "Loteka",
