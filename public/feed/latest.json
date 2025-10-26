@@ -1,19 +1,19 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-10-25T23:35:15.624865Z",
+  "last_updated": "2025-10-26T01:13:31.358221Z",
   "draws": [
     {
       "provider": "Americanas",
       "game": "Cash 4 Life",
       "edition": null,
-      "date": "2025-10-24",
+      "date": "2025-10-25",
       "numbers": [
-        "59",
-        "36",
-        "55",
+        "60",
+        "19",
+        "06",
+        "12",
         "05",
-        "44",
-        "01"
+        "03"
       ],
       "provider_id": "americanas",
       "game_id": "cash-4-life"
@@ -80,11 +80,11 @@
       "provider": "Anguila",
       "game": "Anguila",
       "edition": "Noche",
-      "date": "2025-10-24",
+      "date": "2025-10-25",
       "numbers": [
-        "14",
-        "76",
-        "33"
+        "99",
+        "53",
+        "98"
       ],
       "provider_id": "anguila",
       "game_id": "anguila"
@@ -147,6 +147,19 @@
     {
       "provider": "La Primera",
       "game": "Quiniela",
+      "edition": "Día",
+      "date": "2025-10-22",
+      "numbers": [
+        "36",
+        "51",
+        "02"
+      ],
+      "provider_id": "la-primera",
+      "game_id": "quiniela"
+    },
+    {
+      "provider": "La Primera",
+      "game": "Quiniela",
       "edition": "Noche",
       "date": "2025-10-21",
       "numbers": [
@@ -160,6 +173,17 @@
     {
       "provider": "La Primera",
       "game": "El Quinielón",
+      "edition": "Día",
+      "date": "2025-10-22",
+      "numbers": [
+        "07"
+      ],
+      "provider_id": "la-primera",
+      "game_id": "quinielon"
+    },
+    {
+      "provider": "La Primera",
+      "game": "El Quinielón",
       "edition": "Noche",
       "date": "2025-10-21",
       "numbers": [
@@ -167,6 +191,19 @@
       ],
       "provider_id": "la-primera",
       "game_id": "quinielon"
+    },
+    {
+      "provider": "La Suerte Dominicana",
+      "game": "La Suerte",
+      "edition": "12:30",
+      "date": "2025-10-22",
+      "numbers": [
+        "31",
+        "82",
+        "71"
+      ],
+      "provider_id": "la-suerte-dominicana",
+      "game_id": "la-suerte"
     },
     {
       "provider": "La Suerte Dominicana",
@@ -283,6 +320,30 @@
       "game_id": "super-pale"
     },
     {
+      "provider": "LoteDom",
+      "game": "El Quemaito Mayor",
+      "edition": null,
+      "date": "2025-10-22",
+      "numbers": [
+        "58"
+      ],
+      "provider_id": "lotedom",
+      "game_id": "quemaito-mayor"
+    },
+    {
+      "provider": "LoteDom",
+      "game": "Quiniela",
+      "edition": null,
+      "date": "2025-10-22",
+      "numbers": [
+        "15",
+        "08",
+        "38"
+      ],
+      "provider_id": "lotedom",
+      "game_id": "quiniela"
+    },
+    {
       "provider": "Loteka",
       "game": "Mega Chances",
       "edition": null,
@@ -312,6 +373,34 @@
     },
     {
       "provider": "Lotería Nacional",
+      "game": "Gana Más",
+      "edition": null,
+      "date": "2025-10-21",
+      "numbers": [
+        "58",
+        "50",
+        "99"
+      ],
+      "provider_id": "loteria-nacional",
+      "game_id": "gana-mas"
+    },
+    {
+      "provider": "Lotería Nacional",
+      "game": "Juega + Pega +",
+      "edition": null,
+      "date": "2025-10-21",
+      "numbers": [
+        "12",
+        "06",
+        "09",
+        "14",
+        "06"
+      ],
+      "provider_id": "loteria-nacional",
+      "game_id": "juega-pega"
+    },
+    {
+      "provider": "Lotería Nacional",
       "game": "Lotería Nacional",
       "edition": null,
       "date": "2025-10-21",
@@ -322,6 +411,35 @@
       ],
       "provider_id": "loteria-nacional",
       "game_id": "loteria-nacional"
+    },
+    {
+      "provider": "Lotería Real",
+      "game": "Loto Real",
+      "edition": null,
+      "date": "2025-10-21",
+      "numbers": [
+        "06",
+        "09",
+        "13",
+        "16",
+        "25",
+        "32"
+      ],
+      "provider_id": "loteria-real",
+      "game_id": "loto-real"
+    },
+    {
+      "provider": "Lotería Real",
+      "game": "Quiniela",
+      "edition": null,
+      "date": "2025-10-22",
+      "numbers": [
+        "09",
+        "54",
+        "63"
+      ],
+      "provider_id": "loteria-real",
+      "game_id": "quiniela"
     }
   ]
 }
