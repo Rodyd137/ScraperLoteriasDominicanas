@@ -1,19 +1,19 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-10-29T23:36:56.702769Z",
+  "last_updated": "2025-10-30T01:11:59.350526Z",
   "draws": [
     {
       "provider": "Americanas",
       "game": "Cash 4 Life",
       "edition": null,
-      "date": "2025-10-28",
+      "date": "2025-10-29",
       "numbers": [
-        "47",
-        "34",
-        "31",
-        "13",
-        "18",
-        "01"
+        "42",
+        "57",
+        "04",
+        "40",
+        "27",
+        "03"
       ],
       "provider_id": "americanas",
       "game_id": "cash-4-life"
@@ -80,11 +80,11 @@
       "provider": "Anguila",
       "game": "Anguila",
       "edition": "Noche",
-      "date": "2025-10-28",
+      "date": "2025-10-29",
       "numbers": [
-        "88",
-        "27",
-        "90"
+        "49",
+        "86",
+        "99"
       ],
       "provider_id": "anguila",
       "game_id": "anguila"
@@ -132,14 +132,14 @@
       "provider": "La Primera",
       "game": "Loto 5",
       "edition": null,
-      "date": "2025-10-28",
+      "date": "2025-10-29",
       "numbers": [
-        "38",
-        "33",
-        "10",
-        "05",
-        "11",
-        "04"
+        "18",
+        "22",
+        "35",
+        "14",
+        "15",
+        "03"
       ],
       "provider_id": "la-primera",
       "game_id": "loto-5"
@@ -161,11 +161,11 @@
       "provider": "La Primera",
       "game": "Quiniela",
       "edition": "Noche",
-      "date": "2025-10-28",
+      "date": "2025-10-29",
       "numbers": [
-        "28",
-        "67",
-        "81"
+        "40",
+        "25",
+        "54"
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela"
@@ -185,9 +185,9 @@
       "provider": "La Primera",
       "game": "El Quinielón",
       "edition": "Noche",
-      "date": "2025-10-28",
+      "date": "2025-10-29",
       "numbers": [
-        "10"
+        "18"
       ],
       "provider_id": "la-primera",
       "game_id": "quinielon"
@@ -222,13 +222,13 @@
       "provider": "Leidsa",
       "game": "Loto Pool",
       "edition": null,
-      "date": "2025-10-28",
+      "date": "2025-10-29",
       "numbers": [
-        "06",
-        "08",
-        "15",
+        "04",
+        "07",
+        "10",
         "23",
-        "30"
+        "29"
       ],
       "provider_id": "leidsa",
       "game_id": "loto-pool"
@@ -237,16 +237,16 @@
       "provider": "Leidsa",
       "game": "Loto - Super Loto Más",
       "edition": null,
-      "date": "2025-10-18",
+      "date": "2025-10-29",
       "numbers": [
-        "07",
-        "14",
-        "17",
-        "18",
-        "23",
-        "36",
-        "04",
-        "01"
+        "02",
+        "03",
+        "11",
+        "25",
+        "29",
+        "32",
+        "08",
+        "07"
       ],
       "provider_id": "leidsa",
       "game_id": "loto-super-loto-mas"
@@ -255,11 +255,11 @@
       "provider": "Leidsa",
       "game": "Pega 3 Más",
       "edition": null,
-      "date": "2025-10-28",
+      "date": "2025-10-29",
       "numbers": [
-        "29",
-        "50",
-        "50"
+        "32",
+        "27",
+        "03"
       ],
       "provider_id": "leidsa",
       "game_id": "pega-3-mas"
@@ -268,11 +268,11 @@
       "provider": "Leidsa",
       "game": "Quiniela",
       "edition": null,
-      "date": "2025-10-28",
+      "date": "2025-10-29",
       "numbers": [
-        "76",
-        "32",
-        "45"
+        "45",
+        "64",
+        "59"
       ],
       "provider_id": "leidsa",
       "game_id": "quiniela"
@@ -281,28 +281,28 @@
       "provider": "Leidsa",
       "game": "Super Kino TV",
       "edition": null,
-      "date": "2025-10-28",
+      "date": "2025-10-29",
       "numbers": [
-        "01",
-        "12",
-        "15",
+        "04",
+        "08",
+        "10",
         "21",
-        "22",
-        "23",
-        "31",
+        "24",
         "32",
-        "33",
-        "36",
-        "41",
-        "46",
+        "39",
+        "40",
+        "43",
+        "44",
+        "45",
         "47",
-        "54",
+        "57",
+        "60",
+        "62",
         "64",
-        "66",
-        "70",
-        "71",
-        "76",
-        "78"
+        "65",
+        "72",
+        "73",
+        "75"
       ],
       "provider_id": "leidsa",
       "game_id": "super-kino-tv"
@@ -311,10 +311,10 @@
       "provider": "Leidsa",
       "game": "Super Palé",
       "edition": null,
-      "date": "2025-10-28",
+      "date": "2025-10-29",
       "numbers": [
-        "76",
-        "62"
+        "45",
+        "24"
       ],
       "provider_id": "leidsa",
       "game_id": "super-pale"
@@ -347,13 +347,13 @@
       "provider": "Loteka",
       "game": "Mega Chances",
       "edition": null,
-      "date": "2025-10-28",
+      "date": "2025-10-29",
       "numbers": [
-        "11",
-        "28",
-        "19",
-        "64",
-        "13"
+        "52",
+        "37",
+        "74",
+        "31",
+        "33"
       ],
       "provider_id": "loteka",
       "game_id": "mega-chances"
@@ -362,11 +362,11 @@
       "provider": "Loteka",
       "game": "Quiniela",
       "edition": null,
-      "date": "2025-10-28",
+      "date": "2025-10-29",
       "numbers": [
-        "10",
-        "96",
-        "86"
+        "37",
+        "93",
+        "04"
       ],
       "provider_id": "loteka",
       "game_id": "quiniela"
@@ -403,11 +403,11 @@
       "provider": "Lotería Nacional",
       "game": "Lotería Nacional",
       "edition": null,
-      "date": "2025-10-28",
+      "date": "2025-10-29",
       "numbers": [
-        "62",
+        "24",
         "20",
-        "95"
+        "93"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "loteria-nacional"
