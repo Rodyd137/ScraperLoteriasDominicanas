@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-11-02T23:35:14.908292Z",
+  "last_updated": "2025-11-03T01:13:28.506123Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -80,11 +80,11 @@
       "provider": "Anguila",
       "game": "Anguila",
       "edition": "Noche",
-      "date": "2025-11-01",
+      "date": "2025-11-02",
       "numbers": [
-        "29",
-        "82",
-        "32"
+        "87",
+        "05",
+        "89"
       ],
       "provider_id": "anguila",
       "game_id": "anguila"
@@ -132,13 +132,13 @@
       "provider": "La Primera",
       "game": "Loto 5",
       "edition": null,
-      "date": "2025-11-01",
+      "date": "2025-11-02",
       "numbers": [
-        "05",
-        "25",
-        "26",
-        "18",
-        "10",
+        "36",
+        "24",
+        "07",
+        "29",
+        "28",
         "06"
       ],
       "provider_id": "la-primera",
@@ -161,11 +161,11 @@
       "provider": "La Primera",
       "game": "Quiniela",
       "edition": "Noche",
-      "date": "2025-11-01",
+      "date": "2025-11-02",
       "numbers": [
-        "93",
-        "58",
-        "18"
+        "74",
+        "10",
+        "91"
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela"
@@ -185,9 +185,9 @@
       "provider": "La Primera",
       "game": "El Quinielón",
       "edition": "Noche",
-      "date": "2025-11-01",
+      "date": "2025-11-02",
       "numbers": [
-        "86"
+        "84"
       ],
       "provider_id": "la-primera",
       "game_id": "quinielon"
@@ -347,13 +347,13 @@
       "provider": "Loteka",
       "game": "Mega Chances",
       "edition": null,
-      "date": "2025-11-01",
+      "date": "2025-11-02",
       "numbers": [
-        "24",
-        "78",
-        "74",
-        "26",
-        "76"
+        "22",
+        "38",
+        "16",
+        "13",
+        "37"
       ],
       "provider_id": "loteka",
       "game_id": "mega-chances"
@@ -362,11 +362,11 @@
       "provider": "Loteka",
       "game": "Quiniela",
       "edition": null,
-      "date": "2025-11-01",
+      "date": "2025-11-02",
       "numbers": [
-        "45",
-        "72",
-        "28"
+        "62",
+        "66",
+        "38"
       ],
       "provider_id": "loteka",
       "game_id": "quiniela"
