@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-11-09T19:35:33.394904Z",
+  "last_updated": "2025-11-09T20:15:14.131089Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -222,13 +222,13 @@
       "provider": "Leidsa",
       "game": "Loto Pool",
       "edition": null,
-      "date": "2025-11-08",
+      "date": "2025-11-09",
       "numbers": [
-        "03",
-        "04",
-        "06",
+        "01",
         "10",
-        "20"
+        "14",
+        "17",
+        "23"
       ],
       "provider_id": "leidsa",
       "game_id": "loto-pool"
@@ -255,11 +255,11 @@
       "provider": "Leidsa",
       "game": "Pega 3 Más",
       "edition": null,
-      "date": "2025-11-08",
+      "date": "2025-11-09",
       "numbers": [
-        "24",
-        "18",
-        "39"
+        "25",
+        "07",
+        "05"
       ],
       "provider_id": "leidsa",
       "game_id": "pega-3-mas"
@@ -268,11 +268,11 @@
       "provider": "Leidsa",
       "game": "Quiniela",
       "edition": null,
-      "date": "2025-11-08",
+      "date": "2025-11-09",
       "numbers": [
-        "00",
-        "73",
-        "42"
+        "03",
+        "25",
+        "86"
       ],
       "provider_id": "leidsa",
       "game_id": "quiniela"
@@ -281,27 +281,27 @@
       "provider": "Leidsa",
       "game": "Super Kino TV",
       "edition": null,
-      "date": "2025-11-08",
+      "date": "2025-11-09",
       "numbers": [
-        "08",
-        "12",
-        "17",
+        "04",
+        "05",
+        "06",
+        "09",
+        "13",
         "19",
-        "22",
-        "23",
-        "31",
-        "34",
-        "36",
-        "40",
-        "41",
-        "44",
-        "47",
-        "59",
-        "61",
-        "66",
-        "73",
-        "74",
-        "78",
+        "20",
+        "35",
+        "38",
+        "39",
+        "43",
+        "45",
+        "48",
+        "50",
+        "54",
+        "55",
+        "63",
+        "67",
+        "72",
         "80"
       ],
       "provider_id": "leidsa",
