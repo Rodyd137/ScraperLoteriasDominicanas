@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-11-09T18:19:05.603985Z",
+  "last_updated": "2025-11-09T18:43:15.001084Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -388,13 +388,12 @@
       "provider": "Lotería Nacional",
       "game": "Juega + Pega +",
       "edition": null,
-      "date": "2025-11-08",
+      "date": "2025-11-09",
       "numbers": [
-        "17",
-        "23",
-        "02",
-        "01",
-        "04"
+        "26",
+        "07",
+        "07",
+        "19"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "juega-pega"
