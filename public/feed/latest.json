@@ -1,18 +1,18 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-11-20T01:09:47.043184Z",
+  "last_updated": "2025-11-20T02:52:17.706565Z",
   "draws": [
     {
       "provider": "Americanas",
       "game": "Cash 4 Life",
       "edition": null,
-      "date": "2025-11-18",
+      "date": "2025-11-19",
       "numbers": [
-        "11",
-        "01",
-        "51",
         "56",
-        "34",
+        "43",
+        "40",
+        "44",
+        "26",
         "01"
       ],
       "provider_id": "americanas",
@@ -311,10 +311,10 @@
       "provider": "Leidsa",
       "game": "Super Palé",
       "edition": null,
-      "date": "2025-11-18",
+      "date": "2025-11-19",
       "numbers": [
-        "28",
-        "72"
+        "73",
+        "90"
       ],
       "provider_id": "leidsa",
       "game_id": "super-pale"
@@ -403,11 +403,11 @@
       "provider": "Lotería Nacional",
       "game": "Lotería Nacional",
       "edition": null,
-      "date": "2025-11-18",
+      "date": "2025-11-19",
       "numbers": [
-        "72",
-        "42",
-        "87"
+        "90",
+        "75",
+        "44"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "loteria-nacional"
