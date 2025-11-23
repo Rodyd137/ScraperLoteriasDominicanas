@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-11-23T19:35:37.153882Z",
+  "last_updated": "2025-11-23T20:16:43.939211Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -222,13 +222,13 @@
       "provider": "Leidsa",
       "game": "Loto Pool",
       "edition": null,
-      "date": "2025-11-22",
+      "date": "2025-11-23",
       "numbers": [
+        "03",
+        "05",
+        "09",
         "15",
-        "16",
-        "22",
-        "28",
-        "30"
+        "19"
       ],
       "provider_id": "leidsa",
       "game_id": "loto-pool"
@@ -255,11 +255,11 @@
       "provider": "Leidsa",
       "game": "Pega 3 Más",
       "edition": null,
-      "date": "2025-11-22",
+      "date": "2025-11-23",
       "numbers": [
-        "08",
-        "28",
-        "41"
+        "12",
+        "00",
+        "13"
       ],
       "provider_id": "leidsa",
       "game_id": "pega-3-mas"
@@ -268,11 +268,11 @@
       "provider": "Leidsa",
       "game": "Quiniela",
       "edition": null,
-      "date": "2025-11-22",
+      "date": "2025-11-23",
       "numbers": [
-        "38",
-        "06",
-        "29"
+        "90",
+        "09",
+        "37"
       ],
       "provider_id": "leidsa",
       "game_id": "quiniela"
@@ -281,27 +281,27 @@
       "provider": "Leidsa",
       "game": "Super Kino TV",
       "edition": null,
-      "date": "2025-11-22",
+      "date": "2025-11-23",
       "numbers": [
-        "02",
+        "03",
+        "04",
         "05",
         "06",
-        "09",
-        "11",
-        "18",
-        "19",
-        "26",
-        "35",
+        "21",
+        "32",
+        "34",
+        "37",
+        "38",
+        "41",
+        "45",
+        "47",
+        "52",
         "55",
-        "56",
-        "57",
-        "59",
-        "60",
-        "62",
-        "67",
-        "70",
-        "72",
-        "75",
+        "63",
+        "66",
+        "68",
+        "69",
+        "73",
         "77"
       ],
       "provider_id": "leidsa",
