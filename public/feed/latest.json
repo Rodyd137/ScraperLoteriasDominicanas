@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-11-23T23:36:38.085281Z",
+  "last_updated": "2025-11-24T01:15:45.574322Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -80,11 +80,11 @@
       "provider": "Anguila",
       "game": "Anguila",
       "edition": "Noche",
-      "date": "2025-11-22",
+      "date": "2025-11-23",
       "numbers": [
-        "09",
-        "18",
-        "24"
+        "77",
+        "14",
+        "60"
       ],
       "provider_id": "anguila",
       "game_id": "anguila"
@@ -132,14 +132,14 @@
       "provider": "La Primera",
       "game": "Loto 5",
       "edition": null,
-      "date": "2025-11-22",
+      "date": "2025-11-23",
       "numbers": [
-        "16",
-        "11",
-        "25",
-        "27",
-        "09",
-        "09"
+        "31",
+        "22",
+        "38",
+        "26",
+        "13",
+        "06"
       ],
       "provider_id": "la-primera",
       "game_id": "loto-5"
@@ -161,11 +161,11 @@
       "provider": "La Primera",
       "game": "Quiniela",
       "edition": "Noche",
-      "date": "2025-11-22",
+      "date": "2025-11-23",
       "numbers": [
-        "79",
-        "07",
-        "97"
+        "19",
+        "46",
+        "82"
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela"
@@ -185,9 +185,9 @@
       "provider": "La Primera",
       "game": "El Quinielón",
       "edition": "Noche",
-      "date": "2025-11-22",
+      "date": "2025-11-23",
       "numbers": [
-        "66"
+        "82"
       ],
       "provider_id": "la-primera",
       "game_id": "quinielon"
@@ -347,13 +347,13 @@
       "provider": "Loteka",
       "game": "Mega Chances",
       "edition": null,
-      "date": "2025-11-22",
+      "date": "2025-11-23",
       "numbers": [
-        "35",
-        "82",
-        "14",
-        "74",
-        "67"
+        "15",
+        "51",
+        "61",
+        "19",
+        "14"
       ],
       "provider_id": "loteka",
       "game_id": "mega-chances"
@@ -362,11 +362,11 @@
       "provider": "Loteka",
       "game": "Quiniela",
       "edition": null,
-      "date": "2025-11-22",
+      "date": "2025-11-23",
       "numbers": [
-        "09",
-        "38",
-        "85"
+        "80",
+        "55",
+        "88"
       ],
       "provider_id": "loteka",
       "game_id": "quiniela"
