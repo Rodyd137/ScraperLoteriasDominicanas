@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-11-28T16:44:58.101120Z",
+  "last_updated": "2025-11-28T17:13:12.305418Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -67,11 +67,11 @@
       "provider": "Anguila",
       "game": "Anguila",
       "edition": "Medio Día",
-      "date": "2025-11-27",
+      "date": "2025-11-28",
       "numbers": [
-        "17",
-        "45",
-        "76"
+        "68",
+        "95",
+        "95"
       ],
       "provider_id": "anguila",
       "game_id": "anguila"
@@ -416,14 +416,14 @@
       "provider": "Lotería Real",
       "game": "Loto Real",
       "edition": null,
-      "date": "2025-11-25",
+      "date": "2025-11-28",
       "numbers": [
-        "10",
-        "11",
-        "13",
-        "25",
-        "31",
-        "32"
+        "06",
+        "07",
+        "26",
+        "28",
+        "32",
+        "34"
       ],
       "provider_id": "loteria-real",
       "game_id": "loto-real"
@@ -432,11 +432,11 @@
       "provider": "Lotería Real",
       "game": "Quiniela",
       "edition": null,
-      "date": "2025-11-27",
+      "date": "2025-11-28",
       "numbers": [
-        "28",
-        "87",
-        "71"
+        "93",
+        "08",
+        "76"
       ],
       "provider_id": "loteria-real",
       "game_id": "quiniela"
