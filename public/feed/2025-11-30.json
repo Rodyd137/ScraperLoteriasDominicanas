@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-11-30T19:35:29.779254Z",
+  "last_updated": "2025-11-30T20:16:43.769844Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -222,13 +222,13 @@
       "provider": "Leidsa",
       "game": "Loto Pool",
       "edition": null,
-      "date": "2025-11-29",
+      "date": "2025-11-30",
       "numbers": [
-        "03",
-        "11",
-        "17",
-        "18",
-        "25"
+        "05",
+        "09",
+        "13",
+        "21",
+        "26"
       ],
       "provider_id": "leidsa",
       "game_id": "loto-pool"
@@ -255,11 +255,11 @@
       "provider": "Leidsa",
       "game": "Pega 3 Más",
       "edition": null,
-      "date": "2025-11-29",
+      "date": "2025-11-30",
       "numbers": [
-        "31",
-        "09",
-        "26"
+        "13",
+        "47",
+        "30"
       ],
       "provider_id": "leidsa",
       "game_id": "pega-3-mas"
@@ -268,11 +268,11 @@
       "provider": "Leidsa",
       "game": "Quiniela",
       "edition": null,
-      "date": "2025-11-29",
+      "date": "2025-11-30",
       "numbers": [
-        "64",
-        "55",
-        "49"
+        "87",
+        "30",
+        "02"
       ],
       "provider_id": "leidsa",
       "game_id": "quiniela"
@@ -281,28 +281,28 @@
       "provider": "Leidsa",
       "game": "Super Kino TV",
       "edition": null,
-      "date": "2025-11-29",
+      "date": "2025-11-30",
       "numbers": [
         "02",
-        "11",
+        "03",
         "13",
+        "15",
         "17",
-        "20",
-        "22",
+        "24",
+        "26",
         "30",
         "31",
         "32",
+        "40",
         "41",
-        "44",
-        "53",
-        "58",
-        "59",
-        "63",
-        "64",
-        "69",
+        "52",
+        "60",
+        "66",
+        "67",
+        "70",
+        "71",
         "73",
-        "75",
-        "76"
+        "80"
       ],
       "provider_id": "leidsa",
       "game_id": "super-kino-tv"
