@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-12-03T03:51:39.028646Z",
+  "last_updated": "2025-12-03T04:24:18.158300Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -22,14 +22,14 @@
       "provider": "Americanas",
       "game": "Mega Millions",
       "edition": null,
-      "date": "2025-11-28",
+      "date": "2025-12-02",
       "numbers": [
-        "06",
-        "07",
-        "13",
-        "39",
-        "48",
-        "04"
+        "17",
+        "25",
+        "26",
+        "53",
+        "60",
+        "16"
       ],
       "provider_id": "americanas",
       "game_id": "mega-millions"
