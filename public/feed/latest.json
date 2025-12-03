@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-12-03T19:37:21.228435Z",
+  "last_updated": "2025-12-03T20:18:35.252027Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -341,6 +341,34 @@
         "28"
       ],
       "provider_id": "lotedom",
+      "game_id": "quiniela"
+    },
+    {
+      "provider": "Loteka",
+      "game": "Mega Chances",
+      "edition": null,
+      "date": "2025-12-02",
+      "numbers": [
+        "12",
+        "96",
+        "98",
+        "97",
+        "68"
+      ],
+      "provider_id": "loteka",
+      "game_id": "mega-chances"
+    },
+    {
+      "provider": "Loteka",
+      "game": "Quiniela",
+      "edition": null,
+      "date": "2025-12-02",
+      "numbers": [
+        "00",
+        "25",
+        "08"
+      ],
+      "provider_id": "loteka",
       "game_id": "quiniela"
     },
     {
