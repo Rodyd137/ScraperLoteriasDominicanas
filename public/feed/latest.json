@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-12-07T15:35:54.446704Z",
+  "last_updated": "2025-12-07T16:16:57.697209Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -148,11 +148,11 @@
       "provider": "La Primera",
       "game": "Quiniela",
       "edition": "Día",
-      "date": "2025-12-06",
+      "date": "2025-12-07",
       "numbers": [
-        "35",
-        "20",
-        "50"
+        "97",
+        "50",
+        "55"
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela"
@@ -174,9 +174,9 @@
       "provider": "La Primera",
       "game": "El Quinielón",
       "edition": "Día",
-      "date": "2025-12-06",
+      "date": "2025-12-07",
       "numbers": [
-        "80"
+        "58"
       ],
       "provider_id": "la-primera",
       "game_id": "quinielon"
@@ -323,9 +323,9 @@
       "provider": "LoteDom",
       "game": "El Quemaito Mayor",
       "edition": null,
-      "date": "2025-12-06",
+      "date": "2025-12-07",
       "numbers": [
-        "80"
+        "37"
       ],
       "provider_id": "lotedom",
       "game_id": "quemaito-mayor"
@@ -334,11 +334,11 @@
       "provider": "LoteDom",
       "game": "Quiniela",
       "edition": null,
-      "date": "2025-12-06",
+      "date": "2025-12-07",
       "numbers": [
-        "63",
-        "01",
-        "29"
+        "71",
+        "46",
+        "85"
       ],
       "provider_id": "lotedom",
       "game_id": "quiniela"
