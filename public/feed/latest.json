@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-12-07T19:35:23.245641Z",
+  "last_updated": "2025-12-07T20:16:11.245770Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -222,13 +222,13 @@
       "provider": "Leidsa",
       "game": "Loto Pool",
       "edition": null,
-      "date": "2025-12-06",
+      "date": "2025-12-07",
       "numbers": [
-        "02",
+        "01",
         "03",
-        "08",
-        "10",
-        "17"
+        "05",
+        "12",
+        "21"
       ],
       "provider_id": "leidsa",
       "game_id": "loto-pool"
@@ -255,11 +255,11 @@
       "provider": "Leidsa",
       "game": "Pega 3 Más",
       "edition": null,
-      "date": "2025-12-06",
+      "date": "2025-12-07",
       "numbers": [
-        "39",
-        "37",
-        "43"
+        "46",
+        "03",
+        "28"
       ],
       "provider_id": "leidsa",
       "game_id": "pega-3-mas"
@@ -268,11 +268,11 @@
       "provider": "Leidsa",
       "game": "Quiniela",
       "edition": null,
-      "date": "2025-12-06",
+      "date": "2025-12-07",
       "numbers": [
-        "88",
-        "30",
-        "24"
+        "58",
+        "55",
+        "79"
       ],
       "provider_id": "leidsa",
       "game_id": "quiniela"
@@ -281,28 +281,28 @@
       "provider": "Leidsa",
       "game": "Super Kino TV",
       "edition": null,
-      "date": "2025-12-06",
+      "date": "2025-12-07",
       "numbers": [
-        "04",
-        "05",
-        "21",
-        "26",
-        "28",
+        "07",
+        "09",
+        "13",
+        "14",
+        "16",
         "31",
-        "38",
         "40",
-        "41",
-        "42",
-        "46",
-        "49",
         "51",
         "53",
-        "56",
-        "58",
+        "54",
+        "55",
+        "59",
+        "60",
+        "63",
         "66",
-        "71",
-        "74",
-        "78"
+        "67",
+        "69",
+        "70",
+        "72",
+        "73"
       ],
       "provider_id": "leidsa",
       "game_id": "super-kino-tv"
