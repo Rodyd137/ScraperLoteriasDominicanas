@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-12-10T13:33:39.441297Z",
+  "last_updated": "2025-12-10T14:18:16.481578Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -54,11 +54,11 @@
       "provider": "Anguila",
       "game": "Anguila",
       "edition": "Mañana",
-      "date": "2025-12-09",
+      "date": "2025-12-10",
       "numbers": [
-        "48",
-        "38",
-        "43"
+        "40",
+        "13",
+        "68"
       ],
       "provider_id": "anguila",
       "game_id": "anguila"
