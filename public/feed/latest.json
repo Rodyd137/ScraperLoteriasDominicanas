@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-12-17T23:39:26.650589Z",
+  "last_updated": "2025-12-18T01:12:10.269022Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -80,11 +80,11 @@
       "provider": "Anguila",
       "game": "Anguila",
       "edition": "Noche",
-      "date": "2025-12-16",
+      "date": "2025-12-17",
       "numbers": [
-        "14",
-        "18",
-        "35"
+        "49",
+        "21",
+        "74"
       ],
       "provider_id": "anguila",
       "game_id": "anguila"
@@ -222,13 +222,13 @@
       "provider": "Leidsa",
       "game": "Loto Pool",
       "edition": null,
-      "date": "2025-12-16",
+      "date": "2025-12-17",
       "numbers": [
-        "04",
-        "17",
-        "20",
-        "21",
-        "22"
+        "15",
+        "22",
+        "23",
+        "28",
+        "29"
       ],
       "provider_id": "leidsa",
       "game_id": "loto-pool"
@@ -237,16 +237,16 @@
       "provider": "Leidsa",
       "game": "Loto - Super Loto Más",
       "edition": null,
-      "date": "2025-12-13",
+      "date": "2025-12-17",
       "numbers": [
-        "09",
-        "10",
-        "23",
-        "24",
-        "31",
-        "33",
-        "04",
-        "15"
+        "01",
+        "02",
+        "15",
+        "29",
+        "34",
+        "40",
+        "12",
+        "12"
       ],
       "provider_id": "leidsa",
       "game_id": "loto-super-loto-mas"
@@ -255,11 +255,11 @@
       "provider": "Leidsa",
       "game": "Pega 3 Más",
       "edition": null,
-      "date": "2025-12-16",
+      "date": "2025-12-17",
       "numbers": [
-        "35",
-        "08",
-        "06"
+        "18",
+        "46",
+        "33"
       ],
       "provider_id": "leidsa",
       "game_id": "pega-3-mas"
@@ -268,11 +268,11 @@
       "provider": "Leidsa",
       "game": "Quiniela",
       "edition": null,
-      "date": "2025-12-16",
+      "date": "2025-12-17",
       "numbers": [
-        "90",
-        "70",
-        "81"
+        "57",
+        "91",
+        "19"
       ],
       "provider_id": "leidsa",
       "game_id": "quiniela"
@@ -281,27 +281,27 @@
       "provider": "Leidsa",
       "game": "Super Kino TV",
       "edition": null,
-      "date": "2025-12-16",
+      "date": "2025-12-17",
       "numbers": [
         "07",
-        "12",
-        "16",
+        "11",
+        "15",
         "18",
-        "24",
-        "25",
-        "26",
-        "33",
+        "27",
+        "30",
+        "34",
         "41",
         "42",
-        "44",
-        "45",
-        "49",
-        "50",
-        "52",
+        "43",
+        "46",
+        "48",
+        "53",
+        "56",
+        "57",
         "60",
-        "63",
         "65",
-        "72",
+        "69",
+        "73",
         "77"
       ],
       "provider_id": "leidsa",
@@ -311,10 +311,10 @@
       "provider": "Leidsa",
       "game": "Super Palé",
       "edition": null,
-      "date": "2025-12-16",
+      "date": "2025-12-17",
       "numbers": [
-        "90",
-        "46"
+        "57",
+        "85"
       ],
       "provider_id": "leidsa",
       "game_id": "super-pale"
@@ -347,13 +347,13 @@
       "provider": "Loteka",
       "game": "Mega Chances",
       "edition": null,
-      "date": "2025-12-16",
+      "date": "2025-12-17",
       "numbers": [
-        "41",
-        "75",
-        "19",
-        "11",
-        "02"
+        "18",
+        "77",
+        "12",
+        "74",
+        "53"
       ],
       "provider_id": "loteka",
       "game_id": "mega-chances"
@@ -362,11 +362,11 @@
       "provider": "Loteka",
       "game": "Quiniela",
       "edition": null,
-      "date": "2025-12-16",
+      "date": "2025-12-17",
       "numbers": [
-        "55",
-        "59",
-        "18"
+        "78",
+        "38",
+        "79"
       ],
       "provider_id": "loteka",
       "game_id": "quiniela"
@@ -403,11 +403,11 @@
       "provider": "Lotería Nacional",
       "game": "Lotería Nacional",
       "edition": null,
-      "date": "2025-12-16",
+      "date": "2025-12-17",
       "numbers": [
-        "46",
-        "34",
-        "00"
+        "85",
+        "05",
+        "49"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "loteria-nacional"
