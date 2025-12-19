@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2025-12-19T22:42:04.080515Z",
+  "last_updated": "2025-12-19T23:15:13.938669Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -132,14 +132,14 @@
       "provider": "La Primera",
       "game": "Loto 5",
       "edition": null,
-      "date": "2025-12-18",
+      "date": "2025-12-19",
       "numbers": [
-        "19",
-        "03",
-        "15",
+        "23",
         "31",
-        "24",
-        "01"
+        "32",
+        "19",
+        "12",
+        "03"
       ],
       "provider_id": "la-primera",
       "game_id": "loto-5"
@@ -161,11 +161,11 @@
       "provider": "La Primera",
       "game": "Quiniela",
       "edition": "Noche",
-      "date": "2025-12-18",
+      "date": "2025-12-19",
       "numbers": [
-        "20",
-        "15",
-        "54"
+        "24",
+        "42",
+        "25"
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela"
@@ -185,9 +185,9 @@
       "provider": "La Primera",
       "game": "El Quinielón",
       "edition": "Noche",
-      "date": "2025-12-18",
+      "date": "2025-12-19",
       "numbers": [
-        "50"
+        "72"
       ],
       "provider_id": "la-primera",
       "game_id": "quinielon"
