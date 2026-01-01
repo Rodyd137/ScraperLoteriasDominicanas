@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-01-01T21:39:16.425028Z",
+  "last_updated": "2026-01-01T22:15:19.111576Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -209,11 +209,11 @@
       "provider": "La Suerte Dominicana",
       "game": "La Suerte",
       "edition": "18:00",
-      "date": "2025-12-31",
+      "date": "2026-01-01",
       "numbers": [
-        "70",
-        "01",
-        "42"
+        "80",
+        "00",
+        "73"
       ],
       "provider_id": "la-suerte-dominicana",
       "game_id": "la-suerte"
