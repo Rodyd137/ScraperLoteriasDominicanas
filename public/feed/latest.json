@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-01-22T17:00:47.719557Z",
+  "last_updated": "2026-01-22T17:51:54.197786Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -70,7 +70,8 @@
       "date": "2026-01-22",
       "numbers": [
         "13",
-        "96"
+        "96",
+        "84"
       ],
       "provider_id": "anguila",
       "game_id": "anguila"
@@ -431,11 +432,11 @@
       "provider": "Lotería Real",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-01-21",
+      "date": "2026-01-22",
       "numbers": [
-        "80",
-        "93",
-        "20"
+        "17",
+        "61",
+        "41"
       ],
       "provider_id": "loteria-real",
       "game_id": "quiniela"
