@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-01-24T16:18:36.405332Z",
+  "last_updated": "2026-01-24T16:46:27.975784Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -106,11 +106,11 @@
       "provider": "King Lottery",
       "game": "King Lottery",
       "edition": "12:30",
-      "date": "2026-01-23",
+      "date": "2026-01-24",
       "numbers": [
-        "52",
-        "07",
-        "42"
+        "88",
+        "62",
+        "35"
       ],
       "provider_id": "king-lottery",
       "game_id": "king-lottery"
@@ -196,11 +196,11 @@
       "provider": "La Suerte Dominicana",
       "game": "La Suerte",
       "edition": "12:30",
-      "date": "2026-01-23",
+      "date": "2026-01-24",
       "numbers": [
-        "14",
-        "46",
-        "46"
+        "06",
+        "11",
+        "53"
       ],
       "provider_id": "la-suerte-dominicana",
       "game_id": "la-suerte"
