@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-01-26T17:00:45.602791Z",
+  "last_updated": "2026-01-26T17:51:30.737374Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -432,11 +432,11 @@
       "provider": "Lotería Real",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-01-25",
+      "date": "2026-01-26",
       "numbers": [
         "12",
-        "26",
-        "64"
+        "55",
+        "40"
       ],
       "provider_id": "loteria-real",
       "game_id": "quiniela"
