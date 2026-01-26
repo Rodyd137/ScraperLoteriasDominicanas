@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-01-25T23:40:19.829305Z",
+  "last_updated": "2026-01-26T01:24:20.907814Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -80,11 +80,11 @@
       "provider": "Anguila",
       "game": "Anguila",
       "edition": "Noche",
-      "date": "2026-01-24",
+      "date": "2026-01-25",
       "numbers": [
-        "47",
+        "15",
         "49",
-        "18"
+        "12"
       ],
       "provider_id": "anguila",
       "game_id": "anguila"
@@ -347,13 +347,13 @@
       "provider": "Loteka",
       "game": "Mega Chances",
       "edition": null,
-      "date": "2026-01-24",
+      "date": "2026-01-25",
       "numbers": [
-        "52",
-        "40",
-        "64",
-        "54",
-        "35"
+        "36",
+        "39",
+        "37",
+        "44",
+        "71"
       ],
       "provider_id": "loteka",
       "game_id": "mega-chances"
@@ -362,11 +362,11 @@
       "provider": "Loteka",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-01-24",
+      "date": "2026-01-25",
       "numbers": [
-        "10",
-        "01",
-        "74"
+        "58",
+        "78",
+        "06"
       ],
       "provider_id": "loteka",
       "game_id": "quiniela"
