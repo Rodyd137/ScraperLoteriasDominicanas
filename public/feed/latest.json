@@ -1,19 +1,19 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-01-31T01:26:20.894603Z",
+  "last_updated": "2026-01-31T03:36:53.461964Z",
   "draws": [
     {
       "provider": "Americanas",
       "game": "Cash 4 Life",
       "edition": null,
-      "date": "2026-01-29",
+      "date": "2026-01-30",
       "numbers": [
-        "42",
-        "07",
-        "06",
-        "47",
-        "29",
-        "01"
+        "58",
+        "37",
+        "02",
+        "60",
+        "28",
+        "02"
       ],
       "provider_id": "americanas",
       "game_id": "cash-4-life"
