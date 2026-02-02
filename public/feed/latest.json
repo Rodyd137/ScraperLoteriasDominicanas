@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-02-02T18:35:52.963355Z",
+  "last_updated": "2026-02-02T23:22:44.152397Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -93,11 +93,11 @@
       "provider": "Anguila",
       "game": "Anguila",
       "edition": "Tarde",
-      "date": "2026-02-01",
+      "date": "2026-02-02",
       "numbers": [
-        "23",
-        "12",
-        "32"
+        "22",
+        "34",
+        "48"
       ],
       "provider_id": "anguila",
       "game_id": "anguila"
@@ -132,14 +132,14 @@
       "provider": "La Primera",
       "game": "Loto 5",
       "edition": null,
-      "date": "2026-02-01",
+      "date": "2026-02-02",
       "numbers": [
-        "22",
-        "10",
-        "33",
-        "06",
-        "35",
-        "02"
+        "19",
+        "18",
+        "36",
+        "27",
+        "09",
+        "09"
       ],
       "provider_id": "la-primera",
       "game_id": "loto-5"
@@ -161,11 +161,11 @@
       "provider": "La Primera",
       "game": "Quiniela",
       "edition": "Noche",
-      "date": "2026-02-01",
+      "date": "2026-02-02",
       "numbers": [
-        "66",
-        "96",
-        "79"
+        "62",
+        "20",
+        "29"
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela"
@@ -185,9 +185,9 @@
       "provider": "La Primera",
       "game": "El Quinielón",
       "edition": "Noche",
-      "date": "2026-02-01",
+      "date": "2026-02-02",
       "numbers": [
-        "80"
+        "34"
       ],
       "provider_id": "la-primera",
       "game_id": "quinielon"
@@ -209,11 +209,11 @@
       "provider": "La Suerte Dominicana",
       "game": "La Suerte",
       "edition": "18:00",
-      "date": "2026-02-01",
+      "date": "2026-02-02",
       "numbers": [
-        "56",
-        "35",
-        "38"
+        "64",
+        "09",
+        "78"
       ],
       "provider_id": "la-suerte-dominicana",
       "game_id": "la-suerte"
@@ -375,11 +375,11 @@
       "provider": "Lotería Nacional",
       "game": "Gana Más",
       "edition": null,
-      "date": "2026-02-01",
+      "date": "2026-02-02",
       "numbers": [
-        "03",
-        "41",
-        "39"
+        "62",
+        "71",
+        "14"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "gana-mas"
@@ -388,13 +388,13 @@
       "provider": "Lotería Nacional",
       "game": "Juega + Pega +",
       "edition": null,
-      "date": "2026-02-01",
+      "date": "2026-02-02",
       "numbers": [
-        "10",
+        "13",
+        "23",
+        "02",
         "21",
-        "04",
-        "17",
-        "22"
+        "20"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "juega-pega"
