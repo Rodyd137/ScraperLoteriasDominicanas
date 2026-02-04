@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-02-04T15:37:24.407624Z",
+  "last_updated": "2026-02-04T16:39:51.799718Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -106,11 +106,11 @@
       "provider": "King Lottery",
       "game": "King Lottery",
       "edition": "12:30",
-      "date": "2026-02-03",
+      "date": "2026-02-04",
       "numbers": [
-        "45",
-        "45",
-        "44"
+        "75",
+        "57",
+        "50"
       ],
       "provider_id": "king-lottery",
       "game_id": "king-lottery"
@@ -148,11 +148,11 @@
       "provider": "La Primera",
       "game": "Quiniela",
       "edition": "Día",
-      "date": "2026-02-03",
+      "date": "2026-02-04",
       "numbers": [
-        "51",
-        "39",
-        "44"
+        "84",
+        "23",
+        "82"
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela"
@@ -174,9 +174,9 @@
       "provider": "La Primera",
       "game": "El Quinielón",
       "edition": "Día",
-      "date": "2026-02-03",
+      "date": "2026-02-04",
       "numbers": [
-        "89"
+        "36"
       ],
       "provider_id": "la-primera",
       "game_id": "quinielon"
@@ -196,11 +196,11 @@
       "provider": "La Suerte Dominicana",
       "game": "La Suerte",
       "edition": "12:30",
-      "date": "2026-02-03",
+      "date": "2026-02-04",
       "numbers": [
-        "45",
-        "09",
-        "74"
+        "51",
+        "64",
+        "08"
       ],
       "provider_id": "la-suerte-dominicana",
       "game_id": "la-suerte"
@@ -323,9 +323,9 @@
       "provider": "LoteDom",
       "game": "El Quemaito Mayor",
       "edition": null,
-      "date": "2026-02-03",
+      "date": "2026-02-04",
       "numbers": [
-        "56"
+        "44"
       ],
       "provider_id": "lotedom",
       "game_id": "quemaito-mayor"
@@ -334,11 +334,11 @@
       "provider": "LoteDom",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-02-03",
+      "date": "2026-02-04",
       "numbers": [
-        "23",
-        "12",
-        "82"
+        "21",
+        "32",
+        "58"
       ],
       "provider_id": "lotedom",
       "game_id": "quiniela"
