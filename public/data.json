@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-02-06T22:48:50.972747Z",
+  "last_updated": "2026-02-06T23:19:53.366721Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -132,14 +132,14 @@
       "provider": "La Primera",
       "game": "Loto 5",
       "edition": null,
-      "date": "2026-02-05",
+      "date": "2026-02-06",
       "numbers": [
-        "29",
+        "38",
+        "28",
+        "11",
+        "10",
         "23",
-        "32",
-        "06",
-        "03",
-        "09"
+        "04"
       ],
       "provider_id": "la-primera",
       "game_id": "loto-5"
@@ -161,11 +161,11 @@
       "provider": "La Primera",
       "game": "Quiniela",
       "edition": "Noche",
-      "date": "2026-02-05",
+      "date": "2026-02-06",
       "numbers": [
-        "35",
-        "72",
-        "17"
+        "42",
+        "20",
+        "21"
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela"
@@ -185,9 +185,9 @@
       "provider": "La Primera",
       "game": "El Quinielón",
       "edition": "Noche",
-      "date": "2026-02-05",
+      "date": "2026-02-06",
       "numbers": [
-        "94"
+        "52"
       ],
       "provider_id": "la-primera",
       "game_id": "quinielon"
