@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-02-10T14:40:51.482000Z",
+  "last_updated": "2026-02-10T16:01:50.435753Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -334,11 +334,11 @@
       "provider": "LoteDom",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-02-09",
+      "date": "2026-02-10",
       "numbers": [
-        "76",
-        "28",
-        "73"
+        "80",
+        "30",
+        "67"
       ],
       "provider_id": "lotedom",
       "game_id": "quiniela"
