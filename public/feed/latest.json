@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-02-13T18:39:40.106083Z",
+  "last_updated": "2026-02-13T19:39:08.373705Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -375,11 +375,11 @@
       "provider": "Lotería Nacional",
       "game": "Gana Más",
       "edition": null,
-      "date": "2026-02-12",
+      "date": "2026-02-13",
       "numbers": [
-        "45",
-        "19",
-        "65"
+        "99",
+        "60",
+        "26"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "gana-mas"
