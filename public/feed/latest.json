@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-02-15T19:44:18.761047Z",
+  "last_updated": "2026-02-15T20:19:58.560734Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -222,13 +222,13 @@
       "provider": "Leidsa",
       "game": "Loto Pool",
       "edition": null,
-      "date": "2026-02-14",
+      "date": "2026-02-15",
       "numbers": [
-        "01",
-        "05",
-        "08",
-        "13",
-        "25"
+        "03",
+        "04",
+        "19",
+        "25",
+        "29"
       ],
       "provider_id": "leidsa",
       "game_id": "loto-pool"
@@ -255,11 +255,11 @@
       "provider": "Leidsa",
       "game": "Pega 3 Más",
       "edition": null,
-      "date": "2026-02-14",
+      "date": "2026-02-15",
       "numbers": [
-        "25",
-        "19",
-        "07"
+        "48",
+        "16",
+        "21"
       ],
       "provider_id": "leidsa",
       "game_id": "pega-3-mas"
@@ -268,11 +268,11 @@
       "provider": "Leidsa",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-02-14",
+      "date": "2026-02-15",
       "numbers": [
-        "38",
-        "28",
-        "30"
+        "84",
+        "17",
+        "08"
       ],
       "provider_id": "leidsa",
       "game_id": "quiniela"
@@ -281,28 +281,28 @@
       "provider": "Leidsa",
       "game": "Super Kino TV",
       "edition": null,
-      "date": "2026-02-14",
+      "date": "2026-02-15",
       "numbers": [
-        "01",
-        "07",
-        "11",
-        "14",
+        "05",
+        "10",
+        "12",
         "16",
-        "27",
-        "30",
+        "17",
+        "18",
+        "26",
+        "31",
         "32",
-        "37",
         "38",
         "39",
-        "44",
-        "47",
+        "41",
+        "45",
+        "46",
         "49",
-        "57",
-        "59",
-        "72",
+        "58",
+        "65",
         "74",
         "76",
-        "79"
+        "80"
       ],
       "provider_id": "leidsa",
       "game_id": "super-kino-tv"
