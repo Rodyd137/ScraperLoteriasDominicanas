@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-02-17T16:14:29.821078Z",
+  "last_updated": "2026-02-17T17:30:42.543743Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -67,11 +67,11 @@
       "provider": "Anguila",
       "game": "Anguila",
       "edition": "Medio Día",
-      "date": "2026-02-16",
+      "date": "2026-02-17",
       "numbers": [
+        "21",
         "66",
-        "14",
-        "04"
+        "94"
       ],
       "provider_id": "anguila",
       "game_id": "anguila"
@@ -106,11 +106,11 @@
       "provider": "King Lottery",
       "game": "King Lottery",
       "edition": "12:30",
-      "date": "2026-02-16",
+      "date": "2026-02-17",
       "numbers": [
-        "95",
-        "31",
-        "44"
+        "93",
+        "90",
+        "89"
       ],
       "provider_id": "king-lottery",
       "game_id": "king-lottery"
@@ -196,11 +196,11 @@
       "provider": "La Suerte Dominicana",
       "game": "La Suerte",
       "edition": "12:30",
-      "date": "2026-02-16",
+      "date": "2026-02-17",
       "numbers": [
-        "35",
-        "49",
-        "30"
+        "72",
+        "73",
+        "91"
       ],
       "provider_id": "la-suerte-dominicana",
       "game_id": "la-suerte"
@@ -416,14 +416,14 @@
       "provider": "Lotería Real",
       "game": "Loto Real",
       "edition": null,
-      "date": "2026-02-13",
+      "date": "2026-02-17",
       "numbers": [
-        "04",
-        "11",
-        "21",
+        "01",
+        "06",
+        "07",
+        "23",
         "27",
-        "30",
-        "36"
+        "38"
       ],
       "provider_id": "loteria-real",
       "game_id": "loto-real"
@@ -432,11 +432,11 @@
       "provider": "Lotería Real",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-02-16",
+      "date": "2026-02-17",
       "numbers": [
-        "24",
-        "98",
-        "70"
+        "67",
+        "01",
+        "67"
       ],
       "provider_id": "loteria-real",
       "game_id": "quiniela"
