@@ -1,19 +1,19 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-02-19T01:47:13.275683Z",
+  "last_updated": "2026-02-19T04:15:01.891423Z",
   "draws": [
     {
       "provider": "Americanas",
       "game": "Cash 4 Life",
       "edition": null,
-      "date": "2026-02-17",
+      "date": "2026-02-18",
       "numbers": [
-        "11",
-        "22",
-        "60",
-        "56",
-        "32",
-        "04"
+        "49",
+        "03",
+        "38",
+        "28",
+        "40",
+        "01"
       ],
       "provider_id": "americanas",
       "game_id": "cash-4-life"
@@ -38,14 +38,14 @@
       "provider": "Americanas",
       "game": "PowerBall",
       "edition": null,
-      "date": "2026-02-16",
+      "date": "2026-02-18",
       "numbers": [
-        "16",
-        "18",
-        "19",
-        "56",
-        "58",
-        "06"
+        "09",
+        "33",
+        "52",
+        "64",
+        "66",
+        "01"
       ],
       "provider_id": "americanas",
       "game_id": "powerball"
