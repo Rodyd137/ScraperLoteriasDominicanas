@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-02-20T17:33:03.783143Z",
+  "last_updated": "2026-02-20T18:38:49.685623Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -388,13 +388,10 @@
       "provider": "Lotería Nacional",
       "game": "Juega + Pega +",
       "edition": null,
-      "date": "2026-02-19",
+      "date": "2026-02-20",
       "numbers": [
-        "16",
-        "12",
-        "05",
-        "07",
-        "08"
+        "10",
+        "12"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "juega-pega"
