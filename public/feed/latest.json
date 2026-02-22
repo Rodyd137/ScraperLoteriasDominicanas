@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-02-21T23:44:45.733247Z",
+  "last_updated": "2026-02-22T01:45:44.964596Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -80,11 +80,11 @@
       "provider": "Anguila",
       "game": "Anguila",
       "edition": "Noche",
-      "date": "2026-02-20",
+      "date": "2026-02-21",
       "numbers": [
-        "86",
-        "79",
-        "76"
+        "29",
+        "48",
+        "20"
       ],
       "provider_id": "anguila",
       "game_id": "anguila"
@@ -222,13 +222,13 @@
       "provider": "Leidsa",
       "game": "Loto Pool",
       "edition": null,
-      "date": "2026-02-20",
+      "date": "2026-02-21",
       "numbers": [
-        "05",
-        "15",
-        "20",
-        "24",
-        "31"
+        "07",
+        "10",
+        "14",
+        "23",
+        "28"
       ],
       "provider_id": "leidsa",
       "game_id": "loto-pool"
@@ -237,16 +237,16 @@
       "provider": "Leidsa",
       "game": "Loto - Super Loto Más",
       "edition": null,
-      "date": "2026-02-18",
+      "date": "2026-02-21",
       "numbers": [
+        "08",
         "10",
         "14",
-        "26",
-        "29",
-        "32",
+        "17",
+        "25",
         "36",
-        "11",
-        "12"
+        "10",
+        "08"
       ],
       "provider_id": "leidsa",
       "game_id": "loto-super-loto-mas"
@@ -255,11 +255,11 @@
       "provider": "Leidsa",
       "game": "Pega 3 Más",
       "edition": null,
-      "date": "2026-02-20",
+      "date": "2026-02-21",
       "numbers": [
-        "03",
+        "11",
         "20",
-        "19"
+        "00"
       ],
       "provider_id": "leidsa",
       "game_id": "pega-3-mas"
@@ -268,11 +268,11 @@
       "provider": "Leidsa",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-02-20",
+      "date": "2026-02-21",
       "numbers": [
-        "11",
-        "23",
-        "81"
+        "74",
+        "84",
+        "55"
       ],
       "provider_id": "leidsa",
       "game_id": "quiniela"
@@ -281,28 +281,28 @@
       "provider": "Leidsa",
       "game": "Super Kino TV",
       "edition": null,
-      "date": "2026-02-20",
+      "date": "2026-02-21",
       "numbers": [
-        "02",
+        "03",
         "04",
-        "07",
+        "06",
         "08",
         "09",
-        "24",
-        "25",
-        "39",
+        "17",
+        "19",
+        "21",
+        "26",
+        "38",
+        "40",
         "42",
-        "44",
-        "50",
-        "52",
-        "54",
+        "53",
+        "56",
         "58",
-        "62",
-        "65",
+        "60",
         "69",
-        "72",
-        "74",
-        "78"
+        "75",
+        "78",
+        "80"
       ],
       "provider_id": "leidsa",
       "game_id": "super-kino-tv"
@@ -311,10 +311,10 @@
       "provider": "Leidsa",
       "game": "Super Palé",
       "edition": null,
-      "date": "2026-02-20",
+      "date": "2026-02-21",
       "numbers": [
-        "11",
-        "58"
+        "74",
+        "70"
       ],
       "provider_id": "leidsa",
       "game_id": "super-pale"
@@ -347,13 +347,13 @@
       "provider": "Loteka",
       "game": "Mega Chances",
       "edition": null,
-      "date": "2026-02-20",
+      "date": "2026-02-21",
       "numbers": [
-        "40",
-        "85",
-        "51",
-        "77",
-        "85"
+        "97",
+        "26",
+        "13",
+        "27",
+        "41"
       ],
       "provider_id": "loteka",
       "game_id": "mega-chances"
@@ -362,11 +362,11 @@
       "provider": "Loteka",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-02-20",
+      "date": "2026-02-21",
       "numbers": [
-        "08",
-        "41",
-        "98"
+        "24",
+        "18",
+        "78"
       ],
       "provider_id": "loteka",
       "game_id": "quiniela"
@@ -403,11 +403,11 @@
       "provider": "Lotería Nacional",
       "game": "Lotería Nacional",
       "edition": null,
-      "date": "2026-02-20",
+      "date": "2026-02-21",
       "numbers": [
-        "58",
-        "35",
-        "18"
+        "70",
+        "38",
+        "08"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "loteria-nacional"
