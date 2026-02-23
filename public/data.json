@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-02-23T16:10:23.324793Z",
+  "last_updated": "2026-02-23T17:35:38.173672Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -67,11 +67,11 @@
       "provider": "Anguila",
       "game": "Anguila",
       "edition": "Medio Día",
-      "date": "2026-02-22",
+      "date": "2026-02-23",
       "numbers": [
-        "01",
-        "19",
-        "29"
+        "41",
+        "36",
+        "10"
       ],
       "provider_id": "anguila",
       "game_id": "anguila"
@@ -106,11 +106,11 @@
       "provider": "King Lottery",
       "game": "King Lottery",
       "edition": "12:30",
-      "date": "2026-02-22",
+      "date": "2026-02-23",
       "numbers": [
-        "04",
-        "34",
-        "09"
+        "43",
+        "27",
+        "57"
       ],
       "provider_id": "king-lottery",
       "game_id": "king-lottery"
@@ -196,11 +196,11 @@
       "provider": "La Suerte Dominicana",
       "game": "La Suerte",
       "edition": "12:30",
-      "date": "2026-02-22",
+      "date": "2026-02-23",
       "numbers": [
-        "00",
-        "56",
-        "22"
+        "55",
+        "32",
+        "14"
       ],
       "provider_id": "la-suerte-dominicana",
       "game_id": "la-suerte"
@@ -432,11 +432,11 @@
       "provider": "Lotería Real",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-02-22",
+      "date": "2026-02-23",
       "numbers": [
-        "90",
-        "89",
-        "59"
+        "25",
+        "67",
+        "95"
       ],
       "provider_id": "loteria-real",
       "game_id": "quiniela"
