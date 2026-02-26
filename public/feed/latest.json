@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-02-26T18:44:07.441722Z",
+  "last_updated": "2026-02-26T19:39:46.310539Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -377,7 +377,9 @@
       "edition": null,
       "date": "2026-02-26",
       "numbers": [
-        "12"
+        "12",
+        "94",
+        "21"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "gana-mas"
