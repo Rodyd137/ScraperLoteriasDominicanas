@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-03-01T19:41:33.201541Z",
+  "last_updated": "2026-03-01T20:20:22.891886Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -222,13 +222,13 @@
       "provider": "Leidsa",
       "game": "Loto Pool",
       "edition": null,
-      "date": "2026-02-28",
+      "date": "2026-03-01",
       "numbers": [
-        "14",
-        "15",
-        "18",
-        "25",
-        "26"
+        "04",
+        "06",
+        "08",
+        "10",
+        "19"
       ],
       "provider_id": "leidsa",
       "game_id": "loto-pool"
@@ -255,11 +255,11 @@
       "provider": "Leidsa",
       "game": "Pega 3 Más",
       "edition": null,
-      "date": "2026-02-28",
+      "date": "2026-03-01",
       "numbers": [
-        "28",
-        "45",
-        "30"
+        "18",
+        "27",
+        "23"
       ],
       "provider_id": "leidsa",
       "game_id": "pega-3-mas"
@@ -268,11 +268,11 @@
       "provider": "Leidsa",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-02-28",
+      "date": "2026-03-01",
       "numbers": [
-        "44",
-        "56",
-        "87"
+        "54",
+        "98",
+        "34"
       ],
       "provider_id": "leidsa",
       "game_id": "quiniela"
@@ -281,28 +281,28 @@
       "provider": "Leidsa",
       "game": "Super Kino TV",
       "edition": null,
-      "date": "2026-02-28",
+      "date": "2026-03-01",
       "numbers": [
-        "01",
-        "02",
-        "11",
-        "13",
-        "19",
-        "21",
-        "24",
-        "26",
-        "34",
-        "37",
-        "42",
-        "51",
-        "58",
-        "64",
+        "03",
+        "06",
+        "07",
+        "09",
+        "14",
+        "30",
+        "38",
+        "39",
+        "40",
+        "43",
+        "44",
+        "45",
+        "47",
+        "48",
+        "55",
+        "59",
         "66",
-        "67",
         "70",
-        "72",
-        "73",
-        "78"
+        "78",
+        "80"
       ],
       "provider_id": "leidsa",
       "game_id": "super-kino-tv"
