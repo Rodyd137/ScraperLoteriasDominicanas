@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-03-05T18:24:51.834917Z",
+  "last_updated": "2026-03-05T19:40:47.348640Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -49,84 +49,6 @@
       ],
       "provider_id": "americanas",
       "game_id": "powerball"
-    },
-    {
-      "provider": "Anguila",
-      "game": "Anguila",
-      "edition": "Mañana",
-      "date": "2026-03-05",
-      "numbers": [
-        "73",
-        "04",
-        "08"
-      ],
-      "provider_id": "anguila",
-      "game_id": "anguila"
-    },
-    {
-      "provider": "Anguila",
-      "game": "Anguila",
-      "edition": "Medio Día",
-      "date": "2026-03-05",
-      "numbers": [
-        "55",
-        "59",
-        "49"
-      ],
-      "provider_id": "anguila",
-      "game_id": "anguila"
-    },
-    {
-      "provider": "Anguila",
-      "game": "Anguila",
-      "edition": "Noche",
-      "date": "2026-03-04",
-      "numbers": [
-        "03",
-        "76",
-        "23"
-      ],
-      "provider_id": "anguila",
-      "game_id": "anguila"
-    },
-    {
-      "provider": "Anguila",
-      "game": "Anguila",
-      "edition": "Tarde",
-      "date": "2026-03-04",
-      "numbers": [
-        "94",
-        "90",
-        "60"
-      ],
-      "provider_id": "anguila",
-      "game_id": "anguila"
-    },
-    {
-      "provider": "King Lottery",
-      "game": "King Lottery",
-      "edition": "12:30",
-      "date": "2026-03-05",
-      "numbers": [
-        "30",
-        "61",
-        "75"
-      ],
-      "provider_id": "king-lottery",
-      "game_id": "king-lottery"
-    },
-    {
-      "provider": "King Lottery",
-      "game": "King Lottery",
-      "edition": "7:30",
-      "date": "2026-03-04",
-      "numbers": [
-        "33",
-        "66",
-        "97"
-      ],
-      "provider_id": "king-lottery",
-      "game_id": "king-lottery"
     },
     {
       "provider": "La Primera",
@@ -375,11 +297,11 @@
       "provider": "Lotería Nacional",
       "game": "Gana Más",
       "edition": null,
-      "date": "2026-03-04",
+      "date": "2026-03-05",
       "numbers": [
-        "37",
-        "32",
-        "21"
+        "44",
+        "93",
+        "62"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "gana-mas"
@@ -388,13 +310,13 @@
       "provider": "Lotería Nacional",
       "game": "Juega + Pega +",
       "edition": null,
-      "date": "2026-03-04",
+      "date": "2026-03-05",
       "numbers": [
-        "24",
-        "21",
-        "05",
-        "20",
-        "16"
+        "04",
+        "26",
+        "07",
+        "09",
+        "15"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "juega-pega"
