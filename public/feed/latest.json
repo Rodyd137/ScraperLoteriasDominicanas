@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-03-08T19:42:48.125165Z",
+  "last_updated": "2026-03-08T20:19:48.856910Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -222,13 +222,13 @@
       "provider": "Leidsa",
       "game": "Loto Pool",
       "edition": null,
-      "date": "2026-03-07",
+      "date": "2026-03-08",
       "numbers": [
-        "05",
-        "10",
+        "03",
+        "08",
+        "11",
         "15",
-        "20",
-        "25"
+        "21"
       ],
       "provider_id": "leidsa",
       "game_id": "loto-pool"
@@ -255,11 +255,11 @@
       "provider": "Leidsa",
       "game": "Pega 3 Más",
       "edition": null,
-      "date": "2026-03-07",
+      "date": "2026-03-08",
       "numbers": [
-        "25",
-        "06",
-        "15"
+        "47",
+        "49",
+        "39"
       ],
       "provider_id": "leidsa",
       "game_id": "pega-3-mas"
@@ -268,11 +268,11 @@
       "provider": "Leidsa",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-03-07",
+      "date": "2026-03-08",
       "numbers": [
-        "95",
-        "83",
-        "81"
+        "77",
+        "96",
+        "65"
       ],
       "provider_id": "leidsa",
       "game_id": "quiniela"
@@ -281,28 +281,28 @@
       "provider": "Leidsa",
       "game": "Super Kino TV",
       "edition": null,
-      "date": "2026-03-07",
+      "date": "2026-03-08",
       "numbers": [
-        "02",
         "03",
-        "06",
-        "13",
-        "22",
-        "25",
-        "28",
-        "29",
+        "12",
+        "15",
+        "23",
+        "24",
+        "30",
         "32",
-        "43",
-        "54",
-        "55",
-        "63",
+        "35",
+        "40",
+        "41",
+        "42",
+        "51",
+        "56",
+        "61",
         "66",
-        "67",
-        "69",
         "70",
-        "73",
-        "75",
-        "76"
+        "71",
+        "72",
+        "74",
+        "78"
       ],
       "provider_id": "leidsa",
       "game_id": "super-kino-tv"
