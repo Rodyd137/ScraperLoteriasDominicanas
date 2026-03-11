@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-03-10T23:48:51.590427Z",
+  "last_updated": "2026-03-11T01:27:19.437471Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -80,11 +80,11 @@
       "provider": "Anguila",
       "game": "Anguila",
       "edition": "Noche",
-      "date": "2026-03-09",
+      "date": "2026-03-10",
       "numbers": [
-        "56",
-        "22",
-        "62"
+        "46",
+        "40",
+        "29"
       ],
       "provider_id": "anguila",
       "game_id": "anguila"
@@ -222,13 +222,13 @@
       "provider": "Leidsa",
       "game": "Loto Pool",
       "edition": null,
-      "date": "2026-03-09",
+      "date": "2026-03-10",
       "numbers": [
-        "09",
-        "13",
-        "26",
-        "28",
-        "31"
+        "10",
+        "19",
+        "21",
+        "22",
+        "26"
       ],
       "provider_id": "leidsa",
       "game_id": "loto-pool"
@@ -255,11 +255,11 @@
       "provider": "Leidsa",
       "game": "Pega 3 Más",
       "edition": null,
-      "date": "2026-03-09",
+      "date": "2026-03-10",
       "numbers": [
-        "12",
-        "33",
-        "27"
+        "09",
+        "23",
+        "24"
       ],
       "provider_id": "leidsa",
       "game_id": "pega-3-mas"
@@ -268,11 +268,11 @@
       "provider": "Leidsa",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-03-09",
+      "date": "2026-03-10",
       "numbers": [
-        "94",
-        "39",
-        "95"
+        "00",
+        "59",
+        "76"
       ],
       "provider_id": "leidsa",
       "game_id": "quiniela"
@@ -281,28 +281,28 @@
       "provider": "Leidsa",
       "game": "Super Kino TV",
       "edition": null,
-      "date": "2026-03-09",
+      "date": "2026-03-10",
       "numbers": [
-        "09",
-        "15",
-        "19",
-        "23",
-        "30",
+        "03",
+        "05",
+        "06",
+        "11",
+        "12",
+        "13",
+        "16",
+        "20",
+        "27",
         "32",
-        "33",
-        "34",
-        "38",
-        "42",
+        "41",
         "44",
-        "45",
-        "46",
-        "48",
+        "49",
         "50",
-        "52",
-        "53",
         "54",
-        "58",
-        "60"
+        "57",
+        "59",
+        "67",
+        "71",
+        "76"
       ],
       "provider_id": "leidsa",
       "game_id": "super-kino-tv"
@@ -311,10 +311,10 @@
       "provider": "Leidsa",
       "game": "Super Palé",
       "edition": null,
-      "date": "2026-03-09",
+      "date": "2026-03-10",
       "numbers": [
-        "94",
-        "50"
+        "00",
+        "79"
       ],
       "provider_id": "leidsa",
       "game_id": "super-pale"
@@ -347,13 +347,13 @@
       "provider": "Loteka",
       "game": "Mega Chances",
       "edition": null,
-      "date": "2026-03-09",
+      "date": "2026-03-10",
       "numbers": [
-        "43",
-        "02",
-        "77",
-        "47",
-        "25"
+        "29",
+        "28",
+        "92",
+        "44",
+        "13"
       ],
       "provider_id": "loteka",
       "game_id": "mega-chances"
@@ -362,11 +362,11 @@
       "provider": "Loteka",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-03-09",
+      "date": "2026-03-10",
       "numbers": [
-        "09",
-        "43",
-        "98"
+        "71",
+        "31",
+        "74"
       ],
       "provider_id": "loteka",
       "game_id": "quiniela"
@@ -403,11 +403,11 @@
       "provider": "Lotería Nacional",
       "game": "Lotería Nacional",
       "edition": null,
-      "date": "2026-03-09",
+      "date": "2026-03-10",
       "numbers": [
-        "50",
-        "83",
-        "92"
+        "79",
+        "07",
+        "78"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "loteria-nacional"
