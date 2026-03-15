@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-03-15T23:24:16.692094Z",
+  "last_updated": "2026-03-15T23:50:30.813871Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -119,11 +119,11 @@
       "provider": "King Lottery",
       "game": "King Lottery",
       "edition": "7:30",
-      "date": "2026-03-14",
+      "date": "2026-03-15",
       "numbers": [
-        "04",
-        "86",
-        "33"
+        "27",
+        "97",
+        "95"
       ],
       "provider_id": "king-lottery",
       "game_id": "king-lottery"
