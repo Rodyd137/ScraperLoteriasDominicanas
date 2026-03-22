@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-03-22T19:44:51.164519Z",
+  "last_updated": "2026-03-22T20:20:41.879721Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -222,13 +222,13 @@
       "provider": "Leidsa",
       "game": "Loto Pool",
       "edition": null,
-      "date": "2026-03-21",
+      "date": "2026-03-22",
       "numbers": [
-        "03",
-        "05",
-        "09",
+        "08",
+        "10",
         "14",
-        "31"
+        "16",
+        "22"
       ],
       "provider_id": "leidsa",
       "game_id": "loto-pool"
@@ -255,11 +255,11 @@
       "provider": "Leidsa",
       "game": "Pega 3 Más",
       "edition": null,
-      "date": "2026-03-21",
+      "date": "2026-03-22",
       "numbers": [
-        "42",
-        "16",
-        "44"
+        "19",
+        "17",
+        "20"
       ],
       "provider_id": "leidsa",
       "game_id": "pega-3-mas"
@@ -268,11 +268,11 @@
       "provider": "Leidsa",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-03-21",
+      "date": "2026-03-22",
       "numbers": [
-        "54",
+        "63",
         "04",
-        "74"
+        "32"
       ],
       "provider_id": "leidsa",
       "game_id": "quiniela"
@@ -281,27 +281,27 @@
       "provider": "Leidsa",
       "game": "Super Kino TV",
       "edition": null,
-      "date": "2026-03-21",
+      "date": "2026-03-22",
       "numbers": [
-        "02",
-        "16",
-        "20",
+        "04",
+        "07",
+        "13",
+        "14",
+        "17",
         "21",
-        "25",
         "31",
         "32",
-        "35",
-        "40",
-        "41",
-        "56",
+        "34",
+        "36",
+        "42",
+        "47",
+        "50",
+        "54",
+        "55",
         "58",
-        "59",
-        "63",
-        "66",
-        "70",
+        "62",
+        "73",
         "75",
-        "76",
-        "77",
         "79"
       ],
       "provider_id": "leidsa",
