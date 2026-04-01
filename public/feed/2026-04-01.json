@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-04-01T14:47:34.345329Z",
+  "last_updated": "2026-04-01T16:03:28.325370Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -174,9 +174,9 @@
       "provider": "La Primera",
       "game": "El Quinielón",
       "edition": "Día",
-      "date": "2026-03-31",
+      "date": "2026-04-01",
       "numbers": [
-        "88"
+        "11"
       ],
       "provider_id": "la-primera",
       "game_id": "quinielon"
@@ -323,9 +323,9 @@
       "provider": "LoteDom",
       "game": "El Quemaito Mayor",
       "edition": null,
-      "date": "2026-03-31",
+      "date": "2026-04-01",
       "numbers": [
-        "21"
+        "62"
       ],
       "provider_id": "lotedom",
       "game_id": "quemaito-mayor"
@@ -334,11 +334,11 @@
       "provider": "LoteDom",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-03-31",
+      "date": "2026-04-01",
       "numbers": [
-        "00",
-        "36",
-        "52"
+        "06",
+        "49",
+        "97"
       ],
       "provider_id": "lotedom",
       "game_id": "quiniela"
