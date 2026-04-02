@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-04-02T01:52:05.922769Z",
+  "last_updated": "2026-04-02T04:26:12.467313Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -38,14 +38,14 @@
       "provider": "Americanas",
       "game": "PowerBall",
       "edition": null,
-      "date": "2026-03-30",
+      "date": "2026-04-01",
       "numbers": [
-        "07",
+        "04",
+        "10",
         "11",
-        "31",
-        "41",
-        "57",
-        "20"
+        "52",
+        "64",
+        "24"
       ],
       "provider_id": "americanas",
       "game_id": "powerball"
