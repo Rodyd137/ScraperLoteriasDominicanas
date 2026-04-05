@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-04-05T01:59:38.414820Z",
+  "last_updated": "2026-04-05T04:41:45.781126Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -38,14 +38,14 @@
       "provider": "Americanas",
       "game": "PowerBall",
       "edition": null,
-      "date": "2026-04-01",
+      "date": "2026-04-04",
       "numbers": [
-        "04",
-        "10",
-        "11",
-        "52",
-        "64",
-        "24"
+        "03",
+        "06",
+        "13",
+        "41",
+        "65",
+        "01"
       ],
       "provider_id": "americanas",
       "game_id": "powerball"
@@ -308,6 +308,18 @@
       "game_id": "super-kino-tv"
     },
     {
+      "provider": "Leidsa",
+      "game": "Super Palé",
+      "edition": null,
+      "date": "2026-04-01",
+      "numbers": [
+        "52",
+        "59"
+      ],
+      "provider_id": "leidsa",
+      "game_id": "super-pale"
+    },
+    {
       "provider": "LoteDom",
       "game": "El Quemaito Mayor",
       "edition": null,
@@ -358,6 +370,47 @@
       ],
       "provider_id": "loteka",
       "game_id": "quiniela"
+    },
+    {
+      "provider": "Lotería Nacional",
+      "game": "Gana Más",
+      "edition": null,
+      "date": "2026-04-01",
+      "numbers": [
+        "27",
+        "72",
+        "16"
+      ],
+      "provider_id": "loteria-nacional",
+      "game_id": "gana-mas"
+    },
+    {
+      "provider": "Lotería Nacional",
+      "game": "Juega + Pega +",
+      "edition": null,
+      "date": "2026-04-01",
+      "numbers": [
+        "16",
+        "18",
+        "17",
+        "23",
+        "20"
+      ],
+      "provider_id": "loteria-nacional",
+      "game_id": "juega-pega"
+    },
+    {
+      "provider": "Lotería Nacional",
+      "game": "Lotería Nacional",
+      "edition": null,
+      "date": "2026-04-01",
+      "numbers": [
+        "59",
+        "55",
+        "71"
+      ],
+      "provider_id": "loteria-nacional",
+      "game_id": "loteria-nacional"
     },
     {
       "provider": "Lotería Real",
