@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-04-06T17:39:46.484555Z",
+  "last_updated": "2026-04-06T18:50:55.193709Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -375,11 +375,11 @@
       "provider": "Lotería Nacional",
       "game": "Gana Más",
       "edition": null,
-      "date": "2026-04-05",
+      "date": "2026-04-06",
       "numbers": [
-        "54",
-        "63",
-        "42"
+        "91",
+        "99",
+        "33"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "gana-mas"
@@ -388,13 +388,13 @@
       "provider": "Lotería Nacional",
       "game": "Juega + Pega +",
       "edition": null,
-      "date": "2026-04-05",
+      "date": "2026-04-06",
       "numbers": [
-        "17",
-        "07",
-        "09",
-        "22",
-        "26"
+        "04",
+        "02",
+        "12",
+        "26",
+        "19"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "juega-pega"
