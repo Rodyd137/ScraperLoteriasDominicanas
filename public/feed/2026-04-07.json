@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-04-07T22:32:55.556196Z",
+  "last_updated": "2026-04-07T23:32:35.562727Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -119,11 +119,11 @@
       "provider": "King Lottery",
       "game": "King Lottery",
       "edition": "7:30",
-      "date": "2026-04-06",
+      "date": "2026-04-07",
       "numbers": [
-        "03",
-        "20",
-        "50"
+        "10",
+        "32",
+        "71"
       ],
       "provider_id": "king-lottery",
       "game_id": "king-lottery"
@@ -132,14 +132,14 @@
       "provider": "La Primera",
       "game": "Loto 5",
       "edition": null,
-      "date": "2026-04-06",
+      "date": "2026-04-07",
       "numbers": [
-        "29",
         "28",
-        "15",
-        "21",
-        "13",
-        "02"
+        "31",
+        "26",
+        "30",
+        "08",
+        "10"
       ],
       "provider_id": "la-primera",
       "game_id": "loto-5"
@@ -161,11 +161,11 @@
       "provider": "La Primera",
       "game": "Quiniela",
       "edition": "Noche",
-      "date": "2026-04-06",
+      "date": "2026-04-07",
       "numbers": [
-        "03",
-        "10",
-        "02"
+        "16",
+        "98",
+        "45"
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela"
@@ -185,9 +185,9 @@
       "provider": "La Primera",
       "game": "El Quinielón",
       "edition": "Noche",
-      "date": "2026-04-06",
+      "date": "2026-04-07",
       "numbers": [
-        "47"
+        "76"
       ],
       "provider_id": "la-primera",
       "game_id": "quinielon"
