@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-04-11T15:56:25.670414Z",
+  "last_updated": "2026-04-11T16:35:23.609929Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -105,19 +105,6 @@
     {
       "provider": "King Lottery",
       "game": "King Lottery",
-      "edition": "12:30",
-      "date": "2026-04-10",
-      "numbers": [
-        "37",
-        "90",
-        "20"
-      ],
-      "provider_id": "king-lottery",
-      "game_id": "king-lottery"
-    },
-    {
-      "provider": "King Lottery",
-      "game": "King Lottery",
       "edition": "7:30",
       "date": "2026-04-10",
       "numbers": [
@@ -148,11 +135,11 @@
       "provider": "La Primera",
       "game": "Quiniela",
       "edition": "Día",
-      "date": "2026-04-10",
+      "date": "2026-04-11",
       "numbers": [
-        "29",
-        "61",
-        "76"
+        "02",
+        "56",
+        "34"
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela"
@@ -174,9 +161,9 @@
       "provider": "La Primera",
       "game": "El Quinielón",
       "edition": "Día",
-      "date": "2026-04-10",
+      "date": "2026-04-11",
       "numbers": [
-        "07"
+        "41"
       ],
       "provider_id": "la-primera",
       "game_id": "quinielon"
@@ -196,11 +183,11 @@
       "provider": "La Suerte Dominicana",
       "game": "La Suerte",
       "edition": "12:30",
-      "date": "2026-04-10",
+      "date": "2026-04-11",
       "numbers": [
-        "03",
-        "29",
-        "75"
+        "06",
+        "96",
+        "74"
       ],
       "provider_id": "la-suerte-dominicana",
       "game_id": "la-suerte"
@@ -323,9 +310,9 @@
       "provider": "LoteDom",
       "game": "El Quemaito Mayor",
       "edition": null,
-      "date": "2026-04-10",
+      "date": "2026-04-11",
       "numbers": [
-        "75"
+        "74"
       ],
       "provider_id": "lotedom",
       "game_id": "quemaito-mayor"
@@ -334,11 +321,11 @@
       "provider": "LoteDom",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-04-10",
+      "date": "2026-04-11",
       "numbers": [
-        "34",
-        "40",
-        "01"
+        "36",
+        "08",
+        "46"
       ],
       "provider_id": "lotedom",
       "game_id": "quiniela"
