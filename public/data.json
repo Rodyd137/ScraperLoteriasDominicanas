@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-04-12T19:11:46.548871Z",
+  "last_updated": "2026-04-12T19:57:21.158529Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -255,11 +255,11 @@
       "provider": "Leidsa",
       "game": "Pega 3 Más",
       "edition": null,
-      "date": "2026-04-11",
+      "date": "2026-04-12",
       "numbers": [
-        "33",
-        "12",
-        "41"
+        "31",
+        "13",
+        "19"
       ],
       "provider_id": "leidsa",
       "game_id": "pega-3-mas"
