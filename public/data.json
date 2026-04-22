@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-04-22T02:53:58.313776Z",
+  "last_updated": "2026-04-22T05:20:25.986343Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -22,14 +22,14 @@
       "provider": "Americanas",
       "game": "Mega Millions",
       "edition": null,
-      "date": "2026-04-17",
+      "date": "2026-04-21",
       "numbers": [
-        "38",
+        "01",
+        "36",
         "43",
-        "44",
-        "49",
-        "62",
-        "08"
+        "56",
+        "58",
+        "07"
       ],
       "provider_id": "americanas",
       "game_id": "mega-millions"
