@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-04-26T22:01:02.709323Z",
+  "last_updated": "2026-04-26T23:04:21.128683Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -132,14 +132,14 @@
       "provider": "La Primera",
       "game": "Loto 5",
       "edition": null,
-      "date": "2026-04-25",
+      "date": "2026-04-26",
       "numbers": [
-        "32",
-        "01",
-        "18",
-        "30",
+        "16",
         "23",
-        "07"
+        "38",
+        "34",
+        "26",
+        "02"
       ],
       "provider_id": "la-primera",
       "game_id": "loto-5"
@@ -185,9 +185,9 @@
       "provider": "La Primera",
       "game": "El Quinielón",
       "edition": "Noche",
-      "date": "2026-04-25",
+      "date": "2026-04-26",
       "numbers": [
-        "12"
+        "30"
       ],
       "provider_id": "la-primera",
       "game_id": "quinielon"
@@ -209,11 +209,11 @@
       "provider": "La Suerte Dominicana",
       "game": "La Suerte",
       "edition": "18:00",
-      "date": "2026-04-25",
+      "date": "2026-04-26",
       "numbers": [
-        "06",
-        "81",
-        "64"
+        "51",
+        "64",
+        "88"
       ],
       "provider_id": "la-suerte-dominicana",
       "game_id": "la-suerte"
@@ -311,10 +311,10 @@
       "provider": "Leidsa",
       "game": "Super Palé",
       "edition": null,
-      "date": "2026-04-25",
+      "date": "2026-04-26",
       "numbers": [
-        "35",
-        "43"
+        "36",
+        "22"
       ],
       "provider_id": "leidsa",
       "game_id": "super-pale"
@@ -403,11 +403,11 @@
       "provider": "Lotería Nacional",
       "game": "Lotería Nacional",
       "edition": null,
-      "date": "2026-04-25",
+      "date": "2026-04-26",
       "numbers": [
-        "43",
-        "68",
-        "57"
+        "22",
+        "54",
+        "29"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "loteria-nacional"
