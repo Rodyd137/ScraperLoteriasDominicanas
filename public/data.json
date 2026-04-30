@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-04-30T13:51:12.594553Z",
+  "last_updated": "2026-04-30T15:45:09.329561Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -54,11 +54,11 @@
       "provider": "Anguila",
       "game": "Anguila",
       "edition": "Mañana",
-      "date": "2026-04-29",
+      "date": "2026-04-30",
       "numbers": [
-        "42",
-        "40",
-        "98"
+        "05",
+        "33",
+        "26"
       ],
       "provider_id": "anguila",
       "game_id": "anguila"
