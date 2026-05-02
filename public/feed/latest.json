@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-05-01T23:13:10.826394Z",
+  "last_updated": "2026-05-02T00:10:52.436639Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -111,19 +111,6 @@
         "12",
         "51",
         "26"
-      ],
-      "provider_id": "king-lottery",
-      "game_id": "king-lottery"
-    },
-    {
-      "provider": "King Lottery",
-      "game": "King Lottery",
-      "edition": "7:30",
-      "date": "2026-04-30",
-      "numbers": [
-        "99",
-        "29",
-        "80"
       ],
       "provider_id": "king-lottery",
       "game_id": "king-lottery"
@@ -347,13 +334,13 @@
       "provider": "Loteka",
       "game": "Mega Chances",
       "edition": null,
-      "date": "2026-04-30",
+      "date": "2026-05-01",
       "numbers": [
-        "63",
-        "17",
-        "08",
-        "17",
-        "00"
+        "96",
+        "81",
+        "74",
+        "34",
+        "39"
       ],
       "provider_id": "loteka",
       "game_id": "mega-chances"
@@ -362,11 +349,11 @@
       "provider": "Loteka",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-04-30",
+      "date": "2026-05-01",
       "numbers": [
-        "06",
-        "13",
-        "15"
+        "50",
+        "47",
+        "54"
       ],
       "provider_id": "loteka",
       "game_id": "quiniela"
@@ -416,14 +403,14 @@
       "provider": "Lotería Real",
       "game": "Loto Real",
       "edition": null,
-      "date": "2026-04-28",
+      "date": "2026-05-01",
       "numbers": [
         "11",
+        "12",
+        "15",
         "21",
-        "31",
-        "33",
-        "35",
-        "38"
+        "23",
+        "26"
       ],
       "provider_id": "loteria-real",
       "game_id": "loto-real"
