@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-05-03T21:36:21.726993Z",
+  "last_updated": "2026-05-03T22:34:58.064223Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -93,11 +93,11 @@
       "provider": "Anguila",
       "game": "Anguila",
       "edition": "Tarde",
-      "date": "2026-05-02",
+      "date": "2026-05-03",
       "numbers": [
-        "44",
-        "20",
-        "67"
+        "17",
+        "80",
+        "54"
       ],
       "provider_id": "anguila",
       "game_id": "anguila"
@@ -209,11 +209,11 @@
       "provider": "La Suerte Dominicana",
       "game": "La Suerte",
       "edition": "18:00",
-      "date": "2026-05-02",
+      "date": "2026-05-03",
       "numbers": [
-        "04",
-        "96",
-        "63"
+        "59",
+        "99",
+        "32"
       ],
       "provider_id": "la-suerte-dominicana",
       "game_id": "la-suerte"
@@ -311,10 +311,10 @@
       "provider": "Leidsa",
       "game": "Super Palé",
       "edition": null,
-      "date": "2026-05-02",
+      "date": "2026-05-03",
       "numbers": [
-        "13",
-        "88"
+        "40",
+        "74"
       ],
       "provider_id": "leidsa",
       "game_id": "super-pale"
@@ -403,11 +403,11 @@
       "provider": "Lotería Nacional",
       "game": "Lotería Nacional",
       "edition": null,
-      "date": "2026-05-02",
+      "date": "2026-05-03",
       "numbers": [
-        "88",
-        "97",
-        "11"
+        "74",
+        "47",
+        "79"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "loteria-nacional"
