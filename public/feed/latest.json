@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-05-12T23:55:17.469821Z",
+  "last_updated": "2026-05-13T02:39:26.899916Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -80,11 +80,11 @@
       "provider": "Anguila",
       "game": "Anguila",
       "edition": "Noche",
-      "date": "2026-05-11",
+      "date": "2026-05-12",
       "numbers": [
-        "13",
-        "91",
-        "08"
+        "57",
+        "73",
+        "48"
       ],
       "provider_id": "anguila",
       "game_id": "anguila"
@@ -222,13 +222,13 @@
       "provider": "Leidsa",
       "game": "Loto Pool",
       "edition": null,
-      "date": "2026-05-11",
+      "date": "2026-05-12",
       "numbers": [
-        "06",
-        "22",
+        "03",
+        "12",
+        "13",
         "23",
-        "24",
-        "25"
+        "30"
       ],
       "provider_id": "leidsa",
       "game_id": "loto-pool"
@@ -255,11 +255,11 @@
       "provider": "Leidsa",
       "game": "Pega 3 Más",
       "edition": null,
-      "date": "2026-05-11",
+      "date": "2026-05-12",
       "numbers": [
-        "30",
-        "24",
-        "50"
+        "10",
+        "18",
+        "12"
       ],
       "provider_id": "leidsa",
       "game_id": "pega-3-mas"
@@ -268,11 +268,11 @@
       "provider": "Leidsa",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-05-11",
+      "date": "2026-05-12",
       "numbers": [
-        "65",
-        "39",
-        "11"
+        "78",
+        "52",
+        "73"
       ],
       "provider_id": "leidsa",
       "game_id": "quiniela"
@@ -281,28 +281,28 @@
       "provider": "Leidsa",
       "game": "Super Kino TV",
       "edition": null,
-      "date": "2026-05-11",
+      "date": "2026-05-12",
       "numbers": [
-        "02",
-        "03",
-        "12",
-        "17",
-        "19",
-        "29",
-        "34",
-        "39",
-        "41",
+        "05",
+        "26",
+        "27",
+        "28",
+        "30",
+        "32",
+        "36",
         "42",
-        "44",
         "46",
+        "49",
         "50",
-        "54",
-        "58",
-        "61",
-        "64",
-        "69",
+        "56",
+        "57",
+        "59",
+        "63",
+        "65",
         "70",
-        "78"
+        "72",
+        "75",
+        "79"
       ],
       "provider_id": "leidsa",
       "game_id": "super-kino-tv"
@@ -311,10 +311,10 @@
       "provider": "Leidsa",
       "game": "Super Palé",
       "edition": null,
-      "date": "2026-05-11",
+      "date": "2026-05-12",
       "numbers": [
-        "65",
-        "02"
+        "78",
+        "88"
       ],
       "provider_id": "leidsa",
       "game_id": "super-pale"
@@ -347,13 +347,13 @@
       "provider": "Loteka",
       "game": "Mega Chances",
       "edition": null,
-      "date": "2026-05-11",
+      "date": "2026-05-12",
       "numbers": [
-        "22",
-        "25",
-        "37",
-        "58",
-        "34"
+        "78",
+        "47",
+        "44",
+        "31",
+        "67"
       ],
       "provider_id": "loteka",
       "game_id": "mega-chances"
@@ -362,11 +362,11 @@
       "provider": "Loteka",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-05-11",
+      "date": "2026-05-12",
       "numbers": [
-        "26",
-        "42",
-        "59"
+        "59",
+        "45",
+        "16"
       ],
       "provider_id": "loteka",
       "game_id": "quiniela"
@@ -403,11 +403,11 @@
       "provider": "Lotería Nacional",
       "game": "Lotería Nacional",
       "edition": null,
-      "date": "2026-05-11",
+      "date": "2026-05-12",
       "numbers": [
-        "02",
-        "34",
-        "98"
+        "88",
+        "83",
+        "63"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "loteria-nacional"
@@ -416,14 +416,14 @@
       "provider": "Lotería Real",
       "game": "Loto Real",
       "edition": null,
-      "date": "2026-05-08",
+      "date": "2026-05-12",
       "numbers": [
-        "18",
+        "01",
         "19",
-        "22",
-        "24",
-        "26",
-        "32"
+        "32",
+        "34",
+        "36",
+        "37"
       ],
       "provider_id": "loteria-real",
       "game_id": "loto-real"
