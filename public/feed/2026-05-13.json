@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-05-13T16:38:12.343774Z",
+  "last_updated": "2026-05-13T18:53:27.322720Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -67,11 +67,11 @@
       "provider": "Anguila",
       "game": "Anguila",
       "edition": "Medio Día",
-      "date": "2026-05-12",
+      "date": "2026-05-13",
       "numbers": [
-        "55",
-        "55",
-        "90"
+        "42",
+        "29",
+        "62"
       ],
       "provider_id": "anguila",
       "game_id": "anguila"
@@ -375,11 +375,11 @@
       "provider": "Lotería Nacional",
       "game": "Gana Más",
       "edition": null,
-      "date": "2026-05-12",
+      "date": "2026-05-13",
       "numbers": [
-        "48",
-        "10",
-        "95"
+        "90",
+        "78",
+        "80"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "gana-mas"
@@ -388,13 +388,13 @@
       "provider": "Lotería Nacional",
       "game": "Juega + Pega +",
       "edition": null,
-      "date": "2026-05-12",
+      "date": "2026-05-13",
       "numbers": [
+        "15",
         "18",
-        "16",
-        "02",
-        "16",
-        "19"
+        "17",
+        "22",
+        "16"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "juega-pega"
@@ -432,11 +432,11 @@
       "provider": "Lotería Real",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-05-12",
+      "date": "2026-05-13",
       "numbers": [
-        "71",
-        "27",
-        "28"
+        "95",
+        "45",
+        "77"
       ],
       "provider_id": "loteria-real",
       "game_id": "quiniela"
