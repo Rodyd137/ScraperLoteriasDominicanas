@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-05-18T13:40:11.836437Z",
+  "last_updated": "2026-05-18T16:44:08.534686Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -54,11 +54,11 @@
       "provider": "Anguila",
       "game": "Anguila",
       "edition": "Mañana",
-      "date": "2026-05-17",
+      "date": "2026-05-18",
       "numbers": [
-        "39",
-        "61",
-        "81"
+        "10",
+        "81",
+        "69"
       ],
       "provider_id": "anguila",
       "game_id": "anguila"
@@ -106,11 +106,11 @@
       "provider": "King Lottery",
       "game": "King Lottery",
       "edition": "12:30",
-      "date": "2026-05-17",
+      "date": "2026-05-18",
       "numbers": [
-        "35",
-        "81",
-        "27"
+        "43",
+        "88",
+        "78"
       ],
       "provider_id": "king-lottery",
       "game_id": "king-lottery"
@@ -148,11 +148,11 @@
       "provider": "La Primera",
       "game": "Quiniela",
       "edition": "Día",
-      "date": "2026-05-17",
+      "date": "2026-05-18",
       "numbers": [
-        "01",
-        "64",
-        "15"
+        "06",
+        "18",
+        "32"
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela"
@@ -174,9 +174,9 @@
       "provider": "La Primera",
       "game": "El Quinielón",
       "edition": "Día",
-      "date": "2026-05-17",
+      "date": "2026-05-18",
       "numbers": [
-        "17"
+        "91"
       ],
       "provider_id": "la-primera",
       "game_id": "quinielon"
@@ -196,11 +196,11 @@
       "provider": "La Suerte Dominicana",
       "game": "La Suerte",
       "edition": "12:30",
-      "date": "2026-05-17",
+      "date": "2026-05-18",
       "numbers": [
-        "85",
-        "77",
-        "61"
+        "61",
+        "70",
+        "06"
       ],
       "provider_id": "la-suerte-dominicana",
       "game_id": "la-suerte"
@@ -323,9 +323,9 @@
       "provider": "LoteDom",
       "game": "El Quemaito Mayor",
       "edition": null,
-      "date": "2026-05-17",
+      "date": "2026-05-18",
       "numbers": [
-        "84"
+        "54"
       ],
       "provider_id": "lotedom",
       "game_id": "quemaito-mayor"
@@ -334,11 +334,11 @@
       "provider": "LoteDom",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-05-17",
+      "date": "2026-05-18",
       "numbers": [
-        "55",
-        "64",
-        "36"
+        "78",
+        "83",
+        "28"
       ],
       "provider_id": "lotedom",
       "game_id": "quiniela"
