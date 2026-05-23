@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-05-22T22:52:23.647512Z",
+  "last_updated": "2026-05-23T00:01:02.735343Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -119,11 +119,11 @@
       "provider": "King Lottery",
       "game": "King Lottery",
       "edition": "7:30",
-      "date": "2026-05-21",
+      "date": "2026-05-22",
       "numbers": [
-        "07",
-        "99",
-        "07"
+        "71",
+        "87",
+        "34"
       ],
       "provider_id": "king-lottery",
       "game_id": "king-lottery"
@@ -132,14 +132,14 @@
       "provider": "La Primera",
       "game": "Loto 5",
       "edition": null,
-      "date": "2026-05-21",
+      "date": "2026-05-22",
       "numbers": [
-        "11",
-        "16",
-        "37",
-        "07",
-        "30",
-        "08"
+        "15",
+        "29",
+        "23",
+        "02",
+        "33",
+        "04"
       ],
       "provider_id": "la-primera",
       "game_id": "loto-5"
@@ -161,11 +161,11 @@
       "provider": "La Primera",
       "game": "Quiniela",
       "edition": "Noche",
-      "date": "2026-05-21",
+      "date": "2026-05-22",
       "numbers": [
-        "38",
-        "00",
-        "43"
+        "57",
+        "10",
+        "18"
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela"
@@ -185,9 +185,9 @@
       "provider": "La Primera",
       "game": "El Quinielón",
       "edition": "Noche",
-      "date": "2026-05-21",
+      "date": "2026-05-22",
       "numbers": [
-        "67"
+        "31"
       ],
       "provider_id": "la-primera",
       "game_id": "quinielon"
@@ -416,14 +416,14 @@
       "provider": "Lotería Real",
       "game": "Loto Real",
       "edition": null,
-      "date": "2026-05-19",
+      "date": "2026-05-22",
       "numbers": [
-        "01",
-        "06",
-        "13",
         "18",
-        "34",
-        "36"
+        "20",
+        "27",
+        "28",
+        "35",
+        "38"
       ],
       "provider_id": "loteria-real",
       "game_id": "loto-real"
