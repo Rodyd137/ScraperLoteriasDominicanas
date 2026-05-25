@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-05-24T23:33:11.533271Z",
+  "last_updated": "2026-05-25T02:53:54.430754Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -80,11 +80,11 @@
       "provider": "Anguila",
       "game": "Anguila",
       "edition": "Noche",
-      "date": "2026-05-23",
+      "date": "2026-05-24",
       "numbers": [
-        "28",
-        "91",
-        "03"
+        "19",
+        "92",
+        "69"
       ],
       "provider_id": "anguila",
       "game_id": "anguila"
@@ -119,11 +119,11 @@
       "provider": "King Lottery",
       "game": "King Lottery",
       "edition": "7:30",
-      "date": "2026-05-23",
+      "date": "2026-05-24",
       "numbers": [
-        "38",
-        "36",
-        "50"
+        "61",
+        "55",
+        "24"
       ],
       "provider_id": "king-lottery",
       "game_id": "king-lottery"
@@ -347,13 +347,13 @@
       "provider": "Loteka",
       "game": "Mega Chances",
       "edition": null,
-      "date": "2026-05-23",
+      "date": "2026-05-24",
       "numbers": [
-        "75",
-        "08",
-        "40",
-        "59",
-        "66"
+        "94",
+        "72",
+        "23",
+        "53",
+        "18"
       ],
       "provider_id": "loteka",
       "game_id": "mega-chances"
@@ -362,11 +362,11 @@
       "provider": "Loteka",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-05-23",
+      "date": "2026-05-24",
       "numbers": [
-        "37",
         "19",
-        "77"
+        "29",
+        "68"
       ],
       "provider_id": "loteka",
       "game_id": "quiniela"
