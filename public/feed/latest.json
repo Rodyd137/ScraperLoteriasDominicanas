@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-05-25T22:54:24.799058Z",
+  "last_updated": "2026-05-26T00:01:05.729510Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -119,11 +119,11 @@
       "provider": "King Lottery",
       "game": "King Lottery",
       "edition": "7:30",
-      "date": "2026-05-24",
+      "date": "2026-05-25",
       "numbers": [
-        "61",
-        "55",
-        "24"
+        "08",
+        "10",
+        "05"
       ],
       "provider_id": "king-lottery",
       "game_id": "king-lottery"
@@ -132,14 +132,14 @@
       "provider": "La Primera",
       "game": "Loto 5",
       "edition": null,
-      "date": "2026-05-24",
+      "date": "2026-05-25",
       "numbers": [
-        "08",
-        "01",
-        "33",
-        "21",
-        "15",
-        "03"
+        "20",
+        "06",
+        "30",
+        "37",
+        "36",
+        "02"
       ],
       "provider_id": "la-primera",
       "game_id": "loto-5"
@@ -161,11 +161,11 @@
       "provider": "La Primera",
       "game": "Quiniela",
       "edition": "Noche",
-      "date": "2026-05-24",
+      "date": "2026-05-25",
       "numbers": [
-        "88",
-        "73",
-        "23"
+        "99",
+        "25",
+        "18"
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela"
@@ -185,9 +185,9 @@
       "provider": "La Primera",
       "game": "El Quinielón",
       "edition": "Noche",
-      "date": "2026-05-24",
+      "date": "2026-05-25",
       "numbers": [
-        "03"
+        "14"
       ],
       "provider_id": "la-primera",
       "game_id": "quinielon"
@@ -341,34 +341,6 @@
         "12"
       ],
       "provider_id": "lotedom",
-      "game_id": "quiniela"
-    },
-    {
-      "provider": "Loteka",
-      "game": "Mega Chances",
-      "edition": null,
-      "date": "2026-05-24",
-      "numbers": [
-        "94",
-        "72",
-        "23",
-        "53",
-        "18"
-      ],
-      "provider_id": "loteka",
-      "game_id": "mega-chances"
-    },
-    {
-      "provider": "Loteka",
-      "game": "Quiniela",
-      "edition": null,
-      "date": "2026-05-24",
-      "numbers": [
-        "19",
-        "29",
-        "68"
-      ],
-      "provider_id": "loteka",
       "game_id": "quiniela"
     },
     {
