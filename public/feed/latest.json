@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-05-29T16:11:50.599493Z",
+  "last_updated": "2026-05-29T19:05:30.232923Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -67,11 +67,11 @@
       "provider": "Anguila",
       "game": "Anguila",
       "edition": "Medio Día",
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "numbers": [
-        "06",
-        "60",
-        "24"
+        "54",
+        "28",
+        "16"
       ],
       "provider_id": "anguila",
       "game_id": "anguila"
@@ -106,11 +106,11 @@
       "provider": "King Lottery",
       "game": "King Lottery",
       "edition": "12:30",
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "numbers": [
-        "14",
-        "05",
-        "44"
+        "91",
+        "50",
+        "88"
       ],
       "provider_id": "king-lottery",
       "game_id": "king-lottery"
@@ -196,11 +196,11 @@
       "provider": "La Suerte Dominicana",
       "game": "La Suerte",
       "edition": "12:30",
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "numbers": [
-        "28",
-        "40",
-        "08"
+        "18",
+        "27",
+        "73"
       ],
       "provider_id": "la-suerte-dominicana",
       "game_id": "la-suerte"
@@ -375,11 +375,11 @@
       "provider": "Lotería Nacional",
       "game": "Gana Más",
       "edition": null,
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "numbers": [
-        "26",
-        "08",
-        "41"
+        "85",
+        "31",
+        "23"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "gana-mas"
@@ -388,13 +388,13 @@
       "provider": "Lotería Nacional",
       "game": "Juega + Pega +",
       "edition": null,
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "numbers": [
+        "13",
+        "16",
+        "19",
         "26",
-        "18",
-        "21",
-        "10",
-        "11"
+        "25"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "juega-pega"
@@ -432,11 +432,11 @@
       "provider": "Lotería Real",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "numbers": [
-        "17",
-        "11",
-        "40"
+        "10",
+        "67",
+        "76"
       ],
       "provider_id": "loteria-real",
       "game_id": "quiniela"
