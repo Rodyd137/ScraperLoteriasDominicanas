@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-05-29T22:48:01.243490Z",
+  "last_updated": "2026-05-30T00:03:43.642006Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -119,11 +119,11 @@
       "provider": "King Lottery",
       "game": "King Lottery",
       "edition": "7:30",
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "numbers": [
-        "63",
-        "38",
-        "65"
+        "50",
+        "17",
+        "40"
       ],
       "provider_id": "king-lottery",
       "game_id": "king-lottery"
@@ -132,14 +132,14 @@
       "provider": "La Primera",
       "game": "Loto 5",
       "edition": null,
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "numbers": [
-        "31",
+        "27",
+        "20",
+        "25",
+        "08",
         "28",
-        "15",
-        "36",
-        "13",
-        "10"
+        "04"
       ],
       "provider_id": "la-primera",
       "game_id": "loto-5"
@@ -161,11 +161,11 @@
       "provider": "La Primera",
       "game": "Quiniela",
       "edition": "Noche",
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "numbers": [
-        "61",
-        "85",
-        "42"
+        "51",
+        "53",
+        "87"
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela"
@@ -185,9 +185,9 @@
       "provider": "La Primera",
       "game": "El Quinielón",
       "edition": "Noche",
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "numbers": [
-        "73"
+        "31"
       ],
       "provider_id": "la-primera",
       "game_id": "quinielon"
@@ -359,19 +359,6 @@
       "game_id": "mega-chances"
     },
     {
-      "provider": "Loteka",
-      "game": "Quiniela",
-      "edition": null,
-      "date": "2026-05-28",
-      "numbers": [
-        "75",
-        "65",
-        "16"
-      ],
-      "provider_id": "loteka",
-      "game_id": "quiniela"
-    },
-    {
       "provider": "Lotería Nacional",
       "game": "Gana Más",
       "edition": null,
@@ -416,14 +403,14 @@
       "provider": "Lotería Real",
       "game": "Loto Real",
       "edition": null,
-      "date": "2026-05-26",
+      "date": "2026-05-29",
       "numbers": [
-        "02",
-        "08",
-        "14",
-        "20",
-        "28",
-        "33"
+        "06",
+        "18",
+        "23",
+        "25",
+        "31",
+        "34"
       ],
       "provider_id": "loteria-real",
       "game_id": "loto-real"
