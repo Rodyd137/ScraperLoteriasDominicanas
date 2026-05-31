@@ -1,8 +1,36 @@
 name: Scrape Loterías RD
 
+# Horarios de sorteos en República Dominicana (RD = UTC-4 todo el año).
+# Para cubrir cuando los resultados se publican, corremos cada 5 minutos
+# durante las ventanas activas y caemos a cada hora fuera de ellas como
+# red de seguridad.
+#
+#   Ventanas RD (hora local) → equivalente UTC
+#     09:00 – 09:30  →  13:00 – 13:30     Anguila Mañana
+#     11:30 – 13:00  →  15:30 – 17:00     La Suerte / King MD, Anguila MD, Pick 3/4 Día, Florida MD, La Primera MD
+#     14:00 – 15:30  →  18:00 – 19:30     Florida Tarde, La Suerte Tarde, NY MD
+#     16:00 – 16:30  →  20:00 – 20:30     Anguila Tarde
+#     19:25 – 19:35  →  23:25 – 23:35     NY Tarde
+#     20:00 – 23:30  →  00:00 – 03:30     Quinielas nocturnas, Leidsa, Real, Loteka, Nacional, Florida/NY Noche, Americanas
+#
+# Cron es UTC; los rangos se traducen abajo.
+
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    # Anguila Mañana
+    - cron: "*/5 13 * * *"
+    # Mediodía: Quinielas, Picks, Loto Pool MD, Florida/NY MD, La Suerte
+    - cron: "*/5 15-17 * * *"
+    # Tarde: Florida Tarde, La Suerte Tarde, Anguila Tarde
+    - cron: "*/5 18-20 * * *"
+    # NY Tarde + arranque de las nocturnas
+    - cron: "*/5 23 * * *"
+    # Noche RD (cubre desde Quiniela Leidsa hasta Americanas)
+    - cron: "*/5 0-3 * * *"
+    # Red de seguridad fuera de ventanas: una corrida cada hora
+    # (en el minuto 0) por si llega un resultado retrasado.
+    - cron: "0 4-12 * * *"
+    - cron: "0 14,21,22 * * *"
   workflow_dispatch: {}
 
 concurrency:

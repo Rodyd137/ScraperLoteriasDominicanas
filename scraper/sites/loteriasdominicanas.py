@@ -116,6 +116,10 @@ def _build_from_cards(
     """
     title_map: { 'La Primera Día': ('Quiniela', 'Día'), ... }
     game_slug_overrides: {'El Quinielón': 'quinielon'}  # opcional
+
+    Cards whose title isn't in title_map are skipped with a debug log so
+    we can see — in the GitHub Actions output — which fresh sorteos the
+    upstream site started publishing that we haven't mapped yet.
     """
     # Año base de la página; si no se encuentra, usa fecha de RD
     base = _page_base_date(soup) or datetime.now(RD_TZ).date()
@@ -123,6 +127,7 @@ def _build_from_cards(
 
     out: list[Draw] = []
     provider_id = PROV.get(provider, slugify(provider))
+    unmatched_titles: list[str] = []
 
     for card in _extract_cards(soup):
         title = _extract_title(card)
@@ -130,9 +135,11 @@ def _build_from_cards(
             continue
 
         # Tolerar pequeñas variantes en títulos
+        original_title = title
         if title not in title_map:
             t2 = title.replace("Mediodía", "Medio Día").replace("Dia", "Día")
             if t2 not in title_map:
+                unmatched_titles.append(original_title)
                 continue
             title = t2
 
@@ -157,17 +164,30 @@ def _build_from_cards(
                 game_id=game_id,
             )
         )
+
+    if unmatched_titles:
+        print(f"[UNMATCHED][{provider}] {unmatched_titles}")
     return out
 
 # ----------------- LA PRIMERA -----------------
 @registry.site("la_primera", f"{BASE}/la-primera")
 def scrape_la_primera():
     soup = _fetch_soup(f"{BASE}/la-primera")
+    # Upstream switched "La Primera Día" → "Quiniela Medio Día" and
+    # "Primera Noche" → "Quiniela Noche". Keep the old labels as a
+    # transition fallback so we don't lose draws if the site rolls back.
     title_map = {
-        "La Primera Día": ("Quiniela", "Día"),
+        # Current upstream labels
+        "Quiniela Medio Día": ("Quiniela", "Medio Día"),
+        "Quiniela Mediodía": ("Quiniela", "Medio Día"),
+        "Quiniela Noche": ("Quiniela", "Noche"),
+        # Old labels (kept as fallback)
+        "La Primera Día": ("Quiniela", "Medio Día"),
         "Primera Noche": ("Quiniela", "Noche"),
+        # Quinielón
         "El Quinielón Día": ("El Quinielón", "Día"),
         "El Quinielón Noche": ("El Quinielón", "Noche"),
+        # Loto 5
         "Loto 5": ("Loto 5", None),
     }
     overrides = {"El Quinielón": "quinielon"}
@@ -182,10 +202,17 @@ def scrape_leidsa():
     title_map = {
         "Pega 3 Más": ("Pega 3 Más", None),
         "Quiniela Leidsa": ("Quiniela", None),
+        "Quiniela Palé": ("Quiniela Palé", None),
+        "Quiniela Pale": ("Quiniela Palé", None),
         "Loto Pool": ("Loto Pool", None),
         "Super Kino TV": ("Super Kino TV", None),
-        "Loto - Super Loto Más": ("Loto - Super Loto Más", None),
-        "Super Palé": ("Super Palé", None),
+        # Upstream now shows "Loto Más"; kept old label for transition.
+        "Loto Más": ("Loto Más", None),
+        "Loto Mas": ("Loto Más", None),
+        "Loto - Super Loto Más": ("Loto Más", None),
+        "Súper Palé": ("Súper Palé", None),
+        "Super Pale": ("Súper Palé", None),
+        "Super Palé": ("Súper Palé", None),
     }
     draws = _build_from_cards(soup, "Leidsa", title_map)
     print("[DEBUG][Leidsa] encontrados:", [(d.game, d.edition, d.numbers, d.date) for d in draws])
@@ -197,8 +224,12 @@ def scrape_nacional():
     soup = _fetch_soup(f"{BASE}/loteria-nacional")
     title_map = {
         "Juega + Pega +": ("Juega + Pega +", None),
+        "Juega Más Pega Más": ("Juega + Pega +", None),
         "Gana Más": ("Gana Más", None),
+        "Quiniela": ("Quiniela", None),
+        "Quiniela Nacional": ("Quiniela", None),
         "Lotería Nacional": ("Lotería Nacional", None),
+        "Billetes Domingo": ("Billetes Domingo", None),
     }
     draws = _build_from_cards(soup, "Lotería Nacional", title_map)
     print("[DEBUG][Nacional] encontrados:", [(d.game, d.edition, d.numbers, d.date) for d in draws])
@@ -210,7 +241,21 @@ def scrape_real():
     soup = _fetch_soup(f"{BASE}/loto-real")
     title_map = {
         "Quiniela Real": ("Quiniela", None),
+        "Quinielita Real": ("Quinielita", None),
+        "Quinielita": ("Quinielita", None),
         "Loto Real": ("Loto Real", None),
+        "Loto": ("Loto", None),
+        "Loto Pool": ("Loto Pool", "Día"),
+        "Loto Pool Día": ("Loto Pool", "Día"),
+        "Loto Pool Noche": ("Loto Pool", "Noche"),
+        "Chance Real": ("Chance Real", None),
+        "Nueva Yol Real": ("Nueva Yol Real", None),
+        "Pega 4": ("Pega 4", None),
+        "Repartidera Real": ("Repartidera Real", None),
+        "Repartidera": ("Repartidera Real", None),
+        "Súper Palé": ("Súper Palé", None),
+        "Super Pale": ("Súper Palé", None),
+        "Super Palé": ("Súper Palé", None),
     }
     draws = _build_from_cards(soup, "Lotería Real", title_map)
     print("[DEBUG][Real] encontrados:", [(d.game, d.edition, d.numbers, d.date) for d in draws])
@@ -223,6 +268,12 @@ def scrape_loteka():
     title_map = {
         "Quiniela Loteka": ("Quiniela", None),
         "Mega Chances": ("Mega Chances", None),
+        "Repartidera": ("Mega Chances Repartidera", None),
+        "MegaLotto": ("MegaLotto", None),
+        "Mega Lotto": ("MegaLotto", None),
+        "Toca 3": ("Toca 3", None),
+        "Quiniela Mega Decenas": ("Quiniela Mega Decenas", None),
+        "Mega Decenas": ("Quiniela Mega Decenas", None),
     }
     draws = _build_from_cards(soup, "Loteka", title_map)
     print("[DEBUG][Loteka] encontrados:", [(d.game, d.edition, d.numbers, d.date) for d in draws])
@@ -235,6 +286,10 @@ def scrape_lotedom():
     title_map = {
         "Quiniela LoteDom": ("Quiniela", None),
         "El Quemaito Mayor": ("El Quemaito Mayor", None),
+        "Agarra 4": ("Agarra 4", None),
+        "Súper Palé": ("Súper Palé", None),
+        "Super Pale": ("Súper Palé", None),
+        "Super Palé": ("Súper Palé", None),
     }
     draws = _build_from_cards(soup, "LoteDom", title_map, {"El Quemaito Mayor": "quemaito-mayor"})
     print("[DEBUG][LoteDom] encontrados:", [(d.game, d.edition, d.numbers, d.date) for d in draws])
@@ -244,9 +299,17 @@ def scrape_lotedom():
 @registry.site("la_suerte", f"{BASE}/la-suerte-dominicana")
 def scrape_la_suerte():
     soup = _fetch_soup(f"{BASE}/la-suerte-dominicana")
+    # Upstream switched from time labels (12:30 / 18:00) to Día / Tarde.
+    # Keep both so a card with the old label still maps cleanly.
     title_map = {
-        "La Suerte 12:30": ("La Suerte", "12:30"),
-        "La Suerte 18:00": ("La Suerte", "18:00"),
+        # Current upstream
+        "Quiniela": ("La Suerte", "Día"),
+        "Quiniela La Suerte": ("La Suerte", "Día"),
+        "Quiniela Tarde": ("La Suerte", "Tarde"),
+        "La Suerte Tarde": ("La Suerte", "Tarde"),
+        # Old time-based labels kept as fallback
+        "La Suerte 12:30": ("La Suerte", "Día"),
+        "La Suerte 18:00": ("La Suerte", "Tarde"),
     }
     draws = _build_from_cards(soup, "La Suerte Dominicana", title_map)
     print("[DEBUG][La Suerte] encontrados:", [(d.game, d.edition, d.numbers, d.date) for d in draws])
@@ -284,8 +347,19 @@ def scrape_americanas():
     soup = _fetch_soup(f"{BASE}/americanas")
     title_map = {
         "PowerBall": ("PowerBall", None),
+        "Powerball": ("PowerBall", None),
+        "PowerBall Double Play": ("PowerBall Double Play", None),
+        "Powerball Double Play": ("PowerBall Double Play", None),
         "Mega Millions": ("Mega Millions", None),
         "Cash 4 Life": ("Cash 4 Life", None),
+        # Florida y NY ahora se publican dentro de "Americanas" (la fuente
+        # consolidó). Mantener las páginas dedicadas (scrape_florida /
+        # scrape_nueva_york) como fallback.
+        "Florida Tarde": ("Florida", "Tarde"),
+        "Florida Noche": ("Florida", "Noche"),
+        "New York Medio Día": ("New York", "Medio Día"),
+        "New York Mediodía": ("New York", "Medio Día"),
+        "New York Noche": ("New York", "Noche"),
     }
     draws = _build_from_cards(soup, "Americanas", title_map)
     print("[DEBUG][Americanas] encontrados:", [(d.game, d.edition, d.numbers, d.date) for d in draws])
@@ -300,6 +374,13 @@ def scrape_anguila():
         "Anguila Medio Día": ("Anguila", "Medio Día"),
         "Anguila Tarde": ("Anguila", "Tarde"),
         "Anguila Noche": ("Anguila", "Noche"),
+        # Cuarteta editions (4-number pick game tied to Anguila)
+        "La Cuarteta Mañana": ("Cuarteta", "Mañana"),
+        "Cuarteta Mañana": ("Cuarteta", "Mañana"),
+        "Cuarteta Medio Día": ("Cuarteta", "Medio Día"),
+        "Cuarteta Mediodía": ("Cuarteta", "Medio Día"),
+        "Cuarteta Tarde": ("Cuarteta", "Tarde"),
+        "Cuarteta Noche": ("Cuarteta", "Noche"),
     }
     draws = _build_from_cards(soup, "Anguila", title_map)
     print("[DEBUG][Anguila] encontrados:", [(d.game, d.edition, d.numbers, d.date) for d in draws])
@@ -309,9 +390,31 @@ def scrape_anguila():
 @registry.site("king_lottery", f"{BASE}/king-lottery")
 def scrape_king_lottery():
     soup = _fetch_soup(f"{BASE}/king-lottery")
+    # Upstream renamed the King Lottery editions from time-of-day labels
+    # ("12:30", "7:30") to "Día" / "Noche". Keep BOTH so we catch the
+    # cards either way the site decides to format them.
     title_map = {
-        "King Lottery 12:30": ("King Lottery", "12:30"),
-        "King Lottery 7:30": ("King Lottery", "7:30"),
+        # New (current) — Quiniela
+        "Quiniela King": ("Quiniela", "Día"),
+        "King Lottery Día": ("Quiniela", "Día"),
+        "Quiniela King Noche": ("Quiniela", "Noche"),
+        "King Lottery Noche": ("Quiniela", "Noche"),
+        # Old labels kept as fallback during the upstream transition
+        "King Lottery 12:30": ("Quiniela", "Día"),
+        "King Lottery 7:30": ("Quiniela", "Noche"),
+        # Pick games
+        "Pick 3 Día": ("Pick 3", "Día"),
+        "Pick 3 Noche": ("Pick 3", "Noche"),
+        "Pick 4 Día": ("Pick 4", "Día"),
+        "Pick 4 Noche": ("Pick 4", "Noche"),
+        # Loto Pool
+        "Loto Pool Medio Día": ("Loto Pool", "Medio Día"),
+        "Loto Pool Mediodía": ("Loto Pool", "Medio Día"),
+        "Loto Pool Noche": ("Loto Pool", "Noche"),
+        # Philipsburg
+        "Philipsburg Medio Día": ("Philipsburg", "Medio Día"),
+        "Philipsburg Mediodía": ("Philipsburg", "Medio Día"),
+        "Philipsburg Noche": ("Philipsburg", "Noche"),
     }
     draws = _build_from_cards(soup, "King Lottery", title_map)
     print("[DEBUG][King Lottery] encontrados:", [(d.game, d.edition, d.numbers, d.date) for d in draws])
