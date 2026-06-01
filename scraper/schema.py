@@ -29,6 +29,11 @@ class Draw:
     provider_id: str
     game_id: str
 
+    # URL del logo en el CDN del source (kiskoo). El cliente lo carga
+    # directo y cachea — nada que servir desde nuestro repo. None cuando
+    # el card no tiene imagen reconocible.
+    logo_url: Optional[str] = None
+
 @dataclass
 class Payload:
     source: str

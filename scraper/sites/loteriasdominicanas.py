@@ -30,7 +30,8 @@ PROV = {
     "LoteDom": "lotedom",
     "La Suerte Dominicana": "la-suerte-dominicana",
     "Florida": "florida",
-    "New York": "nueva-york",
+    "Nueva York": "nueva-york",
+    "New York": "nueva-york",   # alias — Americanas page uses English
     "Americanas": "americanas",
     "Anguila": "anguila",
     "King Lottery": "king-lottery",
@@ -62,6 +63,26 @@ def _extract_numbers(card) -> list[str]:
         if t.isdigit():
             nums.append(t.zfill(2))
     return nums
+
+def _extract_logo(card) -> str | None:
+    """Pull the game's logo URL out of the card markup.
+
+    The source lazy-loads images via `data-src`, falling back to `src`
+    once they enter the viewport. We prefer `data-src` because pages
+    rendered headlessly (curl / requests) never trigger that swap, so
+    `src` is usually a placeholder pixel.
+    """
+    img = card.select_one("img[data-src], img[src]")
+    if not img:
+        return None
+    url = img.get("data-src") or img.get("src")
+    if not url:
+        return None
+    # Skip the global site logo and the stats-icon placeholder.
+    bad = ("ex_stats", "/images/site", "logo-loterias")
+    if any(s in url for s in bad):
+        return None
+    return url if url.startswith("http") else None
 
 # ---------- NUEVO: lectura de fecha base (con año) desde la página ----------
 _RE_PAGE_TODAY = re.compile(r"today\s*:\s*'(\d{2}-\d{2}-\d{4})'")
@@ -112,10 +133,20 @@ def _build_from_cards(
     provider: str,
     title_map: dict[str, tuple[str, str | None]],
     game_slug_overrides: dict[str, str] | None = None,
+    title_provider_override: dict[str, str] | None = None,
+    suppress_unmatched: bool = False,
 ) -> list[Draw]:
     """
     title_map: { 'La Primera Día': ('Quiniela', 'Día'), ... }
-    game_slug_overrides: {'El Quinielón': 'quinielon'}  # opcional
+    game_slug_overrides: {'El Quinielón': 'quinielon'}
+    title_provider_override: {'Florida Día': 'Florida'}
+        When set, cards whose title is in this dict get re-labeled to
+        the override provider. Used by the Americanas consolidated
+        page which hosts cards that logically belong to other
+        providers (Florida Día/Tarde/Noche, New York editions).
+    suppress_unmatched: when True, the [UNMATCHED] debug line is
+        skipped. Useful when running multiple passes over the same
+        soup with different title_maps.
 
     Cards whose title isn't in title_map are skipped with a debug log so
     we can see — in the GitHub Actions output — which fresh sorteos the
@@ -126,7 +157,7 @@ def _build_from_cards(
     base_year = base.year
 
     out: list[Draw] = []
-    provider_id = PROV.get(provider, slugify(provider))
+    default_provider_id = PROV.get(provider, slugify(provider))
     unmatched_titles: list[str] = []
 
     for card in _extract_cards(soup):
@@ -148,6 +179,16 @@ def _build_from_cards(
         if not nums:
             continue
 
+        # Optional per-title provider relabel.
+        row_provider = (title_provider_override or {}).get(title) \
+            or (title_provider_override or {}).get(original_title) \
+            or provider
+        row_provider_id = (
+            PROV.get(row_provider, slugify(row_provider))
+            if row_provider != provider
+            else default_provider_id
+        )
+
         game_id = (game_slug_overrides or {}).get(game) or slugify(game)
 
         # Fecha real del sorteo desde el card; fallback al base
@@ -155,17 +196,18 @@ def _build_from_cards(
 
         out.append(
             Draw(
-                provider=provider,
+                provider=row_provider,
                 game=game,
                 edition=edition,
                 date=d,
                 numbers=nums,
-                provider_id=provider_id,
+                provider_id=row_provider_id,
                 game_id=game_id,
+                logo_url=_extract_logo(card),
             )
         )
 
-    if unmatched_titles:
+    if unmatched_titles and not suppress_unmatched:
         print(f"[UNMATCHED][{provider}] {unmatched_titles}")
     return out
 
@@ -378,25 +420,43 @@ def scrape_nueva_york():
 @registry.site("americanas", f"{BASE}/americanas")
 def scrape_americanas():
     soup = _fetch_soup(f"{BASE}/americanas")
+    # Three logical providers share this page. We use
+    # `title_provider_override` to re-label Florida and New York rows so
+    # they show up under their own tiles in the iOS "Por proveedor"
+    # grid instead of being lumped into Americanas.
     title_map = {
+        # True Americanas (multi-state US lotteries)
         "PowerBall": ("PowerBall", None),
         "Powerball": ("PowerBall", None),
         "PowerBall Double Play": ("PowerBall Double Play", None),
         "Powerball Double Play": ("PowerBall Double Play", None),
         "Mega Millions": ("Mega Millions", None),
         "Cash 4 Life": ("Cash 4 Life", None),
-        # Florida y NY ahora se publican dentro de "Americanas" (la
-        # fuente consolidó las quinielas estilo-DR aquí).
+        # Florida (3-number DR-style quinielas, hosted on this page)
         "Florida Día": ("Florida", "Día"),
         "Florida Tarde": ("Florida", "Tarde"),
         "Florida Noche": ("Florida", "Noche"),
+        # New York (same)
         "New York Medio Día": ("New York", "Medio Día"),
         "New York Mediodía": ("New York", "Medio Día"),
         "New York Tarde": ("New York", "Tarde"),
         "New York Noche": ("New York", "Noche"),
     }
-    draws = _build_from_cards(soup, "Americanas", title_map)
-    print("[DEBUG][Americanas] encontrados:", [(d.game, d.edition, d.numbers, d.date) for d in draws])
+    provider_override = {
+        "Florida Día":   "Florida",
+        "Florida Tarde": "Florida",
+        "Florida Noche": "Florida",
+        "New York Medio Día": "New York",
+        "New York Mediodía":  "New York",
+        "New York Tarde":     "New York",
+        "New York Noche":     "New York",
+    }
+    draws = _build_from_cards(
+        soup, "Americanas", title_map,
+        title_provider_override=provider_override,
+    )
+    print("[DEBUG][Americanas] encontrados:",
+          [(d.provider, d.game, d.edition, d.numbers, d.date) for d in draws])
     return draws
 
 # ----------------- Anguila -----------------
