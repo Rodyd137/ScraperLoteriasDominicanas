@@ -251,11 +251,13 @@ def scrape_real():
         "Chance Real": ("Chance Real", None),
         "Nueva Yol Real": ("Nueva Yol Real", None),
         "Pega 4": ("Pega 4", None),
+        "Pega 4 Real": ("Pega 4", None),
         "Repartidera Real": ("Repartidera Real", None),
         "Repartidera": ("Repartidera Real", None),
         "Súper Palé": ("Súper Palé", None),
         "Super Pale": ("Súper Palé", None),
         "Super Palé": ("Súper Palé", None),
+        "Tu Fecha Real": ("Tu Fecha Real", None),
     }
     draws = _build_from_cards(soup, "Lotería Real", title_map)
     print("[DEBUG][Real] encontrados:", [(d.game, d.edition, d.numbers, d.date) for d in draws])
@@ -268,6 +270,8 @@ def scrape_loteka():
     title_map = {
         "Quiniela Loteka": ("Quiniela", None),
         "Mega Chances": ("Mega Chances", None),
+        "MC Repartidera": ("Mega Chances Repartidera", None),
+        "Mega Chances Repartidera": ("Mega Chances Repartidera", None),
         "Repartidera": ("Mega Chances Repartidera", None),
         "MegaLotto": ("MegaLotto", None),
         "Mega Lotto": ("MegaLotto", None),
@@ -319,10 +323,28 @@ def scrape_la_suerte():
 @registry.site("florida", f"{BASE}/loteria-de-florida")
 def scrape_florida():
     soup = _fetch_soup(f"{BASE}/loteria-de-florida")
+    # The DR-style Florida Día/Tarde/Noche cards moved to the Americanas
+    # consolidated page. This subpage now carries the US-style Florida
+    # Lottery games (Pick 2/3/4/5, Fantasy 5, Florida Lotto, etc.) —
+    # niche for the DR market but we publish them for completeness.
     title_map = {
-        "Florida Día": ("Florida", "Día"),
-        "Florida Tarde": ("Florida", "Tarde"),
-        "Florida Noche": ("Florida", "Noche"),
+        "Fantasy Medio Día": ("Fantasy 5", "Medio Día"),
+        "Fantasy 5": ("Fantasy 5", "Noche"),
+        "Pick 2 Dia": ("Pick 2", "Día"),
+        "Pick 2 Día": ("Pick 2", "Día"),
+        "Pick 2 Noche": ("Pick 2", "Noche"),
+        "Pick 3 Dia": ("Pick 3", "Día"),
+        "Pick 3 Día": ("Pick 3", "Día"),
+        "Pick 3 Noche": ("Pick 3", "Noche"),
+        "Pick 4 Dia": ("Pick 4", "Día"),
+        "Pick 4 Día": ("Pick 4", "Día"),
+        "Pick 4 Noche": ("Pick 4", "Noche"),
+        "Pick 5 Dia": ("Pick 5", "Día"),
+        "Pick 5 Día": ("Pick 5", "Día"),
+        "Pick 5 Noche": ("Pick 5", "Noche"),
+        "Florida Lotto": ("Florida Lotto", None),
+        "Florida Lotto Double Play": ("Florida Lotto Double Play", None),
+        "Jackpot Triple Play": ("Jackpot Triple Play", None),
     }
     draws = _build_from_cards(soup, "Florida", title_map)
     print("[DEBUG][Florida] encontrados:", [(d.game, d.edition, d.numbers, d.date) for d in draws])
@@ -332,10 +354,21 @@ def scrape_florida():
 @registry.site("nueva_york", f"{BASE}/nueva-york")
 def scrape_nueva_york():
     soup = _fetch_soup(f"{BASE}/nueva-york")
+    # Same story as Florida: the DR-style NY Día/Tarde/Noche cards moved
+    # to Americanas. This page now carries the official NY Lottery games
+    # (Numbers, Win 4, Take 5, NY Lotto).
     title_map = {
-        "New York Día": ("New York", "Día"),
-        "New York Tarde": ("New York", "Tarde"),
-        "New York Noche": ("New York", "Noche"),
+        "Numbers Medio Día": ("Numbers", "Medio Día"),
+        "Numbers Mediodía": ("Numbers", "Medio Día"),
+        "Numbers Noche": ("Numbers", "Noche"),
+        "Win 4 Medio Día": ("Win 4", "Medio Día"),
+        "Win 4 Mediodía": ("Win 4", "Medio Día"),
+        "Win 4 Noche": ("Win 4", "Noche"),
+        "Take 5 Midday": ("Take 5", "Medio Día"),
+        "Take 5 Medio Día": ("Take 5", "Medio Día"),
+        "Take 5 Mediodía": ("Take 5", "Medio Día"),
+        "Take 5 Noche": ("Take 5", "Noche"),
+        "New York Lotto": ("New York Lotto", None),
     }
     draws = _build_from_cards(soup, "New York", title_map)
     print("[DEBUG][New York] encontrados:", [(d.game, d.edition, d.numbers, d.date) for d in draws])
@@ -352,13 +385,14 @@ def scrape_americanas():
         "Powerball Double Play": ("PowerBall Double Play", None),
         "Mega Millions": ("Mega Millions", None),
         "Cash 4 Life": ("Cash 4 Life", None),
-        # Florida y NY ahora se publican dentro de "Americanas" (la fuente
-        # consolidó). Mantener las páginas dedicadas (scrape_florida /
-        # scrape_nueva_york) como fallback.
+        # Florida y NY ahora se publican dentro de "Americanas" (la
+        # fuente consolidó las quinielas estilo-DR aquí).
+        "Florida Día": ("Florida", "Día"),
         "Florida Tarde": ("Florida", "Tarde"),
         "Florida Noche": ("Florida", "Noche"),
         "New York Medio Día": ("New York", "Medio Día"),
         "New York Mediodía": ("New York", "Medio Día"),
+        "New York Tarde": ("New York", "Tarde"),
         "New York Noche": ("New York", "Noche"),
     }
     draws = _build_from_cards(soup, "Americanas", title_map)
@@ -374,12 +408,17 @@ def scrape_anguila():
         "Anguila Medio Día": ("Anguila", "Medio Día"),
         "Anguila Tarde": ("Anguila", "Tarde"),
         "Anguila Noche": ("Anguila", "Noche"),
-        # Cuarteta editions (4-number pick game tied to Anguila)
+        # Cuarteta editions (4-number pick game tied to Anguila).
+        # Upstream prefixes them with "La Cuarteta" for the morning one
+        # but uses just "Cuarteta" for the others — keep both forms.
         "La Cuarteta Mañana": ("Cuarteta", "Mañana"),
         "Cuarteta Mañana": ("Cuarteta", "Mañana"),
+        "La Cuarteta Medio Día": ("Cuarteta", "Medio Día"),
         "Cuarteta Medio Día": ("Cuarteta", "Medio Día"),
         "Cuarteta Mediodía": ("Cuarteta", "Medio Día"),
+        "La Cuarteta Tarde": ("Cuarteta", "Tarde"),
         "Cuarteta Tarde": ("Cuarteta", "Tarde"),
+        "La Cuarteta Noche": ("Cuarteta", "Noche"),
         "Cuarteta Noche": ("Cuarteta", "Noche"),
     }
     draws = _build_from_cards(soup, "Anguila", title_map)
