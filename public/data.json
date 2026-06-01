@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-06-01T09:26:58.142914Z",
+  "last_updated": "2026-06-01T10:44:05.001167Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -17,6 +17,19 @@
       ],
       "provider_id": "americanas",
       "game_id": "cash-4-life"
+    },
+    {
+      "provider": "Americanas",
+      "game": "Florida",
+      "edition": "Día",
+      "date": "2026-05-31",
+      "numbers": [
+        "20",
+        "01",
+        "17"
+      ],
+      "provider_id": "americanas",
+      "game_id": "florida"
     },
     {
       "provider": "Americanas",
@@ -56,6 +69,19 @@
         "16",
         "86",
         "40"
+      ],
+      "provider_id": "americanas",
+      "game_id": "new-york"
+    },
+    {
+      "provider": "Americanas",
+      "game": "New York",
+      "edition": "Tarde",
+      "date": "2026-05-31",
+      "numbers": [
+        "64",
+        "75",
+        "63"
       ],
       "provider_id": "americanas",
       "game_id": "new-york"
@@ -157,6 +183,242 @@
       ],
       "provider_id": "anguila",
       "game_id": "cuarteta"
+    },
+    {
+      "provider": "Anguila",
+      "game": "Cuarteta",
+      "edition": "Medio Día",
+      "date": "2026-05-31",
+      "numbers": [
+        "14",
+        "56",
+        "53",
+        "53"
+      ],
+      "provider_id": "anguila",
+      "game_id": "cuarteta"
+    },
+    {
+      "provider": "Anguila",
+      "game": "Cuarteta",
+      "edition": "Noche",
+      "date": "2026-05-31",
+      "numbers": [
+        "59",
+        "73",
+        "01",
+        "35"
+      ],
+      "provider_id": "anguila",
+      "game_id": "cuarteta"
+    },
+    {
+      "provider": "Anguila",
+      "game": "Cuarteta",
+      "edition": "Tarde",
+      "date": "2026-05-31",
+      "numbers": [
+        "18",
+        "87",
+        "00",
+        "67"
+      ],
+      "provider_id": "anguila",
+      "game_id": "cuarteta"
+    },
+    {
+      "provider": "Florida",
+      "game": "Fantasy 5",
+      "edition": "Medio Día",
+      "date": "2026-05-31",
+      "numbers": [
+        "21",
+        "24",
+        "29",
+        "15",
+        "10"
+      ],
+      "provider_id": "florida",
+      "game_id": "fantasy-5"
+    },
+    {
+      "provider": "Florida",
+      "game": "Fantasy 5",
+      "edition": "Noche",
+      "date": "2026-05-31",
+      "numbers": [
+        "12",
+        "33",
+        "13",
+        "02",
+        "07"
+      ],
+      "provider_id": "florida",
+      "game_id": "fantasy-5"
+    },
+    {
+      "provider": "Florida",
+      "game": "Florida Lotto",
+      "edition": null,
+      "date": "2026-05-30",
+      "numbers": [
+        "06",
+        "07",
+        "03",
+        "35",
+        "39",
+        "36"
+      ],
+      "provider_id": "florida",
+      "game_id": "florida-lotto"
+    },
+    {
+      "provider": "Florida",
+      "game": "Florida Lotto Double Play",
+      "edition": null,
+      "date": "2026-05-30",
+      "numbers": [
+        "03",
+        "07",
+        "15",
+        "23",
+        "28",
+        "44"
+      ],
+      "provider_id": "florida",
+      "game_id": "florida-lotto-double-play"
+    },
+    {
+      "provider": "Florida",
+      "game": "Jackpot Triple Play",
+      "edition": null,
+      "date": "2026-05-29",
+      "numbers": [
+        "45",
+        "25",
+        "07",
+        "23",
+        "31",
+        "15"
+      ],
+      "provider_id": "florida",
+      "game_id": "jackpot-triple-play"
+    },
+    {
+      "provider": "Florida",
+      "game": "Pick 2",
+      "edition": "Día",
+      "date": "2026-05-31",
+      "numbers": [
+        "07",
+        "04",
+        "02"
+      ],
+      "provider_id": "florida",
+      "game_id": "pick-2"
+    },
+    {
+      "provider": "Florida",
+      "game": "Pick 2",
+      "edition": "Noche",
+      "date": "2026-05-31",
+      "numbers": [
+        "06",
+        "01",
+        "08"
+      ],
+      "provider_id": "florida",
+      "game_id": "pick-2"
+    },
+    {
+      "provider": "Florida",
+      "game": "Pick 3",
+      "edition": "Día",
+      "date": "2026-05-31",
+      "numbers": [
+        "05",
+        "02",
+        "00",
+        "02"
+      ],
+      "provider_id": "florida",
+      "game_id": "pick-3"
+    },
+    {
+      "provider": "Florida",
+      "game": "Pick 3",
+      "edition": "Noche",
+      "date": "2026-05-31",
+      "numbers": [
+        "00",
+        "04",
+        "03",
+        "08"
+      ],
+      "provider_id": "florida",
+      "game_id": "pick-3"
+    },
+    {
+      "provider": "Florida",
+      "game": "Pick 4",
+      "edition": "Día",
+      "date": "2026-05-31",
+      "numbers": [
+        "00",
+        "01",
+        "01",
+        "07",
+        "02"
+      ],
+      "provider_id": "florida",
+      "game_id": "pick-4"
+    },
+    {
+      "provider": "Florida",
+      "game": "Pick 4",
+      "edition": "Noche",
+      "date": "2026-05-31",
+      "numbers": [
+        "07",
+        "00",
+        "04",
+        "06",
+        "08"
+      ],
+      "provider_id": "florida",
+      "game_id": "pick-4"
+    },
+    {
+      "provider": "Florida",
+      "game": "Pick 5",
+      "edition": "Día",
+      "date": "2026-05-31",
+      "numbers": [
+        "07",
+        "04",
+        "00",
+        "09",
+        "04",
+        "02"
+      ],
+      "provider_id": "florida",
+      "game_id": "pick-5"
+    },
+    {
+      "provider": "Florida",
+      "game": "Pick 5",
+      "edition": "Noche",
+      "date": "2026-05-31",
+      "numbers": [
+        "02",
+        "09",
+        "07",
+        "03",
+        "08",
+        "08"
+      ],
+      "provider_id": "florida",
+      "game_id": "pick-5"
     },
     {
       "provider": "King Lottery",
@@ -550,6 +812,17 @@
     },
     {
       "provider": "Loteka",
+      "game": "Mega Chances Repartidera",
+      "edition": null,
+      "date": "2026-05-31",
+      "numbers": [
+        "76"
+      ],
+      "provider_id": "loteka",
+      "game_id": "mega-chances-repartidera"
+    },
+    {
+      "provider": "Loteka",
       "game": "MegaLotto",
       "edition": null,
       "date": "2026-05-28",
@@ -720,6 +993,20 @@
     },
     {
       "provider": "Lotería Real",
+      "game": "Pega 4",
+      "edition": null,
+      "date": "2026-03-31",
+      "numbers": [
+        "03",
+        "08",
+        "02",
+        "00"
+      ],
+      "provider_id": "loteria-real",
+      "game_id": "pega-4"
+    },
+    {
+      "provider": "Lotería Real",
       "game": "Quiniela",
       "edition": null,
       "date": "2026-05-31",
@@ -753,6 +1040,118 @@
       ],
       "provider_id": "loteria-real",
       "game_id": "super-pale"
+    },
+    {
+      "provider": "Lotería Real",
+      "game": "Tu Fecha Real",
+      "edition": null,
+      "date": "2026-05-31",
+      "numbers": [
+        "16"
+      ],
+      "provider_id": "loteria-real",
+      "game_id": "tu-fecha-real"
+    },
+    {
+      "provider": "New York",
+      "game": "New York Lotto",
+      "edition": null,
+      "date": "2026-05-30",
+      "numbers": [
+        "35",
+        "58",
+        "15",
+        "38",
+        "08",
+        "40",
+        "05"
+      ],
+      "provider_id": "nueva-york",
+      "game_id": "new-york-lotto"
+    },
+    {
+      "provider": "New York",
+      "game": "Numbers",
+      "edition": "Medio Día",
+      "date": "2026-05-31",
+      "numbers": [
+        "07",
+        "06",
+        "04"
+      ],
+      "provider_id": "nueva-york",
+      "game_id": "numbers"
+    },
+    {
+      "provider": "New York",
+      "game": "Numbers",
+      "edition": "Noche",
+      "date": "2026-05-31",
+      "numbers": [
+        "08",
+        "01",
+        "06"
+      ],
+      "provider_id": "nueva-york",
+      "game_id": "numbers"
+    },
+    {
+      "provider": "New York",
+      "game": "Take 5",
+      "edition": "Medio Día",
+      "date": "2026-05-31",
+      "numbers": [
+        "06",
+        "19",
+        "25",
+        "26",
+        "35"
+      ],
+      "provider_id": "nueva-york",
+      "game_id": "take-5"
+    },
+    {
+      "provider": "New York",
+      "game": "Take 5",
+      "edition": "Noche",
+      "date": "2026-05-31",
+      "numbers": [
+        "01",
+        "23",
+        "24",
+        "26",
+        "36"
+      ],
+      "provider_id": "nueva-york",
+      "game_id": "take-5"
+    },
+    {
+      "provider": "New York",
+      "game": "Win 4",
+      "edition": "Medio Día",
+      "date": "2026-05-31",
+      "numbers": [
+        "07",
+        "05",
+        "06",
+        "03"
+      ],
+      "provider_id": "nueva-york",
+      "game_id": "win-4"
+    },
+    {
+      "provider": "New York",
+      "game": "Win 4",
+      "edition": "Noche",
+      "date": "2026-05-31",
+      "numbers": [
+        "08",
+        "06",
+        "04",
+        "00"
+      ],
+      "provider_id": "nueva-york",
+      "game_id": "win-4"
     }
   ]
 }
