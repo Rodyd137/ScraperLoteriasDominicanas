@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-06-02T02:35:16.447101Z",
+  "last_updated": "2026-06-02T07:10:13.647899Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -40,14 +40,14 @@
       "provider": "Americanas",
       "game": "PowerBall",
       "edition": null,
-      "date": "2026-05-30",
+      "date": "2026-06-01",
       "numbers": [
-        "01",
-        "27",
-        "35",
-        "44",
-        "52",
-        "12"
+        "02",
+        "42",
+        "47",
+        "57",
+        "58",
+        "14"
       ],
       "provider_id": "americanas",
       "game_id": "powerball",
@@ -57,14 +57,14 @@
       "provider": "Americanas",
       "game": "PowerBall Double Play",
       "edition": null,
-      "date": "2026-05-30",
+      "date": "2026-06-01",
       "numbers": [
-        "04",
-        "27",
-        "65",
-        "66",
-        "69",
-        "04"
+        "02",
+        "07",
+        "35",
+        "44",
+        "57",
+        "25"
       ],
       "provider_id": "americanas",
       "game_id": "powerball-double-play",
@@ -206,13 +206,13 @@
       "provider": "Florida",
       "game": "Fantasy 5",
       "edition": "Noche",
-      "date": "2026-05-31",
+      "date": "2026-06-01",
       "numbers": [
-        "12",
-        "33",
-        "13",
-        "02",
-        "07"
+        "36",
+        "20",
+        "35",
+        "03",
+        "26"
       ],
       "provider_id": "florida",
       "game_id": "fantasy-5",
