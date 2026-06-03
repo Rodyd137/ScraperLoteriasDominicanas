@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-06-03T02:42:51.625336Z",
+  "last_updated": "2026-06-03T07:26:08.748265Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -23,14 +23,14 @@
       "provider": "Americanas",
       "game": "Mega Millions",
       "edition": null,
-      "date": "2026-05-29",
+      "date": "2026-06-02",
       "numbers": [
-        "19",
-        "24",
-        "47",
-        "59",
-        "65",
-        "07"
+        "15",
+        "26",
+        "43",
+        "48",
+        "60",
+        "12"
       ],
       "provider_id": "americanas",
       "game_id": "mega-millions",
@@ -206,13 +206,13 @@
       "provider": "Florida",
       "game": "Fantasy 5",
       "edition": "Noche",
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "numbers": [
         "36",
-        "20",
-        "35",
-        "03",
-        "26"
+        "19",
+        "12",
+        "31",
+        "23"
       ],
       "provider_id": "florida",
       "game_id": "fantasy-5",
@@ -284,14 +284,14 @@
       "provider": "Florida",
       "game": "Jackpot Triple Play",
       "edition": null,
-      "date": "2026-05-29",
+      "date": "2026-06-02",
       "numbers": [
-        "45",
-        "25",
-        "07",
-        "23",
-        "31",
-        "15"
+        "01",
+        "44",
+        "42",
+        "32",
+        "22",
+        "39"
       ],
       "provider_id": "florida",
       "game_id": "jackpot-triple-play",
