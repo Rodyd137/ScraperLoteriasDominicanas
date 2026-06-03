@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-06-03T18:22:28.624630Z",
+  "last_updated": "2026-06-03T18:40:53.103350Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -930,13 +930,13 @@
       "provider": "Lotería Nacional",
       "game": "Juega + Pega +",
       "edition": null,
-      "date": "2026-06-02",
+      "date": "2026-06-03",
       "numbers": [
-        "15",
-        "25",
-        "17",
-        "09",
-        "14"
+        "26",
+        "18",
+        "06",
+        "21",
+        "22"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "juega-pega",
@@ -1117,11 +1117,11 @@
       "provider": "New York",
       "game": "New York",
       "edition": "Tarde",
-      "date": "2026-06-02",
+      "date": "2026-06-03",
       "numbers": [
-        "33",
-        "16",
-        "57"
+        "75",
+        "30",
+        "66"
       ],
       "provider_id": "nueva-york",
       "game_id": "new-york",
@@ -1149,11 +1149,11 @@
       "provider": "New York",
       "game": "Numbers",
       "edition": "Medio Día",
-      "date": "2026-06-02",
+      "date": "2026-06-03",
       "numbers": [
         "00",
-        "03",
-        "03"
+        "07",
+        "05"
       ],
       "provider_id": "nueva-york",
       "game_id": "numbers",
@@ -1177,13 +1177,13 @@
       "provider": "New York",
       "game": "Take 5",
       "edition": "Medio Día",
-      "date": "2026-06-02",
+      "date": "2026-06-03",
       "numbers": [
-        "13",
-        "25",
-        "31",
-        "33",
-        "37"
+        "01",
+        "05",
+        "17",
+        "28",
+        "31"
       ],
       "provider_id": "nueva-york",
       "game_id": "take-5",
@@ -1209,12 +1209,12 @@
       "provider": "New York",
       "game": "Win 4",
       "edition": "Medio Día",
-      "date": "2026-06-02",
+      "date": "2026-06-03",
       "numbers": [
-        "01",
+        "03",
+        "00",
         "06",
-        "05",
-        "07"
+        "06"
       ],
       "provider_id": "nueva-york",
       "game_id": "win-4",
