@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-06-03T18:40:53.103350Z",
+  "last_updated": "2026-06-03T21:23:10.354762Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -916,11 +916,11 @@
       "provider": "Lotería Nacional",
       "game": "Gana Más",
       "edition": null,
-      "date": "2026-06-02",
+      "date": "2026-06-03",
       "numbers": [
-        "19",
-        "70",
-        "79"
+        "13",
+        "34",
+        "26"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "gana-mas",
@@ -1078,10 +1078,10 @@
       "provider": "Lotería Real",
       "game": "Súper Palé",
       "edition": null,
-      "date": "2026-06-02",
+      "date": "2026-06-03",
       "numbers": [
-        "26",
-        "19"
+        "23",
+        "13"
       ],
       "provider_id": "loteria-real",
       "game_id": "super-pale",
