@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-06-07T15:23:43.613270Z",
+  "last_updated": "2026-06-07T16:09:15.526437Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -586,11 +586,11 @@
       "provider": "La Primera",
       "game": "Quiniela",
       "edition": "Medio Día",
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "numbers": [
-        "38",
-        "94",
-        "87"
+        "72",
+        "06",
+        "25"
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela",
@@ -614,9 +614,9 @@
       "provider": "La Primera",
       "game": "El Quinielón",
       "edition": "Día",
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "numbers": [
-        "40"
+        "29"
       ],
       "provider_id": "la-primera",
       "game_id": "quinielon",
@@ -773,12 +773,12 @@
       "provider": "LoteDom",
       "game": "Agarra 4",
       "edition": null,
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "numbers": [
-        "33",
-        "31",
-        "62",
-        "06"
+        "34",
+        "83",
+        "12",
+        "26"
       ],
       "provider_id": "lotedom",
       "game_id": "agarra-4",
@@ -788,9 +788,9 @@
       "provider": "LoteDom",
       "game": "El Quemaito Mayor",
       "edition": null,
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "numbers": [
-        "06"
+        "26"
       ],
       "provider_id": "lotedom",
       "game_id": "quemaito-mayor",
@@ -800,11 +800,11 @@
       "provider": "LoteDom",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "numbers": [
-        "33",
-        "31",
-        "62"
+        "34",
+        "83",
+        "12"
       ],
       "provider_id": "lotedom",
       "game_id": "quiniela",
@@ -814,10 +814,10 @@
       "provider": "LoteDom",
       "game": "Súper Palé",
       "edition": null,
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "numbers": [
-        "33",
-        "06"
+        "34",
+        "26"
       ],
       "provider_id": "lotedom",
       "game_id": "super-pale",
