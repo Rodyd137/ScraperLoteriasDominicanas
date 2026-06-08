@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-06-08T00:08:30.599263Z",
+  "last_updated": "2026-06-08T02:35:31.003934Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -102,11 +102,11 @@
       "provider": "Anguila",
       "game": "Anguila",
       "edition": "Noche",
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "numbers": [
-        "47",
-        "84",
-        "97"
+        "55",
+        "31",
+        "19"
       ],
       "provider_id": "anguila",
       "game_id": "anguila",
@@ -160,12 +160,12 @@
       "provider": "Anguila",
       "game": "Cuarteta",
       "edition": "Noche",
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "numbers": [
-        "77",
         "55",
-        "30",
-        "09"
+        "07",
+        "04",
+        "76"
       ],
       "provider_id": "anguila",
       "game_id": "cuarteta",
@@ -236,11 +236,11 @@
       "provider": "Florida",
       "game": "Florida",
       "edition": "Noche",
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "numbers": [
-        "12",
-        "95",
-        "42"
+        "25",
+        "85",
+        "53"
       ],
       "provider_id": "florida",
       "game_id": "florida",
@@ -315,11 +315,11 @@
       "provider": "Florida",
       "game": "Pick 2",
       "edition": "Noche",
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "numbers": [
-        "03",
         "02",
-        "02"
+        "04",
+        "04"
       ],
       "provider_id": "florida",
       "game_id": "pick-2",
@@ -344,12 +344,12 @@
       "provider": "Florida",
       "game": "Pick 3",
       "edition": "Noche",
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "numbers": [
-        "07",
-        "01",
+        "09",
         "02",
-        "02"
+        "05",
+        "04"
       ],
       "provider_id": "florida",
       "game_id": "pick-3",
@@ -375,13 +375,13 @@
       "provider": "Florida",
       "game": "Pick 4",
       "edition": "Noche",
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "numbers": [
-        "09",
+        "08",
         "05",
-        "04",
-        "02",
-        "02"
+        "05",
+        "03",
+        "04"
       ],
       "provider_id": "florida",
       "game_id": "pick-4",
@@ -408,14 +408,14 @@
       "provider": "Florida",
       "game": "Pick 5",
       "edition": "Noche",
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "numbers": [
         "07",
-        "00",
-        "08",
-        "06",
         "04",
-        "02"
+        "08",
+        "05",
+        "01",
+        "04"
       ],
       "provider_id": "florida",
       "game_id": "pick-5",
@@ -1103,11 +1103,11 @@
       "provider": "New York",
       "game": "New York",
       "edition": "Noche",
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "numbers": [
-        "14",
-        "40",
-        "85"
+        "26",
+        "26",
+        "07"
       ],
       "provider_id": "nueva-york",
       "game_id": "new-york",
@@ -1163,11 +1163,11 @@
       "provider": "New York",
       "game": "Numbers",
       "edition": "Noche",
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "numbers": [
-        "08",
-        "01",
-        "04"
+        "09",
+        "02",
+        "06"
       ],
       "provider_id": "nueva-york",
       "game_id": "numbers",
@@ -1193,13 +1193,13 @@
       "provider": "New York",
       "game": "Take 5",
       "edition": "Noche",
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "numbers": [
+        "09",
+        "12",
         "15",
-        "20",
-        "25",
-        "35",
-        "39"
+        "17",
+        "18"
       ],
       "provider_id": "nueva-york",
       "game_id": "take-5",
@@ -1224,12 +1224,12 @@
       "provider": "New York",
       "game": "Win 4",
       "edition": "Noche",
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "numbers": [
-        "04",
+        "02",
+        "06",
         "00",
-        "08",
-        "05"
+        "07"
       ],
       "provider_id": "nueva-york",
       "game_id": "win-4",
