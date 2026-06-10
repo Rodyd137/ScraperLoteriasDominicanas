@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-06-10T16:36:32.254651Z",
+  "last_updated": "2026-06-10T16:57:29.993223Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -1091,9 +1091,9 @@
       "provider": "Lotería Real",
       "game": "Tu Fecha Real",
       "edition": null,
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "numbers": [
-        "14"
+        "06"
       ],
       "provider_id": "loteria-real",
       "game_id": "tu-fecha-real",
