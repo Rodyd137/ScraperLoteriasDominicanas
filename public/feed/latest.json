@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-06-12T02:30:19.489529Z",
+  "last_updated": "2026-06-12T07:05:38.181642Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -206,13 +206,13 @@
       "provider": "Florida",
       "game": "Fantasy 5",
       "edition": "Noche",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "numbers": [
-        "16",
-        "30",
-        "31",
-        "13",
-        "26"
+        "05",
+        "09",
+        "01",
+        "20",
+        "16"
       ],
       "provider_id": "florida",
       "game_id": "fantasy-5",
@@ -1103,11 +1103,11 @@
       "provider": "New York",
       "game": "New York",
       "edition": "Noche",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "numbers": [
-        "89",
-        "78",
-        "42"
+        "39",
+        "52",
+        "48"
       ],
       "provider_id": "nueva-york",
       "game_id": "new-york",
@@ -1163,10 +1163,10 @@
       "provider": "New York",
       "game": "Numbers",
       "edition": "Noche",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "numbers": [
-        "01",
-        "08",
+        "05",
+        "03",
         "09"
       ],
       "provider_id": "nueva-york",
@@ -1193,13 +1193,13 @@
       "provider": "New York",
       "game": "Take 5",
       "edition": "Noche",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "numbers": [
-        "02",
-        "14",
-        "29",
-        "33",
-        "35"
+        "03",
+        "06",
+        "12",
+        "20",
+        "21"
       ],
       "provider_id": "nueva-york",
       "game_id": "take-5",
@@ -1224,12 +1224,12 @@
       "provider": "New York",
       "game": "Win 4",
       "edition": "Noche",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "numbers": [
-        "07",
-        "08",
+        "05",
+        "02",
         "04",
-        "02"
+        "08"
       ],
       "provider_id": "nueva-york",
       "game_id": "win-4",
