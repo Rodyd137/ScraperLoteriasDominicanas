@@ -1,520 +1,272 @@
-import requests
-from bs4 import BeautifulSoup
-from datetime import datetime, date
-from zoneinfo import ZoneInfo
+"""
+JSON API client for loteriasdominicanas.com.
+
+The source site was rewritten as a Nuxt SPA on 2026-06-12 and the old
+HTML selectors (`.game-block`, `.game-title span`, `.game-scores .score`)
+no longer exist. The SPA hydrates from a public JSON API:
+
+    GET https://api.loteriasdominicanas.com/dominicana/site-companies/{id}
+        ?date=<ISO-UTC>
+    Origin: https://loteriasdominicanas.com   # CORS-enforced
+
+Response (truncated to what we read):
+
+    {
+      "_id": "...",
+      "title": "Leidsa",
+      "logo": {"key": "..."},
+      "siteGames": [{
+        "title": "Quiniela Leidsa",
+        "logo": {"key": "..."},
+        "game": {
+          "score_layout": [[{...}, {"is_bonus": true, "options": [...]}]],
+          "sessions": [{
+            "date": "2026-06-12T04:00:00.000Z",  # midnight America/Santo_Domingo
+            "score": [["53","07","63"]]
+          }]
+        }
+      }, ...]
+    }
+
+We turn each session into a Draw with the exact same fields the iOS app
+already consumes (provider/game/edition/date/numbers/provider_id/game_id/
+logo_url) so no client-side change is needed.
+"""
+
+from __future__ import annotations
+
 import re
+from datetime import datetime, timezone
+from typing import Dict, List, Optional, Tuple
 
-from . import registry
+import requests
+
 from ..schema import Draw, slugify
+from . import registry
 
-BASE = "https://loteriasdominicanas.com"
-RD_TZ = ZoneInfo("America/Santo_Domingo")
+API_BASE  = "https://api.loteriasdominicanas.com/dominicana"
+S3_BASE   = "https://temp-lottery.s3.us-east-1.amazonaws.com"
+ORIGIN    = "https://loteriasdominicanas.com"
+TIMEOUT_S = 12
 
-BROWSER_HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/127.0.0.0 Safari/127.0"
-    ),
-    "Accept-Language": "es-ES,es;q=0.9",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "Referer": "https://loteriasdominicanas.com/",
+# 12 companies, mapped to the CANONICAL provider name the iOS app already
+# knows (provider_id = slugify(canonical)). Changing the canonical name
+# would silently wipe user favorites/subscriptions stored by slug.
+COMPANIES: List[Tuple[str, str]] = [
+    # (company_id, canonical_provider_name)
+    ("6966a6d1ea7015c3b8a3d44a", "Leidsa"),
+    ("6966a6d1ea7015c3b8a3d479", "Lotería Nacional"),
+    ("6966a6d2ea7015c3b8a3d4a5", "Lotería Real"),
+    ("6966a6d2ea7015c3b8a3d4d4", "Loteka"),
+    ("6966a6d2ea7015c3b8a3d4fa", "Americanas"),
+    ("6966a6d2ea7015c3b8a3d52f", "New York"),
+    ("6966a6d2ea7015c3b8a3d564", "Florida"),
+    ("6966a6d2ea7015c3b8a3d5bd", "La Primera"),
+    ("6966a6d3ea7015c3b8a3d5e0", "La Suerte Dominicana"),
+    ("6966a6d3ea7015c3b8a3d5f1", "LoteDom"),
+    ("6966a6d3ea7015c3b8a3d60e", "Anguila"),
+    ("6966a6d3ea7015c3b8a3d643", "King Lottery"),
+]
+
+# Longest-first so "Día" doesn't accidentally swallow "Medio Día".
+# Florida's listings use the unaccented "Dia" — accept both spellings
+# so "Pick 3 Dia" splits the same as "Pick 3 Día" elsewhere.
+EDITION_SUFFIXES = ["Medio Día", "Mañana", "Noche", "Tarde", "Día", "Dia"]
+
+# When the API uses "Dia" without an accent we still emit the canonical
+# accented form so the iOS app sees a single edition value across
+# providers (it was always "Día" historically).
+EDITION_NORMALIZE = {"Dia": "Día"}
+
+# Per-provider title rewrites for siteGame.title strings that don't follow
+# the "<game> <edition>" pattern. Maps (canonical_provider, api_title) →
+# (game, edition). Kept tiny on purpose — only correct true mismatches
+# against the historical schema.
+TITLE_OVERRIDES: Dict[Tuple[str, str], Tuple[str, Optional[str]]] = {
+    ("La Primera",           "La Primera Día"):      ("Quiniela",  "Medio Día"),
+    ("La Primera",           "Primera Noche"):       ("Quiniela",  "Noche"),
+    ("King Lottery",         "King Lottery 12:30"):  ("Quiniela",  "Día"),
+    ("King Lottery",         "King Lottery 7:30"):   ("Quiniela",  "Noche"),
+    ("La Suerte Dominicana", "La Suerte 12:30"):     ("La Suerte", "Día"),
+    ("La Suerte Dominicana", "La Suerte 18:00"):     ("La Suerte", "Tarde"),
+    ("New York",             "Take 5 Midday"):       ("Take 5",    "Medio Día"),
+    ("Florida",              "Fantasy Medio Día"):   ("Fantasy 5", "Medio Día"),
+    ("Florida",              "Fantasy 5"):           ("Fantasy 5", "Noche"),
 }
 
-PROV = {
-    "La Primera": "la-primera",
-    "Leidsa": "leidsa",
-    "Lotería Nacional": "loteria-nacional",
-    "Lotería Real": "loteria-real",
-    "Loteka": "loteka",
-    "LoteDom": "lotedom",
-    "La Suerte Dominicana": "la-suerte-dominicana",
-    "Florida": "florida",
-    "Nueva York": "nueva-york",
-    "New York": "nueva-york",   # alias — Americanas page uses English
-    "Americanas": "americanas",
-    "Anguila": "anguila",
-    "King Lottery": "king-lottery",
+# Game-name rewrites after edition stripping. The API picks slightly
+# different names than the canonical set; we map back so favorites stick.
+GAME_RENAME: Dict[str, str] = {
+    "La Cuarteta":             "Cuarteta",
+    "Pega 4 Real":             "Pega 4",
+    "Quiniela Real":           "Quiniela",
+    "Quiniela Leidsa":         "Quiniela",
+    "Quiniela LoteDom":        "Quiniela",
+    "Quiniela Loteka":         "Quiniela",
+    "Loto - Super Loto Más":   "Loto Más",
+    "MC Repartidera":          "Mega Chances Repartidera",
+    "Super Palé":              "Súper Palé",   # canonical uses accented S
+    "Powerball":               "PowerBall",
+    "Powerball Double Play":   "PowerBall Double Play",
 }
 
-def today_rd() -> str:
-    return datetime.now(RD_TZ).date().isoformat()
+# Per-provider title-prefix filters. Americanas's API includes Florida/NY
+# games that are ALSO published under their own dedicated companies — we
+# drop the duplicates so the same draw doesn't appear twice in the app.
+PROVIDER_DROP_PREFIXES: Dict[str, Tuple[str, ...]] = {
+    "Americanas": ("Florida ", "New York "),
+}
 
-def _norm(s: str) -> str:
-    return " ".join(s.replace("\u00a0", " ").split())
+_NUMERIC = re.compile(r"^\d+$")
 
-def _fetch_soup(url: str) -> BeautifulSoup:
-    r = requests.get(url, timeout=30, headers=BROWSER_HEADERS)
-    r.raise_for_status()
-    return BeautifulSoup(r.text, "lxml")
 
-def _extract_cards(soup: BeautifulSoup):
-    return soup.select(".game-block")
+def _split_edition(title: str) -> Tuple[str, Optional[str]]:
+    """Strip a known edition suffix from a siteGame title."""
+    for suf in EDITION_SUFFIXES:
+        marker = " " + suf
+        if title.endswith(marker):
+            base = title[:-len(marker)].strip()
+            return base, EDITION_NORMALIZE.get(suf, suf)
+    return title.strip(), None
 
-def _extract_title(card) -> str | None:
-    el = card.select_one(".game-title span")
-    return _norm(el.get_text(" ", strip=True)) if el else None
 
-def _extract_numbers(card) -> list[str]:
-    nums = []
-    for s in card.select(".game-scores .score"):
-        t = s.get_text(strip=True)
-        # ignora "2X", etc.
-        if t.isdigit():
-            nums.append(t.zfill(2))
-    return nums
-
-def _extract_logo(card) -> str | None:
-    """Pull the game's logo URL out of the card markup.
-
-    The source lazy-loads images via `data-src`, falling back to `src`
-    once they enter the viewport. We prefer `data-src` because pages
-    rendered headlessly (curl / requests) never trigger that swap, so
-    `src` is usually a placeholder pixel.
-    """
-    img = card.select_one("img[data-src], img[src]")
-    if not img:
+def _normalize_number(raw: str) -> Optional[str]:
+    """Zero-pad width-1 numbers (Pick 3 publishes `"7"` where the legacy
+    schema had `"07"`). Leave width-2+ alone so Philipsburg's `"6509"` and
+    similar 4-digit games round-trip cleanly. Returns None for tokens
+    that aren't numbers — caller resolves those via the bonus options."""
+    raw = (raw or "").strip()
+    if not _NUMERIC.match(raw):
         return None
-    url = img.get("data-src") or img.get("src")
-    if not url:
-        return None
-    # Skip the global site logo and the stats-icon placeholder.
-    bad = ("ex_stats", "/images/site", "logo-loterias")
-    if any(s in url for s in bad):
-        return None
-    return url if url.startswith("http") else None
+    return raw.zfill(2) if len(raw) == 1 else raw
 
-# ---------- NUEVO: lectura de fecha base (con año) desde la página ----------
-_RE_PAGE_TODAY = re.compile(r"today\s*:\s*'(\d{2}-\d{2}-\d{4})'")
 
-def _page_base_date(soup: BeautifulSoup) -> date | None:
-    """
-    Busca en los <script> el fragmento: today: 'dd-mm-yyyy'
-    y devuelve datetime.date(yyyy, mm, dd)
-    """
-    for s in soup.find_all("script"):
-        txt = (s.string or s.get_text()) or ""
-        m = _RE_PAGE_TODAY.search(txt)
-        if m:
-            dd, mm, yy = m.group(1).split("-")
-            return date(int(yy), int(mm), int(dd))
+def _resolve_bonus(token: str, layout: list) -> Optional[str]:
+    """Bonus balls arrive as opaque option IDs in score. The matching
+    `score_layout[panel][slot].options[].id` carries a `text` field that
+    is the human-readable number (e.g. `"4"` for the Cash Ball)."""
+    for panel in layout or []:
+        for slot in panel or []:
+            for opt in slot.get("options") or []:
+                if opt.get("id") == token:
+                    return _normalize_number(opt.get("text", ""))
     return None
 
-# ---------- NUEVO: extracción de dd-mm del card y armado de yyyy-mm-dd ----------
-_RE_DDMM = re.compile(r"\b([0-3]?\d)[\-/\.]([01]?\d)\b")
 
-def _extract_card_date(card, year_base: int) -> str | None:
-    """
-    Lee '06-09' desde elementos típicos del card y lo convierte a 'YYYY-MM-DD'
-    usando year_base. Hace un ajuste simple para cruces de año (enero/12).
-    """
-    cands = card.select(".session-date, .game-date, .badge, .date")
-    texts = [(" ".join((el.get_text(" ", strip=True) or "").split())) for el in cands if el]
-    if not texts:
-        texts = [(" ".join((card.get_text(" ", strip=True) or "").split()))]
-
-    for t in texts:
-        m = _RE_DDMM.search(t)
-        if not m:
+def _flatten_score(score: list, layout: list) -> List[str]:
+    out: List[str] = []
+    for grp in score or []:
+        if not isinstance(grp, list):
             continue
-        dd, mm = int(m.group(1)), int(m.group(2))
-        if 1 <= dd <= 31 and 1 <= mm <= 12:
-            yy = year_base
-            # si estamos en enero y el card dice 12 (diciembre), asume año anterior
-            today = datetime.now(RD_TZ).date()
-            if today.month == 1 and mm == 12 and year_base == today.year:
-                yy -= 1
-            return f"{yy:04d}-{mm:02d}-{dd:02d}"
-    return None
-
-# ---------- Constructor de Draws desde los cards ----------
-def _build_from_cards(
-    soup: BeautifulSoup,
-    provider: str,
-    title_map: dict[str, tuple[str, str | None]],
-    game_slug_overrides: dict[str, str] | None = None,
-    title_provider_override: dict[str, str] | None = None,
-    suppress_unmatched: bool = False,
-) -> list[Draw]:
-    """
-    title_map: { 'La Primera Día': ('Quiniela', 'Día'), ... }
-    game_slug_overrides: {'El Quinielón': 'quinielon'}
-    title_provider_override: {'Florida Día': 'Florida'}
-        When set, cards whose title is in this dict get re-labeled to
-        the override provider. Used by the Americanas consolidated
-        page which hosts cards that logically belong to other
-        providers (Florida Día/Tarde/Noche, New York editions).
-    suppress_unmatched: when True, the [UNMATCHED] debug line is
-        skipped. Useful when running multiple passes over the same
-        soup with different title_maps.
-
-    Cards whose title isn't in title_map are skipped with a debug log so
-    we can see — in the GitHub Actions output — which fresh sorteos the
-    upstream site started publishing that we haven't mapped yet.
-    """
-    # Año base de la página; si no se encuentra, usa fecha de RD
-    base = _page_base_date(soup) or datetime.now(RD_TZ).date()
-    base_year = base.year
-
-    out: list[Draw] = []
-    default_provider_id = PROV.get(provider, slugify(provider))
-    unmatched_titles: list[str] = []
-
-    for card in _extract_cards(soup):
-        title = _extract_title(card)
-        if not title:
-            continue
-
-        # Tolerar pequeñas variantes en títulos
-        original_title = title
-        if title not in title_map:
-            t2 = title.replace("Mediodía", "Medio Día").replace("Dia", "Día")
-            if t2 not in title_map:
-                unmatched_titles.append(original_title)
-                continue
-            title = t2
-
-        game, edition = title_map[title]
-        nums = _extract_numbers(card)
-        if not nums:
-            continue
-
-        # Optional per-title provider relabel.
-        row_provider = (title_provider_override or {}).get(title) \
-            or (title_provider_override or {}).get(original_title) \
-            or provider
-        row_provider_id = (
-            PROV.get(row_provider, slugify(row_provider))
-            if row_provider != provider
-            else default_provider_id
-        )
-
-        game_id = (game_slug_overrides or {}).get(game) or slugify(game)
-
-        # Fecha real del sorteo desde el card; fallback al base
-        d = _extract_card_date(card, base_year) or base.isoformat()
-
-        out.append(
-            Draw(
-                provider=row_provider,
-                game=game,
-                edition=edition,
-                date=d,
-                numbers=nums,
-                provider_id=row_provider_id,
-                game_id=game_id,
-                logo_url=_extract_logo(card),
-            )
-        )
-
-    if unmatched_titles and not suppress_unmatched:
-        print(f"[UNMATCHED][{provider}] {unmatched_titles}")
+        for token in grp:
+            token = str(token) if token is not None else ""
+            n = _normalize_number(token)
+            if n is None:
+                n = _resolve_bonus(token, layout)
+            if n is not None:
+                out.append(n)
     return out
 
-# ----------------- LA PRIMERA -----------------
-@registry.site("la_primera", f"{BASE}/la-primera")
-def scrape_la_primera():
-    soup = _fetch_soup(f"{BASE}/la-primera")
-    # Upstream switched "La Primera Día" → "Quiniela Medio Día" and
-    # "Primera Noche" → "Quiniela Noche". Keep the old labels as a
-    # transition fallback so we don't lose draws if the site rolls back.
-    title_map = {
-        # Current upstream labels
-        "Quiniela Medio Día": ("Quiniela", "Medio Día"),
-        "Quiniela Mediodía": ("Quiniela", "Medio Día"),
-        "Quiniela Noche": ("Quiniela", "Noche"),
-        # Old labels (kept as fallback)
-        "La Primera Día": ("Quiniela", "Medio Día"),
-        "Primera Noche": ("Quiniela", "Noche"),
-        # Quinielón
-        "El Quinielón Día": ("El Quinielón", "Día"),
-        "El Quinielón Noche": ("El Quinielón", "Noche"),
-        # Loto 5
-        "Loto 5": ("Loto 5", None),
-    }
-    overrides = {"El Quinielón": "quinielon"}
-    draws = _build_from_cards(soup, "La Primera", title_map, overrides)
-    print("[DEBUG][La Primera] encontrados:", [(d.game, d.edition, d.numbers, d.date) for d in draws])
-    return draws
 
-# ----------------- LEIDSA -----------------
-@registry.site("leidsa", f"{BASE}/leidsa")
-def scrape_leidsa():
-    soup = _fetch_soup(f"{BASE}/leidsa")
-    title_map = {
-        "Pega 3 Más": ("Pega 3 Más", None),
-        "Quiniela Leidsa": ("Quiniela", None),
-        "Quiniela Palé": ("Quiniela Palé", None),
-        "Quiniela Pale": ("Quiniela Palé", None),
-        "Loto Pool": ("Loto Pool", None),
-        "Super Kino TV": ("Super Kino TV", None),
-        # Upstream now shows "Loto Más"; kept old label for transition.
-        "Loto Más": ("Loto Más", None),
-        "Loto Mas": ("Loto Más", None),
-        "Loto - Super Loto Más": ("Loto Más", None),
-        "Súper Palé": ("Súper Palé", None),
-        "Super Pale": ("Súper Palé", None),
-        "Super Palé": ("Súper Palé", None),
-    }
-    draws = _build_from_cards(soup, "Leidsa", title_map)
-    print("[DEBUG][Leidsa] encontrados:", [(d.game, d.edition, d.numbers, d.date) for d in draws])
-    return draws
+def _logo_url(*candidates: Optional[dict]) -> Optional[str]:
+    """First logo-shaped dict with a non-empty `.key` wins. Prefers the
+    per-siteGame logo over the per-game one over the per-company one,
+    matching what the old HTML scraper picked from `<img data-src>`."""
+    for c in candidates:
+        if isinstance(c, dict):
+            key = c.get("key")
+            if isinstance(key, str) and key:
+                return f"{S3_BASE}/{key}"
+    return None
 
-# ----------------- LOTERÍA NACIONAL -----------------
-@registry.site("nacional", f"{BASE}/loteria-nacional")
-def scrape_nacional():
-    soup = _fetch_soup(f"{BASE}/loteria-nacional")
-    title_map = {
-        "Juega + Pega +": ("Juega + Pega +", None),
-        "Juega Más Pega Más": ("Juega + Pega +", None),
-        "Gana Más": ("Gana Más", None),
-        "Quiniela": ("Quiniela", None),
-        "Quiniela Nacional": ("Quiniela", None),
-        "Lotería Nacional": ("Lotería Nacional", None),
-        "Billetes Domingo": ("Billetes Domingo", None),
-    }
-    draws = _build_from_cards(soup, "Lotería Nacional", title_map)
-    print("[DEBUG][Nacional] encontrados:", [(d.game, d.edition, d.numbers, d.date) for d in draws])
-    return draws
 
-# ----------------- Lotería Real -----------------
-@registry.site("real", f"{BASE}/loto-real")
-def scrape_real():
-    soup = _fetch_soup(f"{BASE}/loto-real")
-    title_map = {
-        "Quiniela Real": ("Quiniela", None),
-        "Quinielita Real": ("Quinielita", None),
-        "Quinielita": ("Quinielita", None),
-        "Loto Real": ("Loto Real", None),
-        "Loto": ("Loto", None),
-        "Loto Pool": ("Loto Pool", "Día"),
-        "Loto Pool Día": ("Loto Pool", "Día"),
-        "Loto Pool Noche": ("Loto Pool", "Noche"),
-        "Chance Real": ("Chance Real", None),
-        "Nueva Yol Real": ("Nueva Yol Real", None),
-        "Pega 4": ("Pega 4", None),
-        "Pega 4 Real": ("Pega 4", None),
-        "Repartidera Real": ("Repartidera Real", None),
-        "Repartidera": ("Repartidera Real", None),
-        "Súper Palé": ("Súper Palé", None),
-        "Super Pale": ("Súper Palé", None),
-        "Super Palé": ("Súper Palé", None),
-        "Tu Fecha Real": ("Tu Fecha Real", None),
-    }
-    draws = _build_from_cards(soup, "Lotería Real", title_map)
-    print("[DEBUG][Real] encontrados:", [(d.game, d.edition, d.numbers, d.date) for d in draws])
-    return draws
+def _yyyymmdd(iso_utc: str) -> str:
+    """Session.date is always midnight America/Santo_Domingo expressed
+    as UTC (`...T04:00:00.000Z`), so a plain ISO date slice gets the
+    correct calendar day without any tz arithmetic."""
+    return (iso_utc or "")[:10]
 
-# ----------------- Loteka -----------------
-@registry.site("loteka", f"{BASE}/loteka")
-def scrape_loteka():
-    soup = _fetch_soup(f"{BASE}/loteka")
-    title_map = {
-        "Quiniela Loteka": ("Quiniela", None),
-        "Mega Chances": ("Mega Chances", None),
-        "MC Repartidera": ("Mega Chances Repartidera", None),
-        "Mega Chances Repartidera": ("Mega Chances Repartidera", None),
-        "Repartidera": ("Mega Chances Repartidera", None),
-        "MegaLotto": ("MegaLotto", None),
-        "Mega Lotto": ("MegaLotto", None),
-        "Toca 3": ("Toca 3", None),
-        "Quiniela Mega Decenas": ("Quiniela Mega Decenas", None),
-        "Mega Decenas": ("Quiniela Mega Decenas", None),
-    }
-    draws = _build_from_cards(soup, "Loteka", title_map)
-    print("[DEBUG][Loteka] encontrados:", [(d.game, d.edition, d.numbers, d.date) for d in draws])
-    return draws
 
-# ----------------- LoteDom (El Quemaito Mayor) -----------------
-@registry.site("lotedom", f"{BASE}/lotedom")
-def scrape_lotedom():
-    soup = _fetch_soup(f"{BASE}/lotedom")
-    title_map = {
-        "Quiniela LoteDom": ("Quiniela", None),
-        "El Quemaito Mayor": ("El Quemaito Mayor", None),
-        "Agarra 4": ("Agarra 4", None),
-        "Súper Palé": ("Súper Palé", None),
-        "Super Pale": ("Súper Palé", None),
-        "Super Palé": ("Súper Palé", None),
-    }
-    draws = _build_from_cards(soup, "LoteDom", title_map, {"El Quemaito Mayor": "quemaito-mayor"})
-    print("[DEBUG][LoteDom] encontrados:", [(d.game, d.edition, d.numbers, d.date) for d in draws])
-    return draws
-
-# ----------------- La Suerte Dominicana -----------------
-@registry.site("la_suerte", f"{BASE}/la-suerte-dominicana")
-def scrape_la_suerte():
-    soup = _fetch_soup(f"{BASE}/la-suerte-dominicana")
-    # Upstream switched from time labels (12:30 / 18:00) to Día / Tarde.
-    # Keep both so a card with the old label still maps cleanly.
-    title_map = {
-        # Current upstream
-        "Quiniela": ("La Suerte", "Día"),
-        "Quiniela La Suerte": ("La Suerte", "Día"),
-        "Quiniela Tarde": ("La Suerte", "Tarde"),
-        "La Suerte Tarde": ("La Suerte", "Tarde"),
-        # Old time-based labels kept as fallback
-        "La Suerte 12:30": ("La Suerte", "Día"),
-        "La Suerte 18:00": ("La Suerte", "Tarde"),
-    }
-    draws = _build_from_cards(soup, "La Suerte Dominicana", title_map)
-    print("[DEBUG][La Suerte] encontrados:", [(d.game, d.edition, d.numbers, d.date) for d in draws])
-    return draws
-
-# ----------------- Florida -----------------
-@registry.site("florida", f"{BASE}/loteria-de-florida")
-def scrape_florida():
-    soup = _fetch_soup(f"{BASE}/loteria-de-florida")
-    # The DR-style Florida Día/Tarde/Noche cards moved to the Americanas
-    # consolidated page. This subpage now carries the US-style Florida
-    # Lottery games (Pick 2/3/4/5, Fantasy 5, Florida Lotto, etc.) —
-    # niche for the DR market but we publish them for completeness.
-    title_map = {
-        "Fantasy Medio Día": ("Fantasy 5", "Medio Día"),
-        "Fantasy 5": ("Fantasy 5", "Noche"),
-        "Pick 2 Dia": ("Pick 2", "Día"),
-        "Pick 2 Día": ("Pick 2", "Día"),
-        "Pick 2 Noche": ("Pick 2", "Noche"),
-        "Pick 3 Dia": ("Pick 3", "Día"),
-        "Pick 3 Día": ("Pick 3", "Día"),
-        "Pick 3 Noche": ("Pick 3", "Noche"),
-        "Pick 4 Dia": ("Pick 4", "Día"),
-        "Pick 4 Día": ("Pick 4", "Día"),
-        "Pick 4 Noche": ("Pick 4", "Noche"),
-        "Pick 5 Dia": ("Pick 5", "Día"),
-        "Pick 5 Día": ("Pick 5", "Día"),
-        "Pick 5 Noche": ("Pick 5", "Noche"),
-        "Florida Lotto": ("Florida Lotto", None),
-        "Florida Lotto Double Play": ("Florida Lotto Double Play", None),
-        "Jackpot Triple Play": ("Jackpot Triple Play", None),
-    }
-    draws = _build_from_cards(soup, "Florida", title_map)
-    print("[DEBUG][Florida] encontrados:", [(d.game, d.edition, d.numbers, d.date) for d in draws])
-    return draws
-
-# ----------------- Nueva York -----------------
-@registry.site("nueva_york", f"{BASE}/nueva-york")
-def scrape_nueva_york():
-    soup = _fetch_soup(f"{BASE}/nueva-york")
-    # Same story as Florida: the DR-style NY Día/Tarde/Noche cards moved
-    # to Americanas. This page now carries the official NY Lottery games
-    # (Numbers, Win 4, Take 5, NY Lotto).
-    title_map = {
-        "Numbers Medio Día": ("Numbers", "Medio Día"),
-        "Numbers Mediodía": ("Numbers", "Medio Día"),
-        "Numbers Noche": ("Numbers", "Noche"),
-        "Win 4 Medio Día": ("Win 4", "Medio Día"),
-        "Win 4 Mediodía": ("Win 4", "Medio Día"),
-        "Win 4 Noche": ("Win 4", "Noche"),
-        "Take 5 Midday": ("Take 5", "Medio Día"),
-        "Take 5 Medio Día": ("Take 5", "Medio Día"),
-        "Take 5 Mediodía": ("Take 5", "Medio Día"),
-        "Take 5 Noche": ("Take 5", "Noche"),
-        "New York Lotto": ("New York Lotto", None),
-    }
-    draws = _build_from_cards(soup, "New York", title_map)
-    print("[DEBUG][New York] encontrados:", [(d.game, d.edition, d.numbers, d.date) for d in draws])
-    return draws
-
-# ----------------- Americanas -----------------
-@registry.site("americanas", f"{BASE}/americanas")
-def scrape_americanas():
-    soup = _fetch_soup(f"{BASE}/americanas")
-    # Three logical providers share this page. We use
-    # `title_provider_override` to re-label Florida and New York rows so
-    # they show up under their own tiles in the iOS "Por proveedor"
-    # grid instead of being lumped into Americanas.
-    title_map = {
-        # True Americanas (multi-state US lotteries)
-        "PowerBall": ("PowerBall", None),
-        "Powerball": ("PowerBall", None),
-        "PowerBall Double Play": ("PowerBall Double Play", None),
-        "Powerball Double Play": ("PowerBall Double Play", None),
-        "Mega Millions": ("Mega Millions", None),
-        "Cash 4 Life": ("Cash 4 Life", None),
-        # Florida (3-number DR-style quinielas, hosted on this page)
-        "Florida Día": ("Florida", "Día"),
-        "Florida Tarde": ("Florida", "Tarde"),
-        "Florida Noche": ("Florida", "Noche"),
-        # New York (same)
-        "New York Medio Día": ("New York", "Medio Día"),
-        "New York Mediodía": ("New York", "Medio Día"),
-        "New York Tarde": ("New York", "Tarde"),
-        "New York Noche": ("New York", "Noche"),
-    }
-    provider_override = {
-        "Florida Día":   "Florida",
-        "Florida Tarde": "Florida",
-        "Florida Noche": "Florida",
-        "New York Medio Día": "New York",
-        "New York Mediodía":  "New York",
-        "New York Tarde":     "New York",
-        "New York Noche":     "New York",
-    }
-    draws = _build_from_cards(
-        soup, "Americanas", title_map,
-        title_provider_override=provider_override,
+def _fetch_company(company_id: str) -> dict:
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.000Z")
+    url = f"{API_BASE}/site-companies/{company_id}?date={now}"
+    r = requests.get(
+        url,
+        headers={"Origin": ORIGIN, "Accept": "application/json"},
+        timeout=TIMEOUT_S,
     )
-    print("[DEBUG][Americanas] encontrados:",
-          [(d.provider, d.game, d.edition, d.numbers, d.date) for d in draws])
-    return draws
+    r.raise_for_status()
+    return r.json()
 
-# ----------------- Anguila -----------------
-@registry.site("anguila", f"{BASE}/anguila")
-def scrape_anguila():
-    soup = _fetch_soup(f"{BASE}/anguila")
-    title_map = {
-        "Anguila Mañana": ("Anguila", "Mañana"),
-        "Anguila Medio Día": ("Anguila", "Medio Día"),
-        "Anguila Tarde": ("Anguila", "Tarde"),
-        "Anguila Noche": ("Anguila", "Noche"),
-        # Cuarteta editions (4-number pick game tied to Anguila).
-        # Upstream prefixes them with "La Cuarteta" for the morning one
-        # but uses just "Cuarteta" for the others — keep both forms.
-        "La Cuarteta Mañana": ("Cuarteta", "Mañana"),
-        "Cuarteta Mañana": ("Cuarteta", "Mañana"),
-        "La Cuarteta Medio Día": ("Cuarteta", "Medio Día"),
-        "Cuarteta Medio Día": ("Cuarteta", "Medio Día"),
-        "Cuarteta Mediodía": ("Cuarteta", "Medio Día"),
-        "La Cuarteta Tarde": ("Cuarteta", "Tarde"),
-        "Cuarteta Tarde": ("Cuarteta", "Tarde"),
-        "La Cuarteta Noche": ("Cuarteta", "Noche"),
-        "Cuarteta Noche": ("Cuarteta", "Noche"),
-    }
-    draws = _build_from_cards(soup, "Anguila", title_map)
-    print("[DEBUG][Anguila] encontrados:", [(d.game, d.edition, d.numbers, d.date) for d in draws])
-    return draws
 
-# ----------------- King Lottery -----------------
-@registry.site("king_lottery", f"{BASE}/king-lottery")
-def scrape_king_lottery():
-    soup = _fetch_soup(f"{BASE}/king-lottery")
-    # Upstream renamed the King Lottery editions from time-of-day labels
-    # ("12:30", "7:30") to "Día" / "Noche". Keep BOTH so we catch the
-    # cards either way the site decides to format them.
-    title_map = {
-        # New (current) — Quiniela
-        "Quiniela King": ("Quiniela", "Día"),
-        "King Lottery Día": ("Quiniela", "Día"),
-        "Quiniela King Noche": ("Quiniela", "Noche"),
-        "King Lottery Noche": ("Quiniela", "Noche"),
-        # Old labels kept as fallback during the upstream transition
-        "King Lottery 12:30": ("Quiniela", "Día"),
-        "King Lottery 7:30": ("Quiniela", "Noche"),
-        # Pick games
-        "Pick 3 Día": ("Pick 3", "Día"),
-        "Pick 3 Noche": ("Pick 3", "Noche"),
-        "Pick 4 Día": ("Pick 4", "Día"),
-        "Pick 4 Noche": ("Pick 4", "Noche"),
-        # Loto Pool
-        "Loto Pool Medio Día": ("Loto Pool", "Medio Día"),
-        "Loto Pool Mediodía": ("Loto Pool", "Medio Día"),
-        "Loto Pool Noche": ("Loto Pool", "Noche"),
-        # Philipsburg
-        "Philipsburg Medio Día": ("Philipsburg", "Medio Día"),
-        "Philipsburg Mediodía": ("Philipsburg", "Medio Día"),
-        "Philipsburg Noche": ("Philipsburg", "Noche"),
-    }
-    draws = _build_from_cards(soup, "King Lottery", title_map)
-    print("[DEBUG][King Lottery] encontrados:", [(d.game, d.edition, d.numbers, d.date) for d in draws])
-    return draws
+def _draws_for(company_id: str, provider: str) -> List[Draw]:
+    try:
+        data = _fetch_company(company_id)
+    except (requests.RequestException, ValueError) as e:
+        print(f"[WARN] {provider} failed: {e}")
+        return []
+
+    drop_prefixes = PROVIDER_DROP_PREFIXES.get(provider, ())
+    out: List[Draw] = []
+
+    for site_game in data.get("siteGames") or []:
+        title_full = (site_game.get("title") or "").strip()
+        if not title_full:
+            continue
+        if drop_prefixes and title_full.startswith(drop_prefixes):
+            continue
+
+        inner = site_game.get("game") or {}
+        sessions = inner.get("sessions") or []
+        if not sessions:
+            continue
+        sess = sessions[0]
+        numbers = _flatten_score(sess.get("score") or [], inner.get("score_layout") or [])
+        if not numbers:
+            continue
+
+        # 1) Explicit override wins. 2) Suffix split. 3) Bare title.
+        override = TITLE_OVERRIDES.get((provider, title_full))
+        if override is not None:
+            game_base, edition = override
+        else:
+            game_base, edition = _split_edition(title_full)
+
+        game = GAME_RENAME.get(game_base, game_base)
+
+        out.append(Draw(
+            provider=provider,
+            game=game,
+            edition=edition,
+            date=_yyyymmdd(sess.get("date") or ""),
+            numbers=numbers,
+            provider_id=slugify(provider),
+            game_id=slugify(game),
+            logo_url=_logo_url(
+                site_game.get("logo"),
+                inner.get("logo"),
+                inner.get("mobile_logo"),
+                data.get("logo"),
+            ),
+        ))
+
+    print(f"[DEBUG][{provider}] encontrados:",
+          [(d.game, d.edition, d.numbers, d.date) for d in out])
+    return out
+
+
+# ---- Registry --------------------------------------------------------
+# One registered function per company so main.py's per-provider logging
+# and error isolation keep working unchanged.
+
+def _make_fetcher(company_id: str, provider: str):
+    def fn():
+        return _draws_for(company_id, provider)
+    fn.__name__ = f"fetch_{slugify(provider).replace('-', '_')}"
+    return fn
+
+
+for _cid, _provider in COMPANIES:
+    _key = slugify(_provider).replace("-", "_")
+    _url = f"{API_BASE}/site-companies/{_cid}"
+    registry.site(_key, _url)(_make_fetcher(_cid, _provider))
