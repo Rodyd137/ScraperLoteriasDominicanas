@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-06-14T22:07:32.051659Z",
+  "last_updated": "2026-06-14T22:15:55.402397Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -732,10 +732,10 @@
       "provider": "Leidsa",
       "game": "Súper Palé",
       "edition": null,
-      "date": "2026-06-13",
+      "date": "2026-06-14",
       "numbers": [
-        "85",
-        "30"
+        "19",
+        "66"
       ],
       "provider_id": "leidsa",
       "game_id": "super-pale",
@@ -876,7 +876,8 @@
       "edition": null,
       "date": "2026-06-14",
       "numbers": [
-        "30"
+        "302166",
+        "049303"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "billetes-domingo",
@@ -916,11 +917,10 @@
       "provider": "Lotería Nacional",
       "game": "Lotería Nacional",
       "edition": null,
-      "date": "2026-06-13",
+      "date": "2026-06-14",
       "numbers": [
-        "30",
-        "80",
-        "12"
+        "66",
+        "03"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "loteria-nacional",
