@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-06-19T00:26:38.409228Z",
+  "last_updated": "2026-06-19T02:52:10.357967Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -102,11 +102,11 @@
       "provider": "Anguila",
       "game": "Anguila",
       "edition": "Noche",
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "numbers": [
-        "33",
-        "04",
-        "44"
+        "80",
+        "81",
+        "76"
       ],
       "provider_id": "anguila",
       "game_id": "anguila",
@@ -160,12 +160,12 @@
       "provider": "Anguila",
       "game": "Cuarteta",
       "edition": "Noche",
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "numbers": [
-        "80",
-        "05",
-        "60",
-        "02"
+        "06",
+        "44",
+        "20",
+        "29"
       ],
       "provider_id": "anguila",
       "game_id": "cuarteta",
@@ -287,11 +287,11 @@
       "provider": "Florida",
       "game": "Pick 2",
       "edition": "Noche",
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "numbers": [
-        "07",
-        "04",
-        "05"
+        "03",
+        "09",
+        "00"
       ],
       "provider_id": "florida",
       "game_id": "pick-2",
@@ -316,12 +316,12 @@
       "provider": "Florida",
       "game": "Pick 3",
       "edition": "Noche",
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "numbers": [
-        "07",
         "09",
-        "03",
-        "05"
+        "04",
+        "01",
+        "00"
       ],
       "provider_id": "florida",
       "game_id": "pick-3",
@@ -347,13 +347,13 @@
       "provider": "Florida",
       "game": "Pick 4",
       "edition": "Noche",
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "numbers": [
-        "07",
-        "08",
+        "03",
+        "06",
         "02",
-        "02",
-        "05"
+        "04",
+        "00"
       ],
       "provider_id": "florida",
       "game_id": "pick-4",
@@ -380,14 +380,14 @@
       "provider": "Florida",
       "game": "Pick 5",
       "edition": "Noche",
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "numbers": [
-        "05",
         "00",
-        "09",
-        "00",
-        "06",
-        "05"
+        "02",
+        "03",
+        "03",
+        "01",
+        "00"
       ],
       "provider_id": "florida",
       "game_id": "pick-5",
@@ -657,13 +657,13 @@
       "provider": "Leidsa",
       "game": "Loto Pool",
       "edition": null,
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "numbers": [
-        "27",
-        "30",
-        "14",
-        "07",
-        "12"
+        "05",
+        "12",
+        "11",
+        "24",
+        "10"
       ],
       "provider_id": "leidsa",
       "game_id": "loto-pool",
@@ -673,11 +673,11 @@
       "provider": "Leidsa",
       "game": "Pega 3 Más",
       "edition": null,
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "numbers": [
-        "27",
-        "34",
-        "14"
+        "41",
+        "42",
+        "09"
       ],
       "provider_id": "leidsa",
       "game_id": "pega-3-mas",
@@ -687,11 +687,11 @@
       "provider": "Leidsa",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "numbers": [
-        "44",
-        "92",
-        "33"
+        "79",
+        "32",
+        "10"
       ],
       "provider_id": "leidsa",
       "game_id": "quiniela",
@@ -701,28 +701,28 @@
       "provider": "Leidsa",
       "game": "Super Kino TV",
       "edition": null,
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "numbers": [
-        "71",
-        "26",
-        "43",
-        "25",
-        "28",
-        "13",
-        "30",
-        "10",
-        "18",
-        "61",
-        "11",
-        "07",
+        "15",
+        "54",
+        "45",
+        "58",
+        "56",
+        "57",
+        "34",
+        "16",
+        "17",
+        "35",
         "62",
-        "31",
-        "37",
-        "69",
-        "79",
-        "73",
-        "19",
-        "75"
+        "08",
+        "12",
+        "18",
+        "60",
+        "76",
+        "49",
+        "10",
+        "43",
+        "06"
       ],
       "provider_id": "leidsa",
       "game_id": "super-kino-tv",
@@ -732,10 +732,10 @@
       "provider": "Leidsa",
       "game": "Súper Palé",
       "edition": null,
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "numbers": [
-        "44",
-        "63"
+        "79",
+        "81"
       ],
       "provider_id": "leidsa",
       "game_id": "super-pale",
@@ -918,11 +918,11 @@
       "provider": "Lotería Nacional",
       "game": "Lotería Nacional",
       "edition": null,
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "numbers": [
-        "63",
-        "65",
-        "87"
+        "81",
+        "43",
+        "98"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "loteria-nacional",
@@ -1064,11 +1064,11 @@
       "provider": "New York",
       "game": "Numbers",
       "edition": "Noche",
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "numbers": [
-        "00",
-        "09",
-        "07"
+        "03",
+        "03",
+        "05"
       ],
       "provider_id": "new-york",
       "game_id": "numbers",
@@ -1094,13 +1094,13 @@
       "provider": "New York",
       "game": "Take 5",
       "edition": "Noche",
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "numbers": [
+        "37",
         "35",
-        "12",
-        "13",
-        "28",
-        "30"
+        "05",
+        "03",
+        "32"
       ],
       "provider_id": "new-york",
       "game_id": "take-5",
@@ -1125,12 +1125,12 @@
       "provider": "New York",
       "game": "Win 4",
       "edition": "Noche",
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "numbers": [
+        "00",
         "05",
-        "02",
-        "03",
-        "01"
+        "09",
+        "09"
       ],
       "provider_id": "new-york",
       "game_id": "win-4",
