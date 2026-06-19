@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-06-19T13:34:35.502141Z",
+  "last_updated": "2026-06-19T16:07:48.685690Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -74,11 +74,11 @@
       "provider": "Anguila",
       "game": "Anguila",
       "edition": "Mañana",
-      "date": "2026-06-18",
+      "date": "2026-06-19",
       "numbers": [
-        "17",
-        "27",
-        "15"
+        "49",
+        "43",
+        "30"
       ],
       "provider_id": "anguila",
       "game_id": "anguila",
@@ -130,12 +130,12 @@
       "provider": "Anguila",
       "game": "Cuarteta",
       "edition": "Mañana",
-      "date": "2026-06-18",
+      "date": "2026-06-19",
       "numbers": [
-        "09",
+        "79",
+        "81",
         "90",
-        "10",
-        "86"
+        "29"
       ],
       "provider_id": "anguila",
       "game_id": "cuarteta",
@@ -541,9 +541,9 @@
       "provider": "La Primera",
       "game": "El Quinielón",
       "edition": "Día",
-      "date": "2026-06-18",
+      "date": "2026-06-19",
       "numbers": [
-        "82"
+        "46"
       ],
       "provider_id": "la-primera",
       "game_id": "el-quinielon",
@@ -582,11 +582,11 @@
       "provider": "La Primera",
       "game": "Quiniela",
       "edition": "Medio Día",
-      "date": "2026-06-18",
+      "date": "2026-06-19",
       "numbers": [
-        "46",
-        "16",
-        "67"
+        "54",
+        "56",
+        "13"
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela",
@@ -745,12 +745,12 @@
       "provider": "LoteDom",
       "game": "Agarra 4",
       "edition": null,
-      "date": "2026-06-18",
+      "date": "2026-06-19",
       "numbers": [
-        "68",
-        "35",
-        "82",
-        "24"
+        "02",
+        "13",
+        "71",
+        "30"
       ],
       "provider_id": "lotedom",
       "game_id": "agarra-4",
@@ -760,9 +760,9 @@
       "provider": "LoteDom",
       "game": "El Quemaito Mayor",
       "edition": null,
-      "date": "2026-06-18",
+      "date": "2026-06-19",
       "numbers": [
-        "24"
+        "30"
       ],
       "provider_id": "lotedom",
       "game_id": "el-quemaito-mayor",
@@ -772,11 +772,11 @@
       "provider": "LoteDom",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-06-18",
+      "date": "2026-06-19",
       "numbers": [
-        "68",
-        "35",
-        "82"
+        "02",
+        "13",
+        "71"
       ],
       "provider_id": "lotedom",
       "game_id": "quiniela",
@@ -786,10 +786,10 @@
       "provider": "LoteDom",
       "game": "Súper Palé",
       "edition": null,
-      "date": "2026-06-18",
+      "date": "2026-06-19",
       "numbers": [
-        "68",
-        "24"
+        "02",
+        "30"
       ],
       "provider_id": "lotedom",
       "game_id": "super-pale",
