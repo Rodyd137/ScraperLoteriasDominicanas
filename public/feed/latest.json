@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-06-22T18:11:59.439541Z",
+  "last_updated": "2026-06-22T18:42:28.310120Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -903,13 +903,13 @@
       "provider": "Lotería Nacional",
       "game": "Juega + Pega +",
       "edition": null,
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "numbers": [
-        "02",
-        "24",
-        "02",
-        "12",
-        "11"
+        "09",
+        "26",
+        "15",
+        "03",
+        "05"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "juega-pega",
@@ -1051,11 +1051,11 @@
       "provider": "New York",
       "game": "Numbers",
       "edition": "Medio Día",
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "numbers": [
-        "00",
-        "03",
-        "09"
+        "07",
+        "05",
+        "00"
       ],
       "provider_id": "new-york",
       "game_id": "numbers",
@@ -1079,13 +1079,13 @@
       "provider": "New York",
       "game": "Take 5",
       "edition": "Medio Día",
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "numbers": [
-        "16",
-        "17",
-        "37",
         "22",
-        "15"
+        "27",
+        "36",
+        "03",
+        "18"
       ],
       "provider_id": "new-york",
       "game_id": "take-5",
@@ -1111,12 +1111,12 @@
       "provider": "New York",
       "game": "Win 4",
       "edition": "Medio Día",
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "numbers": [
+        "04",
+        "04",
         "01",
-        "09",
-        "01",
-        "00"
+        "06"
       ],
       "provider_id": "new-york",
       "game_id": "win-4",
