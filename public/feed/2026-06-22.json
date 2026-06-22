@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-06-22T02:41:27.969056Z",
+  "last_updated": "2026-06-22T08:42:50.932500Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -206,13 +206,13 @@
       "provider": "Florida",
       "game": "Fantasy 5",
       "edition": "Noche",
-      "date": "2026-06-20",
+      "date": "2026-06-21",
       "numbers": [
-        "02",
-        "27",
-        "01",
-        "17",
-        "23"
+        "30",
+        "22",
+        "09",
+        "07",
+        "14"
       ],
       "provider_id": "florida",
       "game_id": "fantasy-5",
