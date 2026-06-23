@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-06-23T00:06:17.291408Z",
+  "last_updated": "2026-06-23T02:07:26.393453Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -102,11 +102,11 @@
       "provider": "Anguila",
       "game": "Anguila",
       "edition": "Noche",
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "numbers": [
-        "22",
-        "79",
-        "64"
+        "64",
+        "13",
+        "75"
       ],
       "provider_id": "anguila",
       "game_id": "anguila",
@@ -160,12 +160,12 @@
       "provider": "Anguila",
       "game": "Cuarteta",
       "edition": "Noche",
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "numbers": [
-        "72",
-        "73",
-        "24",
-        "43"
+        "92",
+        "91",
+        "76",
+        "99"
       ],
       "provider_id": "anguila",
       "game_id": "cuarteta",
@@ -287,11 +287,11 @@
       "provider": "Florida",
       "game": "Pick 2",
       "edition": "Noche",
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "numbers": [
-        "03",
-        "06",
-        "05"
+        "05",
+        "05",
+        "01"
       ],
       "provider_id": "florida",
       "game_id": "pick-2",
@@ -316,12 +316,12 @@
       "provider": "Florida",
       "game": "Pick 3",
       "edition": "Noche",
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "numbers": [
+        "09",
+        "06",
         "01",
-        "01",
-        "03",
-        "05"
+        "01"
       ],
       "provider_id": "florida",
       "game_id": "pick-3",
@@ -347,13 +347,13 @@
       "provider": "Florida",
       "game": "Pick 4",
       "edition": "Noche",
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "numbers": [
-        "06",
         "07",
-        "06",
-        "09",
-        "05"
+        "03",
+        "05",
+        "07",
+        "01"
       ],
       "provider_id": "florida",
       "game_id": "pick-4",
@@ -380,14 +380,14 @@
       "provider": "Florida",
       "game": "Pick 5",
       "edition": "Noche",
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "numbers": [
-        "09",
-        "00",
+        "04",
+        "04",
+        "03",
         "07",
-        "02",
-        "06",
-        "05"
+        "04",
+        "01"
       ],
       "provider_id": "florida",
       "game_id": "pick-5",
@@ -657,13 +657,13 @@
       "provider": "Leidsa",
       "game": "Loto Pool",
       "edition": null,
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "numbers": [
-        "05",
-        "24",
-        "06",
-        "19",
-        "10"
+        "10",
+        "04",
+        "13",
+        "01",
+        "25"
       ],
       "provider_id": "leidsa",
       "game_id": "loto-pool",
@@ -673,11 +673,11 @@
       "provider": "Leidsa",
       "game": "Pega 3 Más",
       "edition": null,
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "numbers": [
-        "39",
-        "04",
-        "16"
+        "29",
+        "49",
+        "11"
       ],
       "provider_id": "leidsa",
       "game_id": "pega-3-mas",
@@ -687,11 +687,11 @@
       "provider": "Leidsa",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "numbers": [
-        "70",
-        "33",
-        "82"
+        "21",
+        "66",
+        "68"
       ],
       "provider_id": "leidsa",
       "game_id": "quiniela",
@@ -701,27 +701,27 @@
       "provider": "Leidsa",
       "game": "Super Kino TV",
       "edition": null,
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "numbers": [
-        "23",
-        "58",
+        "34",
+        "56",
+        "41",
+        "72",
+        "28",
         "25",
-        "36",
-        "68",
-        "47",
-        "09",
-        "24",
-        "78",
         "32",
-        "15",
-        "76",
-        "27",
-        "18",
+        "33",
         "39",
-        "05",
-        "08",
-        "55",
-        "49",
+        "35",
+        "42",
+        "48",
+        "50",
+        "57",
+        "18",
+        "26",
+        "21",
+        "78",
+        "45",
         "37"
       ],
       "provider_id": "leidsa",
@@ -732,10 +732,10 @@
       "provider": "Leidsa",
       "game": "Súper Palé",
       "edition": null,
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "numbers": [
-        "70",
-        "44"
+        "21",
+        "74"
       ],
       "provider_id": "leidsa",
       "game_id": "super-pale",
@@ -919,11 +919,11 @@
       "provider": "Lotería Nacional",
       "game": "Lotería Nacional",
       "edition": null,
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "numbers": [
-        "44",
-        "00",
-        "10"
+        "74",
+        "05",
+        "20"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "loteria-nacional",
