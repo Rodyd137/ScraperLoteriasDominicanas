@@ -1,309 +1,75 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-06-24T06:15:01.606790Z",
+  "last_updated": "2026-06-24T07:40:22.357765Z",
   "draws": [
     {
-      "provider": "Americanas",
-      "game": "Cash 4 Life",
-      "edition": null,
-      "date": "2026-02-21",
+      "provider": "La Primera",
+      "game": "El Quinielón",
+      "edition": "Día",
+      "date": "2026-06-23",
       "numbers": [
-        "25",
-        "52",
-        "20",
-        "55",
-        "30",
-        "04"
+        "30"
       ],
-      "provider_id": "americanas",
-      "game_id": "cash-4-life",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/Apdk6Mt7vLltNur3vfYuV.png"
+      "provider_id": "la-primera",
+      "game_id": "el-quinielon",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/oS1rBR5NB0LREQGzntRo0.png"
     },
     {
-      "provider": "Americanas",
-      "game": "Mega Millions",
+      "provider": "La Primera",
+      "game": "El Quinielón",
+      "edition": "Noche",
+      "date": "2026-06-23",
+      "numbers": [
+        "26"
+      ],
+      "provider_id": "la-primera",
+      "game_id": "el-quinielon",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/Y08nQkHQi570VfU68B8Rj.png"
+    },
+    {
+      "provider": "La Primera",
+      "game": "Loto 5",
       "edition": null,
       "date": "2026-06-23",
       "numbers": [
-        "63",
-        "66",
-        "60",
-        "51",
-        "48",
-        "20"
-      ],
-      "provider_id": "americanas",
-      "game_id": "mega-millions",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/O9R_OrQqkUE_VV9exgs8K.png"
-    },
-    {
-      "provider": "Americanas",
-      "game": "PowerBall",
-      "edition": null,
-      "date": "2026-06-22",
-      "numbers": [
-        "19",
-        "17",
-        "48",
-        "21",
-        "45",
-        "13"
-      ],
-      "provider_id": "americanas",
-      "game_id": "powerball",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/G0J6youQz_BWDus4VZ75G.png"
-    },
-    {
-      "provider": "Americanas",
-      "game": "PowerBall Double Play",
-      "edition": null,
-      "date": "2026-06-22",
-      "numbers": [
-        "41",
-        "65",
-        "43",
+        "08",
+        "16",
+        "12",
         "18",
-        "64",
-        "25"
+        "21",
+        "02"
       ],
-      "provider_id": "americanas",
-      "game_id": "powerball-double-play",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/F1zuJGoJVHX8t0vmYt6iG.png"
+      "provider_id": "la-primera",
+      "game_id": "loto-5",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/59HRb8tMjkvZ5l0js77Lm.png"
     },
     {
-      "provider": "Florida",
-      "game": "Fantasy 5",
+      "provider": "La Primera",
+      "game": "Quiniela",
       "edition": "Medio Día",
       "date": "2026-06-23",
       "numbers": [
-        "24",
-        "21",
-        "36",
-        "08",
-        "19"
+        "12",
+        "50",
+        "16"
       ],
-      "provider_id": "florida",
-      "game_id": "fantasy-5",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/36_d7WwG2juCy-FcIg_mx.png"
+      "provider_id": "la-primera",
+      "game_id": "quiniela",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/tDVwjpdds0o-H5EknATKs.png"
     },
     {
-      "provider": "Florida",
-      "game": "Fantasy 5",
+      "provider": "La Primera",
+      "game": "Quiniela",
       "edition": "Noche",
       "date": "2026-06-23",
       "numbers": [
-        "02",
-        "26",
-        "24",
-        "33",
+        "38",
+        "23",
         "23"
       ],
-      "provider_id": "florida",
-      "game_id": "fantasy-5",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/CriBjqLUwMDdxCZSjANtl.png"
-    },
-    {
-      "provider": "Florida",
-      "game": "Florida Lotto",
-      "edition": null,
-      "date": "2026-06-20",
-      "numbers": [
-        "46",
-        "01",
-        "22",
-        "41",
-        "25",
-        "09"
-      ],
-      "provider_id": "florida",
-      "game_id": "florida-lotto",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/aZoAAiNLdyQsg9-Es_sB6.png"
-    },
-    {
-      "provider": "Florida",
-      "game": "Florida Lotto Double Play",
-      "edition": null,
-      "date": "2026-06-20",
-      "numbers": [
-        "53",
-        "13",
-        "24",
-        "15",
-        "47",
-        "25"
-      ],
-      "provider_id": "florida",
-      "game_id": "florida-lotto-double-play",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/XmOfH1Z-hluPaxNE_HdQm.png"
-    },
-    {
-      "provider": "Florida",
-      "game": "Jackpot Triple Play",
-      "edition": null,
-      "date": "2026-06-23",
-      "numbers": [
-        "42",
-        "46",
-        "07",
-        "06",
-        "10",
-        "11"
-      ],
-      "provider_id": "florida",
-      "game_id": "jackpot-triple-play",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/JQV5t-E43-bVrI3EnoGVF.png"
-    },
-    {
-      "provider": "Florida",
-      "game": "Pick 2",
-      "edition": "Día",
-      "date": "2026-06-23",
-      "numbers": [
-        "01",
-        "02",
-        "09"
-      ],
-      "provider_id": "florida",
-      "game_id": "pick-2",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/GKMZqXRfPt1p0nJYX7pxy.png"
-    },
-    {
-      "provider": "Florida",
-      "game": "Pick 2",
-      "edition": "Noche",
-      "date": "2026-06-23",
-      "numbers": [
-        "08",
-        "03",
-        "02"
-      ],
-      "provider_id": "florida",
-      "game_id": "pick-2",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/IMcrQ-_V7bUdZxYXpi-IG.png"
-    },
-    {
-      "provider": "Florida",
-      "game": "Pick 3",
-      "edition": "Día",
-      "date": "2026-06-23",
-      "numbers": [
-        "03",
-        "03",
-        "07",
-        "09"
-      ],
-      "provider_id": "florida",
-      "game_id": "pick-3",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/oAnDqfz23nIlydTndMG4B.png"
-    },
-    {
-      "provider": "Florida",
-      "game": "Pick 3",
-      "edition": "Noche",
-      "date": "2026-06-23",
-      "numbers": [
-        "09",
-        "04",
-        "01",
-        "02"
-      ],
-      "provider_id": "florida",
-      "game_id": "pick-3",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/Nj18AtB13f848Nhx04q7H.png"
-    },
-    {
-      "provider": "Florida",
-      "game": "Pick 4",
-      "edition": "Día",
-      "date": "2026-06-23",
-      "numbers": [
-        "09",
-        "01",
-        "06",
-        "02",
-        "09"
-      ],
-      "provider_id": "florida",
-      "game_id": "pick-4",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/-dfLEFbizfDl8Z6oP1lp0.png"
-    },
-    {
-      "provider": "Florida",
-      "game": "Pick 4",
-      "edition": "Noche",
-      "date": "2026-06-23",
-      "numbers": [
-        "00",
-        "09",
-        "02",
-        "03",
-        "02"
-      ],
-      "provider_id": "florida",
-      "game_id": "pick-4",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/_CRZZDXBETZuAPwpTaHiR.png"
-    },
-    {
-      "provider": "Florida",
-      "game": "Pick 5",
-      "edition": "Día",
-      "date": "2026-06-23",
-      "numbers": [
-        "05",
-        "08",
-        "06",
-        "05",
-        "04",
-        "09"
-      ],
-      "provider_id": "florida",
-      "game_id": "pick-5",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/8DJQJcwetQUXLFonz8XkO.png"
-    },
-    {
-      "provider": "Florida",
-      "game": "Pick 5",
-      "edition": "Noche",
-      "date": "2026-06-23",
-      "numbers": [
-        "08",
-        "09",
-        "00",
-        "03",
-        "04",
-        "02"
-      ],
-      "provider_id": "florida",
-      "game_id": "pick-5",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/0nIHDm90fY5BJ7Eb8Gihu.png"
-    },
-    {
-      "provider": "La Suerte Dominicana",
-      "game": "La Suerte",
-      "edition": "Día",
-      "date": "2026-06-23",
-      "numbers": [
-        "44",
-        "19",
-        "00"
-      ],
-      "provider_id": "la-suerte-dominicana",
-      "game_id": "la-suerte",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/cUyw14cxGTeKq7XW5BZiE.png"
-    },
-    {
-      "provider": "La Suerte Dominicana",
-      "game": "La Suerte",
-      "edition": "Tarde",
-      "date": "2026-06-23",
-      "numbers": [
-        "50",
-        "53",
-        "01"
-      ],
-      "provider_id": "la-suerte-dominicana",
-      "game_id": "la-suerte",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/cs_K0PnCyrQQBSz6WWeRF.png"
+      "provider_id": "la-primera",
+      "game_id": "quiniela",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/3xOsXgB-ufPiIkq50am1P.png"
     },
     {
       "provider": "LoteDom",
@@ -358,81 +124,6 @@
       "provider_id": "lotedom",
       "game_id": "super-pale",
       "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/uAH16Wvk-pA6DkRyNaPcX.png"
-    },
-    {
-      "provider": "Loteka",
-      "game": "Mega Chances",
-      "edition": null,
-      "date": "2026-06-23",
-      "numbers": [
-        "90",
-        "47",
-        "01",
-        "30",
-        "68"
-      ],
-      "provider_id": "loteka",
-      "game_id": "mega-chances",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/9RnNns5bRhkv8To5jCvWa.png"
-    },
-    {
-      "provider": "Loteka",
-      "game": "Mega Chances Repartidera",
-      "edition": null,
-      "date": "2026-06-23",
-      "numbers": [
-        "51"
-      ],
-      "provider_id": "loteka",
-      "game_id": "mega-chances-repartidera",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/jk1wSsmKtxnGWqPBz09hg.png"
-    },
-    {
-      "provider": "Loteka",
-      "game": "MegaLotto",
-      "edition": null,
-      "date": "2026-06-22",
-      "numbers": [
-        "11",
-        "20",
-        "02",
-        "38",
-        "13",
-        "23",
-        "04",
-        "09"
-      ],
-      "provider_id": "loteka",
-      "game_id": "megalotto",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/IsWXLF_MEpj3y71QV9fAg.png"
-    },
-    {
-      "provider": "Loteka",
-      "game": "Quiniela",
-      "edition": null,
-      "date": "2026-06-23",
-      "numbers": [
-        "14",
-        "42",
-        "57"
-      ],
-      "provider_id": "loteka",
-      "game_id": "quiniela",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/hut-F1Z2M2OlcvqihkK_n.png"
-    },
-    {
-      "provider": "Loteka",
-      "game": "Toca 3",
-      "edition": null,
-      "date": "2026-06-23",
-      "numbers": [
-        "07",
-        "05",
-        "00"
-      ],
-      "provider_id": "loteka",
-      "game_id": "toca-3",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/_vnCuYOi8uIEsWWcVPyyZ.png"
     },
     {
       "provider": "Lotería Nacional",
@@ -494,112 +185,104 @@
       "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/JYiKvsBvOfzmPnsYdLDKD.png"
     },
     {
-      "provider": "New York",
-      "game": "New York Lotto",
+      "provider": "Lotería Real",
+      "game": "Loto Pool",
       "edition": null,
-      "date": "2026-06-20",
-      "numbers": [
-        "36",
-        "56",
-        "27",
-        "13",
-        "10",
-        "19",
-        "42"
-      ],
-      "provider_id": "new-york",
-      "game_id": "new-york-lotto",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/WTj7nt8ujdw-ImunyuBnR.png"
-    },
-    {
-      "provider": "New York",
-      "game": "Numbers",
-      "edition": "Medio Día",
       "date": "2026-06-23",
       "numbers": [
-        "00",
-        "08",
-        "04"
+        "51",
+        "79",
+        "12",
+        "97"
       ],
-      "provider_id": "new-york",
-      "game_id": "numbers",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/UWKS_jCFj9O4pthUSnd-o.png"
+      "provider_id": "loteria-real",
+      "game_id": "loto-pool",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/93e3dLU80nJOWPJZHphq3.png"
     },
     {
-      "provider": "New York",
-      "game": "Numbers",
-      "edition": "Noche",
+      "provider": "Lotería Real",
+      "game": "Loto Real",
+      "edition": null,
       "date": "2026-06-23",
       "numbers": [
-        "05",
-        "01",
-        "05"
-      ],
-      "provider_id": "new-york",
-      "game_id": "numbers",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/ensLQUO0iH8MSdu0r4eov.png"
-    },
-    {
-      "provider": "New York",
-      "game": "Take 5",
-      "edition": "Medio Día",
-      "date": "2026-06-23",
-      "numbers": [
-        "24",
-        "11",
-        "21",
-        "33",
-        "12"
-      ],
-      "provider_id": "new-york",
-      "game_id": "take-5",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/Fr_TnvtqPzcfV0nPBSUt4.png"
-    },
-    {
-      "provider": "New York",
-      "game": "Take 5",
-      "edition": "Noche",
-      "date": "2026-06-23",
-      "numbers": [
-        "31",
-        "01",
         "32",
-        "15",
-        "28"
-      ],
-      "provider_id": "new-york",
-      "game_id": "take-5",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/KYAYRqQWcAEjwsgdJ5GW_.png"
-    },
-    {
-      "provider": "New York",
-      "game": "Win 4",
-      "edition": "Medio Día",
-      "date": "2026-06-23",
-      "numbers": [
-        "07",
-        "00",
-        "03",
-        "01"
-      ],
-      "provider_id": "new-york",
-      "game_id": "win-4",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/NSJRLT9hCU7RrBq1nDa3P.png"
-    },
-    {
-      "provider": "New York",
-      "game": "Win 4",
-      "edition": "Noche",
-      "date": "2026-06-23",
-      "numbers": [
+        "24",
         "05",
-        "06",
-        "06",
-        "05"
+        "01",
+        "20",
+        "34"
       ],
-      "provider_id": "new-york",
-      "game_id": "win-4",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/4-jVAqQOH8W3csjEMCpFU.png"
+      "provider_id": "loteria-real",
+      "game_id": "loto-real",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/4oixZG8PfO3xbeiqAi6hI.png"
+    },
+    {
+      "provider": "Lotería Real",
+      "game": "Nueva Yol Real",
+      "edition": null,
+      "date": "2026-06-23",
+      "numbers": [
+        "04",
+        "12",
+        "59"
+      ],
+      "provider_id": "loteria-real",
+      "game_id": "nueva-yol-real",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/es8MiIzDJCxAq6EzMSkSS.png"
+    },
+    {
+      "provider": "Lotería Real",
+      "game": "Pega 4",
+      "edition": null,
+      "date": "2026-03-31",
+      "numbers": [
+        "03",
+        "08",
+        "02",
+        "00"
+      ],
+      "provider_id": "loteria-real",
+      "game_id": "pega-4",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/Xsk2rTKYzKJac2B3wrBfg.png"
+    },
+    {
+      "provider": "Lotería Real",
+      "game": "Quiniela",
+      "edition": null,
+      "date": "2026-06-23",
+      "numbers": [
+        "67",
+        "69",
+        "16"
+      ],
+      "provider_id": "loteria-real",
+      "game_id": "quiniela",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/Ul4txIaPONEMGYgvt1CHV.png"
+    },
+    {
+      "provider": "Lotería Real",
+      "game": "Súper Palé",
+      "edition": null,
+      "date": "2026-06-23",
+      "numbers": [
+        "67",
+        "07"
+      ],
+      "provider_id": "loteria-real",
+      "game_id": "super-pale",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/ec754pJ8YFLN_XLKrXa9x.png"
+    },
+    {
+      "provider": "Lotería Real",
+      "game": "Tu Fecha Real",
+      "edition": null,
+      "date": "2026-06-23",
+      "numbers": [
+        "31"
+      ],
+      "provider_id": "loteria-real",
+      "game_id": "tu-fecha-real",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/y0Gb0LP8NzbN69oiZiH-8.png"
     }
   ]
 }
