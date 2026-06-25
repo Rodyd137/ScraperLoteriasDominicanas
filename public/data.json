@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-06-25T02:09:22.556871Z",
+  "last_updated": "2026-06-25T06:17:54.688181Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -40,14 +40,14 @@
       "provider": "Americanas",
       "game": "PowerBall",
       "edition": null,
-      "date": "2026-06-22",
+      "date": "2026-06-24",
       "numbers": [
-        "19",
-        "17",
-        "48",
+        "13",
         "21",
-        "45",
-        "13"
+        "38",
+        "14",
+        "16",
+        "14"
       ],
       "provider_id": "americanas",
       "game_id": "powerball",
@@ -57,14 +57,14 @@
       "provider": "Americanas",
       "game": "PowerBall Double Play",
       "edition": null,
-      "date": "2026-06-22",
+      "date": "2026-06-24",
       "numbers": [
-        "41",
+        "11",
+        "20",
+        "03",
         "65",
-        "43",
-        "18",
-        "64",
-        "25"
+        "31",
+        "05"
       ],
       "provider_id": "americanas",
       "game_id": "powerball-double-play",
@@ -206,13 +206,13 @@
       "provider": "Florida",
       "game": "Fantasy 5",
       "edition": "Noche",
-      "date": "2026-06-23",
+      "date": "2026-06-24",
       "numbers": [
-        "02",
-        "26",
-        "24",
-        "33",
-        "23"
+        "12",
+        "32",
+        "07",
+        "01",
+        "04"
       ],
       "provider_id": "florida",
       "game_id": "fantasy-5",
@@ -222,14 +222,14 @@
       "provider": "Florida",
       "game": "Florida Lotto",
       "edition": null,
-      "date": "2026-06-20",
+      "date": "2026-06-24",
       "numbers": [
-        "46",
-        "01",
-        "22",
+        "36",
         "41",
-        "25",
-        "09"
+        "33",
+        "51",
+        "14",
+        "06"
       ],
       "provider_id": "florida",
       "game_id": "florida-lotto",
@@ -239,14 +239,14 @@
       "provider": "Florida",
       "game": "Florida Lotto Double Play",
       "edition": null,
-      "date": "2026-06-20",
+      "date": "2026-06-24",
       "numbers": [
-        "53",
-        "13",
-        "24",
-        "15",
-        "47",
-        "25"
+        "17",
+        "16",
+        "52",
+        "07",
+        "22",
+        "15"
       ],
       "provider_id": "florida",
       "game_id": "florida-lotto-double-play",
@@ -1065,11 +1065,11 @@
       "provider": "New York",
       "game": "Numbers",
       "edition": "Noche",
-      "date": "2026-06-23",
+      "date": "2026-06-24",
       "numbers": [
-        "05",
-        "01",
-        "05"
+        "04",
+        "03",
+        "00"
       ],
       "provider_id": "new-york",
       "game_id": "numbers",
@@ -1095,13 +1095,13 @@
       "provider": "New York",
       "game": "Take 5",
       "edition": "Noche",
-      "date": "2026-06-23",
+      "date": "2026-06-24",
       "numbers": [
-        "31",
-        "01",
-        "32",
-        "15",
-        "28"
+        "17",
+        "37",
+        "29",
+        "13",
+        "22"
       ],
       "provider_id": "new-york",
       "game_id": "take-5",
@@ -1126,12 +1126,12 @@
       "provider": "New York",
       "game": "Win 4",
       "edition": "Noche",
-      "date": "2026-06-23",
+      "date": "2026-06-24",
       "numbers": [
         "05",
         "06",
-        "06",
-        "05"
+        "04",
+        "00"
       ],
       "provider_id": "new-york",
       "game_id": "win-4",
