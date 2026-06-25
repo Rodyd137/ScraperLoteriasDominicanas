@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-06-25T13:14:42.969974Z",
+  "last_updated": "2026-06-25T15:40:55.405017Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -74,11 +74,11 @@
       "provider": "Anguila",
       "game": "Anguila",
       "edition": "Mañana",
-      "date": "2026-06-24",
+      "date": "2026-06-25",
       "numbers": [
-        "30",
-        "51",
-        "84"
+        "59",
+        "07",
+        "43"
       ],
       "provider_id": "anguila",
       "game_id": "anguila",
@@ -130,12 +130,12 @@
       "provider": "Anguila",
       "game": "Cuarteta",
       "edition": "Mañana",
-      "date": "2026-06-24",
+      "date": "2026-06-25",
       "numbers": [
-        "31",
-        "81",
-        "96",
-        "54"
+        "64",
+        "94",
+        "10",
+        "11"
       ],
       "provider_id": "anguila",
       "game_id": "cuarteta",
