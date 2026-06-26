@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-06-26T02:11:08.028983Z",
+  "last_updated": "2026-06-26T06:19:30.360616Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -206,13 +206,13 @@
       "provider": "Florida",
       "game": "Fantasy 5",
       "edition": "Noche",
-      "date": "2026-06-24",
+      "date": "2026-06-25",
       "numbers": [
         "12",
-        "32",
-        "07",
-        "01",
-        "04"
+        "02",
+        "29",
+        "09",
+        "03"
       ],
       "provider_id": "florida",
       "game_id": "fantasy-5",
@@ -1065,11 +1065,11 @@
       "provider": "New York",
       "game": "Numbers",
       "edition": "Noche",
-      "date": "2026-06-24",
+      "date": "2026-06-25",
       "numbers": [
-        "04",
-        "03",
-        "00"
+        "07",
+        "02",
+        "03"
       ],
       "provider_id": "new-york",
       "game_id": "numbers",
@@ -1095,13 +1095,13 @@
       "provider": "New York",
       "game": "Take 5",
       "edition": "Noche",
-      "date": "2026-06-24",
+      "date": "2026-06-25",
       "numbers": [
-        "17",
-        "37",
-        "29",
-        "13",
-        "22"
+        "04",
+        "38",
+        "34",
+        "25",
+        "37"
       ],
       "provider_id": "new-york",
       "game_id": "take-5",
@@ -1126,12 +1126,12 @@
       "provider": "New York",
       "game": "Win 4",
       "edition": "Noche",
-      "date": "2026-06-24",
+      "date": "2026-06-25",
       "numbers": [
-        "05",
         "06",
-        "04",
-        "00"
+        "01",
+        "09",
+        "03"
       ],
       "provider_id": "new-york",
       "game_id": "win-4",
