@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-06-26T10:50:35.433564Z",
+  "last_updated": "2026-06-26T13:10:38.420959Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -188,8 +188,8 @@
     },
     {
       "provider": "Florida",
-      "game": "Fantasy 5",
-      "edition": "Medio Día",
+      "game": "Fantasy",
+      "edition": "Día",
       "date": "2026-06-25",
       "numbers": [
         "06",
@@ -199,7 +199,7 @@
         "09"
       ],
       "provider_id": "florida",
-      "game_id": "fantasy-5",
+      "game_id": "fantasy",
       "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/36_d7WwG2juCy-FcIg_mx.png"
     },
     {
@@ -395,8 +395,36 @@
     },
     {
       "provider": "King Lottery",
+      "game": "King Lottery",
+      "edition": "Día",
+      "date": "2026-06-25",
+      "numbers": [
+        "65",
+        "91",
+        "28"
+      ],
+      "provider_id": "king-lottery",
+      "game_id": "king-lottery",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/b2dwqagLLzJ0c59YRteWB.png"
+    },
+    {
+      "provider": "King Lottery",
+      "game": "King Lottery",
+      "edition": "Noche",
+      "date": "2026-06-25",
+      "numbers": [
+        "67",
+        "80",
+        "98"
+      ],
+      "provider_id": "king-lottery",
+      "game_id": "king-lottery",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/Lt0AsGpSIjRio6aJhUPeq.png"
+    },
+    {
+      "provider": "King Lottery",
       "game": "Loto Pool",
-      "edition": "Medio Día",
+      "edition": "Día",
       "date": "2026-06-25",
       "numbers": [
         "01",
@@ -426,7 +454,7 @@
     {
       "provider": "King Lottery",
       "game": "Philipsburg",
-      "edition": "Medio Día",
+      "edition": "Día",
       "date": "2026-06-25",
       "numbers": [
         "9110",
@@ -508,34 +536,6 @@
       "provider_id": "king-lottery",
       "game_id": "pick-4",
       "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/nb_2OtzC5boF0cpFbQisd.png"
-    },
-    {
-      "provider": "King Lottery",
-      "game": "Quiniela",
-      "edition": "Día",
-      "date": "2026-06-25",
-      "numbers": [
-        "65",
-        "91",
-        "28"
-      ],
-      "provider_id": "king-lottery",
-      "game_id": "quiniela",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/b2dwqagLLzJ0c59YRteWB.png"
-    },
-    {
-      "provider": "King Lottery",
-      "game": "Quiniela",
-      "edition": "Noche",
-      "date": "2026-06-25",
-      "numbers": [
-        "67",
-        "80",
-        "98"
-      ],
-      "provider_id": "king-lottery",
-      "game_id": "quiniela",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/Lt0AsGpSIjRio6aJhUPeq.png"
     },
     {
       "provider": "La Primera",
@@ -931,6 +931,22 @@
     },
     {
       "provider": "Lotería Real",
+      "game": "Chance Real",
+      "edition": null,
+      "date": "2026-06-25",
+      "numbers": [
+        "51",
+        "60",
+        "42",
+        "14",
+        "58"
+      ],
+      "provider_id": "loteria-real",
+      "game_id": "chance-real",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/20/nvZJfXy9CZd0ilT9AgpdT.png"
+    },
+    {
+      "provider": "Lotería Real",
       "game": "Loto Pool",
       "edition": null,
       "date": "2026-06-25",
@@ -943,6 +959,21 @@
       "provider_id": "loteria-real",
       "game_id": "loto-pool",
       "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/93e3dLU80nJOWPJZHphq3.png"
+    },
+    {
+      "provider": "Lotería Real",
+      "game": "Loto Pool",
+      "edition": "Noche",
+      "date": "2026-06-25",
+      "numbers": [
+        "12",
+        "73",
+        "66",
+        "81"
+      ],
+      "provider_id": "loteria-real",
+      "game_id": "loto-pool",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/20/-pcWEkgtOsckKeFmo8HsH.png"
     },
     {
       "provider": "Lotería Real",
@@ -1006,6 +1037,18 @@
     },
     {
       "provider": "Lotería Real",
+      "game": "Repartidera Real",
+      "edition": null,
+      "date": "2026-06-25",
+      "numbers": [
+        "41"
+      ],
+      "provider_id": "loteria-real",
+      "game_id": "repartidera-real",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/20/TbkNuGCNbRmZIxWRanpIM.png"
+    },
+    {
+      "provider": "Lotería Real",
       "game": "Súper Palé",
       "edition": null,
       "date": "2026-06-25",
@@ -1050,7 +1093,7 @@
     {
       "provider": "New York",
       "game": "Numbers",
-      "edition": "Medio Día",
+      "edition": "Día",
       "date": "2026-06-25",
       "numbers": [
         "09",
@@ -1078,7 +1121,7 @@
     {
       "provider": "New York",
       "game": "Take 5",
-      "edition": "Medio Día",
+      "edition": "Día",
       "date": "2026-06-25",
       "numbers": [
         "16",
@@ -1110,7 +1153,7 @@
     {
       "provider": "New York",
       "game": "Win 4",
-      "edition": "Medio Día",
+      "edition": "Día",
       "date": "2026-06-25",
       "numbers": [
         "02",
