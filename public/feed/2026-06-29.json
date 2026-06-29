@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-06-29T00:09:26.292445Z",
+  "last_updated": "2026-06-29T02:28:27.095646Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -102,11 +102,11 @@
       "provider": "Anguila",
       "game": "Anguila",
       "edition": "Noche",
-      "date": "2026-06-27",
+      "date": "2026-06-28",
       "numbers": [
-        "62",
-        "26",
-        "94"
+        "04",
+        "50",
+        "54"
       ],
       "provider_id": "anguila",
       "game_id": "anguila",
@@ -160,12 +160,12 @@
       "provider": "Anguila",
       "game": "Cuarteta",
       "edition": "Noche",
-      "date": "2026-06-27",
+      "date": "2026-06-28",
       "numbers": [
-        "68",
-        "71",
-        "67",
-        "10"
+        "74",
+        "83",
+        "92",
+        "18"
       ],
       "provider_id": "anguila",
       "game_id": "cuarteta",
@@ -287,11 +287,11 @@
       "provider": "Florida",
       "game": "Pick 2",
       "edition": "Noche",
-      "date": "2026-06-27",
+      "date": "2026-06-28",
       "numbers": [
-        "09",
-        "04",
-        "06"
+        "06",
+        "03",
+        "09"
       ],
       "provider_id": "florida",
       "game_id": "pick-2",
@@ -316,12 +316,12 @@
       "provider": "Florida",
       "game": "Pick 3",
       "edition": "Noche",
-      "date": "2026-06-27",
+      "date": "2026-06-28",
       "numbers": [
-        "06",
-        "05",
-        "08",
-        "06"
+        "04",
+        "02",
+        "01",
+        "09"
       ],
       "provider_id": "florida",
       "game_id": "pick-3",
@@ -347,13 +347,13 @@
       "provider": "Florida",
       "game": "Pick 4",
       "edition": "Noche",
-      "date": "2026-06-27",
+      "date": "2026-06-28",
       "numbers": [
+        "01",
         "04",
-        "00",
-        "09",
-        "07",
-        "06"
+        "06",
+        "03",
+        "09"
       ],
       "provider_id": "florida",
       "game_id": "pick-4",
@@ -380,14 +380,14 @@
       "provider": "Florida",
       "game": "Pick 5",
       "edition": "Noche",
-      "date": "2026-06-27",
+      "date": "2026-06-28",
       "numbers": [
-        "00",
-        "08",
-        "04",
-        "05",
+        "02",
+        "01",
+        "07",
         "06",
-        "06"
+        "05",
+        "09"
       ],
       "provider_id": "florida",
       "game_id": "pick-5",
