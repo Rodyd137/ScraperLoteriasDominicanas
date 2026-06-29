@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-06-29T13:12:18.420874Z",
+  "last_updated": "2026-06-29T16:39:27.851119Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -74,11 +74,11 @@
       "provider": "Anguila",
       "game": "Anguila",
       "edition": "Mañana",
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "numbers": [
-        "20",
-        "87",
-        "74"
+        "98",
+        "29",
+        "30"
       ],
       "provider_id": "anguila",
       "game_id": "anguila",
@@ -130,12 +130,12 @@
       "provider": "Anguila",
       "game": "Cuarteta",
       "edition": "Mañana",
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "numbers": [
-        "54",
-        "40",
-        "47",
-        "88"
+        "21",
+        "57",
+        "71",
+        "39"
       ],
       "provider_id": "anguila",
       "game_id": "cuarteta",
@@ -541,9 +541,9 @@
       "provider": "La Primera",
       "game": "El Quinielón",
       "edition": "Día",
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "numbers": [
-        "42"
+        "90"
       ],
       "provider_id": "la-primera",
       "game_id": "el-quinielon",
@@ -582,11 +582,11 @@
       "provider": "La Primera",
       "game": "Quiniela",
       "edition": "Medio Día",
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "numbers": [
-        "27",
-        "89",
-        "65"
+        "22",
+        "23",
+        "12"
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela",
@@ -635,122 +635,15 @@
       "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/cs_K0PnCyrQQBSz6WWeRF.png"
     },
     {
-      "provider": "Leidsa",
-      "game": "Loto Más",
-      "edition": null,
-      "date": "2026-06-27",
-      "numbers": [
-        "35",
-        "10",
-        "13",
-        "05",
-        "03",
-        "06",
-        "07",
-        "11"
-      ],
-      "provider_id": "leidsa",
-      "game_id": "loto-mas",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/GxJVTP8YgORDNGlLBVku-.png"
-    },
-    {
-      "provider": "Leidsa",
-      "game": "Loto Pool",
-      "edition": null,
-      "date": "2026-06-28",
-      "numbers": [
-        "28",
-        "12",
-        "25",
-        "27",
-        "14"
-      ],
-      "provider_id": "leidsa",
-      "game_id": "loto-pool",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/wMN9K_6gUtQ_4uIW4JjRx.png"
-    },
-    {
-      "provider": "Leidsa",
-      "game": "Pega 3 Más",
-      "edition": null,
-      "date": "2026-06-28",
-      "numbers": [
-        "46",
-        "03",
-        "37"
-      ],
-      "provider_id": "leidsa",
-      "game_id": "pega-3-mas",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/MntmdvVbBNHfH2a2SDvqc.png"
-    },
-    {
-      "provider": "Leidsa",
-      "game": "Quiniela",
-      "edition": null,
-      "date": "2026-06-28",
-      "numbers": [
-        "64",
-        "94",
-        "88"
-      ],
-      "provider_id": "leidsa",
-      "game_id": "quiniela",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/wMAQoiXYtsgYy67_em0zV.png"
-    },
-    {
-      "provider": "Leidsa",
-      "game": "Super Kino TV",
-      "edition": null,
-      "date": "2026-06-28",
-      "numbers": [
-        "43",
-        "69",
-        "17",
-        "57",
-        "63",
-        "78",
-        "41",
-        "64",
-        "35",
-        "06",
-        "73",
-        "27",
-        "60",
-        "11",
-        "72",
-        "38",
-        "66",
-        "46",
-        "48",
-        "21"
-      ],
-      "provider_id": "leidsa",
-      "game_id": "super-kino-tv",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/rGDdzZBvC9xED0svR4X1z.png"
-    },
-    {
-      "provider": "Leidsa",
-      "game": "Súper Palé",
-      "edition": null,
-      "date": "2026-06-28",
-      "numbers": [
-        "64",
-        "36"
-      ],
-      "provider_id": "leidsa",
-      "game_id": "super-pale",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/-uHZ-kpRUiRTI_KMdfSwt.png"
-    },
-    {
       "provider": "LoteDom",
       "game": "Agarra 4",
       "edition": null,
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "numbers": [
-        "97",
-        "78",
-        "05",
-        "89"
+        "12",
+        "08",
+        "14",
+        "58"
       ],
       "provider_id": "lotedom",
       "game_id": "agarra-4",
@@ -760,9 +653,9 @@
       "provider": "LoteDom",
       "game": "El Quemaito Mayor",
       "edition": null,
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "numbers": [
-        "89"
+        "58"
       ],
       "provider_id": "lotedom",
       "game_id": "el-quemaito-mayor",
@@ -772,11 +665,11 @@
       "provider": "LoteDom",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "numbers": [
-        "97",
-        "78",
-        "05"
+        "12",
+        "08",
+        "14"
       ],
       "provider_id": "lotedom",
       "game_id": "quiniela",
@@ -786,89 +679,14 @@
       "provider": "LoteDom",
       "game": "Súper Palé",
       "edition": null,
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "numbers": [
-        "97",
-        "89"
+        "12",
+        "58"
       ],
       "provider_id": "lotedom",
       "game_id": "super-pale",
       "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/uAH16Wvk-pA6DkRyNaPcX.png"
-    },
-    {
-      "provider": "Loteka",
-      "game": "Mega Chances",
-      "edition": null,
-      "date": "2026-06-28",
-      "numbers": [
-        "08",
-        "99",
-        "11",
-        "76",
-        "24"
-      ],
-      "provider_id": "loteka",
-      "game_id": "mega-chances",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/9RnNns5bRhkv8To5jCvWa.png"
-    },
-    {
-      "provider": "Loteka",
-      "game": "Mega Chances Repartidera",
-      "edition": null,
-      "date": "2026-06-28",
-      "numbers": [
-        "57"
-      ],
-      "provider_id": "loteka",
-      "game_id": "mega-chances-repartidera",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/jk1wSsmKtxnGWqPBz09hg.png"
-    },
-    {
-      "provider": "Loteka",
-      "game": "MegaLotto",
-      "edition": null,
-      "date": "2026-06-25",
-      "numbers": [
-        "37",
-        "31",
-        "15",
-        "13",
-        "24",
-        "02",
-        "06",
-        "05"
-      ],
-      "provider_id": "loteka",
-      "game_id": "megalotto",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/IsWXLF_MEpj3y71QV9fAg.png"
-    },
-    {
-      "provider": "Loteka",
-      "game": "Quiniela",
-      "edition": null,
-      "date": "2026-06-28",
-      "numbers": [
-        "30",
-        "31",
-        "16"
-      ],
-      "provider_id": "loteka",
-      "game_id": "quiniela",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/hut-F1Z2M2OlcvqihkK_n.png"
-    },
-    {
-      "provider": "Loteka",
-      "game": "Toca 3",
-      "edition": null,
-      "date": "2026-06-28",
-      "numbers": [
-        "01",
-        "01",
-        "07"
-      ],
-      "provider_id": "loteka",
-      "game_id": "toca-3",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/_vnCuYOi8uIEsWWcVPyyZ.png"
     },
     {
       "provider": "Lotería Nacional",
