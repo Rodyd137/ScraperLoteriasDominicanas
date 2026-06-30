@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-06-30T13:09:40.863219Z",
+  "last_updated": "2026-06-30T15:34:26.469839Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -74,11 +74,11 @@
       "provider": "Anguila",
       "game": "Anguila",
       "edition": "Mañana",
-      "date": "2026-06-29",
+      "date": "2026-06-30",
       "numbers": [
-        "98",
-        "29",
-        "30"
+        "05",
+        "26",
+        "38"
       ],
       "provider_id": "anguila",
       "game_id": "anguila",
@@ -130,12 +130,12 @@
       "provider": "Anguila",
       "game": "Cuarteta",
       "edition": "Mañana",
-      "date": "2026-06-29",
+      "date": "2026-06-30",
       "numbers": [
-        "21",
-        "57",
-        "71",
-        "39"
+        "33",
+        "23",
+        "72",
+        "73"
       ],
       "provider_id": "anguila",
       "game_id": "cuarteta",
@@ -717,10 +717,10 @@
       "provider": "Leidsa",
       "game": "Súper Palé",
       "edition": null,
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "numbers": [
-        "64",
-        "36"
+        "16",
+        "00"
       ],
       "provider_id": "leidsa",
       "game_id": "super-pale",
