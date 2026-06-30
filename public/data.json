@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-06-30T06:32:08.080697Z",
+  "last_updated": "2026-06-30T07:53:04.853362Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -40,14 +40,14 @@
       "provider": "Americanas",
       "game": "PowerBall",
       "edition": null,
-      "date": "2026-06-27",
+      "date": "2026-06-29",
       "numbers": [
-        "03",
-        "28",
+        "10",
+        "14",
+        "41",
+        "53",
         "59",
-        "16",
-        "30",
-        "11"
+        "03"
       ],
       "provider_id": "americanas",
       "game_id": "powerball",
@@ -57,14 +57,14 @@
       "provider": "Americanas",
       "game": "PowerBall Double Play",
       "edition": null,
-      "date": "2026-06-27",
+      "date": "2026-06-29",
       "numbers": [
-        "26",
         "02",
-        "34",
-        "43",
-        "45",
-        "15"
+        "09",
+        "24",
+        "25",
+        "39",
+        "14"
       ],
       "provider_id": "americanas",
       "game_id": "powerball-double-play",
@@ -206,13 +206,13 @@
       "provider": "Florida",
       "game": "Fantasy 5",
       "edition": "Noche",
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "numbers": [
-        "18",
-        "29",
-        "07",
+        "06",
+        "08",
+        "14",
         "31",
-        "36"
+        "33"
       ],
       "provider_id": "florida",
       "game_id": "fantasy-5",
@@ -287,11 +287,11 @@
       "provider": "Florida",
       "game": "Pick 2",
       "edition": "Noche",
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "numbers": [
-        "06",
-        "03",
-        "09"
+        "00",
+        "05",
+        "07"
       ],
       "provider_id": "florida",
       "game_id": "pick-2",
@@ -314,21 +314,6 @@
     },
     {
       "provider": "Florida",
-      "game": "Pick 3",
-      "edition": "Noche",
-      "date": "2026-06-28",
-      "numbers": [
-        "04",
-        "02",
-        "01",
-        "09"
-      ],
-      "provider_id": "florida",
-      "game_id": "pick-3",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/Nj18AtB13f848Nhx04q7H.png"
-    },
-    {
-      "provider": "Florida",
       "game": "Pick 4",
       "edition": "Día",
       "date": "2026-06-29",
@@ -347,13 +332,13 @@
       "provider": "Florida",
       "game": "Pick 4",
       "edition": "Noche",
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "numbers": [
-        "01",
-        "04",
-        "06",
+        "02",
+        "00",
         "03",
-        "09"
+        "02",
+        "07"
       ],
       "provider_id": "florida",
       "game_id": "pick-4",
@@ -380,14 +365,14 @@
       "provider": "Florida",
       "game": "Pick 5",
       "edition": "Noche",
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "numbers": [
-        "02",
-        "01",
-        "07",
+        "09",
         "06",
-        "05",
-        "09"
+        "08",
+        "00",
+        "01",
+        "07"
       ],
       "provider_id": "florida",
       "game_id": "pick-5",
@@ -657,13 +642,13 @@
       "provider": "Leidsa",
       "game": "Loto Pool",
       "edition": null,
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "numbers": [
-        "28",
-        "12",
-        "25",
-        "27",
-        "14"
+        "02",
+        "19",
+        "22",
+        "24",
+        "25"
       ],
       "provider_id": "leidsa",
       "game_id": "loto-pool",
@@ -673,11 +658,11 @@
       "provider": "Leidsa",
       "game": "Pega 3 Más",
       "edition": null,
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "numbers": [
-        "46",
-        "03",
-        "37"
+        "47",
+        "21",
+        "27"
       ],
       "provider_id": "leidsa",
       "game_id": "pega-3-mas",
@@ -687,11 +672,11 @@
       "provider": "Leidsa",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "numbers": [
-        "64",
-        "94",
-        "88"
+        "16",
+        "70",
+        "81"
       ],
       "provider_id": "leidsa",
       "game_id": "quiniela",
@@ -701,28 +686,28 @@
       "provider": "Leidsa",
       "game": "Super Kino TV",
       "edition": null,
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "numbers": [
-        "43",
-        "69",
-        "17",
-        "57",
-        "63",
-        "78",
-        "41",
-        "64",
-        "35",
-        "06",
-        "73",
-        "27",
-        "60",
-        "11",
-        "72",
-        "38",
-        "66",
-        "46",
-        "48",
-        "21"
+        "01",
+        "07",
+        "08",
+        "12",
+        "13",
+        "14",
+        "22",
+        "23",
+        "26",
+        "29",
+        "31",
+        "40",
+        "42",
+        "51",
+        "52",
+        "53",
+        "55",
+        "67",
+        "68",
+        "79"
       ],
       "provider_id": "leidsa",
       "game_id": "super-kino-tv",
@@ -846,11 +831,11 @@
       "provider": "Loteka",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "numbers": [
-        "30",
-        "31",
-        "16"
+        "21",
+        "10",
+        "95"
       ],
       "provider_id": "loteka",
       "game_id": "quiniela",
@@ -918,11 +903,11 @@
       "provider": "Lotería Nacional",
       "game": "Lotería Nacional",
       "edition": null,
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "numbers": [
-        "36",
-        "77",
-        "38"
+        "00",
+        "97",
+        "42"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "loteria-nacional",
@@ -1107,11 +1092,11 @@
       "provider": "New York",
       "game": "Numbers",
       "edition": "Noche",
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "numbers": [
-        "00",
         "05",
-        "04"
+        "04",
+        "02"
       ],
       "provider_id": "new-york",
       "game_id": "numbers",
@@ -1137,13 +1122,13 @@
       "provider": "New York",
       "game": "Take 5",
       "edition": "Noche",
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "numbers": [
-        "12",
-        "20",
-        "31",
         "01",
-        "26"
+        "11",
+        "28",
+        "33",
+        "34"
       ],
       "provider_id": "new-york",
       "game_id": "take-5",
