@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-07-01T17:08:34.411434Z",
+  "last_updated": "2026-07-01T19:08:07.695376Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -190,13 +190,13 @@
       "provider": "Florida",
       "game": "Fantasy",
       "edition": "Día",
-      "date": "2026-06-30",
+      "date": "2026-07-01",
       "numbers": [
-        "15",
+        "22",
         "05",
+        "32",
         "27",
-        "23",
-        "12"
+        "13"
       ],
       "provider_id": "florida",
       "game_id": "fantasy",
@@ -273,10 +273,10 @@
       "provider": "Florida",
       "game": "Pick 2",
       "edition": "Día",
-      "date": "2026-06-30",
+      "date": "2026-07-01",
       "numbers": [
-        "08",
-        "00",
+        "01",
+        "05",
         "09"
       ],
       "provider_id": "florida",
@@ -301,11 +301,11 @@
       "provider": "Florida",
       "game": "Pick 3",
       "edition": "Día",
-      "date": "2026-06-30",
+      "date": "2026-07-01",
       "numbers": [
-        "03",
         "06",
-        "06",
+        "02",
+        "07",
         "09"
       ],
       "provider_id": "florida",
@@ -331,12 +331,12 @@
       "provider": "Florida",
       "game": "Pick 4",
       "edition": "Día",
-      "date": "2026-06-30",
+      "date": "2026-07-01",
       "numbers": [
-        "06",
-        "04",
         "00",
-        "04",
+        "05",
+        "09",
+        "01",
         "09"
       ],
       "provider_id": "florida",
@@ -363,13 +363,13 @@
       "provider": "Florida",
       "game": "Pick 5",
       "edition": "Día",
-      "date": "2026-06-30",
+      "date": "2026-07-01",
       "numbers": [
-        "00",
         "01",
-        "04",
+        "09",
+        "07",
         "01",
-        "00",
+        "08",
         "09"
       ],
       "provider_id": "florida",
@@ -888,11 +888,11 @@
       "provider": "Lotería Nacional",
       "game": "Gana Más",
       "edition": null,
-      "date": "2026-06-30",
+      "date": "2026-07-01",
       "numbers": [
-        "85",
-        "47",
-        "97"
+        "86",
+        "74",
+        "00"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "gana-mas",
@@ -902,13 +902,13 @@
       "provider": "Lotería Nacional",
       "game": "Juega + Pega +",
       "edition": null,
-      "date": "2026-06-30",
+      "date": "2026-07-01",
       "numbers": [
-        "01",
-        "06",
-        "08",
+        "25",
+        "17",
         "23",
-        "08"
+        "12",
+        "22"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "juega-pega",
@@ -1050,10 +1050,10 @@
       "provider": "Lotería Real",
       "game": "Súper Palé",
       "edition": null,
-      "date": "2026-06-30",
+      "date": "2026-07-01",
       "numbers": [
-        "18",
-        "85"
+        "03",
+        "86"
       ],
       "provider_id": "loteria-real",
       "game_id": "super-pale",
@@ -1093,11 +1093,11 @@
       "provider": "New York",
       "game": "Numbers",
       "edition": "Día",
-      "date": "2026-06-30",
+      "date": "2026-07-01",
       "numbers": [
-        "06",
-        "05",
-        "08"
+        "04",
+        "00",
+        "01"
       ],
       "provider_id": "new-york",
       "game_id": "numbers",
@@ -1121,13 +1121,13 @@
       "provider": "New York",
       "game": "Take 5",
       "edition": "Día",
-      "date": "2026-06-30",
+      "date": "2026-07-01",
       "numbers": [
-        "07",
-        "18",
-        "15",
-        "36",
-        "03"
+        "20",
+        "27",
+        "32",
+        "25",
+        "30"
       ],
       "provider_id": "new-york",
       "game_id": "take-5",
@@ -1153,12 +1153,12 @@
       "provider": "New York",
       "game": "Win 4",
       "edition": "Día",
-      "date": "2026-06-30",
+      "date": "2026-07-01",
       "numbers": [
-        "03",
+        "06",
         "04",
-        "03",
-        "05"
+        "08",
+        "02"
       ],
       "provider_id": "new-york",
       "game_id": "win-4",
