@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-07-04T01:51:37.380839Z",
+  "last_updated": "2026-07-04T05:30:49.540497Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -23,14 +23,14 @@
       "provider": "Americanas",
       "game": "Mega Millions",
       "edition": null,
-      "date": "2026-06-30",
+      "date": "2026-07-03",
       "numbers": [
-        "50",
-        "62",
-        "41",
-        "26",
-        "53",
-        "12"
+        "29",
+        "09",
+        "05",
+        "57",
+        "47",
+        "16"
       ],
       "provider_id": "americanas",
       "game_id": "mega-millions",
@@ -206,13 +206,13 @@
       "provider": "Florida",
       "game": "Fantasy 5",
       "edition": "Noche",
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "numbers": [
-        "05",
-        "04",
-        "23",
-        "01",
-        "10"
+        "31",
+        "03",
+        "33",
+        "14",
+        "32"
       ],
       "provider_id": "florida",
       "game_id": "fantasy-5",
@@ -256,14 +256,14 @@
       "provider": "Florida",
       "game": "Jackpot Triple Play",
       "edition": null,
-      "date": "2026-06-30",
+      "date": "2026-07-03",
       "numbers": [
-        "14",
-        "33",
-        "11",
-        "10",
+        "36",
+        "43",
+        "15",
         "42",
-        "41"
+        "37",
+        "11"
       ],
       "provider_id": "florida",
       "game_id": "jackpot-triple-play",
@@ -287,11 +287,11 @@
       "provider": "Florida",
       "game": "Pick 2",
       "edition": "Noche",
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "numbers": [
-        "08",
-        "04",
-        "08"
+        "06",
+        "09",
+        "05"
       ],
       "provider_id": "florida",
       "game_id": "pick-2",
@@ -316,12 +316,12 @@
       "provider": "Florida",
       "game": "Pick 3",
       "edition": "Noche",
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "numbers": [
-        "05",
+        "03",
         "06",
-        "04",
-        "08"
+        "01",
+        "05"
       ],
       "provider_id": "florida",
       "game_id": "pick-3",
@@ -347,13 +347,13 @@
       "provider": "Florida",
       "game": "Pick 4",
       "edition": "Noche",
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "numbers": [
         "07",
-        "02",
-        "02",
-        "04",
-        "08"
+        "05",
+        "07",
+        "06",
+        "05"
       ],
       "provider_id": "florida",
       "game_id": "pick-4",
@@ -380,14 +380,14 @@
       "provider": "Florida",
       "game": "Pick 5",
       "edition": "Noche",
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "numbers": [
-        "00",
-        "03",
+        "07",
+        "09",
         "02",
-        "03",
-        "06",
-        "08"
+        "04",
+        "08",
+        "05"
       ],
       "provider_id": "florida",
       "game_id": "pick-5",
@@ -1107,11 +1107,11 @@
       "provider": "New York",
       "game": "Numbers",
       "edition": "Noche",
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "numbers": [
-        "02",
-        "00",
-        "06"
+        "01",
+        "08",
+        "02"
       ],
       "provider_id": "new-york",
       "game_id": "numbers",
@@ -1137,13 +1137,13 @@
       "provider": "New York",
       "game": "Take 5",
       "edition": "Noche",
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "numbers": [
-        "07",
-        "20",
-        "13",
-        "25",
-        "26"
+        "22",
+        "14",
+        "12",
+        "39",
+        "29"
       ],
       "provider_id": "new-york",
       "game_id": "take-5",
@@ -1168,12 +1168,12 @@
       "provider": "New York",
       "game": "Win 4",
       "edition": "Noche",
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "numbers": [
         "06",
-        "00",
-        "08",
-        "06"
+        "03",
+        "07",
+        "08"
       ],
       "provider_id": "new-york",
       "game_id": "win-4",
