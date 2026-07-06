@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-07-06T00:05:06.718308Z",
+  "last_updated": "2026-07-06T02:04:35.009452Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -102,11 +102,11 @@
       "provider": "Anguila",
       "game": "Anguila",
       "edition": "Noche",
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "numbers": [
-        "40",
-        "26",
-        "51"
+        "54",
+        "47",
+        "07"
       ],
       "provider_id": "anguila",
       "game_id": "anguila",
@@ -160,12 +160,12 @@
       "provider": "Anguila",
       "game": "Cuarteta",
       "edition": "Noche",
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "numbers": [
-        "11",
-        "10",
-        "04",
-        "19"
+        "53",
+        "48",
+        "32",
+        "01"
       ],
       "provider_id": "anguila",
       "game_id": "cuarteta",
@@ -287,11 +287,11 @@
       "provider": "Florida",
       "game": "Pick 2",
       "edition": "Noche",
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "numbers": [
+        "09",
         "06",
-        "02",
-        "06"
+        "03"
       ],
       "provider_id": "florida",
       "game_id": "pick-2",
@@ -316,12 +316,12 @@
       "provider": "Florida",
       "game": "Pick 3",
       "edition": "Noche",
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "numbers": [
-        "02",
         "00",
-        "06",
-        "06"
+        "01",
+        "09",
+        "03"
       ],
       "provider_id": "florida",
       "game_id": "pick-3",
@@ -347,13 +347,13 @@
       "provider": "Florida",
       "game": "Pick 4",
       "edition": "Noche",
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "numbers": [
-        "07",
-        "08",
-        "07",
-        "08",
-        "06"
+        "04",
+        "04",
+        "02",
+        "01",
+        "03"
       ],
       "provider_id": "florida",
       "game_id": "pick-4",
@@ -380,14 +380,14 @@
       "provider": "Florida",
       "game": "Pick 5",
       "edition": "Noche",
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "numbers": [
-        "00",
+        "08",
+        "01",
         "02",
-        "07",
-        "07",
-        "00",
-        "06"
+        "09",
+        "04",
+        "03"
       ],
       "provider_id": "florida",
       "game_id": "pick-5",
@@ -799,13 +799,13 @@
       "provider": "Loteka",
       "game": "Mega Chances",
       "edition": null,
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "numbers": [
-        "51",
-        "41",
-        "25",
-        "72",
-        "84"
+        "69",
+        "79",
+        "06",
+        "80",
+        "13"
       ],
       "provider_id": "loteka",
       "game_id": "mega-chances",
@@ -815,9 +815,9 @@
       "provider": "Loteka",
       "game": "Mega Chances Repartidera",
       "edition": null,
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "numbers": [
-        "80"
+        "44"
       ],
       "provider_id": "loteka",
       "game_id": "mega-chances-repartidera",
@@ -846,11 +846,11 @@
       "provider": "Loteka",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "numbers": [
-        "62",
-        "38",
-        "97"
+        "92",
+        "44",
+        "68"
       ],
       "provider_id": "loteka",
       "game_id": "quiniela",
