@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-07-06T21:46:41.916287Z",
+  "last_updated": "2026-07-06T22:12:13.188042Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -116,11 +116,11 @@
       "provider": "Anguila",
       "game": "Anguila",
       "edition": "Tarde",
-      "date": "2026-07-05",
+      "date": "2026-07-06",
       "numbers": [
+        "81",
         "09",
-        "18",
-        "31"
+        "19"
       ],
       "provider_id": "anguila",
       "game_id": "anguila",
@@ -175,12 +175,12 @@
       "provider": "Anguila",
       "game": "Cuarteta",
       "edition": "Tarde",
-      "date": "2026-07-05",
+      "date": "2026-07-06",
       "numbers": [
-        "19",
-        "94",
-        "26",
-        "40"
+        "48",
+        "64",
+        "92",
+        "90"
       ],
       "provider_id": "anguila",
       "game_id": "cuarteta",
@@ -624,11 +624,11 @@
       "provider": "La Suerte Dominicana",
       "game": "La Suerte",
       "edition": "Tarde",
-      "date": "2026-07-05",
+      "date": "2026-07-06",
       "numbers": [
-        "35",
+        "71",
         "73",
-        "35"
+        "83"
       ],
       "provider_id": "la-suerte-dominicana",
       "game_id": "la-suerte",
