@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-07-07T17:07:22.758664Z",
+  "last_updated": "2026-07-07T19:12:25.193295Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -190,13 +190,13 @@
       "provider": "Florida",
       "game": "Fantasy",
       "edition": "Día",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "numbers": [
-        "20",
-        "02",
-        "09",
-        "28",
-        "29"
+        "36",
+        "14",
+        "11",
+        "12",
+        "30"
       ],
       "provider_id": "florida",
       "game_id": "fantasy",
@@ -273,11 +273,11 @@
       "provider": "Florida",
       "game": "Pick 2",
       "edition": "Día",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "numbers": [
-        "07",
-        "04",
-        "02"
+        "09",
+        "00",
+        "07"
       ],
       "provider_id": "florida",
       "game_id": "pick-2",
@@ -301,12 +301,12 @@
       "provider": "Florida",
       "game": "Pick 3",
       "edition": "Día",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "numbers": [
         "07",
         "05",
-        "06",
-        "02"
+        "09",
+        "07"
       ],
       "provider_id": "florida",
       "game_id": "pick-3",
@@ -331,13 +331,13 @@
       "provider": "Florida",
       "game": "Pick 4",
       "edition": "Día",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "numbers": [
-        "09",
         "07",
+        "03",
+        "03",
         "09",
-        "02",
-        "02"
+        "07"
       ],
       "provider_id": "florida",
       "game_id": "pick-4",
@@ -363,14 +363,14 @@
       "provider": "Florida",
       "game": "Pick 5",
       "edition": "Día",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "numbers": [
-        "05",
+        "00",
+        "00",
+        "08",
         "07",
-        "07",
-        "06",
         "09",
-        "02"
+        "07"
       ],
       "provider_id": "florida",
       "game_id": "pick-5",
@@ -888,11 +888,11 @@
       "provider": "Lotería Nacional",
       "game": "Gana Más",
       "edition": null,
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "numbers": [
-        "00",
-        "09",
-        "21"
+        "56",
+        "85",
+        "87"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "gana-mas",
@@ -902,13 +902,13 @@
       "provider": "Lotería Nacional",
       "game": "Juega + Pega +",
       "edition": null,
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "numbers": [
-        "04",
-        "01",
-        "15",
-        "06",
-        "19"
+        "02",
+        "24",
+        "13",
+        "22",
+        "20"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "juega-pega",
@@ -1050,10 +1050,10 @@
       "provider": "Lotería Real",
       "game": "Súper Palé",
       "edition": null,
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "numbers": [
-        "31",
-        "00"
+        "14",
+        "56"
       ],
       "provider_id": "loteria-real",
       "game_id": "super-pale",
@@ -1093,11 +1093,11 @@
       "provider": "New York",
       "game": "Numbers",
       "edition": "Día",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "numbers": [
+        "00",
         "04",
-        "03",
-        "08"
+        "00"
       ],
       "provider_id": "new-york",
       "game_id": "numbers",
@@ -1121,13 +1121,13 @@
       "provider": "New York",
       "game": "Take 5",
       "edition": "Día",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "numbers": [
-        "33",
-        "21",
+        "19",
         "24",
-        "12",
-        "27"
+        "18",
+        "01",
+        "07"
       ],
       "provider_id": "new-york",
       "game_id": "take-5",
@@ -1153,11 +1153,11 @@
       "provider": "New York",
       "game": "Win 4",
       "edition": "Día",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "numbers": [
-        "00",
-        "00",
-        "04",
+        "01",
+        "09",
+        "03",
         "02"
       ],
       "provider_id": "new-york",
