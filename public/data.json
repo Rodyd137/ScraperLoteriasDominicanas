@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-07-08T14:03:17.467240Z",
+  "last_updated": "2026-07-08T15:23:36.414403Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -132,7 +132,10 @@
       "edition": "Mañana",
       "date": "2026-07-08",
       "numbers": [
-        "21"
+        "21",
+        "98",
+        "53",
+        "62"
       ],
       "provider_id": "anguila",
       "game_id": "cuarteta",
