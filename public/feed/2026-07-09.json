@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-07-09T17:14:27.697706Z",
+  "last_updated": "2026-07-09T19:00:47.494786Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -158,11 +158,11 @@
       "provider": "Anguila",
       "game": "Anguila 14:00",
       "edition": null,
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "numbers": [
-        "49",
-        "32",
-        "52"
+        "43",
+        "57",
+        "10"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-14-00",
@@ -343,11 +343,11 @@
       "provider": "Florida",
       "game": "Pick 2",
       "edition": "Día",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "numbers": [
-        "04",
-        "08",
-        "04"
+        "06",
+        "06",
+        "09"
       ],
       "provider_id": "florida",
       "game_id": "pick-2",
@@ -371,12 +371,12 @@
       "provider": "Florida",
       "game": "Pick 3",
       "edition": "Día",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "numbers": [
-        "05",
-        "05",
-        "09",
-        "04"
+        "03",
+        "07",
+        "08",
+        "09"
       ],
       "provider_id": "florida",
       "game_id": "pick-3",
@@ -401,13 +401,13 @@
       "provider": "Florida",
       "game": "Pick 4",
       "edition": "Día",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "numbers": [
-        "00",
-        "02",
         "05",
-        "00",
-        "04"
+        "05",
+        "05",
+        "07",
+        "09"
       ],
       "provider_id": "florida",
       "game_id": "pick-4",
@@ -433,14 +433,14 @@
       "provider": "Florida",
       "game": "Pick 5",
       "edition": "Día",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "numbers": [
-        "03",
-        "04",
-        "03",
         "00",
-        "06",
-        "04"
+        "08",
+        "00",
+        "02",
+        "09",
+        "09"
       ],
       "provider_id": "florida",
       "game_id": "pick-5",
@@ -958,11 +958,11 @@
       "provider": "Lotería Nacional",
       "game": "Gana Más",
       "edition": null,
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "numbers": [
-        "96",
-        "19",
-        "70"
+        "83",
+        "81",
+        "59"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "gana-mas",
@@ -972,13 +972,13 @@
       "provider": "Lotería Nacional",
       "game": "Juega + Pega +",
       "edition": null,
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "numbers": [
-        "26",
-        "25",
-        "14",
-        "17",
-        "03"
+        "09",
+        "08",
+        "06",
+        "05",
+        "10"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "juega-pega",
@@ -1120,10 +1120,10 @@
       "provider": "Lotería Real",
       "game": "Súper Palé",
       "edition": null,
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "numbers": [
-        "35",
-        "96"
+        "09",
+        "83"
       ],
       "provider_id": "loteria-real",
       "game_id": "super-pale",
@@ -1163,11 +1163,11 @@
       "provider": "New York",
       "game": "Numbers",
       "edition": "Día",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "numbers": [
-        "08",
-        "05",
-        "03"
+        "02",
+        "02",
+        "02"
       ],
       "provider_id": "new-york",
       "game_id": "numbers",
@@ -1191,13 +1191,13 @@
       "provider": "New York",
       "game": "Take 5",
       "edition": "Día",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "numbers": [
+        "06",
+        "09",
         "19",
-        "04",
-        "29",
         "20",
-        "38"
+        "26"
       ],
       "provider_id": "new-york",
       "game_id": "take-5",
@@ -1223,12 +1223,12 @@
       "provider": "New York",
       "game": "Win 4",
       "edition": "Día",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "numbers": [
         "04",
-        "05",
-        "00",
-        "01"
+        "08",
+        "03",
+        "00"
       ],
       "provider_id": "new-york",
       "game_id": "win-4",
