@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-07-10T00:04:46.562915Z",
+  "last_updated": "2026-07-10T01:50:12.050782Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -102,11 +102,11 @@
       "provider": "Anguila",
       "game": "Anguila",
       "edition": "Noche",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "numbers": [
-        "21",
-        "98",
-        "04"
+        "51",
+        "11",
+        "58"
       ],
       "provider_id": "anguila",
       "game_id": "anguila",
@@ -230,12 +230,12 @@
       "provider": "Anguila",
       "game": "Cuarteta",
       "edition": "Noche",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "numbers": [
-        "63",
-        "59",
-        "98",
-        "11"
+        "06",
+        "77",
+        "91",
+        "42"
       ],
       "provider_id": "anguila",
       "game_id": "cuarteta",
@@ -727,13 +727,13 @@
       "provider": "Leidsa",
       "game": "Loto Pool",
       "edition": null,
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "numbers": [
         "15",
-        "30",
-        "11",
-        "19",
-        "27"
+        "26",
+        "17",
+        "29",
+        "16"
       ],
       "provider_id": "leidsa",
       "game_id": "loto-pool",
@@ -743,11 +743,11 @@
       "provider": "Leidsa",
       "game": "Pega 3 Más",
       "edition": null,
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "numbers": [
-        "18",
-        "31",
-        "37"
+        "09",
+        "08",
+        "34"
       ],
       "provider_id": "leidsa",
       "game_id": "pega-3-mas",
@@ -757,11 +757,11 @@
       "provider": "Leidsa",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "numbers": [
-        "51",
-        "75",
-        "12"
+        "77",
+        "79",
+        "68"
       ],
       "provider_id": "leidsa",
       "game_id": "quiniela",
@@ -771,28 +771,28 @@
       "provider": "Leidsa",
       "game": "Super Kino TV",
       "edition": null,
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "numbers": [
-        "15",
-        "32",
-        "28",
-        "53",
-        "79",
-        "50",
-        "52",
-        "25",
-        "01",
-        "43",
-        "05",
-        "49",
-        "66",
-        "65",
-        "64",
-        "35",
+        "78",
+        "41",
         "80",
-        "10",
-        "61",
-        "07"
+        "01",
+        "64",
+        "33",
+        "58",
+        "55",
+        "18",
+        "14",
+        "63",
+        "07",
+        "54",
+        "25",
+        "05",
+        "24",
+        "79",
+        "35",
+        "73",
+        "68"
       ],
       "provider_id": "leidsa",
       "game_id": "super-kino-tv",
@@ -802,10 +802,10 @@
       "provider": "Leidsa",
       "game": "Súper Palé",
       "edition": null,
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "numbers": [
-        "51",
-        "77"
+        "77",
+        "42"
       ],
       "provider_id": "leidsa",
       "game_id": "super-pale",
@@ -885,9 +885,9 @@
       "provider": "Loteka",
       "game": "Mega Chances Repartidera",
       "edition": null,
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "numbers": [
-        "37"
+        "95"
       ],
       "provider_id": "loteka",
       "game_id": "mega-chances-repartidera",
@@ -916,11 +916,11 @@
       "provider": "Loteka",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "numbers": [
-        "20",
-        "02",
-        "78"
+        "53",
+        "00",
+        "44"
       ],
       "provider_id": "loteka",
       "game_id": "quiniela",
@@ -988,11 +988,11 @@
       "provider": "Lotería Nacional",
       "game": "Lotería Nacional",
       "edition": null,
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "numbers": [
-        "77",
-        "24",
-        "89"
+        "42",
+        "26",
+        "85"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "loteria-nacional",
