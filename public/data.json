@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-07-10T16:23:22.914640Z",
+  "last_updated": "2026-07-10T16:50:48.916918Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -467,11 +467,11 @@
       "provider": "King Lottery",
       "game": "King Lottery",
       "edition": "Día",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "numbers": [
-        "09",
-        "23",
-        "89"
+        "94",
+        "81",
+        "74"
       ],
       "provider_id": "king-lottery",
       "game_id": "king-lottery",
@@ -495,12 +495,12 @@
       "provider": "King Lottery",
       "game": "Loto Pool",
       "edition": "Día",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "numbers": [
-        "70",
-        "64",
-        "29",
-        "30"
+        "58",
+        "84",
+        "72",
+        "55"
       ],
       "provider_id": "king-lottery",
       "game_id": "loto-pool",
@@ -525,11 +525,11 @@
       "provider": "King Lottery",
       "game": "Philipsburg",
       "edition": "Día",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "numbers": [
-        "0140",
-        "3091",
-        "1062"
+        "8589",
+        "8148",
+        "7193"
       ],
       "provider_id": "king-lottery",
       "game_id": "philipsburg",
@@ -553,11 +553,11 @@
       "provider": "King Lottery",
       "game": "Pick 3",
       "edition": "Día",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "numbers": [
-        "01",
-        "00",
-        "09"
+        "06",
+        "09",
+        "04"
       ],
       "provider_id": "king-lottery",
       "game_id": "pick-3",
@@ -581,12 +581,12 @@
       "provider": "King Lottery",
       "game": "Pick 4",
       "edition": "Día",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "numbers": [
-        "02",
-        "03",
         "08",
-        "09"
+        "01",
+        "07",
+        "04"
       ],
       "provider_id": "king-lottery",
       "game_id": "pick-4",
@@ -680,11 +680,11 @@
       "provider": "La Suerte Dominicana",
       "game": "La Suerte",
       "edition": "Día",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "numbers": [
-        "17",
-        "45",
-        "33"
+        "68",
+        "88",
+        "54"
       ],
       "provider_id": "la-suerte-dominicana",
       "game_id": "la-suerte",
