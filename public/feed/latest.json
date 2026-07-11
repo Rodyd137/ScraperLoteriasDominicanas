@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-07-11T22:45:26.535824Z",
+  "last_updated": "2026-07-11T23:54:32.278251Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -565,11 +565,11 @@
       "provider": "King Lottery",
       "game": "King Lottery",
       "edition": "Noche",
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "numbers": [
-        "73",
-        "36",
-        "21"
+        "85",
+        "80",
+        "23"
       ],
       "provider_id": "king-lottery",
       "game_id": "king-lottery",
@@ -594,12 +594,12 @@
       "provider": "King Lottery",
       "game": "Loto Pool",
       "edition": "Noche",
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "numbers": [
-        "27",
-        "17",
-        "65",
-        "81"
+        "92",
+        "93",
+        "91",
+        "53"
       ],
       "provider_id": "king-lottery",
       "game_id": "loto-pool",
@@ -623,11 +623,11 @@
       "provider": "King Lottery",
       "game": "Philipsburg",
       "edition": "Noche",
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "numbers": [
-        "1000",
-        "2116",
-        "3000"
+        "2138",
+        "5489",
+        "1055"
       ],
       "provider_id": "king-lottery",
       "game_id": "philipsburg",
@@ -651,11 +651,11 @@
       "provider": "King Lottery",
       "game": "Pick 3",
       "edition": "Noche",
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "numbers": [
-        "07",
-        "07",
-        "03"
+        "09",
+        "08",
+        "05"
       ],
       "provider_id": "king-lottery",
       "game_id": "pick-3",
@@ -680,12 +680,12 @@
       "provider": "King Lottery",
       "game": "Pick 4",
       "edition": "Noche",
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "numbers": [
-        "03",
-        "06",
+        "08",
+        "00",
         "02",
-        "01"
+        "03"
       ],
       "provider_id": "king-lottery",
       "game_id": "pick-4",
@@ -707,9 +707,9 @@
       "provider": "La Primera",
       "game": "El Quinielón",
       "edition": "Noche",
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "numbers": [
-        "32"
+        "18"
       ],
       "provider_id": "la-primera",
       "game_id": "el-quinielon",
@@ -719,14 +719,14 @@
       "provider": "La Primera",
       "game": "Loto 5",
       "edition": null,
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "numbers": [
-        "19",
-        "26",
-        "04",
-        "38",
+        "33",
+        "10",
+        "07",
+        "08",
         "13",
-        "05"
+        "10"
       ],
       "provider_id": "la-primera",
       "game_id": "loto-5",
@@ -750,11 +750,11 @@
       "provider": "La Primera",
       "game": "Quiniela",
       "edition": "Noche",
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "numbers": [
-        "17",
-        "17",
-        "02"
+        "46",
+        "05",
+        "50"
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela",
