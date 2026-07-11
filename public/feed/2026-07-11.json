@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-07-11T17:37:50.258282Z",
+  "last_updated": "2026-07-11T18:31:58.998992Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -144,11 +144,11 @@
       "provider": "Anguila",
       "game": "Anguila 2:00 PM",
       "edition": null,
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "numbers": [
-        "69",
-        "84",
-        "70"
+        "82",
+        "56",
+        "32"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-2-00-pm",
@@ -517,14 +517,14 @@
       "provider": "Florida",
       "game": "Pick 5",
       "edition": "Día",
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "numbers": [
+        "07",
         "04",
-        "04",
-        "06",
+        "02",
         "00",
-        "00",
-        "05"
+        "01",
+        "00"
       ],
       "provider_id": "florida",
       "game_id": "pick-5",
@@ -1247,11 +1247,11 @@
       "provider": "New York",
       "game": "Numbers",
       "edition": "Día",
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "numbers": [
-        "00",
         "02",
-        "00"
+        "00",
+        "04"
       ],
       "provider_id": "new-york",
       "game_id": "numbers",
@@ -1275,13 +1275,13 @@
       "provider": "New York",
       "game": "Take 5",
       "edition": "Día",
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "numbers": [
-        "32",
-        "02",
-        "01",
-        "19",
-        "07"
+        "28",
+        "14",
+        "13",
+        "24",
+        "03"
       ],
       "provider_id": "new-york",
       "game_id": "take-5",
@@ -1307,12 +1307,12 @@
       "provider": "New York",
       "game": "Win 4",
       "edition": "Día",
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "numbers": [
-        "06",
-        "08",
-        "06",
-        "05"
+        "00",
+        "00",
+        "07",
+        "02"
       ],
       "provider_id": "new-york",
       "game_id": "win-4",
