@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-07-12T02:33:22.776243Z",
+  "last_updated": "2026-07-12T04:58:41.365182Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -40,14 +40,14 @@
       "provider": "Americanas",
       "game": "PowerBall",
       "edition": null,
-      "date": "2026-07-08",
+      "date": "2026-07-11",
       "numbers": [
-        "37",
-        "29",
-        "43",
-        "55",
-        "12",
-        "18"
+        "59",
+        "45",
+        "08",
+        "14",
+        "10",
+        "05"
       ],
       "provider_id": "americanas",
       "game_id": "powerball",
@@ -57,14 +57,14 @@
       "provider": "Americanas",
       "game": "PowerBall Double Play",
       "edition": null,
-      "date": "2026-07-08",
+      "date": "2026-07-11",
       "numbers": [
-        "06",
-        "44",
-        "27",
-        "69",
-        "33",
-        "23"
+        "26",
+        "05",
+        "07",
+        "17",
+        "28",
+        "05"
       ],
       "provider_id": "americanas",
       "game_id": "powerball-double-play",
@@ -360,13 +360,13 @@
       "provider": "Florida",
       "game": "Fantasy 5",
       "edition": "Noche",
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "numbers": [
-        "11",
-        "33",
-        "20",
+        "08",
+        "30",
         "15",
-        "06"
+        "23",
+        "29"
       ],
       "provider_id": "florida",
       "game_id": "fantasy-5",
@@ -376,14 +376,14 @@
       "provider": "Florida",
       "game": "Florida Lotto",
       "edition": null,
-      "date": "2026-07-08",
+      "date": "2026-07-11",
       "numbers": [
-        "23",
-        "18",
-        "08",
-        "03",
-        "38",
-        "11"
+        "19",
+        "47",
+        "11",
+        "25",
+        "09",
+        "32"
       ],
       "provider_id": "florida",
       "game_id": "florida-lotto",
@@ -393,14 +393,14 @@
       "provider": "Florida",
       "game": "Florida Lotto Double Play",
       "edition": null,
-      "date": "2026-07-08",
+      "date": "2026-07-11",
       "numbers": [
-        "01",
-        "12",
+        "07",
+        "28",
         "19",
-        "06",
-        "31",
-        "26"
+        "12",
+        "20",
+        "35"
       ],
       "provider_id": "florida",
       "game_id": "florida-lotto-double-play",
