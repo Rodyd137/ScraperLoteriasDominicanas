@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-07-12T15:52:31.203449Z",
+  "last_updated": "2026-07-12T16:39:52.888610Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -130,11 +130,11 @@
       "provider": "Anguila",
       "game": "Anguila 12:00 PM",
       "edition": null,
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "numbers": [
-        "96",
-        "55",
-        "84"
+        "62",
+        "91",
+        "27"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-12-00-pm",
@@ -551,11 +551,11 @@
       "provider": "King Lottery",
       "game": "King Lottery",
       "edition": "Día",
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "numbers": [
-        "95",
-        "80",
-        "74"
+        "74",
+        "74",
+        "03"
       ],
       "provider_id": "king-lottery",
       "game_id": "king-lottery",
@@ -579,12 +579,12 @@
       "provider": "King Lottery",
       "game": "Loto Pool",
       "edition": "Día",
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "numbers": [
-        "65",
-        "61",
-        "77",
-        "56"
+        "97",
+        "66",
+        "00",
+        "86"
       ],
       "provider_id": "king-lottery",
       "game_id": "loto-pool",
@@ -609,11 +609,11 @@
       "provider": "King Lottery",
       "game": "Philipsburg",
       "edition": "Día",
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "numbers": [
-        "7709",
-        "5197",
-        "9281"
+        "9232",
+        "8472",
+        "1944"
       ],
       "provider_id": "king-lottery",
       "game_id": "philipsburg",
@@ -637,11 +637,11 @@
       "provider": "King Lottery",
       "game": "Pick 3",
       "edition": "Día",
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "numbers": [
-        "06",
-        "09",
-        "05"
+        "00",
+        "07",
+        "04"
       ],
       "provider_id": "king-lottery",
       "game_id": "pick-3",
@@ -665,12 +665,12 @@
       "provider": "King Lottery",
       "game": "Pick 4",
       "edition": "Día",
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "numbers": [
-        "08",
-        "00",
         "07",
-        "04"
+        "04",
+        "00",
+        "03"
       ],
       "provider_id": "king-lottery",
       "game_id": "pick-4",
@@ -695,9 +695,9 @@
       "provider": "La Primera",
       "game": "El Quinielón",
       "edition": "Día",
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "numbers": [
-        "94"
+        "00"
       ],
       "provider_id": "la-primera",
       "game_id": "el-quinielon",
@@ -736,11 +736,11 @@
       "provider": "La Primera",
       "game": "Quiniela",
       "edition": "Medio Día",
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "numbers": [
-        "57",
-        "81",
-        "16"
+        "50",
+        "47",
+        "45"
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela",
@@ -764,11 +764,11 @@
       "provider": "La Suerte Dominicana",
       "game": "La Suerte",
       "edition": "Día",
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "numbers": [
-        "98",
-        "67",
-        "95"
+        "93",
+        "02",
+        "72"
       ],
       "provider_id": "la-suerte-dominicana",
       "game_id": "la-suerte",
@@ -899,12 +899,12 @@
       "provider": "LoteDom",
       "game": "Agarra 4",
       "edition": null,
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "numbers": [
-        "98",
-        "06",
-        "35",
-        "39"
+        "36",
+        "51",
+        "04",
+        "50"
       ],
       "provider_id": "lotedom",
       "game_id": "agarra-4",
@@ -914,9 +914,9 @@
       "provider": "LoteDom",
       "game": "El Quemaito Mayor",
       "edition": null,
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "numbers": [
-        "39"
+        "50"
       ],
       "provider_id": "lotedom",
       "game_id": "el-quemaito-mayor",
@@ -926,11 +926,11 @@
       "provider": "LoteDom",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "numbers": [
-        "98",
-        "06",
-        "35"
+        "36",
+        "51",
+        "04"
       ],
       "provider_id": "lotedom",
       "game_id": "quiniela",
@@ -940,10 +940,10 @@
       "provider": "LoteDom",
       "game": "Súper Palé",
       "edition": null,
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "numbers": [
-        "98",
-        "39"
+        "36",
+        "50"
       ],
       "provider_id": "lotedom",
       "game_id": "super-pale",
