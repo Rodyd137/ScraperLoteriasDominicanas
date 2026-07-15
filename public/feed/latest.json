@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-07-15T17:39:50.409959Z",
+  "last_updated": "2026-07-15T18:43:37.707448Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -144,11 +144,11 @@
       "provider": "Anguila",
       "game": "Anguila 2:00 PM",
       "edition": null,
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "numbers": [
-        "57",
-        "95",
-        "60"
+        "15",
+        "49",
+        "00"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-2-00-pm",
@@ -1056,13 +1056,13 @@
       "provider": "Lotería Nacional",
       "game": "Juega + Pega +",
       "edition": null,
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "numbers": [
-        "15",
+        "18",
         "13",
-        "09",
-        "19",
-        "20"
+        "06",
+        "05",
+        "05"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "juega-pega",
@@ -1247,11 +1247,11 @@
       "provider": "New York",
       "game": "Numbers",
       "edition": "Día",
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "numbers": [
-        "01",
-        "04",
-        "00"
+        "09",
+        "07",
+        "06"
       ],
       "provider_id": "new-york",
       "game_id": "numbers",
@@ -1275,13 +1275,13 @@
       "provider": "New York",
       "game": "Take 5",
       "edition": "Día",
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "numbers": [
-        "27",
-        "11",
-        "03",
-        "13",
-        "29"
+        "22",
+        "01",
+        "10",
+        "29",
+        "05"
       ],
       "provider_id": "new-york",
       "game_id": "take-5",
@@ -1307,12 +1307,12 @@
       "provider": "New York",
       "game": "Win 4",
       "edition": "Día",
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "numbers": [
-        "01",
         "07",
-        "03",
-        "01"
+        "05",
+        "05",
+        "09"
       ],
       "provider_id": "new-york",
       "game_id": "win-4",
