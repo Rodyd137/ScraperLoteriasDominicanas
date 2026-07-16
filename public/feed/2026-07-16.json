@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-07-16T17:39:23.079317Z",
+  "last_updated": "2026-07-16T18:45:30.155507Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -144,11 +144,11 @@
       "provider": "Anguila",
       "game": "Anguila 2:00 PM",
       "edition": null,
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "numbers": [
-        "15",
-        "49",
-        "00"
+        "40",
+        "22",
+        "79"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-2-00-pm",
@@ -1056,13 +1056,13 @@
       "provider": "Lotería Nacional",
       "game": "Juega + Pega +",
       "edition": null,
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "numbers": [
-        "18",
-        "13",
-        "06",
-        "05",
-        "05"
+        "16",
+        "20",
+        "02",
+        "26",
+        "08"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "juega-pega",
@@ -1247,11 +1247,11 @@
       "provider": "New York",
       "game": "Numbers",
       "edition": "Día",
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "numbers": [
-        "09",
-        "07",
-        "06"
+        "08",
+        "00",
+        "09"
       ],
       "provider_id": "new-york",
       "game_id": "numbers",
@@ -1275,13 +1275,13 @@
       "provider": "New York",
       "game": "Take 5",
       "edition": "Día",
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "numbers": [
-        "22",
-        "01",
-        "10",
-        "29",
-        "05"
+        "20",
+        "28",
+        "15",
+        "02",
+        "36"
       ],
       "provider_id": "new-york",
       "game_id": "take-5",
@@ -1307,12 +1307,12 @@
       "provider": "New York",
       "game": "Win 4",
       "edition": "Día",
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "numbers": [
-        "07",
         "05",
-        "05",
-        "09"
+        "04",
+        "01",
+        "03"
       ],
       "provider_id": "new-york",
       "game_id": "win-4",
