@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-07-16T15:37:26.729045Z",
+  "last_updated": "2026-07-16T16:11:21.740756Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -130,11 +130,11 @@
       "provider": "Anguila",
       "game": "Anguila 12:00 PM",
       "edition": null,
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "numbers": [
-        "81",
-        "53",
-        "63"
+        "59",
+        "60",
+        "39"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-12-00-pm",
@@ -695,9 +695,9 @@
       "provider": "La Primera",
       "game": "El Quinielón",
       "edition": "Día",
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "numbers": [
-        "72"
+        "40"
       ],
       "provider_id": "la-primera",
       "game_id": "el-quinielon",
@@ -736,11 +736,11 @@
       "provider": "La Primera",
       "game": "Quiniela",
       "edition": "Medio Día",
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "numbers": [
-        "75",
-        "08",
-        "60"
+        "99",
+        "89",
+        "12"
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela",
@@ -899,12 +899,12 @@
       "provider": "LoteDom",
       "game": "Agarra 4",
       "edition": null,
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "numbers": [
-        "71",
-        "86",
-        "85",
-        "79"
+        "67",
+        "83",
+        "34",
+        "38"
       ],
       "provider_id": "lotedom",
       "game_id": "agarra-4",
@@ -914,9 +914,9 @@
       "provider": "LoteDom",
       "game": "El Quemaito Mayor",
       "edition": null,
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "numbers": [
-        "79"
+        "38"
       ],
       "provider_id": "lotedom",
       "game_id": "el-quemaito-mayor",
@@ -926,11 +926,11 @@
       "provider": "LoteDom",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "numbers": [
-        "71",
-        "86",
-        "85"
+        "67",
+        "83",
+        "34"
       ],
       "provider_id": "lotedom",
       "game_id": "quiniela",
@@ -940,10 +940,10 @@
       "provider": "LoteDom",
       "game": "Súper Palé",
       "edition": null,
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "numbers": [
-        "71",
-        "79"
+        "67",
+        "38"
       ],
       "provider_id": "lotedom",
       "game_id": "super-pale",
