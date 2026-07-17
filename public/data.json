@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-07-17T17:21:11.349990Z",
+  "last_updated": "2026-07-17T18:30:15.213387Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -144,11 +144,11 @@
       "provider": "Anguila",
       "game": "Anguila 2:00 PM",
       "edition": null,
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "numbers": [
-        "40",
-        "22",
-        "79"
+        "64",
+        "31",
+        "23"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-2-00-pm",
@@ -427,10 +427,10 @@
       "provider": "Florida",
       "game": "Pick 2",
       "edition": "Día",
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "numbers": [
-        "01",
-        "03",
+        "08",
+        "05",
         "06"
       ],
       "provider_id": "florida",
@@ -455,11 +455,11 @@
       "provider": "Florida",
       "game": "Pick 3",
       "edition": "Día",
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "numbers": [
-        "05",
-        "04",
-        "01",
+        "00",
+        "08",
+        "00",
         "06"
       ],
       "provider_id": "florida",
@@ -485,12 +485,12 @@
       "provider": "Florida",
       "game": "Pick 4",
       "edition": "Día",
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "numbers": [
-        "06",
-        "01",
-        "01",
         "04",
+        "03",
+        "08",
+        "08",
         "06"
       ],
       "provider_id": "florida",
@@ -517,13 +517,13 @@
       "provider": "Florida",
       "game": "Pick 5",
       "edition": "Día",
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "numbers": [
-        "00",
+        "08",
         "04",
+        "08",
+        "07",
         "09",
-        "08",
-        "08",
         "06"
       ],
       "provider_id": "florida",
