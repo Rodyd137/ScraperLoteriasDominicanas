@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-07-18T01:22:48.249530Z",
+  "last_updated": "2026-07-18T01:47:30.558418Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -948,6 +948,81 @@
       "provider_id": "lotedom",
       "game_id": "super-pale",
       "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/uAH16Wvk-pA6DkRyNaPcX.png"
+    },
+    {
+      "provider": "Loteka",
+      "game": "Mega Chances",
+      "edition": null,
+      "date": "2026-07-17",
+      "numbers": [
+        "92",
+        "16",
+        "59",
+        "43",
+        "83"
+      ],
+      "provider_id": "loteka",
+      "game_id": "mega-chances",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/9RnNns5bRhkv8To5jCvWa.png"
+    },
+    {
+      "provider": "Loteka",
+      "game": "Mega Chances Repartidera",
+      "edition": null,
+      "date": "2026-07-17",
+      "numbers": [
+        "06"
+      ],
+      "provider_id": "loteka",
+      "game_id": "mega-chances-repartidera",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/jk1wSsmKtxnGWqPBz09hg.png"
+    },
+    {
+      "provider": "Loteka",
+      "game": "MegaLotto",
+      "edition": null,
+      "date": "2026-07-16",
+      "numbers": [
+        "33",
+        "29",
+        "37",
+        "26",
+        "25",
+        "31",
+        "09",
+        "10"
+      ],
+      "provider_id": "loteka",
+      "game_id": "megalotto",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/IsWXLF_MEpj3y71QV9fAg.png"
+    },
+    {
+      "provider": "Loteka",
+      "game": "Quiniela",
+      "edition": null,
+      "date": "2026-07-17",
+      "numbers": [
+        "06",
+        "45",
+        "62"
+      ],
+      "provider_id": "loteka",
+      "game_id": "quiniela",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/hut-F1Z2M2OlcvqihkK_n.png"
+    },
+    {
+      "provider": "Loteka",
+      "game": "Toca 3",
+      "edition": null,
+      "date": "2026-07-17",
+      "numbers": [
+        "07",
+        "05",
+        "00"
+      ],
+      "provider_id": "loteka",
+      "game_id": "toca-3",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/_vnCuYOi8uIEsWWcVPyyZ.png"
     },
     {
       "provider": "Lotería Nacional",
