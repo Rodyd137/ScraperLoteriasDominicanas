@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-07-18T18:33:59.629861Z",
+  "last_updated": "2026-07-18T19:12:18.424675Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -158,11 +158,11 @@
       "provider": "Anguila",
       "game": "Anguila 3:00 PM",
       "edition": null,
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "numbers": [
-        "10",
-        "92",
-        "77"
+        "56",
+        "06",
+        "47"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-3-00-pm",
@@ -1042,11 +1042,11 @@
       "provider": "Lotería Nacional",
       "game": "Gana Más",
       "edition": null,
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "numbers": [
-        "73",
-        "79",
-        "99"
+        "24",
+        "36",
+        "44"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "gana-mas",
@@ -1056,13 +1056,13 @@
       "provider": "Lotería Nacional",
       "game": "Juega + Pega +",
       "edition": null,
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "numbers": [
-        "04",
-        "25",
-        "01",
-        "02",
-        "05"
+        "23",
+        "17",
+        "26",
+        "13",
+        "20"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "juega-pega",
@@ -1204,10 +1204,10 @@
       "provider": "Lotería Real",
       "game": "Súper Palé",
       "edition": null,
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "numbers": [
-        "60",
-        "73"
+        "17",
+        "24"
       ],
       "provider_id": "loteria-real",
       "game_id": "super-pale",
