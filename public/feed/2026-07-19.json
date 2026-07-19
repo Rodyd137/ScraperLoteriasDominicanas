@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-07-19T17:40:01.642090Z",
+  "last_updated": "2026-07-19T18:36:17.625672Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -144,11 +144,11 @@
       "provider": "Anguila",
       "game": "Anguila 2:00 PM",
       "edition": null,
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "numbers": [
-        "63",
-        "57",
-        "85"
+        "83",
+        "21",
+        "52"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-2-00-pm",
@@ -1056,13 +1056,10 @@
       "provider": "Lotería Nacional",
       "game": "Juega + Pega +",
       "edition": null,
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "numbers": [
-        "23",
-        "17",
-        "26",
-        "13",
-        "20"
+        "19",
+        "07"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "juega-pega",
@@ -1247,11 +1244,11 @@
       "provider": "New York",
       "game": "Numbers",
       "edition": "Día",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "numbers": [
-        "05",
-        "02",
-        "07"
+        "00",
+        "09",
+        "08"
       ],
       "provider_id": "new-york",
       "game_id": "numbers",
@@ -1275,13 +1272,13 @@
       "provider": "New York",
       "game": "Take 5",
       "edition": "Día",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "numbers": [
-        "27",
-        "30",
-        "26",
-        "01",
-        "35"
+        "24",
+        "36",
+        "39",
+        "34",
+        "38"
       ],
       "provider_id": "new-york",
       "game_id": "take-5",
@@ -1307,12 +1304,12 @@
       "provider": "New York",
       "game": "Win 4",
       "edition": "Día",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "numbers": [
-        "05",
-        "00",
-        "07",
-        "08"
+        "03",
+        "09",
+        "06",
+        "02"
       ],
       "provider_id": "new-york",
       "game_id": "win-4",
