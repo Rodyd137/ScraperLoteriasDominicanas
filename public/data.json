@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-07-19T16:39:32.115170Z",
+  "last_updated": "2026-07-19T17:40:01.642090Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -74,11 +74,11 @@
       "provider": "Anguila",
       "game": "Anguila 1:00 PM",
       "edition": null,
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "numbers": [
-        "57",
-        "15",
-        "41"
+        "47",
+        "10",
+        "21"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-1-00-pm",
@@ -284,12 +284,12 @@
       "provider": "Anguila",
       "game": "La Cuarteta 1:00 PM",
       "edition": null,
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "numbers": [
-        "32",
-        "74",
-        "19",
-        "99"
+        "38",
+        "61",
+        "28",
+        "13"
       ],
       "provider_id": "anguila",
       "game_id": "la-cuarteta-1-00-pm",
@@ -344,13 +344,13 @@
       "provider": "Florida",
       "game": "Fantasy",
       "edition": "Día",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "numbers": [
-        "10",
-        "06",
-        "30",
-        "28",
-        "07"
+        "34",
+        "21",
+        "32",
+        "18",
+        "24"
       ],
       "provider_id": "florida",
       "game_id": "fantasy",
@@ -427,11 +427,11 @@
       "provider": "Florida",
       "game": "Pick 2",
       "edition": "Día",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "numbers": [
-        "00",
-        "07",
-        "07"
+        "03",
+        "09",
+        "00"
       ],
       "provider_id": "florida",
       "game_id": "pick-2",
@@ -455,12 +455,12 @@
       "provider": "Florida",
       "game": "Pick 3",
       "edition": "Día",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "numbers": [
-        "04",
-        "03",
-        "00",
-        "07"
+        "09",
+        "08",
+        "05",
+        "00"
       ],
       "provider_id": "florida",
       "game_id": "pick-3",
@@ -485,13 +485,13 @@
       "provider": "Florida",
       "game": "Pick 4",
       "edition": "Día",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "numbers": [
-        "02",
-        "08",
-        "02",
-        "05",
-        "07"
+        "00",
+        "09",
+        "06",
+        "09",
+        "00"
       ],
       "provider_id": "florida",
       "game_id": "pick-4",
@@ -517,14 +517,14 @@
       "provider": "Florida",
       "game": "Pick 5",
       "edition": "Día",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "numbers": [
         "04",
         "07",
+        "04",
+        "04",
         "01",
-        "05",
-        "08",
-        "07"
+        "00"
       ],
       "provider_id": "florida",
       "game_id": "pick-5",
@@ -1102,12 +1102,12 @@
       "provider": "Lotería Real",
       "game": "Loto Pool",
       "edition": null,
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "numbers": [
+        "28",
         "36",
-        "60",
-        "94",
-        "77"
+        "30",
+        "58"
       ],
       "provider_id": "loteria-real",
       "game_id": "loto-pool",
@@ -1149,11 +1149,11 @@
       "provider": "Lotería Real",
       "game": "Nueva Yol Real",
       "edition": null,
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "numbers": [
-        "29",
-        "97",
-        "57"
+        "89",
+        "66",
+        "47"
       ],
       "provider_id": "loteria-real",
       "game_id": "nueva-yol-real",
@@ -1178,11 +1178,11 @@
       "provider": "Lotería Real",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "numbers": [
-        "17",
-        "52",
-        "04"
+        "35",
+        "48",
+        "12"
       ],
       "provider_id": "loteria-real",
       "game_id": "quiniela",
@@ -1217,9 +1217,9 @@
       "provider": "Lotería Real",
       "game": "Tu Fecha Real",
       "edition": null,
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "numbers": [
-        "26"
+        "12"
       ],
       "provider_id": "loteria-real",
       "game_id": "tu-fecha-real",
