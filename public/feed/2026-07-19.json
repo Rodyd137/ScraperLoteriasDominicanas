@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-07-19T01:28:51.003905Z",
+  "last_updated": "2026-07-19T02:13:19.839716Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -102,11 +102,11 @@
       "provider": "Anguila",
       "game": "Anguila 10:00 PM",
       "edition": null,
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "numbers": [
-        "96",
-        "94",
-        "66"
+        "07",
+        "59",
+        "81"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-10-00-pm",
@@ -441,11 +441,11 @@
       "provider": "Florida",
       "game": "Pick 2",
       "edition": "Noche",
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "numbers": [
-        "03",
-        "09",
-        "06"
+        "02",
+        "02",
+        "02"
       ],
       "provider_id": "florida",
       "game_id": "pick-2",
@@ -470,12 +470,12 @@
       "provider": "Florida",
       "game": "Pick 3",
       "edition": "Noche",
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "numbers": [
-        "04",
-        "04",
-        "04",
-        "06"
+        "00",
+        "02",
+        "07",
+        "02"
       ],
       "provider_id": "florida",
       "game_id": "pick-3",
@@ -501,13 +501,13 @@
       "provider": "Florida",
       "game": "Pick 4",
       "edition": "Noche",
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "numbers": [
-        "06",
         "05",
-        "09",
-        "00",
-        "06"
+        "05",
+        "08",
+        "08",
+        "02"
       ],
       "provider_id": "florida",
       "game_id": "pick-4",
@@ -534,14 +534,14 @@
       "provider": "Florida",
       "game": "Pick 5",
       "edition": "Noche",
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "numbers": [
-        "03",
+        "04",
+        "08",
+        "06",
         "07",
-        "06",
-        "03",
-        "06",
-        "06"
+        "07",
+        "02"
       ],
       "provider_id": "florida",
       "game_id": "pick-5",
