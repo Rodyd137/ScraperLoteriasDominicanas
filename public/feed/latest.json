@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-07-20T23:04:54.604371Z",
+  "last_updated": "2026-07-20T23:56:00.960794Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -565,11 +565,11 @@
       "provider": "King Lottery",
       "game": "King Lottery",
       "edition": "Noche",
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "numbers": [
-        "56",
-        "92",
-        "29"
+        "12",
+        "57",
+        "52"
       ],
       "provider_id": "king-lottery",
       "game_id": "king-lottery",
@@ -594,12 +594,12 @@
       "provider": "King Lottery",
       "game": "Loto Pool",
       "edition": "Noche",
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "numbers": [
-        "80",
-        "42",
-        "94",
-        "66"
+        "18",
+        "92",
+        "07",
+        "84"
       ],
       "provider_id": "king-lottery",
       "game_id": "loto-pool",
@@ -623,11 +623,11 @@
       "provider": "King Lottery",
       "game": "Philipsburg",
       "edition": "Noche",
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "numbers": [
-        "8068",
-        "1833",
-        "3649"
+        "7015",
+        "2808",
+        "0471"
       ],
       "provider_id": "king-lottery",
       "game_id": "philipsburg",
@@ -651,11 +651,11 @@
       "provider": "King Lottery",
       "game": "Pick 3",
       "edition": "Noche",
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "numbers": [
-        "08",
-        "05",
-        "06"
+        "06",
+        "01",
+        "02"
       ],
       "provider_id": "king-lottery",
       "game_id": "pick-3",
@@ -680,12 +680,12 @@
       "provider": "King Lottery",
       "game": "Pick 4",
       "edition": "Noche",
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "numbers": [
-        "09",
-        "02",
-        "02",
-        "09"
+        "05",
+        "07",
+        "05",
+        "02"
       ],
       "provider_id": "king-lottery",
       "game_id": "pick-4",
@@ -752,7 +752,9 @@
       "edition": "Noche",
       "date": "2026-07-20",
       "numbers": [
-        "86"
+        "86",
+        "95",
+        "40"
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela",
