@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-07-22T01:27:25.239374Z",
+  "last_updated": "2026-07-22T04:43:48.798111Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -23,14 +23,14 @@
       "provider": "Americanas",
       "game": "Mega Millions",
       "edition": null,
-      "date": "2026-07-17",
+      "date": "2026-07-21",
       "numbers": [
-        "34",
-        "22",
-        "55",
-        "45",
-        "48",
-        "14"
+        "25",
+        "70",
+        "37",
+        "59",
+        "68",
+        "10"
       ],
       "provider_id": "americanas",
       "game_id": "mega-millions",
@@ -102,11 +102,11 @@
       "provider": "Anguila",
       "game": "Anguila 10:00 PM",
       "edition": null,
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "numbers": [
-        "02",
-        "38",
-        "62"
+        "94",
+        "34",
+        "04"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-10-00-pm",
@@ -360,13 +360,13 @@
       "provider": "Florida",
       "game": "Fantasy 5",
       "edition": "Noche",
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "numbers": [
-        "29",
-        "33",
-        "36",
-        "28",
-        "11"
+        "26",
+        "13",
+        "21",
+        "27",
+        "22"
       ],
       "provider_id": "florida",
       "game_id": "fantasy-5",
@@ -410,14 +410,14 @@
       "provider": "Florida",
       "game": "Jackpot Triple Play",
       "edition": null,
-      "date": "2026-07-17",
+      "date": "2026-07-21",
       "numbers": [
-        "15",
-        "27",
-        "46",
-        "45",
-        "38",
-        "43"
+        "13",
+        "32",
+        "05",
+        "23",
+        "21",
+        "34"
       ],
       "provider_id": "florida",
       "game_id": "jackpot-triple-play",
@@ -441,11 +441,11 @@
       "provider": "Florida",
       "game": "Pick 2",
       "edition": "Noche",
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "numbers": [
+        "06",
         "00",
-        "05",
-        "02"
+        "01"
       ],
       "provider_id": "florida",
       "game_id": "pick-2",
@@ -470,12 +470,12 @@
       "provider": "Florida",
       "game": "Pick 3",
       "edition": "Noche",
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "numbers": [
-        "06",
-        "08",
-        "08",
-        "02"
+        "07",
+        "02",
+        "07",
+        "01"
       ],
       "provider_id": "florida",
       "game_id": "pick-3",
@@ -501,13 +501,13 @@
       "provider": "Florida",
       "game": "Pick 4",
       "edition": "Noche",
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "numbers": [
-        "02",
-        "01",
+        "08",
+        "09",
         "07",
-        "02",
-        "02"
+        "06",
+        "01"
       ],
       "provider_id": "florida",
       "game_id": "pick-4",
@@ -534,14 +534,14 @@
       "provider": "Florida",
       "game": "Pick 5",
       "edition": "Noche",
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "numbers": [
         "05",
-        "06",
         "01",
-        "08",
-        "06",
-        "02"
+        "04",
+        "09",
+        "00",
+        "01"
       ],
       "provider_id": "florida",
       "game_id": "pick-5",
@@ -1261,11 +1261,11 @@
       "provider": "New York",
       "game": "Numbers",
       "edition": "Noche",
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "numbers": [
-        "09",
+        "03",
         "07",
-        "03"
+        "01"
       ],
       "provider_id": "new-york",
       "game_id": "numbers",
@@ -1291,13 +1291,13 @@
       "provider": "New York",
       "game": "Take 5",
       "edition": "Noche",
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "numbers": [
+        "37",
+        "16",
+        "19",
         "32",
-        "33",
-        "08",
-        "06",
-        "04"
+        "02"
       ],
       "provider_id": "new-york",
       "game_id": "take-5",
@@ -1322,12 +1322,12 @@
       "provider": "New York",
       "game": "Win 4",
       "edition": "Noche",
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "numbers": [
-        "07",
+        "03",
         "06",
-        "07",
-        "07"
+        "08",
+        "00"
       ],
       "provider_id": "new-york",
       "game_id": "win-4",
