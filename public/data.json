@@ -1,5 +1,438 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-07-24T06:26:59.490383Z",
-  "draws": []
+  "last_updated": "2026-07-24T09:20:59.132620Z",
+  "draws": [
+    {
+      "provider": "Anguila",
+      "game": "Anguila 1:00 PM",
+      "edition": null,
+      "date": "2026-07-23",
+      "numbers": [
+        "21",
+        "43",
+        "67"
+      ],
+      "provider_id": "anguila",
+      "game_id": "anguila-1-00-pm",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/RQSr67dKkXZrzP3Aw2k14.png"
+    },
+    {
+      "provider": "Anguila",
+      "game": "Anguila 10:00 AM",
+      "edition": null,
+      "date": "2026-07-23",
+      "numbers": [
+        "65",
+        "67",
+        "69"
+      ],
+      "provider_id": "anguila",
+      "game_id": "anguila-10-00-am",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/VtE_YGWIjMXi-8-_54vJJ.png"
+    },
+    {
+      "provider": "Anguila",
+      "game": "Anguila 10:00 PM",
+      "edition": null,
+      "date": "2026-07-23",
+      "numbers": [
+        "97",
+        "43",
+        "87"
+      ],
+      "provider_id": "anguila",
+      "game_id": "anguila-10-00-pm",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/07/10/jOl9QpYkOejaXXldWSosb.png"
+    },
+    {
+      "provider": "Anguila",
+      "game": "Anguila 11:00 AM",
+      "edition": null,
+      "date": "2026-07-23",
+      "numbers": [
+        "66",
+        "30",
+        "24"
+      ],
+      "provider_id": "anguila",
+      "game_id": "anguila-11-00-am",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/06/26/Wp4GoF_18p1yHNbq-dyev.webp"
+    },
+    {
+      "provider": "Anguila",
+      "game": "Anguila 12:00 PM",
+      "edition": null,
+      "date": "2026-07-23",
+      "numbers": [
+        "77",
+        "56",
+        "31"
+      ],
+      "provider_id": "anguila",
+      "game_id": "anguila-12-00-pm",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/06/26/gnmxacEoomZkBDkyYxowz.webp"
+    },
+    {
+      "provider": "Anguila",
+      "game": "Anguila 2:00 PM",
+      "edition": null,
+      "date": "2026-07-23",
+      "numbers": [
+        "03",
+        "22",
+        "06"
+      ],
+      "provider_id": "anguila",
+      "game_id": "anguila-2-00-pm",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/06/26/e4dTQZjsctoucP0wsGJnY.webp"
+    },
+    {
+      "provider": "Anguila",
+      "game": "Anguila 3:00 PM",
+      "edition": null,
+      "date": "2026-07-23",
+      "numbers": [
+        "83",
+        "16",
+        "94"
+      ],
+      "provider_id": "anguila",
+      "game_id": "anguila-3-00-pm",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/06/26/UPsMrjwUdaGK7dAQ9dtUU.webp"
+    },
+    {
+      "provider": "Anguila",
+      "game": "Anguila 4:00 PM",
+      "edition": null,
+      "date": "2026-07-23",
+      "numbers": [
+        "57",
+        "72",
+        "32"
+      ],
+      "provider_id": "anguila",
+      "game_id": "anguila-4-00-pm",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/07/10/LkLKvPr1KzDE0pGgdy2NG.png"
+    },
+    {
+      "provider": "Anguila",
+      "game": "Anguila 5:00 PM",
+      "edition": null,
+      "date": "2026-07-23",
+      "numbers": [
+        "39",
+        "70",
+        "04"
+      ],
+      "provider_id": "anguila",
+      "game_id": "anguila-5-00-pm",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/07/10/ysw5c6NuxbmXMf67ZXRMS.png"
+    },
+    {
+      "provider": "Anguila",
+      "game": "Anguila 6:00 PM",
+      "edition": null,
+      "date": "2026-07-23",
+      "numbers": [
+        "17",
+        "63",
+        "64"
+      ],
+      "provider_id": "anguila",
+      "game_id": "anguila-6-00-pm",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/dy-rguyYJdplDu-Q9Fr_6.png"
+    },
+    {
+      "provider": "Anguila",
+      "game": "Anguila 7:00 PM",
+      "edition": null,
+      "date": "2026-07-23",
+      "numbers": [
+        "78",
+        "46",
+        "33"
+      ],
+      "provider_id": "anguila",
+      "game_id": "anguila-7-00-pm",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/07/10/T8uVL_D0_mdg6SZTo6vb_.png"
+    },
+    {
+      "provider": "Anguila",
+      "game": "Anguila 8:00  AM",
+      "edition": null,
+      "date": "2026-07-23",
+      "numbers": [
+        "97",
+        "96",
+        "14"
+      ],
+      "provider_id": "anguila",
+      "game_id": "anguila-8-00-am",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/07/10/1JTtOkER8R1_8a2wQykEq.png"
+    },
+    {
+      "provider": "Anguila",
+      "game": "Anguila 8:00 PM",
+      "edition": null,
+      "date": "2026-07-23",
+      "numbers": [
+        "57",
+        "56",
+        "07"
+      ],
+      "provider_id": "anguila",
+      "game_id": "anguila-8-00-pm",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/07/10/VKiYcAuCCnMDBjvwwIiyY.png"
+    },
+    {
+      "provider": "Anguila",
+      "game": "Anguila 9:00 AM",
+      "edition": null,
+      "date": "2026-07-23",
+      "numbers": [
+        "70",
+        "37",
+        "11"
+      ],
+      "provider_id": "anguila",
+      "game_id": "anguila-9-00-am",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/06/26/KxozGWn6nMBQvpLNqwn7V.webp"
+    },
+    {
+      "provider": "Anguila",
+      "game": "Anguila 9:00 PM",
+      "edition": null,
+      "date": "2026-07-23",
+      "numbers": [
+        "44",
+        "99",
+        "41"
+      ],
+      "provider_id": "anguila",
+      "game_id": "anguila-9-00-pm",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/E0_wYqSmwvW1dhJvth60N.png"
+    },
+    {
+      "provider": "Anguila",
+      "game": "La Cuarteta 1:00 PM",
+      "edition": null,
+      "date": "2026-07-23",
+      "numbers": [
+        "28",
+        "35",
+        "58",
+        "58"
+      ],
+      "provider_id": "anguila",
+      "game_id": "la-cuarteta-1-00-pm",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/UECe4XMlOnAliYhi27r8W.png"
+    },
+    {
+      "provider": "Anguila",
+      "game": "La Cuarteta 10:00 AM",
+      "edition": null,
+      "date": "2026-07-23",
+      "numbers": [
+        "05",
+        "75",
+        "59",
+        "90"
+      ],
+      "provider_id": "anguila",
+      "game_id": "la-cuarteta-10-00-am",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/i-XwBSWQwdIrPp8_q34_q.png"
+    },
+    {
+      "provider": "Anguila",
+      "game": "La Cuarteta 6:00 PM",
+      "edition": null,
+      "date": "2026-07-23",
+      "numbers": [
+        "06",
+        "26",
+        "86",
+        "43"
+      ],
+      "provider_id": "anguila",
+      "game_id": "la-cuarteta-6-00-pm",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/ZHRQXbRVnWHn36mLnohPR.png"
+    },
+    {
+      "provider": "Anguila",
+      "game": "La Cuarteta 9:00 PM",
+      "edition": null,
+      "date": "2026-07-23",
+      "numbers": [
+        "07",
+        "52",
+        "89",
+        "75"
+      ],
+      "provider_id": "anguila",
+      "game_id": "la-cuarteta-9-00-pm",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/PCwYefaoKOQpCWnZYv8UP.png"
+    },
+    {
+      "provider": "LoteDom",
+      "game": "Agarra 4",
+      "edition": null,
+      "date": "2026-07-23",
+      "numbers": [
+        "58",
+        "93",
+        "92",
+        "20"
+      ],
+      "provider_id": "lotedom",
+      "game_id": "agarra-4",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/8h1zjnEYQhpXQ5ZSmrufg.png"
+    },
+    {
+      "provider": "LoteDom",
+      "game": "El Quemaito Mayor",
+      "edition": null,
+      "date": "2026-07-23",
+      "numbers": [
+        "20"
+      ],
+      "provider_id": "lotedom",
+      "game_id": "el-quemaito-mayor",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/iW_CjO9mPcfgEF9CJJPf-.png"
+    },
+    {
+      "provider": "LoteDom",
+      "game": "Quiniela",
+      "edition": null,
+      "date": "2026-07-23",
+      "numbers": [
+        "58",
+        "93",
+        "92"
+      ],
+      "provider_id": "lotedom",
+      "game_id": "quiniela",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/xtOoPeG6uBbdgWygtnxhJ.png"
+    },
+    {
+      "provider": "LoteDom",
+      "game": "Súper Palé",
+      "edition": null,
+      "date": "2026-07-23",
+      "numbers": [
+        "58",
+        "20"
+      ],
+      "provider_id": "lotedom",
+      "game_id": "super-pale",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/uAH16Wvk-pA6DkRyNaPcX.png"
+    },
+    {
+      "provider": "New York",
+      "game": "New York Lotto",
+      "edition": null,
+      "date": "2026-07-22",
+      "numbers": [
+        "41",
+        "22",
+        "43",
+        "30",
+        "01",
+        "46",
+        "02"
+      ],
+      "provider_id": "new-york",
+      "game_id": "new-york-lotto",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/WTj7nt8ujdw-ImunyuBnR.png"
+    },
+    {
+      "provider": "New York",
+      "game": "Numbers",
+      "edition": "Día",
+      "date": "2026-07-23",
+      "numbers": [
+        "04",
+        "00",
+        "00"
+      ],
+      "provider_id": "new-york",
+      "game_id": "numbers",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/UWKS_jCFj9O4pthUSnd-o.png"
+    },
+    {
+      "provider": "New York",
+      "game": "Numbers",
+      "edition": "Noche",
+      "date": "2026-07-23",
+      "numbers": [
+        "05",
+        "03",
+        "05"
+      ],
+      "provider_id": "new-york",
+      "game_id": "numbers",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/ensLQUO0iH8MSdu0r4eov.png"
+    },
+    {
+      "provider": "New York",
+      "game": "Take 5",
+      "edition": "Día",
+      "date": "2026-07-23",
+      "numbers": [
+        "10",
+        "17",
+        "09",
+        "26",
+        "18"
+      ],
+      "provider_id": "new-york",
+      "game_id": "take-5",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/Fr_TnvtqPzcfV0nPBSUt4.png"
+    },
+    {
+      "provider": "New York",
+      "game": "Take 5",
+      "edition": "Noche",
+      "date": "2026-07-23",
+      "numbers": [
+        "32",
+        "07",
+        "08",
+        "30",
+        "33"
+      ],
+      "provider_id": "new-york",
+      "game_id": "take-5",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/KYAYRqQWcAEjwsgdJ5GW_.png"
+    },
+    {
+      "provider": "New York",
+      "game": "Win 4",
+      "edition": "Día",
+      "date": "2026-07-23",
+      "numbers": [
+        "09",
+        "01",
+        "02",
+        "02"
+      ],
+      "provider_id": "new-york",
+      "game_id": "win-4",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/NSJRLT9hCU7RrBq1nDa3P.png"
+    },
+    {
+      "provider": "New York",
+      "game": "Win 4",
+      "edition": "Noche",
+      "date": "2026-07-23",
+      "numbers": [
+        "00",
+        "06",
+        "06",
+        "08"
+      ],
+      "provider_id": "new-york",
+      "game_id": "win-4",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/4-jVAqQOH8W3csjEMCpFU.png"
+    }
+  ]
 }
