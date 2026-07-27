@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-07-26T23:58:35.265679Z",
+  "last_updated": "2026-07-27T01:52:09.824625Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -242,11 +242,11 @@
       "provider": "Anguila",
       "game": "Anguila 8:00 PM",
       "edition": null,
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "numbers": [
-        "45",
         "29",
-        "19"
+        "58",
+        "43"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-8-00-pm",
@@ -270,11 +270,11 @@
       "provider": "Anguila",
       "game": "Anguila 9:00 PM",
       "edition": null,
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "numbers": [
-        "50",
-        "37",
-        "76"
+        "47",
+        "58",
+        "03"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-9-00-pm",
@@ -329,12 +329,12 @@
       "provider": "Anguila",
       "game": "La Cuarteta 9:00 PM",
       "edition": null,
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "numbers": [
-        "97",
-        "03",
-        "29",
-        "21"
+        "99",
+        "34",
+        "76",
+        "04"
       ],
       "provider_id": "anguila",
       "game_id": "la-cuarteta-9-00-pm",
@@ -441,11 +441,11 @@
       "provider": "Florida",
       "game": "Pick 2",
       "edition": "Noche",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "numbers": [
-        "07",
+        "04",
         "08",
-        "09"
+        "08"
       ],
       "provider_id": "florida",
       "game_id": "pick-2",
@@ -470,12 +470,12 @@
       "provider": "Florida",
       "game": "Pick 3",
       "edition": "Noche",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "numbers": [
+        "00",
         "09",
-        "08",
-        "01",
-        "09"
+        "07",
+        "08"
       ],
       "provider_id": "florida",
       "game_id": "pick-3",
@@ -501,13 +501,13 @@
       "provider": "Florida",
       "game": "Pick 4",
       "edition": "Noche",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "numbers": [
-        "07",
+        "09",
+        "01",
+        "01",
         "00",
-        "03",
-        "00",
-        "09"
+        "08"
       ],
       "provider_id": "florida",
       "game_id": "pick-4",
@@ -953,13 +953,13 @@
       "provider": "Loteka",
       "game": "Mega Chances",
       "edition": null,
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "numbers": [
-        "58",
-        "63",
-        "62",
-        "44",
-        "20"
+        "28",
+        "73",
+        "15",
+        "69",
+        "26"
       ],
       "provider_id": "loteka",
       "game_id": "mega-chances",
@@ -969,9 +969,9 @@
       "provider": "Loteka",
       "game": "Mega Chances Repartidera",
       "edition": null,
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "numbers": [
-        "38"
+        "59"
       ],
       "provider_id": "loteka",
       "game_id": "mega-chances-repartidera",
@@ -1000,10 +1000,10 @@
       "provider": "Loteka",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "numbers": [
-        "93",
-        "87",
+        "94",
+        "03",
         "43"
       ],
       "provider_id": "loteka",
@@ -1014,11 +1014,11 @@
       "provider": "Loteka",
       "game": "Toca 3",
       "edition": null,
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "numbers": [
-        "03",
-        "04",
-        "01"
+        "06",
+        "06",
+        "05"
       ],
       "provider_id": "loteka",
       "game_id": "toca-3",
@@ -1118,12 +1118,12 @@
       "provider": "Lotería Real",
       "game": "Loto Pool",
       "edition": "Noche",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "numbers": [
-        "07",
-        "65",
-        "09",
-        "29"
+        "51",
+        "89",
+        "94",
+        "27"
       ],
       "provider_id": "loteria-real",
       "game_id": "loto-pool",
