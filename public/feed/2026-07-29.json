@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-07-29T21:58:59.345790Z",
+  "last_updated": "2026-07-29T23:04:35.517056Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -200,11 +200,11 @@
       "provider": "Anguila",
       "game": "Anguila 6:00 PM",
       "edition": null,
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "numbers": [
-        "37",
-        "97",
-        "59"
+        "98",
+        "23",
+        "00"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-6-00-pm",
@@ -214,11 +214,11 @@
       "provider": "Anguila",
       "game": "Anguila 7:00 PM",
       "edition": null,
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "numbers": [
-        "79",
-        "43",
-        "48"
+        "44",
+        "45",
+        "83"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-7-00-pm",
@@ -314,12 +314,12 @@
       "provider": "Anguila",
       "game": "La Cuarteta 6:00 PM",
       "edition": null,
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "numbers": [
-        "55",
-        "57",
-        "80",
-        "05"
+        "46",
+        "68",
+        "00",
+        "78"
       ],
       "provider_id": "anguila",
       "game_id": "la-cuarteta-6-00-pm",
@@ -707,9 +707,9 @@
       "provider": "La Primera",
       "game": "El Quinielón",
       "edition": "Noche",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "numbers": [
-        "40"
+        "58"
       ],
       "provider_id": "la-primera",
       "game_id": "el-quinielon",
@@ -719,14 +719,14 @@
       "provider": "La Primera",
       "game": "Loto 5",
       "edition": null,
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "numbers": [
-        "33",
-        "23",
-        "02",
-        "19",
-        "28",
-        "02"
+        "01",
+        "15",
+        "03",
+        "11",
+        "12",
+        "05"
       ],
       "provider_id": "la-primera",
       "game_id": "loto-5",
@@ -778,11 +778,11 @@
       "provider": "La Suerte Dominicana",
       "game": "La Suerte",
       "edition": "Tarde",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "numbers": [
-        "81",
-        "79",
-        "39"
+        "52",
+        "71",
+        "45"
       ],
       "provider_id": "la-suerte-dominicana",
       "game_id": "la-suerte",
