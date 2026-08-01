@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-08-01T18:43:02.495964Z",
+  "last_updated": "2026-08-01T19:17:56.974651Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -158,11 +158,11 @@
       "provider": "Anguila",
       "game": "Anguila 3:00 PM",
       "edition": null,
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "numbers": [
-        "38",
-        "63",
-        "82"
+        "48",
+        "28",
+        "80"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-3-00-pm",
@@ -1046,7 +1046,8 @@
       "date": "2026-08-01",
       "numbers": [
         "69",
-        "45"
+        "45",
+        "88"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "gana-mas",
