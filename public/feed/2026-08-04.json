@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-08-04T12:01:18.843836Z",
+  "last_updated": "2026-08-04T15:25:24.597799Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -88,11 +88,11 @@
       "provider": "Anguila",
       "game": "Anguila 10:00 AM",
       "edition": null,
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "numbers": [
-        "24",
-        "92",
-        "80"
+        "88",
+        "55",
+        "23"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-10-00-am",
@@ -116,11 +116,11 @@
       "provider": "Anguila",
       "game": "Anguila 11:00 AM",
       "edition": null,
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "numbers": [
-        "27",
-        "95",
-        "36"
+        "87",
+        "69",
+        "56"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-11-00-am",
@@ -231,7 +231,8 @@
       "date": "2026-08-04",
       "numbers": [
         "02",
-        "84"
+        "84",
+        "08"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-8-00-am",
@@ -255,11 +256,11 @@
       "provider": "Anguila",
       "game": "Anguila 9:00 AM",
       "edition": null,
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "numbers": [
-        "61",
-        "07",
-        "19"
+        "20",
+        "57",
+        "34"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-9-00-am",
@@ -298,12 +299,12 @@
       "provider": "Anguila",
       "game": "La Cuarteta 10:00 AM",
       "edition": null,
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "numbers": [
-        "80",
-        "78",
-        "95",
-        "56"
+        "06",
+        "83",
+        "51",
+        "35"
       ],
       "provider_id": "anguila",
       "game_id": "la-cuarteta-10-00-am",
@@ -1224,6 +1225,23 @@
       "provider_id": "loteria-real",
       "game_id": "tu-fecha-real",
       "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/y0Gb0LP8NzbN69oiZiH-8.png"
+    },
+    {
+      "provider": "New York",
+      "game": "Millionaire For Life",
+      "edition": null,
+      "date": "2026-08-03",
+      "numbers": [
+        "06",
+        "07",
+        "17",
+        "44",
+        "46",
+        "02"
+      ],
+      "provider_id": "new-york",
+      "game_id": "millionaire-for-life",
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/07/14/0c3EyeB5_oWjVlpiYK1xA.png"
     },
     {
       "provider": "New York",
