@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-08-05T15:15:36.200503Z",
+  "last_updated": "2026-08-05T16:00:21.147563Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -110,7 +110,7 @@
       ],
       "provider_id": "anguila",
       "game_id": "anguila-10-00-pm",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/07/10/jOl9QpYkOejaXXldWSosb.png"
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/08/05/s1PuqWPsPPEcrNDC8_4GP.png"
     },
     {
       "provider": "Anguila",
@@ -124,21 +124,19 @@
       ],
       "provider_id": "anguila",
       "game_id": "anguila-11-00-am",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/06/26/Wp4GoF_18p1yHNbq-dyev.webp"
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/08/05/zIMvump7QH6TWZpfd5Ti7.png"
     },
     {
       "provider": "Anguila",
       "game": "Anguila 12:00 PM",
       "edition": null,
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "numbers": [
-        "33",
-        "74",
-        "79"
+        "35"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-12-00-pm",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/06/26/gnmxacEoomZkBDkyYxowz.webp"
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/08/05/dMEUIMpc9o4iNyKIZG8ie.png"
     },
     {
       "provider": "Anguila",
@@ -152,7 +150,7 @@
       ],
       "provider_id": "anguila",
       "game_id": "anguila-2-00-pm",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/06/26/e4dTQZjsctoucP0wsGJnY.webp"
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/08/05/CXfXTbrCQpVQM1sr_sA84.png"
     },
     {
       "provider": "Anguila",
@@ -166,7 +164,7 @@
       ],
       "provider_id": "anguila",
       "game_id": "anguila-3-00-pm",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/06/26/UPsMrjwUdaGK7dAQ9dtUU.webp"
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/08/05/ndWV3om1VcGSAbQF5GlaW.png"
     },
     {
       "provider": "Anguila",
@@ -180,7 +178,7 @@
       ],
       "provider_id": "anguila",
       "game_id": "anguila-4-00-pm",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/07/10/LkLKvPr1KzDE0pGgdy2NG.png"
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/08/05/9ObJoa0f8-lN-j31-8M_x.png"
     },
     {
       "provider": "Anguila",
@@ -194,7 +192,7 @@
       ],
       "provider_id": "anguila",
       "game_id": "anguila-5-00-pm",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/07/10/ysw5c6NuxbmXMf67ZXRMS.png"
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/08/05/GnqM2vTktdtj0kAYmCLKN.png"
     },
     {
       "provider": "Anguila",
@@ -222,7 +220,7 @@
       ],
       "provider_id": "anguila",
       "game_id": "anguila-7-00-pm",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/07/10/T8uVL_D0_mdg6SZTo6vb_.png"
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/08/05/yDa4Jkh85F_3ECBsnZoVj.png"
     },
     {
       "provider": "Anguila",
@@ -236,7 +234,7 @@
       ],
       "provider_id": "anguila",
       "game_id": "anguila-8-00-am",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/07/10/1JTtOkER8R1_8a2wQykEq.png"
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/08/05/LBWSfYn71Ob4n0c8-ZK-q.png"
     },
     {
       "provider": "Anguila",
@@ -250,7 +248,7 @@
       ],
       "provider_id": "anguila",
       "game_id": "anguila-8-00-pm",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/07/10/VKiYcAuCCnMDBjvwwIiyY.png"
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/08/05/T6yPBB0kNb_Z_vHj6kjUS.png"
     },
     {
       "provider": "Anguila",
@@ -264,7 +262,7 @@
       ],
       "provider_id": "anguila",
       "game_id": "anguila-9-00-am",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/06/26/KxozGWn6nMBQvpLNqwn7V.webp"
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/08/05/5lxvjD5cHRYzQRQ-Q_kI5.png"
     },
     {
       "provider": "Anguila",
