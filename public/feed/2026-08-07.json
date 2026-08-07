@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-08-07T02:03:41.637005Z",
+  "last_updated": "2026-08-07T04:30:44.942376Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -360,13 +360,13 @@
       "provider": "Florida",
       "game": "Fantasy 5",
       "edition": "Noche",
-      "date": "2026-08-05",
+      "date": "2026-08-06",
       "numbers": [
-        "13",
-        "26",
-        "33",
-        "08",
-        "03"
+        "34",
+        "36",
+        "17",
+        "20",
+        "24"
       ],
       "provider_id": "florida",
       "game_id": "fantasy-5",
@@ -1230,14 +1230,14 @@
       "provider": "New York",
       "game": "Millionaire For Life",
       "edition": null,
-      "date": "2026-08-03",
+      "date": "2026-08-06",
       "numbers": [
-        "06",
         "07",
-        "17",
-        "44",
-        "46",
-        "02"
+        "20",
+        "42",
+        "48",
+        "51",
+        "03"
       ],
       "provider_id": "new-york",
       "game_id": "millionaire-for-life",
@@ -1279,11 +1279,11 @@
       "provider": "New York",
       "game": "Numbers",
       "edition": "Noche",
-      "date": "2026-08-05",
+      "date": "2026-08-06",
       "numbers": [
         "04",
-        "09",
-        "01"
+        "00",
+        "08"
       ],
       "provider_id": "new-york",
       "game_id": "numbers",
@@ -1309,13 +1309,13 @@
       "provider": "New York",
       "game": "Take 5",
       "edition": "Noche",
-      "date": "2026-08-05",
+      "date": "2026-08-06",
       "numbers": [
-        "30",
-        "17",
-        "03",
-        "29",
-        "16"
+        "07",
+        "38",
+        "37",
+        "26",
+        "31"
       ],
       "provider_id": "new-york",
       "game_id": "take-5",
@@ -1340,12 +1340,12 @@
       "provider": "New York",
       "game": "Win 4",
       "edition": "Noche",
-      "date": "2026-08-05",
+      "date": "2026-08-06",
       "numbers": [
-        "08",
-        "05",
+        "06",
+        "01",
         "04",
-        "09"
+        "08"
       ],
       "provider_id": "new-york",
       "game_id": "win-4",
