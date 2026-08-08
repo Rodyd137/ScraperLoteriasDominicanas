@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-08-08T16:14:34.327349Z",
+  "last_updated": "2026-08-08T16:52:50.791625Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -551,11 +551,11 @@
       "provider": "King Lottery",
       "game": "King Lottery",
       "edition": "Día",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "numbers": [
-        "32",
-        "90",
-        "83"
+        "75",
+        "24",
+        "21"
       ],
       "provider_id": "king-lottery",
       "game_id": "king-lottery",
@@ -579,12 +579,12 @@
       "provider": "King Lottery",
       "game": "Loto Pool",
       "edition": "Día",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "numbers": [
-        "46",
-        "28",
-        "58",
-        "21"
+        "72",
+        "51",
+        "67",
+        "16"
       ],
       "provider_id": "king-lottery",
       "game_id": "loto-pool",
@@ -609,11 +609,11 @@
       "provider": "King Lottery",
       "game": "Philipsburg",
       "edition": "Día",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "numbers": [
-        "8962",
-        "8523",
-        "1898"
+        "8034",
+        "6944",
+        "6504"
       ],
       "provider_id": "king-lottery",
       "game_id": "philipsburg",
@@ -637,11 +637,11 @@
       "provider": "King Lottery",
       "game": "Pick 3",
       "edition": "Día",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "numbers": [
-        "01",
-        "03",
-        "02"
+        "06",
+        "07",
+        "05"
       ],
       "provider_id": "king-lottery",
       "game_id": "pick-3",
@@ -665,12 +665,12 @@
       "provider": "King Lottery",
       "game": "Pick 4",
       "edition": "Día",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "numbers": [
-        "09",
-        "00",
-        "08",
-        "03"
+        "02",
+        "04",
+        "02",
+        "01"
       ],
       "provider_id": "king-lottery",
       "game_id": "pick-4",
@@ -764,11 +764,11 @@
       "provider": "La Suerte Dominicana",
       "game": "La Suerte",
       "edition": "Día",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "numbers": [
-        "51",
-        "54",
-        "57"
+        "27",
+        "04",
+        "29"
       ],
       "provider_id": "la-suerte-dominicana",
       "game_id": "la-suerte",
