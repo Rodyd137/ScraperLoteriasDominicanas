@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-08-09T19:24:56.413590Z",
+  "last_updated": "2026-08-09T19:58:45.996130Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -811,13 +811,13 @@
       "provider": "Leidsa",
       "game": "Loto Pool",
       "edition": null,
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "numbers": [
-        "27",
-        "01",
-        "10",
-        "13",
-        "21"
+        "18",
+        "14",
+        "05",
+        "21",
+        "15"
       ],
       "provider_id": "leidsa",
       "game_id": "loto-pool",
@@ -827,11 +827,11 @@
       "provider": "Leidsa",
       "game": "Pega 3 Más",
       "edition": null,
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "numbers": [
-        "39",
-        "45",
-        "22"
+        "19",
+        "33",
+        "08"
       ],
       "provider_id": "leidsa",
       "game_id": "pega-3-mas",
