@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-08-08T23:56:25.932533Z",
+  "last_updated": "2026-08-09T00:51:39.931556Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -242,11 +242,11 @@
       "provider": "Anguila",
       "game": "Anguila 8:00 PM",
       "edition": null,
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "numbers": [
-        "00",
-        "53",
-        "79"
+        "44",
+        "22",
+        "49"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-8-00-pm",
@@ -953,13 +953,13 @@
       "provider": "Loteka",
       "game": "Mega Chances",
       "edition": null,
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "numbers": [
+        "11",
+        "79",
+        "71",
         "86",
-        "13",
-        "14",
-        "08",
-        "91"
+        "56"
       ],
       "provider_id": "loteka",
       "game_id": "mega-chances",
@@ -969,9 +969,9 @@
       "provider": "Loteka",
       "game": "Mega Chances Repartidera",
       "edition": null,
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "numbers": [
-        "83"
+        "80"
       ],
       "provider_id": "loteka",
       "game_id": "mega-chances-repartidera",
@@ -1000,11 +1000,11 @@
       "provider": "Loteka",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "numbers": [
-        "67",
-        "17",
-        "38"
+        "54",
+        "58",
+        "19"
       ],
       "provider_id": "loteka",
       "game_id": "quiniela",
@@ -1014,11 +1014,11 @@
       "provider": "Loteka",
       "game": "Toca 3",
       "edition": null,
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "numbers": [
-        "05",
-        "01",
-        "01"
+        "00",
+        "03",
+        "04"
       ],
       "provider_id": "loteka",
       "game_id": "toca-3",
@@ -1087,13 +1087,13 @@
       "provider": "Lotería Real",
       "game": "Chance Real",
       "edition": null,
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "numbers": [
-        "10",
-        "53",
         "85",
-        "82",
-        "28"
+        "55",
+        "16",
+        "23",
+        "14"
       ],
       "provider_id": "loteria-real",
       "game_id": "chance-real",
@@ -1118,12 +1118,12 @@
       "provider": "Lotería Real",
       "game": "Loto Pool",
       "edition": "Noche",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "numbers": [
-        "07",
-        "28",
-        "43",
-        "12"
+        "27",
+        "86",
+        "04",
+        "44"
       ],
       "provider_id": "loteria-real",
       "game_id": "loto-pool",
@@ -1193,9 +1193,9 @@
       "provider": "Lotería Real",
       "game": "Repartidera Real",
       "edition": null,
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "numbers": [
-        "38"
+        "03"
       ],
       "provider_id": "loteria-real",
       "game_id": "repartidera-real",
@@ -1247,15 +1247,15 @@
       "provider": "New York",
       "game": "New York Lotto",
       "edition": null,
-      "date": "2026-08-05",
+      "date": "2026-08-08",
       "numbers": [
-        "53",
-        "09",
+        "35",
+        "24",
         "02",
-        "42",
-        "38",
-        "30",
-        "10"
+        "26",
+        "09",
+        "28",
+        "42"
       ],
       "provider_id": "new-york",
       "game_id": "new-york-lotto",
