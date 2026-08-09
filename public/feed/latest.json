@@ -1,75 +1,7 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-08-09T21:29:20.747409Z",
+  "last_updated": "2026-08-09T22:28:43.322893Z",
   "draws": [
-    {
-      "provider": "Americanas",
-      "game": "Cash 4 Life",
-      "edition": null,
-      "date": "2026-02-21",
-      "numbers": [
-        "25",
-        "52",
-        "20",
-        "55",
-        "30",
-        "04"
-      ],
-      "provider_id": "americanas",
-      "game_id": "cash-4-life",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/Apdk6Mt7vLltNur3vfYuV.png"
-    },
-    {
-      "provider": "Americanas",
-      "game": "Mega Millions",
-      "edition": null,
-      "date": "2026-08-07",
-      "numbers": [
-        "32",
-        "57",
-        "54",
-        "20",
-        "17",
-        "23"
-      ],
-      "provider_id": "americanas",
-      "game_id": "mega-millions",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/O9R_OrQqkUE_VV9exgs8K.png"
-    },
-    {
-      "provider": "Americanas",
-      "game": "PowerBall",
-      "edition": null,
-      "date": "2026-08-08",
-      "numbers": [
-        "63",
-        "09",
-        "54",
-        "05",
-        "35",
-        "07"
-      ],
-      "provider_id": "americanas",
-      "game_id": "powerball",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/G0J6youQz_BWDus4VZ75G.png"
-    },
-    {
-      "provider": "Americanas",
-      "game": "PowerBall Double Play",
-      "edition": null,
-      "date": "2026-08-08",
-      "numbers": [
-        "46",
-        "29",
-        "14",
-        "55",
-        "59",
-        "16"
-      ],
-      "provider_id": "americanas",
-      "game_id": "powerball-double-play",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/F1zuJGoJVHX8t0vmYt6iG.png"
-    },
     {
       "provider": "Anguila",
       "game": "Anguila 1:00 PM",
@@ -200,11 +132,11 @@
       "provider": "Anguila",
       "game": "Anguila 6:00 PM",
       "edition": null,
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "numbers": [
-        "39",
-        "53",
-        "47"
+        "74",
+        "94",
+        "57"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-6-00-pm",
@@ -314,12 +246,12 @@
       "provider": "Anguila",
       "game": "La Cuarteta 6:00 PM",
       "edition": null,
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "numbers": [
-        "15",
-        "79",
-        "74",
-        "01"
+        "12",
+        "22",
+        "85",
+        "72"
       ],
       "provider_id": "anguila",
       "game_id": "la-cuarteta-6-00-pm",
@@ -548,150 +480,6 @@
       "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/0nIHDm90fY5BJ7Eb8Gihu.png"
     },
     {
-      "provider": "King Lottery",
-      "game": "King Lottery",
-      "edition": "Día",
-      "date": "2026-08-09",
-      "numbers": [
-        "99",
-        "95",
-        "29"
-      ],
-      "provider_id": "king-lottery",
-      "game_id": "king-lottery",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/b2dwqagLLzJ0c59YRteWB.png"
-    },
-    {
-      "provider": "King Lottery",
-      "game": "King Lottery",
-      "edition": "Noche",
-      "date": "2026-08-08",
-      "numbers": [
-        "98",
-        "16",
-        "71"
-      ],
-      "provider_id": "king-lottery",
-      "game_id": "king-lottery",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/Lt0AsGpSIjRio6aJhUPeq.png"
-    },
-    {
-      "provider": "King Lottery",
-      "game": "Loto Pool",
-      "edition": "Día",
-      "date": "2026-08-09",
-      "numbers": [
-        "08",
-        "74",
-        "25",
-        "85"
-      ],
-      "provider_id": "king-lottery",
-      "game_id": "loto-pool",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/fQLQIHmded6zi65FLSiRp.png"
-    },
-    {
-      "provider": "King Lottery",
-      "game": "Loto Pool",
-      "edition": "Noche",
-      "date": "2026-08-08",
-      "numbers": [
-        "39",
-        "17",
-        "29",
-        "84"
-      ],
-      "provider_id": "king-lottery",
-      "game_id": "loto-pool",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/D4gqLsy7GB5O-HRTanp_q.png"
-    },
-    {
-      "provider": "King Lottery",
-      "game": "Philipsburg",
-      "edition": "Día",
-      "date": "2026-08-09",
-      "numbers": [
-        "7865",
-        "0672",
-        "7911"
-      ],
-      "provider_id": "king-lottery",
-      "game_id": "philipsburg",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/d9rpsf5tdA5b3GHxWdJnt.png"
-    },
-    {
-      "provider": "King Lottery",
-      "game": "Philipsburg",
-      "edition": "Noche",
-      "date": "2026-08-08",
-      "numbers": [
-        "1860",
-        "5140",
-        "4859"
-      ],
-      "provider_id": "king-lottery",
-      "game_id": "philipsburg",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/-RFomjmG791z3Cu9ziF_B.png"
-    },
-    {
-      "provider": "King Lottery",
-      "game": "Pick 3",
-      "edition": "Día",
-      "date": "2026-08-09",
-      "numbers": [
-        "06",
-        "09",
-        "09"
-      ],
-      "provider_id": "king-lottery",
-      "game_id": "pick-3",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/cMc7tkYQqHh5PTPMm5BtQ.png"
-    },
-    {
-      "provider": "King Lottery",
-      "game": "Pick 3",
-      "edition": "Noche",
-      "date": "2026-08-08",
-      "numbers": [
-        "02",
-        "09",
-        "08"
-      ],
-      "provider_id": "king-lottery",
-      "game_id": "pick-3",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/VxN9wn-nSWGw-sR-dwegd.png"
-    },
-    {
-      "provider": "King Lottery",
-      "game": "Pick 4",
-      "edition": "Día",
-      "date": "2026-08-09",
-      "numbers": [
-        "09",
-        "05",
-        "02",
-        "09"
-      ],
-      "provider_id": "king-lottery",
-      "game_id": "pick-4",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/adhwqFxtDyBdfT1Z2B70L.png"
-    },
-    {
-      "provider": "King Lottery",
-      "game": "Pick 4",
-      "edition": "Noche",
-      "date": "2026-08-08",
-      "numbers": [
-        "01",
-        "06",
-        "07",
-        "01"
-      ],
-      "provider_id": "king-lottery",
-      "game_id": "pick-4",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/nb_2OtzC5boF0cpFbQisd.png"
-    },
-    {
       "provider": "La Primera",
       "game": "El Quinielón",
       "edition": "Día",
@@ -778,11 +566,11 @@
       "provider": "La Suerte Dominicana",
       "game": "La Suerte",
       "edition": "Tarde",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "numbers": [
-        "79",
-        "35",
-        "24"
+        "91",
+        "51",
+        "81"
       ],
       "provider_id": "la-suerte-dominicana",
       "game_id": "la-suerte",
@@ -886,10 +674,10 @@
       "provider": "Leidsa",
       "game": "Súper Palé",
       "edition": null,
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "numbers": [
-        "88",
-        "30"
+        "11",
+        "39"
       ],
       "provider_id": "leidsa",
       "game_id": "super-pale",
@@ -1028,12 +816,11 @@
       "provider": "Lotería Nacional",
       "game": "Billetes Domingo",
       "edition": null,
-      "date": "2026-07-26",
+      "date": "2026-08-09",
       "numbers": [
-        "052457",
-        "03",
-        "066193",
-        "008665"
+        "1181399",
+        "020498",
+        "074737"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "billetes-domingo",
@@ -1073,11 +860,11 @@
       "provider": "Lotería Nacional",
       "game": "Lotería Nacional",
       "edition": null,
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "numbers": [
-        "30",
-        "32",
-        "41"
+        "39",
+        "98",
+        "37"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "loteria-nacional",
