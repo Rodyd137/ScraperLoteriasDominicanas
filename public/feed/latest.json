@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-08-10T00:01:13.678053Z",
+  "last_updated": "2026-08-10T00:53:45.382933Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -953,13 +953,13 @@
       "provider": "Loteka",
       "game": "Mega Chances",
       "edition": null,
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "numbers": [
-        "11",
-        "79",
-        "71",
-        "86",
-        "56"
+        "14",
+        "23",
+        "59",
+        "97",
+        "83"
       ],
       "provider_id": "loteka",
       "game_id": "mega-chances",
@@ -969,9 +969,9 @@
       "provider": "Loteka",
       "game": "Mega Chances Repartidera",
       "edition": null,
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "numbers": [
-        "80"
+        "36"
       ],
       "provider_id": "loteka",
       "game_id": "mega-chances-repartidera",
@@ -1000,11 +1000,11 @@
       "provider": "Loteka",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "numbers": [
-        "54",
-        "58",
-        "19"
+        "77",
+        "34",
+        "03"
       ],
       "provider_id": "loteka",
       "game_id": "quiniela",
@@ -1014,11 +1014,11 @@
       "provider": "Loteka",
       "game": "Toca 3",
       "edition": null,
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "numbers": [
-        "00",
-        "03",
-        "04"
+        "04",
+        "08",
+        "01"
       ],
       "provider_id": "loteka",
       "game_id": "toca-3",
