@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-08-11T00:04:09.739325Z",
+  "last_updated": "2026-08-11T00:52:45.983251Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -953,13 +953,13 @@
       "provider": "Loteka",
       "game": "Mega Chances",
       "edition": null,
-      "date": "2026-08-09",
+      "date": "2026-08-10",
       "numbers": [
-        "14",
-        "23",
+        "74",
+        "77",
+        "48",
         "59",
-        "97",
-        "83"
+        "09"
       ],
       "provider_id": "loteka",
       "game_id": "mega-chances",
@@ -969,9 +969,9 @@
       "provider": "Loteka",
       "game": "Mega Chances Repartidera",
       "edition": null,
-      "date": "2026-08-09",
+      "date": "2026-08-10",
       "numbers": [
-        "36"
+        "28"
       ],
       "provider_id": "loteka",
       "game_id": "mega-chances-repartidera",
@@ -981,16 +981,16 @@
       "provider": "Loteka",
       "game": "MegaLotto",
       "edition": null,
-      "date": "2026-08-06",
+      "date": "2026-08-10",
       "numbers": [
-        "08",
-        "11",
-        "07",
-        "14",
-        "21",
-        "17",
-        "10",
-        "07"
+        "09",
+        "16",
+        "31",
+        "05",
+        "25",
+        "06",
+        "01",
+        "02"
       ],
       "provider_id": "loteka",
       "game_id": "megalotto",
@@ -1000,11 +1000,11 @@
       "provider": "Loteka",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-08-09",
+      "date": "2026-08-10",
       "numbers": [
-        "77",
-        "34",
-        "03"
+        "79",
+        "18",
+        "84"
       ],
       "provider_id": "loteka",
       "game_id": "quiniela",
@@ -1014,11 +1014,11 @@
       "provider": "Loteka",
       "game": "Toca 3",
       "edition": null,
-      "date": "2026-08-09",
+      "date": "2026-08-10",
       "numbers": [
-        "04",
-        "08",
-        "01"
+        "05",
+        "07",
+        "06"
       ],
       "provider_id": "loteka",
       "game_id": "toca-3",
