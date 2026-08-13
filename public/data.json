@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-08-13T11:54:22.404223Z",
+  "last_updated": "2026-08-13T13:06:29.028602Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -228,11 +228,11 @@
       "provider": "Anguila",
       "game": "Anguila 8:00  AM",
       "edition": null,
-      "date": "2026-08-12",
+      "date": "2026-08-13",
       "numbers": [
-        "22",
-        "28",
-        "28"
+        "34",
+        "25",
+        "24"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-8-00-am",
@@ -256,11 +256,11 @@
       "provider": "Anguila",
       "game": "Anguila 9:00 AM",
       "edition": null,
-      "date": "2026-08-12",
+      "date": "2026-08-13",
       "numbers": [
-        "51",
-        "19",
-        "82"
+        "12",
+        "76",
+        "47"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-9-00-am",
