@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-08-13T03:28:54.878283Z",
+  "last_updated": "2026-08-13T05:17:05.182673Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -57,14 +57,14 @@
       "provider": "Americanas",
       "game": "PowerBall Double Play",
       "edition": null,
-      "date": "2026-08-10",
+      "date": "2026-08-12",
       "numbers": [
-        "31",
+        "19",
+        "03",
+        "58",
         "04",
-        "32",
-        "57",
-        "23",
-        "23"
+        "21",
+        "08"
       ],
       "provider_id": "americanas",
       "game_id": "powerball-double-play",
