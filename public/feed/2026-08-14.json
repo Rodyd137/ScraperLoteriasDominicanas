@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-08-14T15:43:20.702942Z",
+  "last_updated": "2026-08-14T16:32:24.215127Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -130,11 +130,11 @@
       "provider": "Anguila",
       "game": "Anguila 12:00 PM",
       "edition": null,
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "numbers": [
-        "59",
-        "03",
-        "24"
+        "89",
+        "36",
+        "34"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-12-00-pm",
@@ -579,12 +579,12 @@
       "provider": "King Lottery",
       "game": "Loto Pool",
       "edition": "Día",
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "numbers": [
-        "32",
-        "47",
-        "20",
-        "69"
+        "33",
+        "16",
+        "87",
+        "98"
       ],
       "provider_id": "king-lottery",
       "game_id": "loto-pool",
@@ -637,11 +637,11 @@
       "provider": "King Lottery",
       "game": "Pick 3",
       "edition": "Día",
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "numbers": [
-        "01",
+        "03",
         "06",
-        "08"
+        "05"
       ],
       "provider_id": "king-lottery",
       "game_id": "pick-3",
@@ -695,9 +695,9 @@
       "provider": "La Primera",
       "game": "El Quinielón",
       "edition": "Día",
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "numbers": [
-        "17"
+        "75"
       ],
       "provider_id": "la-primera",
       "game_id": "el-quinielon",
@@ -736,11 +736,11 @@
       "provider": "La Primera",
       "game": "Quiniela",
       "edition": "Medio Día",
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "numbers": [
-        "19",
-        "83",
-        "99"
+        "32",
+        "00",
+        "04"
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela",
@@ -899,12 +899,12 @@
       "provider": "LoteDom",
       "game": "Agarra 4",
       "edition": null,
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "numbers": [
-        "99",
-        "81",
-        "11",
-        "79"
+        "30",
+        "74",
+        "09",
+        "16"
       ],
       "provider_id": "lotedom",
       "game_id": "agarra-4",
@@ -914,9 +914,9 @@
       "provider": "LoteDom",
       "game": "El Quemaito Mayor",
       "edition": null,
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "numbers": [
-        "79"
+        "16"
       ],
       "provider_id": "lotedom",
       "game_id": "el-quemaito-mayor",
@@ -926,11 +926,11 @@
       "provider": "LoteDom",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "numbers": [
-        "99",
-        "81",
-        "11"
+        "30",
+        "74",
+        "09"
       ],
       "provider_id": "lotedom",
       "game_id": "quiniela",
@@ -940,10 +940,10 @@
       "provider": "LoteDom",
       "game": "Súper Palé",
       "edition": null,
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "numbers": [
-        "99",
-        "79"
+        "30",
+        "16"
       ],
       "provider_id": "lotedom",
       "game_id": "super-pale",
