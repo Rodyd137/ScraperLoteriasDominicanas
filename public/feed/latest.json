@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-08-14T23:42:47.665923Z",
+  "last_updated": "2026-08-15T00:01:20.907809Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -242,11 +242,11 @@
       "provider": "Anguila",
       "game": "Anguila 8:00 PM",
       "edition": null,
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "numbers": [
-        "41",
-        "72",
-        "81"
+        "35",
+        "27",
+        "05"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-8-00-pm",
@@ -1086,13 +1086,13 @@
       "provider": "Lotería Real",
       "game": "Chance Real",
       "edition": null,
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "numbers": [
-        "14",
-        "51",
-        "56",
-        "90",
-        "16"
+        "32",
+        "13",
+        "10",
+        "91",
+        "33"
       ],
       "provider_id": "loteria-real",
       "game_id": "chance-real",
@@ -1117,12 +1117,12 @@
       "provider": "Lotería Real",
       "game": "Loto Pool",
       "edition": "Noche",
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "numbers": [
-        "86",
-        "10",
-        "02",
-        "64"
+        "44",
+        "37",
+        "17",
+        "78"
       ],
       "provider_id": "loteria-real",
       "game_id": "loto-pool",
@@ -1132,14 +1132,14 @@
       "provider": "Lotería Real",
       "game": "Loto Real",
       "edition": null,
-      "date": "2026-08-11",
+      "date": "2026-08-14",
       "numbers": [
-        "34",
-        "09",
-        "04",
-        "03",
-        "12",
-        "31"
+        "25",
+        "05",
+        "07",
+        "18",
+        "31",
+        "35"
       ],
       "provider_id": "loteria-real",
       "game_id": "loto-real",
@@ -1192,9 +1192,9 @@
       "provider": "Lotería Real",
       "game": "Repartidera Real",
       "edition": null,
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "numbers": [
-        "87"
+        "00"
       ],
       "provider_id": "loteria-real",
       "game_id": "repartidera-real",
