@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-08-15T18:00:52.806979Z",
+  "last_updated": "2026-08-15T18:36:53.189032Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -147,7 +147,8 @@
       "date": "2026-08-15",
       "numbers": [
         "53",
-        "25"
+        "25",
+        "50"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-2-00-pm",
@@ -1055,13 +1056,12 @@
       "provider": "Lotería Nacional",
       "game": "Juega + Pega +",
       "edition": null,
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "numbers": [
-        "14",
         "25",
-        "05",
-        "06",
-        "21"
+        "01",
+        "09",
+        "01"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "juega-pega",
@@ -1263,11 +1263,11 @@
       "provider": "New York",
       "game": "Numbers",
       "edition": "Día",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "numbers": [
-        "08",
-        "08",
-        "00"
+        "05",
+        "02",
+        "03"
       ],
       "provider_id": "new-york",
       "game_id": "numbers",
@@ -1291,13 +1291,13 @@
       "provider": "New York",
       "game": "Take 5",
       "edition": "Día",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "numbers": [
-        "23",
-        "29",
-        "17",
-        "32",
-        "12"
+        "38",
+        "39",
+        "27",
+        "20",
+        "19"
       ],
       "provider_id": "new-york",
       "game_id": "take-5",
@@ -1323,11 +1323,11 @@
       "provider": "New York",
       "game": "Win 4",
       "edition": "Día",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "numbers": [
-        "02",
-        "08",
+        "00",
         "09",
+        "07",
         "04"
       ],
       "provider_id": "new-york",
