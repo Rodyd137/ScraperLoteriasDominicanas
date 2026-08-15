@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-08-15T03:32:03.992884Z",
+  "last_updated": "2026-08-15T04:05:26.060778Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -1229,14 +1229,14 @@
       "provider": "New York",
       "game": "Millionaire For Life",
       "edition": null,
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "numbers": [
-        "07",
-        "16",
-        "25",
+        "12",
+        "15",
+        "18",
+        "28",
         "35",
-        "42",
-        "02"
+        "03"
       ],
       "provider_id": "new-york",
       "game_id": "millionaire-for-life",
