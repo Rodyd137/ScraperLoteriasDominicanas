@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-08-16T03:09:29.272859Z",
+  "last_updated": "2026-08-16T03:56:00.084338Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -57,14 +57,14 @@
       "provider": "Americanas",
       "game": "PowerBall Double Play",
       "edition": null,
-      "date": "2026-08-12",
+      "date": "2026-08-15",
       "numbers": [
-        "19",
-        "03",
-        "58",
-        "04",
         "21",
-        "08"
+        "46",
+        "65",
+        "45",
+        "19",
+        "20"
       ],
       "provider_id": "americanas",
       "game_id": "powerball-double-play",
@@ -360,13 +360,13 @@
       "provider": "Florida",
       "game": "Fantasy 5",
       "edition": "Noche",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "numbers": [
-        "01",
+        "22",
         "06",
-        "03",
-        "07",
-        "15"
+        "19",
+        "24",
+        "14"
       ],
       "provider_id": "florida",
       "game_id": "fantasy-5",
@@ -376,14 +376,14 @@
       "provider": "Florida",
       "game": "Florida Lotto",
       "edition": null,
-      "date": "2026-08-12",
+      "date": "2026-08-15",
       "numbers": [
+        "09",
+        "14",
+        "32",
+        "21",
         "10",
-        "28",
-        "06",
-        "20",
-        "16",
-        "39"
+        "34"
       ],
       "provider_id": "florida",
       "game_id": "florida-lotto",
@@ -393,14 +393,14 @@
       "provider": "Florida",
       "game": "Florida Lotto Double Play",
       "edition": null,
-      "date": "2026-08-12",
+      "date": "2026-08-15",
       "numbers": [
-        "30",
-        "10",
-        "03",
-        "40",
-        "45",
-        "08"
+        "35",
+        "34",
+        "14",
+        "16",
+        "01",
+        "21"
       ],
       "provider_id": "florida",
       "game_id": "florida-lotto-double-play",
@@ -1229,14 +1229,14 @@
       "provider": "New York",
       "game": "Millionaire For Life",
       "edition": null,
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "numbers": [
         "12",
-        "15",
-        "18",
-        "28",
+        "13",
+        "26",
         "35",
-        "03"
+        "43",
+        "04"
       ],
       "provider_id": "new-york",
       "game_id": "millionaire-for-life",
