@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-08-16T02:08:54.049967Z",
+  "last_updated": "2026-08-16T03:09:29.272859Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -40,14 +40,14 @@
       "provider": "Americanas",
       "game": "PowerBall",
       "edition": null,
-      "date": "2026-08-12",
+      "date": "2026-08-15",
       "numbers": [
-        "26",
-        "67",
-        "69",
-        "66",
-        "04",
-        "09"
+        "29",
+        "63",
+        "08",
+        "27",
+        "05",
+        "13"
       ],
       "provider_id": "americanas",
       "game_id": "powerball",
@@ -1278,11 +1278,11 @@
       "provider": "New York",
       "game": "Numbers",
       "edition": "Noche",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "numbers": [
-        "00",
         "02",
-        "01"
+        "02",
+        "05"
       ],
       "provider_id": "new-york",
       "game_id": "numbers",
@@ -1308,13 +1308,13 @@
       "provider": "New York",
       "game": "Take 5",
       "edition": "Noche",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "numbers": [
-        "15",
-        "38",
-        "10",
-        "17",
-        "20"
+        "39",
+        "31",
+        "36",
+        "27",
+        "12"
       ],
       "provider_id": "new-york",
       "game_id": "take-5",
@@ -1339,12 +1339,12 @@
       "provider": "New York",
       "game": "Win 4",
       "edition": "Noche",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "numbers": [
-        "04",
-        "01",
-        "06",
-        "01"
+        "03",
+        "08",
+        "03",
+        "06"
       ],
       "provider_id": "new-york",
       "game_id": "win-4",
