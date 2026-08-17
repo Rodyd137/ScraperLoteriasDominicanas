@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-08-17T16:32:55.655061Z",
+  "last_updated": "2026-08-17T16:58:01.245485Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -551,11 +551,11 @@
       "provider": "King Lottery",
       "game": "King Lottery",
       "edition": "Día",
-      "date": "2026-08-16",
+      "date": "2026-08-17",
       "numbers": [
-        "35",
-        "42",
-        "07"
+        "93",
+        "31",
+        "80"
       ],
       "provider_id": "king-lottery",
       "game_id": "king-lottery",
@@ -609,11 +609,11 @@
       "provider": "King Lottery",
       "game": "Philipsburg",
       "edition": "Día",
-      "date": "2026-08-16",
+      "date": "2026-08-17",
       "numbers": [
-        "5771",
-        "9556",
-        "8989"
+        "3478",
+        "6563",
+        "0619"
       ],
       "provider_id": "king-lottery",
       "game_id": "philipsburg",
@@ -764,11 +764,11 @@
       "provider": "La Suerte Dominicana",
       "game": "La Suerte",
       "edition": "Día",
-      "date": "2026-08-16",
+      "date": "2026-08-17",
       "numbers": [
-        "65",
-        "38",
-        "63"
+        "37",
+        "92",
+        "74"
       ],
       "provider_id": "la-suerte-dominicana",
       "game_id": "la-suerte",
