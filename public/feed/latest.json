@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-08-18T20:01:39.808741Z",
+  "last_updated": "2026-08-18T20:35:30.614856Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -1096,7 +1096,7 @@
       ],
       "provider_id": "loteria-real",
       "game_id": "chance-real",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/20/nvZJfXy9CZd0ilT9AgpdT.png"
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/08/18/8rFg3P_6-CjwS4IzzEv2O.png"
     },
     {
       "provider": "Lotería Real",
@@ -1198,7 +1198,7 @@
       ],
       "provider_id": "loteria-real",
       "game_id": "repartidera-real",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/20/TbkNuGCNbRmZIxWRanpIM.png"
+      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/08/18/77v-_2WL9pa2fIZQmrNin.png"
     },
     {
       "provider": "Lotería Real",
