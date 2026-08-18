@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-08-18T23:42:11.784194Z",
+  "last_updated": "2026-08-18T23:59:07.865487Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -1086,13 +1086,13 @@
       "provider": "Lotería Real",
       "game": "Chance Real",
       "edition": null,
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "numbers": [
-        "86",
-        "98",
-        "50",
-        "83",
-        "91"
+        "46",
+        "81",
+        "87",
+        "06",
+        "12"
       ],
       "provider_id": "loteria-real",
       "game_id": "chance-real",
@@ -1117,12 +1117,12 @@
       "provider": "Lotería Real",
       "game": "Loto Pool",
       "edition": "Noche",
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "numbers": [
-        "02",
-        "49",
-        "83",
-        "07"
+        "56",
+        "70",
+        "18",
+        "17"
       ],
       "provider_id": "loteria-real",
       "game_id": "loto-pool",
@@ -1192,9 +1192,9 @@
       "provider": "Lotería Real",
       "game": "Repartidera Real",
       "edition": null,
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "numbers": [
-        "43"
+        "30"
       ],
       "provider_id": "loteria-real",
       "game_id": "repartidera-real",
