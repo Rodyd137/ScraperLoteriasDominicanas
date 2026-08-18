@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-08-18T00:00:19.556892Z",
+  "last_updated": "2026-08-18T00:35:10.197059Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -244,7 +244,9 @@
       "edition": null,
       "date": "2026-08-17",
       "numbers": [
-        "62"
+        "62",
+        "45",
+        "46"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-8-00-pm",
@@ -951,13 +953,13 @@
       "provider": "Loteka",
       "game": "Mega Chances",
       "edition": null,
-      "date": "2026-08-16",
+      "date": "2026-08-17",
       "numbers": [
+        "75",
         "76",
-        "92",
-        "98",
-        "11",
-        "01"
+        "63",
+        "66",
+        "75"
       ],
       "provider_id": "loteka",
       "game_id": "mega-chances",
@@ -967,9 +969,9 @@
       "provider": "Loteka",
       "game": "Mega Chances Repartidera",
       "edition": null,
-      "date": "2026-08-16",
+      "date": "2026-08-17",
       "numbers": [
-        "92"
+        "19"
       ],
       "provider_id": "loteka",
       "game_id": "mega-chances-repartidera",
@@ -979,16 +981,16 @@
       "provider": "Loteka",
       "game": "MegaLotto",
       "edition": null,
-      "date": "2026-08-13",
+      "date": "2026-08-17",
       "numbers": [
-        "24",
-        "30",
+        "37",
+        "17",
+        "09",
         "21",
-        "04",
-        "34",
-        "25",
-        "10",
-        "05"
+        "30",
+        "03",
+        "02",
+        "06"
       ],
       "provider_id": "loteka",
       "game_id": "megalotto",
@@ -998,11 +1000,11 @@
       "provider": "Loteka",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-08-16",
+      "date": "2026-08-17",
       "numbers": [
-        "25",
-        "39",
-        "78"
+        "90",
+        "40",
+        "19"
       ],
       "provider_id": "loteka",
       "game_id": "quiniela",
@@ -1012,11 +1014,11 @@
       "provider": "Loteka",
       "game": "Toca 3",
       "edition": null,
-      "date": "2026-08-16",
+      "date": "2026-08-17",
       "numbers": [
+        "02",
         "06",
-        "07",
-        "08"
+        "05"
       ],
       "provider_id": "loteka",
       "game_id": "toca-3",
