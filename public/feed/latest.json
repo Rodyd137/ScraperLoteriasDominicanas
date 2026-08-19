@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-08-19T23:21:32.608775Z",
+  "last_updated": "2026-08-19T23:43:12.317443Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -565,11 +565,11 @@
       "provider": "King Lottery",
       "game": "King Lottery",
       "edition": "Noche",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "numbers": [
-        "61",
-        "03",
-        "41"
+        "31",
+        "16",
+        "86"
       ],
       "provider_id": "king-lottery",
       "game_id": "king-lottery",
@@ -594,12 +594,12 @@
       "provider": "King Lottery",
       "game": "Loto Pool",
       "edition": "Noche",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "numbers": [
-        "41",
-        "95",
-        "67",
-        "61"
+        "30",
+        "22",
+        "99",
+        "04"
       ],
       "provider_id": "king-lottery",
       "game_id": "loto-pool",
@@ -623,11 +623,11 @@
       "provider": "King Lottery",
       "game": "Philipsburg",
       "edition": "Noche",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "numbers": [
-        "4282",
-        "6369",
-        "3521"
+        "7728",
+        "0196",
+        "5835"
       ],
       "provider_id": "king-lottery",
       "game_id": "philipsburg",
@@ -651,10 +651,10 @@
       "provider": "King Lottery",
       "game": "Pick 3",
       "edition": "Noche",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "numbers": [
-        "01",
-        "06",
+        "03",
+        "03",
         "01"
       ],
       "provider_id": "king-lottery",
@@ -680,12 +680,12 @@
       "provider": "King Lottery",
       "game": "Pick 4",
       "edition": "Noche",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "numbers": [
-        "00",
-        "03",
-        "04",
-        "01"
+        "01",
+        "06",
+        "08",
+        "06"
       ],
       "provider_id": "king-lottery",
       "game_id": "pick-4",
