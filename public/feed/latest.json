@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-08-20T00:00:59.825739Z",
+  "last_updated": "2026-08-20T00:35:28.067530Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -245,7 +245,8 @@
       "date": "2026-08-19",
       "numbers": [
         "85",
-        "28"
+        "28",
+        "13"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-8-00-pm",
@@ -952,13 +953,13 @@
       "provider": "Loteka",
       "game": "Mega Chances",
       "edition": null,
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "numbers": [
-        "05",
-        "47",
-        "54",
-        "04",
-        "35"
+        "15",
+        "71",
+        "59",
+        "39",
+        "77"
       ],
       "provider_id": "loteka",
       "game_id": "mega-chances",
@@ -968,9 +969,9 @@
       "provider": "Loteka",
       "game": "Mega Chances Repartidera",
       "edition": null,
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "numbers": [
-        "69"
+        "19"
       ],
       "provider_id": "loteka",
       "game_id": "mega-chances-repartidera",
@@ -999,11 +1000,11 @@
       "provider": "Loteka",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "numbers": [
-        "49",
-        "55",
-        "30"
+        "67",
+        "64",
+        "96"
       ],
       "provider_id": "loteka",
       "game_id": "quiniela",
@@ -1013,11 +1014,11 @@
       "provider": "Loteka",
       "game": "Toca 3",
       "edition": null,
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "numbers": [
-        "08",
-        "07",
-        "07"
+        "02",
+        "02",
+        "09"
       ],
       "provider_id": "loteka",
       "game_id": "toca-3",
@@ -1245,15 +1246,15 @@
       "provider": "New York",
       "game": "New York Lotto",
       "edition": null,
-      "date": "2026-08-15",
+      "date": "2026-08-19",
       "numbers": [
-        "06",
-        "07",
-        "23",
-        "25",
-        "37",
-        "36",
-        "32"
+        "22",
+        "52",
+        "29",
+        "18",
+        "16",
+        "19",
+        "43"
       ],
       "provider_id": "new-york",
       "game_id": "new-york-lotto",
