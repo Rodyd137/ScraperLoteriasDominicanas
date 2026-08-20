@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-08-20T03:05:02.909452Z",
+  "last_updated": "2026-08-20T03:53:20.247151Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -57,14 +57,14 @@
       "provider": "Americanas",
       "game": "PowerBall Double Play",
       "edition": null,
-      "date": "2026-08-17",
+      "date": "2026-08-19",
       "numbers": [
-        "13",
-        "34",
-        "45",
-        "39",
+        "18",
+        "38",
         "56",
-        "02"
+        "67",
+        "05",
+        "07"
       ],
       "provider_id": "americanas",
       "game_id": "powerball-double-play",
@@ -360,13 +360,13 @@
       "provider": "Florida",
       "game": "Fantasy 5",
       "edition": "Noche",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "numbers": [
-        "08",
-        "13",
+        "03",
+        "06",
         "10",
-        "30",
-        "11"
+        "36",
+        "20"
       ],
       "provider_id": "florida",
       "game_id": "fantasy-5",
@@ -376,14 +376,14 @@
       "provider": "Florida",
       "game": "Florida Lotto",
       "edition": null,
-      "date": "2026-08-15",
+      "date": "2026-08-19",
       "numbers": [
-        "09",
-        "14",
-        "32",
-        "21",
-        "10",
-        "34"
+        "30",
+        "01",
+        "47",
+        "16",
+        "17",
+        "46"
       ],
       "provider_id": "florida",
       "game_id": "florida-lotto",
@@ -393,14 +393,14 @@
       "provider": "Florida",
       "game": "Florida Lotto Double Play",
       "edition": null,
-      "date": "2026-08-15",
+      "date": "2026-08-19",
       "numbers": [
-        "35",
+        "22",
+        "45",
         "34",
-        "14",
-        "16",
-        "01",
-        "21"
+        "04",
+        "49",
+        "51"
       ],
       "provider_id": "florida",
       "game_id": "florida-lotto-double-play",
@@ -1229,13 +1229,13 @@
       "provider": "New York",
       "game": "Millionaire For Life",
       "edition": null,
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "numbers": [
-        "04",
-        "18",
-        "29",
-        "32",
-        "37",
+        "10",
+        "12",
+        "26",
+        "44",
+        "57",
         "04"
       ],
       "provider_id": "new-york",
