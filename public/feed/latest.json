@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-08-19T23:43:12.317443Z",
+  "last_updated": "2026-08-20T00:00:59.825739Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -242,11 +242,10 @@
       "provider": "Anguila",
       "game": "Anguila 8:00 PM",
       "edition": null,
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "numbers": [
-        "18",
-        "75",
-        "69"
+        "85",
+        "28"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-8-00-pm",
@@ -1086,13 +1085,13 @@
       "provider": "Lotería Real",
       "game": "Chance Real",
       "edition": null,
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "numbers": [
-        "46",
-        "81",
-        "87",
-        "06",
-        "12"
+        "58",
+        "67",
+        "27",
+        "16",
+        "15"
       ],
       "provider_id": "loteria-real",
       "game_id": "chance-real",
@@ -1117,12 +1116,12 @@
       "provider": "Lotería Real",
       "game": "Loto Pool",
       "edition": "Noche",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "numbers": [
-        "56",
-        "70",
-        "18",
-        "17"
+        "19",
+        "75",
+        "55",
+        "08"
       ],
       "provider_id": "loteria-real",
       "game_id": "loto-pool",
@@ -1192,9 +1191,9 @@
       "provider": "Lotería Real",
       "game": "Repartidera Real",
       "edition": null,
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "numbers": [
-        "30"
+        "45"
       ],
       "provider_id": "loteria-real",
       "game_id": "repartidera-real",
