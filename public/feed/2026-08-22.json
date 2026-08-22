@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-08-22T03:01:43.432074Z",
+  "last_updated": "2026-08-22T03:47:53.423976Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -23,14 +23,14 @@
       "provider": "Americanas",
       "game": "Mega Millions",
       "edition": null,
-      "date": "2026-08-18",
+      "date": "2026-08-21",
       "numbers": [
-        "38",
-        "05",
-        "30",
-        "59",
-        "19",
-        "12"
+        "48",
+        "25",
+        "34",
+        "57",
+        "01",
+        "24"
       ],
       "provider_id": "americanas",
       "game_id": "mega-millions",
@@ -360,13 +360,13 @@
       "provider": "Florida",
       "game": "Fantasy 5",
       "edition": "Noche",
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "numbers": [
-        "19",
-        "28",
-        "04",
-        "20",
-        "03"
+        "30",
+        "21",
+        "08",
+        "17",
+        "06"
       ],
       "provider_id": "florida",
       "game_id": "fantasy-5",
@@ -410,14 +410,14 @@
       "provider": "Florida",
       "game": "Jackpot Triple Play",
       "edition": null,
-      "date": "2026-08-18",
+      "date": "2026-08-21",
       "numbers": [
-        "02",
-        "38",
-        "41",
-        "27",
-        "23",
-        "37"
+        "26",
+        "13",
+        "30",
+        "34",
+        "33",
+        "06"
       ],
       "provider_id": "florida",
       "game_id": "jackpot-triple-play",
@@ -1229,14 +1229,14 @@
       "provider": "New York",
       "game": "Millionaire For Life",
       "edition": null,
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "numbers": [
         "01",
-        "16",
-        "26",
-        "40",
-        "44",
-        "04"
+        "20",
+        "25",
+        "56",
+        "57",
+        "02"
       ],
       "provider_id": "new-york",
       "game_id": "millionaire-for-life",
