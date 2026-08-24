@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-08-24T23:21:17.383624Z",
+  "last_updated": "2026-08-24T23:42:39.423104Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -565,11 +565,11 @@
       "provider": "King Lottery",
       "game": "King Lottery",
       "edition": "Noche",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "numbers": [
-        "85",
-        "32",
-        "03"
+        "60",
+        "88",
+        "98"
       ],
       "provider_id": "king-lottery",
       "game_id": "king-lottery",
@@ -594,12 +594,12 @@
       "provider": "King Lottery",
       "game": "Loto Pool",
       "edition": "Noche",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "numbers": [
-        "03",
-        "21",
-        "18",
-        "78"
+        "28",
+        "84",
+        "14",
+        "96"
       ],
       "provider_id": "king-lottery",
       "game_id": "loto-pool",
@@ -623,11 +623,11 @@
       "provider": "King Lottery",
       "game": "Philipsburg",
       "edition": "Noche",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "numbers": [
-        "9857",
-        "4157",
-        "6538"
+        "5540",
+        "2505",
+        "4722"
       ],
       "provider_id": "king-lottery",
       "game_id": "philipsburg",
@@ -651,11 +651,11 @@
       "provider": "King Lottery",
       "game": "Pick 3",
       "edition": "Noche",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "numbers": [
-        "00",
-        "08",
-        "05"
+        "02",
+        "06",
+        "00"
       ],
       "provider_id": "king-lottery",
       "game_id": "pick-3",
@@ -680,12 +680,12 @@
       "provider": "King Lottery",
       "game": "Pick 4",
       "edition": "Noche",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "numbers": [
-        "03",
-        "02",
-        "00",
-        "03"
+        "08",
+        "08",
+        "09",
+        "08"
       ],
       "provider_id": "king-lottery",
       "game_id": "pick-4",
