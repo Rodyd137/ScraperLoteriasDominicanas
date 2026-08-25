@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-08-25T23:24:01.802365Z",
+  "last_updated": "2026-08-25T23:48:00.004204Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -565,11 +565,11 @@
       "provider": "King Lottery",
       "game": "King Lottery",
       "edition": "Noche",
-      "date": "2026-08-24",
+      "date": "2026-08-25",
       "numbers": [
-        "60",
-        "88",
-        "98"
+        "37",
+        "19",
+        "14"
       ],
       "provider_id": "king-lottery",
       "game_id": "king-lottery",
@@ -594,12 +594,12 @@
       "provider": "King Lottery",
       "game": "Loto Pool",
       "edition": "Noche",
-      "date": "2026-08-24",
+      "date": "2026-08-25",
       "numbers": [
-        "28",
-        "84",
-        "14",
-        "96"
+        "48",
+        "75",
+        "25",
+        "61"
       ],
       "provider_id": "king-lottery",
       "game_id": "loto-pool",
@@ -623,11 +623,11 @@
       "provider": "King Lottery",
       "game": "Philipsburg",
       "edition": "Noche",
-      "date": "2026-08-24",
+      "date": "2026-08-25",
       "numbers": [
-        "5540",
-        "2505",
-        "4722"
+        "5459",
+        "5958",
+        "5629"
       ],
       "provider_id": "king-lottery",
       "game_id": "philipsburg",
@@ -651,11 +651,11 @@
       "provider": "King Lottery",
       "game": "Pick 3",
       "edition": "Noche",
-      "date": "2026-08-24",
+      "date": "2026-08-25",
       "numbers": [
-        "02",
-        "06",
-        "00"
+        "00",
+        "03",
+        "07"
       ],
       "provider_id": "king-lottery",
       "game_id": "pick-3",
@@ -680,12 +680,12 @@
       "provider": "King Lottery",
       "game": "Pick 4",
       "edition": "Noche",
-      "date": "2026-08-24",
+      "date": "2026-08-25",
       "numbers": [
-        "08",
-        "08",
+        "01",
         "09",
-        "08"
+        "01",
+        "04"
       ],
       "provider_id": "king-lottery",
       "game_id": "pick-4",
