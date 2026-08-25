@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-08-25T03:08:10.220327Z",
+  "last_updated": "2026-08-25T03:55:22.469354Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -57,14 +57,14 @@
       "provider": "Americanas",
       "game": "PowerBall Double Play",
       "edition": null,
-      "date": "2026-08-22",
+      "date": "2026-08-24",
       "numbers": [
-        "47",
-        "18",
-        "29",
-        "53",
-        "04",
-        "16"
+        "06",
+        "38",
+        "05",
+        "39",
+        "34",
+        "07"
       ],
       "provider_id": "americanas",
       "game_id": "powerball-double-play",
@@ -360,13 +360,13 @@
       "provider": "Florida",
       "game": "Fantasy 5",
       "edition": "Noche",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "numbers": [
-        "15",
-        "06",
-        "04",
-        "05",
-        "28"
+        "20",
+        "11",
+        "09",
+        "32",
+        "35"
       ],
       "provider_id": "florida",
       "game_id": "fantasy-5",
@@ -1229,14 +1229,14 @@
       "provider": "New York",
       "game": "Millionaire For Life",
       "edition": null,
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "numbers": [
-        "15",
-        "28",
-        "32",
-        "55",
-        "57",
-        "01"
+        "07",
+        "19",
+        "26",
+        "41",
+        "49",
+        "04"
       ],
       "provider_id": "new-york",
       "game_id": "millionaire-for-life",
