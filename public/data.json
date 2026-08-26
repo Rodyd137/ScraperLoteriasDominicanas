@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-08-26T19:52:38.718001Z",
+  "last_updated": "2026-08-26T22:41:53.267734Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -200,11 +200,11 @@
       "provider": "Anguila",
       "game": "Anguila 4:00 PM",
       "edition": null,
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "numbers": [
-        "78",
-        "02",
-        "55"
+        "46",
+        "28",
+        "93"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-4-00-pm",
@@ -214,11 +214,11 @@
       "provider": "Anguila",
       "game": "Anguila 5:00 PM",
       "edition": null,
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "numbers": [
-        "50",
-        "93",
-        "72"
+        "54",
+        "85",
+        "26"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-5-00-pm",
@@ -228,11 +228,11 @@
       "provider": "Anguila",
       "game": "Anguila 6:00 PM",
       "edition": null,
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "numbers": [
-        "43",
-        "95",
-        "97"
+        "14",
+        "58",
+        "07"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-6-00-pm",
@@ -342,12 +342,12 @@
       "provider": "Anguila",
       "game": "La Cuarteta 6:00 PM",
       "edition": null,
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "numbers": [
-        "32",
-        "95",
-        "18",
-        "51"
+        "92",
+        "72",
+        "00",
+        "36"
       ],
       "provider_id": "anguila",
       "game_id": "la-cuarteta-6-00-pm",
@@ -806,11 +806,11 @@
       "provider": "La Suerte Dominicana",
       "game": "La Suerte",
       "edition": "Tarde",
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "numbers": [
-        "04",
-        "45",
-        "93"
+        "12",
+        "00",
+        "56"
       ],
       "provider_id": "la-suerte-dominicana",
       "game_id": "la-suerte",
