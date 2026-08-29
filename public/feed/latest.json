@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-08-29T17:29:53.212664Z",
+  "last_updated": "2026-08-29T18:04:31.485362Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -200,11 +200,11 @@
       "provider": "Anguila",
       "game": "Anguila 2:00 PM",
       "edition": null,
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "numbers": [
-        "96",
-        "63",
-        "90"
+        "13",
+        "18",
+        "51"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-2-00-pm",
@@ -483,11 +483,11 @@
       "provider": "Florida",
       "game": "Pick 2",
       "edition": "Día",
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "numbers": [
-        "04",
         "01",
-        "07"
+        "04",
+        "01"
       ],
       "provider_id": "florida",
       "game_id": "pick-2",
@@ -511,12 +511,12 @@
       "provider": "Florida",
       "game": "Pick 3",
       "edition": "Día",
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "numbers": [
-        "04",
-        "09",
         "03",
-        "07"
+        "07",
+        "01",
+        "01"
       ],
       "provider_id": "florida",
       "game_id": "pick-3",
@@ -541,13 +541,13 @@
       "provider": "Florida",
       "game": "Pick 4",
       "edition": "Día",
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "numbers": [
-        "02",
-        "01",
-        "06",
-        "00",
-        "07"
+        "08",
+        "05",
+        "08",
+        "03",
+        "01"
       ],
       "provider_id": "florida",
       "game_id": "pick-4",
@@ -573,14 +573,14 @@
       "provider": "Florida",
       "game": "Pick 5",
       "edition": "Día",
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "numbers": [
+        "01",
+        "06",
         "08",
         "00",
-        "08",
-        "09",
-        "07",
-        "07"
+        "06",
+        "01"
       ],
       "provider_id": "florida",
       "game_id": "pick-5",
