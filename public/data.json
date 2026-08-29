@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-08-29T10:49:03.078199Z",
+  "last_updated": "2026-08-29T15:29:38.888597Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -37,11 +37,11 @@
       "provider": "Americanas",
       "game": "Georgia",
       "edition": "Noche",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "numbers": [
-        "98",
-        "20",
-        "89"
+        "95",
+        "51",
+        "62"
       ],
       "provider_id": "americanas",
       "game_id": "georgia",
@@ -144,11 +144,11 @@
       "provider": "Anguila",
       "game": "Anguila 10:00 AM",
       "edition": null,
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "numbers": [
-        "02",
         "94",
-        "09"
+        "04",
+        "03"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-10-00-am",
@@ -172,11 +172,11 @@
       "provider": "Anguila",
       "game": "Anguila 11:00 AM",
       "edition": null,
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "numbers": [
+        "44",
         "35",
-        "57",
-        "91"
+        "28"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-11-00-am",
@@ -284,11 +284,11 @@
       "provider": "Anguila",
       "game": "Anguila 8:00  AM",
       "edition": null,
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "numbers": [
-        "96",
-        "70",
-        "03"
+        "48",
+        "95",
+        "68"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-8-00-am",
@@ -312,11 +312,11 @@
       "provider": "Anguila",
       "game": "Anguila 9:00 AM",
       "edition": null,
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "numbers": [
-        "22",
-        "97",
-        "89"
+        "53",
+        "51",
+        "92"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-9-00-am",
@@ -355,12 +355,12 @@
       "provider": "Anguila",
       "game": "La Cuarteta 10:00 AM",
       "edition": null,
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "numbers": [
-        "01",
-        "89",
-        "98",
-        "40"
+        "90",
+        "99",
+        "80",
+        "86"
       ],
       "provider_id": "anguila",
       "game_id": "la-cuarteta-10-00-am",
