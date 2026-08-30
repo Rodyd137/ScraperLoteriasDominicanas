@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-08-30T01:05:41.933665Z",
+  "last_updated": "2026-08-30T02:14:56.410467Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -158,11 +158,11 @@
       "provider": "Anguila",
       "game": "Anguila 10:00 PM",
       "edition": null,
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "numbers": [
-        "70",
-        "42",
-        "72"
+        "11",
+        "77",
+        "33"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-10-00-pm",
@@ -497,11 +497,11 @@
       "provider": "Florida",
       "game": "Pick 2",
       "edition": "Noche",
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "numbers": [
-        "09",
-        "01",
-        "00"
+        "02",
+        "00",
+        "04"
       ],
       "provider_id": "florida",
       "game_id": "pick-2",
@@ -526,12 +526,12 @@
       "provider": "Florida",
       "game": "Pick 3",
       "edition": "Noche",
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "numbers": [
-        "06",
         "02",
-        "05",
-        "00"
+        "00",
+        "04",
+        "04"
       ],
       "provider_id": "florida",
       "game_id": "pick-3",
@@ -557,13 +557,13 @@
       "provider": "Florida",
       "game": "Pick 4",
       "edition": "Noche",
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "numbers": [
-        "07",
+        "03",
         "05",
-        "02",
-        "09",
-        "00"
+        "04",
+        "03",
+        "04"
       ],
       "provider_id": "florida",
       "game_id": "pick-4",
@@ -590,14 +590,14 @@
       "provider": "Florida",
       "game": "Pick 5",
       "edition": "Noche",
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "numbers": [
-        "00",
-        "04",
+        "07",
         "01",
-        "04",
-        "02",
-        "00"
+        "01",
+        "07",
+        "08",
+        "04"
       ],
       "provider_id": "florida",
       "game_id": "pick-5",
