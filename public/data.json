@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-08-30T23:03:45.519371Z",
+  "last_updated": "2026-08-30T23:09:52.246776Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -763,9 +763,9 @@
       "provider": "La Primera",
       "game": "El Quinielón",
       "edition": "Noche",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "numbers": [
-        "12"
+        "87"
       ],
       "provider_id": "la-primera",
       "game_id": "el-quinielon",
@@ -806,11 +806,11 @@
       "provider": "La Primera",
       "game": "Quiniela",
       "edition": "Noche",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "numbers": [
-        "50",
-        "71",
-        "80"
+        "47",
+        "40",
+        "56"
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela",
