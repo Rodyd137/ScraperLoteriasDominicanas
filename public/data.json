@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-09-01T02:29:47.711392Z",
+  "last_updated": "2026-09-01T07:56:21.677020Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -37,11 +37,11 @@
       "provider": "Americanas",
       "game": "Georgia",
       "edition": "Noche",
-      "date": "2026-08-30",
+      "date": "2026-08-31",
       "numbers": [
-        "32",
-        "14",
-        "26"
+        "71",
+        "91",
+        "09"
       ],
       "provider_id": "americanas",
       "game_id": "georgia",
@@ -82,11 +82,11 @@
       "provider": "Americanas",
       "game": "New Jersey",
       "edition": "Noche",
-      "date": "2026-08-30",
+      "date": "2026-08-31",
       "numbers": [
-        "33",
-        "18",
-        "97"
+        "00",
+        "41",
+        "13"
       ],
       "provider_id": "americanas",
       "game_id": "new-jersey",
@@ -96,14 +96,14 @@
       "provider": "Americanas",
       "game": "PowerBall",
       "edition": null,
-      "date": "2026-08-29",
+      "date": "2026-08-31",
       "numbers": [
-        "62",
-        "26",
-        "70",
-        "72",
-        "69",
-        "27"
+        "14",
+        "34",
+        "50",
+        "39",
+        "18",
+        "11"
       ],
       "provider_id": "americanas",
       "game_id": "powerball",
@@ -113,14 +113,14 @@
       "provider": "Americanas",
       "game": "PowerBall Double Play",
       "edition": null,
-      "date": "2026-08-29",
+      "date": "2026-08-31",
       "numbers": [
-        "64",
-        "22",
-        "62",
-        "63",
-        "32",
-        "11"
+        "53",
+        "13",
+        "34",
+        "72",
+        "35",
+        "25"
       ],
       "provider_id": "americanas",
       "game_id": "powerball-double-play",
@@ -416,13 +416,13 @@
       "provider": "Florida",
       "game": "Fantasy 5",
       "edition": "Noche",
-      "date": "2026-08-30",
+      "date": "2026-08-31",
       "numbers": [
-        "14",
+        "12",
         "33",
-        "08",
-        "26",
-        "30"
+        "37",
+        "36",
+        "11"
       ],
       "provider_id": "florida",
       "game_id": "fantasy-5",
@@ -1285,14 +1285,14 @@
       "provider": "New York",
       "game": "Millionaire For Life",
       "edition": null,
-      "date": "2026-08-30",
+      "date": "2026-08-31",
       "numbers": [
-        "16",
-        "29",
+        "11",
+        "14",
+        "36",
         "39",
-        "61",
-        "63",
-        "02"
+        "47",
+        "05"
       ],
       "provider_id": "new-york",
       "game_id": "millionaire-for-life",
@@ -1334,11 +1334,11 @@
       "provider": "New York",
       "game": "Numbers",
       "edition": "Noche",
-      "date": "2026-08-30",
+      "date": "2026-08-31",
       "numbers": [
-        "04",
         "07",
-        "05"
+        "01",
+        "02"
       ],
       "provider_id": "new-york",
       "game_id": "numbers",
@@ -1364,13 +1364,13 @@
       "provider": "New York",
       "game": "Take 5",
       "edition": "Noche",
-      "date": "2026-08-30",
+      "date": "2026-08-31",
       "numbers": [
-        "16",
+        "19",
+        "11",
         "24",
-        "37",
-        "09",
-        "32"
+        "38",
+        "27"
       ],
       "provider_id": "new-york",
       "game_id": "take-5",
@@ -1395,12 +1395,12 @@
       "provider": "New York",
       "game": "Win 4",
       "edition": "Noche",
-      "date": "2026-08-30",
+      "date": "2026-08-31",
       "numbers": [
-        "08",
-        "03",
-        "01",
-        "09"
+        "04",
+        "05",
+        "02",
+        "03"
       ],
       "provider_id": "new-york",
       "game_id": "win-4",
