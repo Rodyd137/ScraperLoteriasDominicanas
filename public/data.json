@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-09-02T17:03:21.880710Z",
+  "last_updated": "2026-09-02T17:35:18.174176Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -344,7 +344,8 @@
       "numbers": [
         "08",
         "49",
-        "78"
+        "78",
+        "07"
       ],
       "provider_id": "anguila",
       "game_id": "la-cuarteta-1-00-pm",
@@ -399,13 +400,13 @@
       "provider": "Florida",
       "game": "Fantasy",
       "edition": "Día",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "numbers": [
-        "30",
-        "24",
-        "22",
-        "37",
-        "42"
+        "18",
+        "13",
+        "15",
+        "42",
+        "22"
       ],
       "provider_id": "florida",
       "game_id": "fantasy",
