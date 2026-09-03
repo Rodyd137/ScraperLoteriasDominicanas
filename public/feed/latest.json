@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-09-03T00:57:49.536976Z",
+  "last_updated": "2026-09-03T01:56:41.921604Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -326,11 +326,11 @@
       "provider": "Anguila",
       "game": "Anguila 9:00 PM",
       "edition": null,
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "numbers": [
-        "04",
-        "11",
-        "20"
+        "77",
+        "39",
+        "09"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-9-00-pm",
@@ -385,12 +385,12 @@
       "provider": "Anguila",
       "game": "La Cuarteta 9:00 PM",
       "edition": null,
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "numbers": [
-        "47",
         "60",
-        "43",
-        "68"
+        "55",
+        "24",
+        "05"
       ],
       "provider_id": "anguila",
       "game_id": "la-cuarteta-9-00-pm",
@@ -497,11 +497,11 @@
       "provider": "Florida",
       "game": "Pick 2",
       "edition": "Noche",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "numbers": [
-        "02",
-        "03",
-        "09"
+        "01",
+        "08",
+        "00"
       ],
       "provider_id": "florida",
       "game_id": "pick-2",
@@ -526,11 +526,11 @@
       "provider": "Florida",
       "game": "Pick 3",
       "edition": "Noche",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "numbers": [
-        "02",
         "08",
-        "03",
+        "05",
+        "07",
         "04"
       ],
       "provider_id": "florida",
@@ -557,13 +557,13 @@
       "provider": "Florida",
       "game": "Pick 4",
       "edition": "Noche",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "numbers": [
         "08",
-        "09",
-        "05",
-        "00",
-        "01"
+        "07",
+        "02",
+        "04",
+        "09"
       ],
       "provider_id": "florida",
       "game_id": "pick-4",
@@ -590,14 +590,14 @@
       "provider": "Florida",
       "game": "Pick 5",
       "edition": "Noche",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "numbers": [
-        "04",
-        "08",
-        "03",
         "06",
-        "09",
-        "02"
+        "07",
+        "08",
+        "04",
+        "02",
+        "03"
       ],
       "provider_id": "florida",
       "game_id": "pick-5",
@@ -848,16 +848,16 @@
       "provider": "Leidsa",
       "game": "Loto Más",
       "edition": null,
-      "date": "2026-08-29",
+      "date": "2026-09-02",
       "numbers": [
+        "20",
+        "12",
         "26",
-        "32",
-        "38",
-        "15",
-        "16",
-        "27",
-        "18",
-        "17"
+        "36",
+        "39",
+        "10",
+        "13",
+        "14"
       ],
       "provider_id": "leidsa",
       "game_id": "loto-mas",
@@ -897,11 +897,11 @@
       "provider": "Leidsa",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "numbers": [
-        "49",
-        "43",
-        "16"
+        "60",
+        "80",
+        "02"
       ],
       "provider_id": "leidsa",
       "game_id": "quiniela",
@@ -942,10 +942,10 @@
       "provider": "Leidsa",
       "game": "Súper Palé",
       "edition": null,
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "numbers": [
-        "49",
-        "06"
+        "60",
+        "24"
       ],
       "provider_id": "leidsa",
       "game_id": "super-pale",
@@ -1130,7 +1130,9 @@
       "edition": null,
       "date": "2026-09-02",
       "numbers": [
-        "26"
+        "26",
+        "27",
+        "39"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "loteria-nacional",
