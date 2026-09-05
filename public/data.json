@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-09-05T01:52:19.098272Z",
+  "last_updated": "2026-09-05T06:20:28.621906Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -37,11 +37,11 @@
       "provider": "Americanas",
       "game": "Georgia",
       "edition": "Noche",
-      "date": "2026-09-03",
+      "date": "2026-09-04",
       "numbers": [
-        "92",
-        "65",
-        "09"
+        "72",
+        "26",
+        "78"
       ],
       "provider_id": "americanas",
       "game_id": "georgia",
@@ -51,14 +51,14 @@
       "provider": "Americanas",
       "game": "Mega Millions",
       "edition": null,
-      "date": "2026-09-01",
+      "date": "2026-09-04",
       "numbers": [
+        "06",
+        "26",
+        "34",
+        "59",
         "61",
-        "01",
-        "51",
-        "63",
-        "22",
-        "17"
+        "24"
       ],
       "provider_id": "americanas",
       "game_id": "mega-millions",
@@ -82,11 +82,11 @@
       "provider": "Americanas",
       "game": "New Jersey",
       "edition": "Noche",
-      "date": "2026-09-03",
+      "date": "2026-09-04",
       "numbers": [
-        "33",
-        "60",
-        "77"
+        "05",
+        "98",
+        "04"
       ],
       "provider_id": "americanas",
       "game_id": "new-jersey",
@@ -158,11 +158,11 @@
       "provider": "Anguila",
       "game": "Anguila 10:00 PM",
       "edition": null,
-      "date": "2026-09-03",
+      "date": "2026-09-04",
       "numbers": [
-        "87",
-        "52",
-        "52"
+        "47",
+        "18",
+        "70"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-10-00-pm",
@@ -416,13 +416,13 @@
       "provider": "Florida",
       "game": "Fantasy 5",
       "edition": "Noche",
-      "date": "2026-09-03",
+      "date": "2026-09-04",
       "numbers": [
-        "02",
-        "14",
-        "23",
+        "22",
+        "21",
         "30",
-        "24"
+        "09",
+        "05"
       ],
       "provider_id": "florida",
       "game_id": "fantasy-5",
@@ -466,14 +466,14 @@
       "provider": "Florida",
       "game": "Jackpot Triple Play",
       "edition": null,
-      "date": "2026-09-01",
+      "date": "2026-09-04",
       "numbers": [
-        "16",
-        "30",
-        "41",
-        "01",
+        "23",
+        "19",
+        "46",
+        "02",
         "08",
-        "06"
+        "21"
       ],
       "provider_id": "florida",
       "game_id": "jackpot-triple-play",
@@ -1299,14 +1299,14 @@
       "provider": "New York",
       "game": "Millionaire For Life",
       "edition": null,
-      "date": "2026-09-03",
+      "date": "2026-09-04",
       "numbers": [
-        "01",
-        "10",
-        "23",
-        "29",
-        "33",
-        "03"
+        "13",
+        "34",
+        "41",
+        "51",
+        "52",
+        "04"
       ],
       "provider_id": "new-york",
       "game_id": "millionaire-for-life",
@@ -1348,11 +1348,11 @@
       "provider": "New York",
       "game": "Numbers",
       "edition": "Noche",
-      "date": "2026-09-03",
+      "date": "2026-09-04",
       "numbers": [
-        "01",
-        "01",
-        "06"
+        "06",
+        "03",
+        "00"
       ],
       "provider_id": "new-york",
       "game_id": "numbers",
@@ -1378,13 +1378,13 @@
       "provider": "New York",
       "game": "Take 5",
       "edition": "Noche",
-      "date": "2026-09-03",
+      "date": "2026-09-04",
       "numbers": [
-        "37",
-        "09",
-        "19",
-        "29",
-        "22"
+        "23",
+        "27",
+        "16",
+        "18",
+        "24"
       ],
       "provider_id": "new-york",
       "game_id": "take-5",
@@ -1409,12 +1409,12 @@
       "provider": "New York",
       "game": "Win 4",
       "edition": "Noche",
-      "date": "2026-09-03",
+      "date": "2026-09-04",
       "numbers": [
+        "04",
+        "07",
         "06",
-        "00",
-        "00",
-        "00"
+        "02"
       ],
       "provider_id": "new-york",
       "game_id": "win-4",
