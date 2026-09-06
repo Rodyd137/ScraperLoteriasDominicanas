@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-09-06T20:15:05.659177Z",
+  "last_updated": "2026-09-06T22:09:51.468285Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -242,10 +242,10 @@
       "provider": "Anguila",
       "game": "Anguila 5:00 PM",
       "edition": null,
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "numbers": [
-        "67",
-        "02",
+        "51",
+        "66",
         "90"
       ],
       "provider_id": "anguila",
@@ -256,11 +256,11 @@
       "provider": "Anguila",
       "game": "Anguila 6:00 PM",
       "edition": null,
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "numbers": [
-        "12",
-        "24",
-        "02"
+        "01",
+        "55",
+        "74"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-6-00-pm",
@@ -370,12 +370,12 @@
       "provider": "Anguila",
       "game": "La Cuarteta 6:00 PM",
       "edition": null,
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "numbers": [
-        "79",
-        "56",
-        "74",
-        "65"
+        "67",
+        "11",
+        "48",
+        "52"
       ],
       "provider_id": "anguila",
       "game_id": "la-cuarteta-6-00-pm",
@@ -834,11 +834,11 @@
       "provider": "La Suerte Dominicana",
       "game": "La Suerte",
       "edition": "Tarde",
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "numbers": [
-        "92",
-        "01",
-        "93"
+        "64",
+        "38",
+        "38"
       ],
       "provider_id": "la-suerte-dominicana",
       "game_id": "la-suerte",
@@ -942,10 +942,10 @@
       "provider": "Leidsa",
       "game": "Súper Palé",
       "edition": null,
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "numbers": [
-        "53",
-        "13"
+        "48",
+        "89"
       ],
       "provider_id": "leidsa",
       "game_id": "super-pale",
@@ -1128,11 +1128,11 @@
       "provider": "Lotería Nacional",
       "game": "Lotería Nacional",
       "edition": null,
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "numbers": [
-        "13",
-        "73",
-        "94"
+        "89",
+        "89",
+        "00"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "loteria-nacional",
