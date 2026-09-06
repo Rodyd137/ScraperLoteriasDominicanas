@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-09-06T01:46:52.357993Z",
+  "last_updated": "2026-09-06T06:31:11.705038Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -37,11 +37,11 @@
       "provider": "Americanas",
       "game": "Georgia",
       "edition": "Noche",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "numbers": [
-        "72",
-        "26",
-        "78"
+        "83",
+        "01",
+        "93"
       ],
       "provider_id": "americanas",
       "game_id": "georgia",
@@ -82,11 +82,11 @@
       "provider": "Americanas",
       "game": "New Jersey",
       "edition": "Noche",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "numbers": [
-        "05",
-        "98",
-        "04"
+        "90",
+        "88",
+        "44"
       ],
       "provider_id": "americanas",
       "game_id": "new-jersey",
@@ -96,14 +96,14 @@
       "provider": "Americanas",
       "game": "PowerBall",
       "edition": null,
-      "date": "2026-09-02",
+      "date": "2026-09-05",
       "numbers": [
-        "03",
-        "10",
-        "64",
-        "29",
-        "58",
-        "14"
+        "53",
+        "40",
+        "15",
+        "59",
+        "47",
+        "09"
       ],
       "provider_id": "americanas",
       "game_id": "powerball",
@@ -113,14 +113,14 @@
       "provider": "Americanas",
       "game": "PowerBall Double Play",
       "edition": null,
-      "date": "2026-09-02",
+      "date": "2026-09-05",
       "numbers": [
-        "15",
-        "26",
-        "33",
-        "05",
-        "06",
-        "20"
+        "30",
+        "24",
+        "60",
+        "21",
+        "47",
+        "05"
       ],
       "provider_id": "americanas",
       "game_id": "powerball-double-play",
@@ -158,11 +158,11 @@
       "provider": "Anguila",
       "game": "Anguila 10:00 PM",
       "edition": null,
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "numbers": [
+        "42",
         "47",
-        "18",
-        "70"
+        "22"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-10-00-pm",
@@ -416,13 +416,13 @@
       "provider": "Florida",
       "game": "Fantasy 5",
       "edition": "Noche",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "numbers": [
-        "22",
-        "21",
-        "30",
-        "09",
-        "05"
+        "13",
+        "03",
+        "15",
+        "36",
+        "17"
       ],
       "provider_id": "florida",
       "game_id": "fantasy-5",
@@ -432,14 +432,14 @@
       "provider": "Florida",
       "game": "Florida Lotto",
       "edition": null,
-      "date": "2026-09-02",
+      "date": "2026-09-05",
       "numbers": [
-        "43",
-        "49",
-        "44",
-        "19",
-        "01",
-        "38"
+        "31",
+        "39",
+        "06",
+        "17",
+        "47",
+        "12"
       ],
       "provider_id": "florida",
       "game_id": "florida-lotto",
@@ -449,14 +449,14 @@
       "provider": "Florida",
       "game": "Florida Lotto Double Play",
       "edition": null,
-      "date": "2026-09-02",
+      "date": "2026-09-05",
       "numbers": [
-        "07",
-        "27",
-        "11",
-        "51",
-        "50",
-        "24"
+        "29",
+        "35",
+        "25",
+        "37",
+        "49",
+        "53"
       ],
       "provider_id": "florida",
       "game_id": "florida-lotto-double-play",
@@ -497,11 +497,11 @@
       "provider": "Florida",
       "game": "Pick 2",
       "edition": "Noche",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "numbers": [
-        "06",
+        "07",
         "05",
-        "07"
+        "05"
       ],
       "provider_id": "florida",
       "game_id": "pick-2",
@@ -526,12 +526,12 @@
       "provider": "Florida",
       "game": "Pick 3",
       "edition": "Noche",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "numbers": [
+        "02",
         "09",
-        "05",
-        "09",
-        "07"
+        "02",
+        "05"
       ],
       "provider_id": "florida",
       "game_id": "pick-3",
@@ -557,13 +557,13 @@
       "provider": "Florida",
       "game": "Pick 4",
       "edition": "Noche",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "numbers": [
+        "05",
         "02",
-        "03",
-        "07",
-        "01",
-        "07"
+        "06",
+        "00",
+        "05"
       ],
       "provider_id": "florida",
       "game_id": "pick-4",
@@ -590,14 +590,14 @@
       "provider": "Florida",
       "game": "Pick 5",
       "edition": "Noche",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "numbers": [
-        "04",
+        "06",
+        "06",
+        "05",
+        "05",
         "08",
-        "07",
-        "09",
-        "02",
-        "07"
+        "05"
       ],
       "provider_id": "florida",
       "game_id": "pick-5",
@@ -1299,14 +1299,14 @@
       "provider": "New York",
       "game": "Millionaire For Life",
       "edition": null,
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "numbers": [
-        "13",
-        "34",
-        "41",
-        "51",
-        "52",
-        "04"
+        "08",
+        "22",
+        "24",
+        "38",
+        "58",
+        "03"
       ],
       "provider_id": "new-york",
       "game_id": "millionaire-for-life",
@@ -1348,11 +1348,11 @@
       "provider": "New York",
       "game": "Numbers",
       "edition": "Noche",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "numbers": [
-        "06",
-        "03",
-        "00"
+        "00",
+        "08",
+        "06"
       ],
       "provider_id": "new-york",
       "game_id": "numbers",
@@ -1378,13 +1378,13 @@
       "provider": "New York",
       "game": "Take 5",
       "edition": "Noche",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "numbers": [
-        "23",
-        "27",
-        "16",
-        "18",
-        "24"
+        "21",
+        "17",
+        "12",
+        "15",
+        "02"
       ],
       "provider_id": "new-york",
       "game_id": "take-5",
@@ -1409,12 +1409,12 @@
       "provider": "New York",
       "game": "Win 4",
       "edition": "Noche",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "numbers": [
-        "04",
+        "08",
+        "01",
         "07",
-        "06",
-        "02"
+        "01"
       ],
       "provider_id": "new-york",
       "game_id": "win-4",
