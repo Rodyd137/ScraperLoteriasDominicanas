@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-09-07T23:16:25.759162Z",
+  "last_updated": "2026-09-08T00:55:18.426642Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -298,11 +298,11 @@
       "provider": "Anguila",
       "game": "Anguila 8:00 PM",
       "edition": null,
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "numbers": [
-        "64",
-        "47",
-        "59"
+        "11",
+        "49",
+        "34"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-8-00-pm",
@@ -621,11 +621,11 @@
       "provider": "King Lottery",
       "game": "King Lottery",
       "edition": "Noche",
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "numbers": [
-        "91",
-        "95",
-        "29"
+        "83",
+        "57",
+        "05"
       ],
       "provider_id": "king-lottery",
       "game_id": "king-lottery",
@@ -650,12 +650,12 @@
       "provider": "King Lottery",
       "game": "Loto Pool",
       "edition": "Noche",
-      "date": "2026-09-05",
+      "date": "2026-09-07",
       "numbers": [
-        "45",
-        "05",
-        "47",
-        "53"
+        "18",
+        "72",
+        "93",
+        "88"
       ],
       "provider_id": "king-lottery",
       "game_id": "loto-pool",
@@ -679,9 +679,11 @@
       "provider": "King Lottery",
       "game": "Philipsburg",
       "edition": "Noche",
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "numbers": [
-        "4241"
+        "6134",
+        "2942",
+        "5361"
       ],
       "provider_id": "king-lottery",
       "game_id": "philipsburg",
@@ -705,11 +707,11 @@
       "provider": "King Lottery",
       "game": "Pick 3",
       "edition": "Noche",
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "numbers": [
-        "01",
-        "05",
-        "02"
+        "07",
+        "03",
+        "08"
       ],
       "provider_id": "king-lottery",
       "game_id": "pick-3",
@@ -734,12 +736,12 @@
       "provider": "King Lottery",
       "game": "Pick 4",
       "edition": "Noche",
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "numbers": [
-        "01",
+        "04",
+        "08",
         "03",
-        "07",
-        "04"
+        "09"
       ],
       "provider_id": "king-lottery",
       "game_id": "pick-4",
@@ -1007,13 +1009,13 @@
       "provider": "Loteka",
       "game": "Mega Chances",
       "edition": null,
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "numbers": [
-        "07",
-        "13",
-        "77",
-        "37",
-        "88"
+        "32",
+        "79",
+        "45",
+        "72",
+        "78"
       ],
       "provider_id": "loteka",
       "game_id": "mega-chances",
@@ -1023,9 +1025,9 @@
       "provider": "Loteka",
       "game": "Mega Chances Repartidera",
       "edition": null,
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "numbers": [
-        "28"
+        "58"
       ],
       "provider_id": "loteka",
       "game_id": "mega-chances-repartidera",
@@ -1035,16 +1037,16 @@
       "provider": "Loteka",
       "game": "MegaLotto",
       "edition": null,
-      "date": "2026-09-03",
+      "date": "2026-09-07",
       "numbers": [
-        "10",
-        "35",
-        "31",
-        "32",
-        "03",
+        "21",
         "26",
-        "13",
-        "14"
+        "40",
+        "19",
+        "18",
+        "39",
+        "12",
+        "20"
       ],
       "provider_id": "loteka",
       "game_id": "megalotto",
@@ -1054,11 +1056,11 @@
       "provider": "Loteka",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "numbers": [
-        "04",
-        "34",
-        "42"
+        "64",
+        "35",
+        "28"
       ],
       "provider_id": "loteka",
       "game_id": "quiniela",
@@ -1068,11 +1070,11 @@
       "provider": "Loteka",
       "game": "Toca 3",
       "edition": null,
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "numbers": [
-        "09",
+        "04",
         "05",
-        "03"
+        "09"
       ],
       "provider_id": "loteka",
       "game_id": "toca-3",
@@ -1140,13 +1142,13 @@
       "provider": "Lotería Real",
       "game": "Chance Real",
       "edition": null,
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "numbers": [
-        "32",
-        "07",
-        "93",
-        "17",
-        "65"
+        "04",
+        "27",
+        "89",
+        "37",
+        "71"
       ],
       "provider_id": "loteria-real",
       "game_id": "chance-real",
@@ -1156,11 +1158,11 @@
       "provider": "Lotería Real",
       "game": "Lotería Real",
       "edition": "Noche",
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "numbers": [
-        "46",
+        "24",
         "26",
-        "80"
+        "41"
       ],
       "provider_id": "loteria-real",
       "game_id": "loteria-real",
@@ -1185,12 +1187,12 @@
       "provider": "Lotería Real",
       "game": "Loto Pool",
       "edition": "Noche",
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "numbers": [
-        "96",
-        "62",
-        "05",
-        "09"
+        "60",
+        "00",
+        "90",
+        "61"
       ],
       "provider_id": "loteria-real",
       "game_id": "loto-pool",
@@ -1260,9 +1262,9 @@
       "provider": "Lotería Real",
       "game": "Repartidera Real",
       "edition": null,
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "numbers": [
-        "04"
+        "06"
       ],
       "provider_id": "loteria-real",
       "game_id": "repartidera-real",
