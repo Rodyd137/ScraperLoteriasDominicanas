@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-09-08T01:55:33.758971Z",
+  "last_updated": "2026-09-08T06:43:40.320960Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -32,20 +32,6 @@
       "provider_id": "americanas",
       "game_id": "georgia",
       "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/08/26/i2xSKjki_CrAtU-w_JENw.png"
-    },
-    {
-      "provider": "Americanas",
-      "game": "Georgia",
-      "edition": "Noche",
-      "date": "2026-09-06",
-      "numbers": [
-        "89",
-        "69",
-        "53"
-      ],
-      "provider_id": "americanas",
-      "game_id": "georgia",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/08/26/AGFZ3kGw1SOSHTnuSAHzW.png"
     },
     {
       "provider": "Americanas",
@@ -82,11 +68,11 @@
       "provider": "Americanas",
       "game": "New Jersey",
       "edition": "Noche",
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "numbers": [
-        "02",
-        "10",
-        "93"
+        "54",
+        "12",
+        "91"
       ],
       "provider_id": "americanas",
       "game_id": "new-jersey",
@@ -96,14 +82,14 @@
       "provider": "Americanas",
       "game": "PowerBall",
       "edition": null,
-      "date": "2026-09-05",
+      "date": "2026-09-07",
       "numbers": [
-        "56",
-        "43",
+        "33",
+        "47",
         "18",
-        "62",
-        "51",
-        "15"
+        "65",
+        "22",
+        "12"
       ],
       "provider_id": "americanas",
       "game_id": "powerball",
@@ -113,13 +99,13 @@
       "provider": "Americanas",
       "game": "PowerBall Double Play",
       "edition": null,
-      "date": "2026-09-05",
+      "date": "2026-09-07",
       "numbers": [
-        "31",
-        "32",
-        "69",
+        "29",
+        "72",
         "22",
-        "51",
+        "57",
+        "63",
         "07"
       ],
       "provider_id": "americanas",
@@ -158,11 +144,11 @@
       "provider": "Anguila",
       "game": "Anguila 10:00 PM",
       "edition": null,
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "numbers": [
-        "09",
-        "62",
-        "47"
+        "68",
+        "05",
+        "38"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-10-00-pm",
@@ -416,13 +402,13 @@
       "provider": "Florida",
       "game": "Fantasy 5",
       "edition": "Noche",
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "numbers": [
-        "31",
-        "30",
-        "16",
+        "12",
+        "41",
+        "36",
         "13",
-        "17"
+        "24"
       ],
       "provider_id": "florida",
       "game_id": "fantasy-5",
@@ -1299,14 +1285,14 @@
       "provider": "New York",
       "game": "Millionaire For Life",
       "edition": null,
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "numbers": [
-        "26",
-        "38",
-        "45",
-        "48",
-        "61",
-        "05"
+        "09",
+        "18",
+        "37",
+        "43",
+        "53",
+        "00"
       ],
       "provider_id": "new-york",
       "game_id": "millionaire-for-life",
@@ -1348,11 +1334,11 @@
       "provider": "New York",
       "game": "Numbers",
       "edition": "Noche",
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "numbers": [
-        "04",
         "07",
-        "03"
+        "05",
+        "08"
       ],
       "provider_id": "new-york",
       "game_id": "numbers",
@@ -1378,13 +1364,13 @@
       "provider": "New York",
       "game": "Take 5",
       "edition": "Noche",
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "numbers": [
-        "20",
+        "43",
         "28",
+        "44",
         "36",
-        "05",
-        "34"
+        "19"
       ],
       "provider_id": "new-york",
       "game_id": "take-5",
@@ -1409,11 +1395,11 @@
       "provider": "New York",
       "game": "Win 4",
       "edition": "Noche",
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "numbers": [
-        "08",
+        "09",
+        "03",
         "07",
-        "05",
         "06"
       ],
       "provider_id": "new-york",
