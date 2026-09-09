@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-09-09T01:03:44.702052Z",
+  "last_updated": "2026-09-09T02:00:44.502201Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -403,7 +403,8 @@
       "numbers": [
         "04",
         "77",
-        "20"
+        "20",
+        "09"
       ],
       "provider_id": "anguila",
       "game_id": "la-cuarteta-9-00-pm",
@@ -510,11 +511,11 @@
       "provider": "Florida",
       "game": "Pick 2",
       "edition": "Noche",
-      "date": "2026-09-07",
+      "date": "2026-09-08",
       "numbers": [
-        "00",
-        "03",
-        "07"
+        "01",
+        "07",
+        "00"
       ],
       "provider_id": "florida",
       "game_id": "pick-2",
@@ -539,12 +540,12 @@
       "provider": "Florida",
       "game": "Pick 3",
       "edition": "Noche",
-      "date": "2026-09-07",
+      "date": "2026-09-08",
       "numbers": [
-        "01",
+        "07",
+        "08",
         "03",
-        "04",
-        "05"
+        "04"
       ],
       "provider_id": "florida",
       "game_id": "pick-3",
@@ -570,13 +571,13 @@
       "provider": "Florida",
       "game": "Pick 4",
       "edition": "Noche",
-      "date": "2026-09-07",
+      "date": "2026-09-08",
       "numbers": [
         "00",
         "02",
-        "03",
+        "08",
         "01",
-        "06"
+        "09"
       ],
       "provider_id": "florida",
       "game_id": "pick-4",
@@ -603,14 +604,14 @@
       "provider": "Florida",
       "game": "Pick 5",
       "edition": "Noche",
-      "date": "2026-09-07",
+      "date": "2026-09-08",
       "numbers": [
+        "03",
         "04",
-        "09",
-        "05",
-        "08",
+        "00",
         "02",
-        "00"
+        "01",
+        "05"
       ],
       "provider_id": "florida",
       "game_id": "pick-5",
