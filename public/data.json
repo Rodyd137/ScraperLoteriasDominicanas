@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-09-10T13:19:53.719982Z",
+  "last_updated": "2026-09-10T16:55:29.970958Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -23,11 +23,11 @@
       "provider": "Americanas",
       "game": "Georgia",
       "edition": "Día",
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "numbers": [
-        "37",
-        "73",
-        "85"
+        "13",
+        "50",
+        "71"
       ],
       "provider_id": "americanas",
       "game_id": "georgia",
@@ -158,11 +158,11 @@
       "provider": "Anguila",
       "game": "Anguila 10:00 AM",
       "edition": null,
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "numbers": [
-        "71",
-        "12",
-        "50"
+        "52",
+        "27",
+        "41"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-10-00-am",
@@ -186,11 +186,11 @@
       "provider": "Anguila",
       "game": "Anguila 11:00 AM",
       "edition": null,
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "numbers": [
-        "20",
-        "63",
-        "52"
+        "02",
+        "23",
+        "43"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-11-00-am",
@@ -200,11 +200,11 @@
       "provider": "Anguila",
       "game": "Anguila 12:00 PM",
       "edition": null,
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "numbers": [
-        "52",
-        "50",
-        "87"
+        "79",
+        "35",
+        "09"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-12-00-pm",
@@ -369,12 +369,12 @@
       "provider": "Anguila",
       "game": "La Cuarteta 10:00 AM",
       "edition": null,
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "numbers": [
-        "14",
-        "68",
-        "08",
-        "12"
+        "85",
+        "88",
+        "25",
+        "90"
       ],
       "provider_id": "anguila",
       "game_id": "la-cuarteta-10-00-am",
@@ -621,11 +621,11 @@
       "provider": "King Lottery",
       "game": "King Lottery",
       "edition": "Día",
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "numbers": [
-        "42",
-        "71",
-        "79"
+        "28",
+        "79",
+        "67"
       ],
       "provider_id": "king-lottery",
       "game_id": "king-lottery",
@@ -649,12 +649,12 @@
       "provider": "King Lottery",
       "game": "Loto Pool",
       "edition": "Día",
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "numbers": [
-        "32",
-        "47",
-        "81",
-        "07"
+        "80",
+        "63",
+        "24",
+        "04"
       ],
       "provider_id": "king-lottery",
       "game_id": "loto-pool",
@@ -679,11 +679,11 @@
       "provider": "King Lottery",
       "game": "Philipsburg",
       "edition": "Día",
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "numbers": [
-        "5336",
-        "8277",
-        "4142"
+        "7911",
+        "9018",
+        "3552"
       ],
       "provider_id": "king-lottery",
       "game_id": "philipsburg",
@@ -707,11 +707,11 @@
       "provider": "King Lottery",
       "game": "Pick 3",
       "edition": "Día",
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "numbers": [
-        "03",
         "04",
-        "02"
+        "02",
+        "08"
       ],
       "provider_id": "king-lottery",
       "game_id": "pick-3",
@@ -735,12 +735,12 @@
       "provider": "King Lottery",
       "game": "Pick 4",
       "edition": "Día",
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "numbers": [
         "07",
-        "01",
-        "07",
-        "09"
+        "09",
+        "06",
+        "07"
       ],
       "provider_id": "king-lottery",
       "game_id": "pick-4",
@@ -765,9 +765,9 @@
       "provider": "La Primera",
       "game": "El Quinielón",
       "edition": "Día",
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "numbers": [
-        "90"
+        "63"
       ],
       "provider_id": "la-primera",
       "game_id": "el-quinielon",
@@ -806,11 +806,11 @@
       "provider": "La Primera",
       "game": "Quiniela",
       "edition": "Medio Día",
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "numbers": [
-        "57",
-        "28",
-        "67"
+        "05",
+        "17",
+        "03"
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela",
@@ -834,11 +834,11 @@
       "provider": "La Suerte Dominicana",
       "game": "La Suerte",
       "edition": "Día",
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "numbers": [
-        "82",
-        "53",
-        "27"
+        "35",
+        "18",
+        "47"
       ],
       "provider_id": "la-suerte-dominicana",
       "game_id": "la-suerte",
@@ -969,12 +969,12 @@
       "provider": "LoteDom",
       "game": "Agarra 4",
       "edition": null,
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "numbers": [
-        "24",
-        "51",
-        "88",
-        "59"
+        "67",
+        "06",
+        "76",
+        "71"
       ],
       "provider_id": "lotedom",
       "game_id": "agarra-4",
@@ -984,9 +984,9 @@
       "provider": "LoteDom",
       "game": "El Quemaito Mayor",
       "edition": null,
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "numbers": [
-        "59"
+        "71"
       ],
       "provider_id": "lotedom",
       "game_id": "el-quemaito-mayor",
@@ -996,11 +996,11 @@
       "provider": "LoteDom",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "numbers": [
-        "24",
-        "51",
-        "88"
+        "67",
+        "06",
+        "76"
       ],
       "provider_id": "lotedom",
       "game_id": "quiniela",
@@ -1010,10 +1010,10 @@
       "provider": "LoteDom",
       "game": "Súper Palé",
       "edition": null,
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "numbers": [
-        "24",
-        "59"
+        "67",
+        "71"
       ],
       "provider_id": "lotedom",
       "game_id": "super-pale",
