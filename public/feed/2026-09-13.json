@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-09-13T20:35:25.015436Z",
+  "last_updated": "2026-09-13T22:35:47.765936Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -256,11 +256,11 @@
       "provider": "Anguila",
       "game": "Anguila 5:00 PM",
       "edition": null,
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "numbers": [
-        "34",
-        "83",
-        "43"
+        "88",
+        "25",
+        "63"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-5-00-pm",
@@ -270,11 +270,11 @@
       "provider": "Anguila",
       "game": "Anguila 6:00 PM",
       "edition": null,
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "numbers": [
-        "54",
-        "96",
-        "64"
+        "46",
+        "38",
+        "12"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-6-00-pm",
@@ -384,12 +384,12 @@
       "provider": "Anguila",
       "game": "La Cuarteta 6:00 PM",
       "edition": null,
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "numbers": [
-        "78",
-        "40",
-        "15",
-        "30"
+        "95",
+        "91",
+        "59",
+        "29"
       ],
       "provider_id": "anguila",
       "game_id": "la-cuarteta-6-00-pm",
@@ -848,11 +848,11 @@
       "provider": "La Suerte Dominicana",
       "game": "La Suerte",
       "edition": "Tarde",
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "numbers": [
-        "57",
-        "90",
-        "58"
+        "81",
+        "48",
+        "87"
       ],
       "provider_id": "la-suerte-dominicana",
       "game_id": "la-suerte",
@@ -956,10 +956,10 @@
       "provider": "Leidsa",
       "game": "Súper Palé",
       "edition": null,
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "numbers": [
-        "22",
-        "24"
+        "69",
+        "05"
       ],
       "provider_id": "leidsa",
       "game_id": "super-pale",
@@ -1098,11 +1098,11 @@
       "provider": "Lotería Nacional",
       "game": "Billetes Domingo",
       "edition": null,
-      "date": "2026-08-30",
+      "date": "2026-09-13",
       "numbers": [
-        "330271",
-        "062487",
-        "105575"
+        "307005",
+        "052603",
+        "179806"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "billetes-domingo",
@@ -1142,11 +1142,11 @@
       "provider": "Lotería Nacional",
       "game": "Lotería Nacional",
       "edition": null,
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "numbers": [
-        "24",
-        "87",
-        "52"
+        "05",
+        "03",
+        "06"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "loteria-nacional",
