@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-09-15T14:38:25.957267Z",
+  "last_updated": "2026-09-15T17:32:09.319170Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -23,11 +23,11 @@
       "provider": "Americanas",
       "game": "Georgia",
       "edition": "Día",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "numbers": [
-        "67",
-        "76",
-        "73"
+        "08",
+        "47",
+        "13"
       ],
       "provider_id": "americanas",
       "game_id": "georgia",
@@ -82,11 +82,11 @@
       "provider": "Americanas",
       "game": "New Jersey",
       "edition": "Día",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "numbers": [
-        "17",
-        "76",
-        "49"
+        "24",
+        "47",
+        "62"
       ],
       "provider_id": "americanas",
       "game_id": "new-jersey",
@@ -144,11 +144,11 @@
       "provider": "Anguila",
       "game": "Anguila 1:00 PM",
       "edition": null,
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "numbers": [
-        "71",
-        "04",
-        "45"
+        "91",
+        "73",
+        "48"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-1-00-pm",
@@ -186,11 +186,11 @@
       "provider": "Anguila",
       "game": "Anguila 11:00 AM",
       "edition": null,
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "numbers": [
-        "18",
-        "81",
-        "98"
+        "85",
+        "13",
+        "79"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-11-00-am",
@@ -200,11 +200,11 @@
       "provider": "Anguila",
       "game": "Anguila 12:00 PM",
       "edition": null,
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "numbers": [
-        "19",
-        "60",
-        "44"
+        "04",
+        "10",
+        "42"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-12-00-pm",
@@ -354,12 +354,12 @@
       "provider": "Anguila",
       "game": "La Cuarteta 1:00 PM",
       "edition": null,
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "numbers": [
-        "52",
-        "91",
-        "93",
-        "25"
+        "71",
+        "44",
+        "44",
+        "96"
       ],
       "provider_id": "anguila",
       "game_id": "la-cuarteta-1-00-pm",
@@ -414,13 +414,13 @@
       "provider": "Florida",
       "game": "Fantasy",
       "edition": "Día",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "numbers": [
+        "32",
+        "29",
+        "34",
         "35",
-        "26",
-        "06",
-        "18",
-        "05"
+        "20"
       ],
       "provider_id": "florida",
       "game_id": "fantasy",
@@ -621,10 +621,10 @@
       "provider": "King Lottery",
       "game": "King Lottery",
       "edition": "Día",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "numbers": [
-        "19",
-        "58",
+        "41",
+        "98",
         "13"
       ],
       "provider_id": "king-lottery",
@@ -649,12 +649,12 @@
       "provider": "King Lottery",
       "game": "Loto Pool",
       "edition": "Día",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "numbers": [
-        "01",
-        "77",
-        "02",
-        "79"
+        "34",
+        "74",
+        "99",
+        "22"
       ],
       "provider_id": "king-lottery",
       "game_id": "loto-pool",
@@ -679,11 +679,11 @@
       "provider": "King Lottery",
       "game": "Philipsburg",
       "edition": "Día",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "numbers": [
-        "1598",
-        "4225",
-        "6048"
+        "8791",
+        "4077",
+        "5238"
       ],
       "provider_id": "king-lottery",
       "game_id": "philipsburg",
@@ -707,11 +707,11 @@
       "provider": "King Lottery",
       "game": "Pick 3",
       "edition": "Día",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "numbers": [
-        "07",
-        "01",
-        "09"
+        "04",
+        "04",
+        "01"
       ],
       "provider_id": "king-lottery",
       "game_id": "pick-3",
@@ -735,9 +735,9 @@
       "provider": "King Lottery",
       "game": "Pick 4",
       "edition": "Día",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "numbers": [
-        "05",
+        "09",
         "08",
         "01",
         "03"
@@ -765,9 +765,9 @@
       "provider": "La Primera",
       "game": "El Quinielón",
       "edition": "Día",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "numbers": [
-        "87"
+        "77"
       ],
       "provider_id": "la-primera",
       "game_id": "el-quinielon",
@@ -806,11 +806,11 @@
       "provider": "La Primera",
       "game": "Quiniela",
       "edition": "Medio Día",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "numbers": [
-        "57",
-        "78",
-        "83"
+        "54",
+        "12",
+        "78"
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela",
@@ -834,11 +834,11 @@
       "provider": "La Suerte Dominicana",
       "game": "La Suerte",
       "edition": "Día",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "numbers": [
-        "29",
-        "30",
-        "29"
+        "54",
+        "37",
+        "53"
       ],
       "provider_id": "la-suerte-dominicana",
       "game_id": "la-suerte",
@@ -969,12 +969,12 @@
       "provider": "LoteDom",
       "game": "Agarra 4",
       "edition": null,
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "numbers": [
-        "39",
-        "31",
         "03",
-        "55"
+        "06",
+        "36",
+        "64"
       ],
       "provider_id": "lotedom",
       "game_id": "agarra-4",
@@ -984,9 +984,9 @@
       "provider": "LoteDom",
       "game": "El Quemaito Mayor",
       "edition": null,
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "numbers": [
-        "55"
+        "64"
       ],
       "provider_id": "lotedom",
       "game_id": "el-quemaito-mayor",
@@ -996,11 +996,11 @@
       "provider": "LoteDom",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "numbers": [
-        "39",
-        "31",
-        "03"
+        "03",
+        "06",
+        "36"
       ],
       "provider_id": "lotedom",
       "game_id": "quiniela",
@@ -1010,10 +1010,10 @@
       "provider": "LoteDom",
       "game": "Súper Palé",
       "edition": null,
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "numbers": [
-        "39",
-        "55"
+        "03",
+        "64"
       ],
       "provider_id": "lotedom",
       "game_id": "super-pale",
@@ -1186,12 +1186,12 @@
       "provider": "Lotería Real",
       "game": "Loto Pool",
       "edition": null,
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "numbers": [
-        "72",
-        "21",
-        "73",
-        "45"
+        "88",
+        "64",
+        "66",
+        "77"
       ],
       "provider_id": "loteria-real",
       "game_id": "loto-pool",
@@ -1233,11 +1233,11 @@
       "provider": "Lotería Real",
       "game": "Nueva Yol Real",
       "edition": null,
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "numbers": [
-        "09",
-        "49",
-        "76"
+        "79",
+        "15",
+        "07"
       ],
       "provider_id": "loteria-real",
       "game_id": "nueva-yol-real",
@@ -1262,11 +1262,11 @@
       "provider": "Lotería Real",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "numbers": [
-        "91",
-        "34",
-        "94"
+        "02",
+        "96",
+        "35"
       ],
       "provider_id": "loteria-real",
       "game_id": "quiniela",
@@ -1301,9 +1301,9 @@
       "provider": "Lotería Real",
       "game": "Tu Fecha Real",
       "edition": null,
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "numbers": [
-        "25"
+        "13"
       ],
       "provider_id": "loteria-real",
       "game_id": "tu-fecha-real",
