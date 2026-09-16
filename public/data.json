@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-09-16T18:35:05.548786Z",
+  "last_updated": "2026-09-16T21:08:01.099034Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -228,11 +228,11 @@
       "provider": "Anguila",
       "game": "Anguila 3:00 PM",
       "edition": null,
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "numbers": [
-        "87",
-        "49",
-        "58"
+        "67",
+        "31",
+        "16"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-3-00-pm",
@@ -242,11 +242,11 @@
       "provider": "Anguila",
       "game": "Anguila 4:00 PM",
       "edition": null,
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "numbers": [
-        "26",
-        "80",
-        "81"
+        "93",
+        "49",
+        "96"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-4-00-pm",
@@ -256,11 +256,11 @@
       "provider": "Anguila",
       "game": "Anguila 5:00 PM",
       "edition": null,
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "numbers": [
-        "41",
-        "39",
-        "44"
+        "03",
+        "19",
+        "29"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-5-00-pm",
@@ -1112,11 +1112,11 @@
       "provider": "Lotería Nacional",
       "game": "Gana Más",
       "edition": null,
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "numbers": [
-        "93",
-        "85",
-        "76"
+        "11",
+        "11",
+        "02"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "gana-mas",
@@ -1126,12 +1126,12 @@
       "provider": "Lotería Nacional",
       "game": "Juega + Pega +",
       "edition": null,
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "numbers": [
-        "26",
-        "15",
-        "19",
-        "18",
+        "22",
+        "03",
+        "06",
+        "25",
         "24"
       ],
       "provider_id": "loteria-nacional",
@@ -1288,10 +1288,10 @@
       "provider": "Lotería Real",
       "game": "Súper Palé",
       "edition": null,
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "numbers": [
-        "02",
-        "93"
+        "84",
+        "11"
       ],
       "provider_id": "loteria-real",
       "game_id": "super-pale",
