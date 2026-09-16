@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-09-16T01:07:18.234335Z",
+  "last_updated": "2026-09-16T02:12:05.567929Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -172,11 +172,11 @@
       "provider": "Anguila",
       "game": "Anguila 10:00 PM",
       "edition": null,
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "numbers": [
-        "91",
-        "97",
-        "50"
+        "18",
+        "95",
+        "33"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-10-00-pm",
@@ -511,11 +511,11 @@
       "provider": "Florida",
       "game": "Pick 2",
       "edition": "Noche",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "numbers": [
-        "00",
-        "00",
-        "09"
+        "05",
+        "02",
+        "02"
       ],
       "provider_id": "florida",
       "game_id": "pick-2",
@@ -540,12 +540,12 @@
       "provider": "Florida",
       "game": "Pick 3",
       "edition": "Noche",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "numbers": [
-        "02",
+        "04",
         "00",
-        "00",
-        "09"
+        "05",
+        "02"
       ],
       "provider_id": "florida",
       "game_id": "pick-3",
@@ -571,13 +571,13 @@
       "provider": "Florida",
       "game": "Pick 4",
       "edition": "Noche",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "numbers": [
+        "06",
         "08",
-        "09",
+        "06",
         "08",
-        "08",
-        "09"
+        "02"
       ],
       "provider_id": "florida",
       "game_id": "pick-4",
@@ -604,14 +604,14 @@
       "provider": "Florida",
       "game": "Pick 5",
       "edition": "Noche",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "numbers": [
-        "03",
-        "03",
-        "01",
-        "09",
         "05",
-        "09"
+        "02",
+        "06",
+        "06",
+        "05",
+        "02"
       ],
       "provider_id": "florida",
       "game_id": "pick-5",
