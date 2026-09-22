@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-09-22T21:07:16.228409Z",
+  "last_updated": "2026-09-22T23:29:07.918760Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -51,11 +51,11 @@
       "provider": "Americanas",
       "game": "Georgia",
       "edition": "Tarde",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "numbers": [
-        "10",
-        "48",
-        "34"
+        "20",
+        "15",
+        "57"
       ],
       "provider_id": "americanas",
       "game_id": "georgia",
@@ -270,11 +270,11 @@
       "provider": "Anguila",
       "game": "Anguila 6:00 PM",
       "edition": null,
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "numbers": [
-        "64",
-        "71",
-        "90"
+        "22",
+        "58",
+        "36"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-6-00-pm",
@@ -284,11 +284,11 @@
       "provider": "Anguila",
       "game": "Anguila 7:00 PM",
       "edition": null,
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "numbers": [
-        "77",
-        "85",
-        "95"
+        "24",
+        "43",
+        "51"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-7-00-pm",
@@ -384,12 +384,12 @@
       "provider": "Anguila",
       "game": "La Cuarteta 6:00 PM",
       "edition": null,
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "numbers": [
-        "98",
-        "73",
-        "41",
-        "85"
+        "44",
+        "55",
+        "49",
+        "48"
       ],
       "provider_id": "anguila",
       "game_id": "la-cuarteta-6-00-pm",
@@ -777,9 +777,9 @@
       "provider": "La Primera",
       "game": "El Quinielón",
       "edition": "Noche",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "numbers": [
-        "24"
+        "59"
       ],
       "provider_id": "la-primera",
       "game_id": "el-quinielon",
@@ -789,14 +789,14 @@
       "provider": "La Primera",
       "game": "Loto 5",
       "edition": null,
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "numbers": [
-        "07",
-        "32",
-        "25",
-        "30",
+        "28",
+        "37",
+        "14",
+        "34",
         "05",
-        "02"
+        "10"
       ],
       "provider_id": "la-primera",
       "game_id": "loto-5",
@@ -820,11 +820,11 @@
       "provider": "La Primera",
       "game": "Quiniela",
       "edition": "Noche",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "numbers": [
-        "03",
-        "31",
-        "40"
+        "67",
+        "02",
+        "30"
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela",
@@ -848,11 +848,11 @@
       "provider": "La Suerte Dominicana",
       "game": "La Suerte",
       "edition": "Tarde",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "numbers": [
-        "75",
-        "30",
-        "86"
+        "81",
+        "46",
+        "43"
       ],
       "provider_id": "la-suerte-dominicana",
       "game_id": "la-suerte",
