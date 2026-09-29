@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-09-29T18:29:40.398583Z",
+  "last_updated": "2026-09-29T19:06:12.917502Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -228,11 +228,11 @@
       "provider": "Anguila",
       "game": "Anguila 3:00 PM",
       "edition": null,
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "numbers": [
-        "17",
-        "23",
-        "95"
+        "40",
+        "98",
+        "40"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-3-00-pm",
@@ -1112,11 +1112,11 @@
       "provider": "Lotería Nacional",
       "game": "Gana Más",
       "edition": null,
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "numbers": [
-        "85",
-        "27",
-        "60"
+        "22",
+        "96",
+        "70"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "gana-mas",
@@ -1126,13 +1126,13 @@
       "provider": "Lotería Nacional",
       "game": "Juega + Pega +",
       "edition": null,
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "numbers": [
-        "20",
-        "08",
-        "23",
-        "20",
-        "23"
+        "19",
+        "07",
+        "19",
+        "22",
+        "25"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "juega-pega",
@@ -1288,10 +1288,10 @@
       "provider": "Lotería Real",
       "game": "Súper Palé",
       "edition": null,
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "numbers": [
-        "08",
-        "85"
+        "99",
+        "22"
       ],
       "provider_id": "loteria-real",
       "game_id": "super-pale",
@@ -1348,11 +1348,11 @@
       "provider": "New York",
       "game": "Numbers",
       "edition": "Día",
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "numbers": [
-        "06",
+        "09",
         "01",
-        "03"
+        "02"
       ],
       "provider_id": "new-york",
       "game_id": "numbers",
@@ -1376,13 +1376,13 @@
       "provider": "New York",
       "game": "Take 5",
       "edition": "Día",
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "numbers": [
-        "37",
-        "15",
-        "04",
-        "21",
-        "33"
+        "39",
+        "31",
+        "36",
+        "28",
+        "08"
       ],
       "provider_id": "new-york",
       "game_id": "take-5",
@@ -1408,12 +1408,12 @@
       "provider": "New York",
       "game": "Win 4",
       "edition": "Día",
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "numbers": [
-        "09",
-        "01",
-        "04",
-        "01"
+        "03",
+        "08",
+        "03",
+        "06"
       ],
       "provider_id": "new-york",
       "game_id": "win-4",
