@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-09-29T03:09:23.144931Z",
+  "last_updated": "2026-09-29T09:44:13.474278Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -37,11 +37,11 @@
       "provider": "Americanas",
       "game": "Georgia",
       "edition": "Noche",
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "numbers": [
-        "63",
-        "15",
-        "47"
+        "94",
+        "37",
+        "70"
       ],
       "provider_id": "americanas",
       "game_id": "georgia",
@@ -127,14 +127,14 @@
       "provider": "Americanas",
       "game": "PowerBall Double Play",
       "edition": null,
-      "date": "2026-09-26",
+      "date": "2026-09-28",
       "numbers": [
-        "23",
-        "09",
-        "69",
-        "31",
-        "59",
-        "12"
+        "46",
+        "43",
+        "20",
+        "11",
+        "26",
+        "18"
       ],
       "provider_id": "americanas",
       "game_id": "powerball-double-play",
@@ -430,13 +430,13 @@
       "provider": "Florida",
       "game": "Fantasy 5",
       "edition": "Noche",
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "numbers": [
-        "36",
-        "26",
-        "22",
-        "34",
-        "13"
+        "30",
+        "10",
+        "29",
+        "14",
+        "18"
       ],
       "provider_id": "florida",
       "game_id": "fantasy-5",
@@ -1313,14 +1313,14 @@
       "provider": "New York",
       "game": "Millionaire For Life",
       "edition": null,
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "numbers": [
-        "24",
-        "25",
-        "30",
-        "35",
-        "47",
-        "04"
+        "02",
+        "14",
+        "23",
+        "27",
+        "28",
+        "02"
       ],
       "provider_id": "new-york",
       "game_id": "millionaire-for-life",
