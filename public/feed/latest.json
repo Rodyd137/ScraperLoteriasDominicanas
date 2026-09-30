@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-09-30T10:17:40.546946Z",
+  "last_updated": "2026-09-30T15:43:34.266070Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -17,7 +17,7 @@
       ],
       "provider_id": "americanas",
       "game_id": "cash-4-life",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/Apdk6Mt7vLltNur3vfYuV.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/Apdk6Mt7vLltNur3vfYuV.png"
     },
     {
       "provider": "Americanas",
@@ -31,7 +31,7 @@
       ],
       "provider_id": "americanas",
       "game_id": "georgia",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/08/26/i2xSKjki_CrAtU-w_JENw.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/08/26/i2xSKjki_CrAtU-w_JENw.png"
     },
     {
       "provider": "Americanas",
@@ -45,7 +45,7 @@
       ],
       "provider_id": "americanas",
       "game_id": "georgia",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/08/26/AGFZ3kGw1SOSHTnuSAHzW.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/08/26/AGFZ3kGw1SOSHTnuSAHzW.png"
     },
     {
       "provider": "Americanas",
@@ -59,7 +59,7 @@
       ],
       "provider_id": "americanas",
       "game_id": "georgia",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/09/08/QyJVvqFS5rFtnwnvyXS5q.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/09/08/QyJVvqFS5rFtnwnvyXS5q.png"
     },
     {
       "provider": "Americanas",
@@ -76,7 +76,7 @@
       ],
       "provider_id": "americanas",
       "game_id": "mega-millions",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/O9R_OrQqkUE_VV9exgs8K.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/O9R_OrQqkUE_VV9exgs8K.png"
     },
     {
       "provider": "Americanas",
@@ -90,7 +90,7 @@
       ],
       "provider_id": "americanas",
       "game_id": "new-jersey",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/08/26/WFUw-IoZR2h0bDQI61DV1.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/08/26/WFUw-IoZR2h0bDQI61DV1.png"
     },
     {
       "provider": "Americanas",
@@ -104,7 +104,7 @@
       ],
       "provider_id": "americanas",
       "game_id": "new-jersey",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/08/26/WSTWN4wj-ti7PdpUBy3Kc.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/08/26/WSTWN4wj-ti7PdpUBy3Kc.png"
     },
     {
       "provider": "Americanas",
@@ -121,7 +121,7 @@
       ],
       "provider_id": "americanas",
       "game_id": "powerball",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/G0J6youQz_BWDus4VZ75G.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/G0J6youQz_BWDus4VZ75G.png"
     },
     {
       "provider": "Americanas",
@@ -138,7 +138,7 @@
       ],
       "provider_id": "americanas",
       "game_id": "powerball-double-play",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/F1zuJGoJVHX8t0vmYt6iG.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/F1zuJGoJVHX8t0vmYt6iG.png"
     },
     {
       "provider": "Anguila",
@@ -152,21 +152,21 @@
       ],
       "provider_id": "anguila",
       "game_id": "anguila-1-00-pm",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/RQSr67dKkXZrzP3Aw2k14.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/RQSr67dKkXZrzP3Aw2k14.png"
     },
     {
       "provider": "Anguila",
       "game": "Anguila 10:00 AM",
       "edition": null,
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "numbers": [
-        "87",
-        "65",
-        "35"
+        "08",
+        "10",
+        "11"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-10-00-am",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/VtE_YGWIjMXi-8-_54vJJ.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/VtE_YGWIjMXi-8-_54vJJ.png"
     },
     {
       "provider": "Anguila",
@@ -180,21 +180,21 @@
       ],
       "provider_id": "anguila",
       "game_id": "anguila-10-00-pm",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/08/05/s1PuqWPsPPEcrNDC8_4GP.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/08/05/s1PuqWPsPPEcrNDC8_4GP.png"
     },
     {
       "provider": "Anguila",
       "game": "Anguila 11:00 AM",
       "edition": null,
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "numbers": [
-        "12",
-        "64",
-        "21"
+        "14",
+        "69",
+        "34"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-11-00-am",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/08/05/zIMvump7QH6TWZpfd5Ti7.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/08/05/zIMvump7QH6TWZpfd5Ti7.png"
     },
     {
       "provider": "Anguila",
@@ -208,7 +208,7 @@
       ],
       "provider_id": "anguila",
       "game_id": "anguila-12-00-pm",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/08/05/dMEUIMpc9o4iNyKIZG8ie.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/08/05/dMEUIMpc9o4iNyKIZG8ie.png"
     },
     {
       "provider": "Anguila",
@@ -222,7 +222,7 @@
       ],
       "provider_id": "anguila",
       "game_id": "anguila-2-00-pm",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/08/05/CXfXTbrCQpVQM1sr_sA84.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/08/05/CXfXTbrCQpVQM1sr_sA84.png"
     },
     {
       "provider": "Anguila",
@@ -236,7 +236,7 @@
       ],
       "provider_id": "anguila",
       "game_id": "anguila-3-00-pm",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/08/05/ndWV3om1VcGSAbQF5GlaW.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/08/05/ndWV3om1VcGSAbQF5GlaW.png"
     },
     {
       "provider": "Anguila",
@@ -250,7 +250,7 @@
       ],
       "provider_id": "anguila",
       "game_id": "anguila-4-00-pm",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/08/05/9ObJoa0f8-lN-j31-8M_x.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/08/05/9ObJoa0f8-lN-j31-8M_x.png"
     },
     {
       "provider": "Anguila",
@@ -264,7 +264,7 @@
       ],
       "provider_id": "anguila",
       "game_id": "anguila-5-00-pm",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/08/05/GnqM2vTktdtj0kAYmCLKN.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/08/05/GnqM2vTktdtj0kAYmCLKN.png"
     },
     {
       "provider": "Anguila",
@@ -278,7 +278,7 @@
       ],
       "provider_id": "anguila",
       "game_id": "anguila-6-00-pm",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/dy-rguyYJdplDu-Q9Fr_6.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/dy-rguyYJdplDu-Q9Fr_6.png"
     },
     {
       "provider": "Anguila",
@@ -292,21 +292,21 @@
       ],
       "provider_id": "anguila",
       "game_id": "anguila-7-00-pm",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/08/05/yDa4Jkh85F_3ECBsnZoVj.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/08/05/yDa4Jkh85F_3ECBsnZoVj.png"
     },
     {
       "provider": "Anguila",
       "game": "Anguila 8:00  AM",
       "edition": null,
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "numbers": [
-        "59",
-        "83",
-        "99"
+        "31",
+        "14",
+        "17"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-8-00-am",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/08/05/LBWSfYn71Ob4n0c8-ZK-q.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/08/05/LBWSfYn71Ob4n0c8-ZK-q.png"
     },
     {
       "provider": "Anguila",
@@ -320,21 +320,21 @@
       ],
       "provider_id": "anguila",
       "game_id": "anguila-8-00-pm",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/08/05/T6yPBB0kNb_Z_vHj6kjUS.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/08/05/T6yPBB0kNb_Z_vHj6kjUS.png"
     },
     {
       "provider": "Anguila",
       "game": "Anguila 9:00 AM",
       "edition": null,
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "numbers": [
-        "40",
-        "53",
-        "90"
+        "97",
+        "00",
+        "36"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-9-00-am",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/08/05/5lxvjD5cHRYzQRQ-Q_kI5.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/08/05/5lxvjD5cHRYzQRQ-Q_kI5.png"
     },
     {
       "provider": "Anguila",
@@ -348,7 +348,7 @@
       ],
       "provider_id": "anguila",
       "game_id": "anguila-9-00-pm",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/E0_wYqSmwvW1dhJvth60N.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/E0_wYqSmwvW1dhJvth60N.png"
     },
     {
       "provider": "Anguila",
@@ -363,22 +363,22 @@
       ],
       "provider_id": "anguila",
       "game_id": "la-cuarteta-1-00-pm",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/UECe4XMlOnAliYhi27r8W.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/UECe4XMlOnAliYhi27r8W.png"
     },
     {
       "provider": "Anguila",
       "game": "La Cuarteta 10:00 AM",
       "edition": null,
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "numbers": [
-        "80",
-        "17",
-        "80",
-        "28"
+        "40",
+        "52",
+        "88",
+        "51"
       ],
       "provider_id": "anguila",
       "game_id": "la-cuarteta-10-00-am",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/i-XwBSWQwdIrPp8_q34_q.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/i-XwBSWQwdIrPp8_q34_q.png"
     },
     {
       "provider": "Anguila",
@@ -393,7 +393,7 @@
       ],
       "provider_id": "anguila",
       "game_id": "la-cuarteta-6-00-pm",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/ZHRQXbRVnWHn36mLnohPR.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/ZHRQXbRVnWHn36mLnohPR.png"
     },
     {
       "provider": "Anguila",
@@ -408,7 +408,7 @@
       ],
       "provider_id": "anguila",
       "game_id": "la-cuarteta-9-00-pm",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/PCwYefaoKOQpCWnZYv8UP.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/PCwYefaoKOQpCWnZYv8UP.png"
     },
     {
       "provider": "Florida",
@@ -424,7 +424,7 @@
       ],
       "provider_id": "florida",
       "game_id": "fantasy",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/36_d7WwG2juCy-FcIg_mx.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/36_d7WwG2juCy-FcIg_mx.png"
     },
     {
       "provider": "Florida",
@@ -440,7 +440,7 @@
       ],
       "provider_id": "florida",
       "game_id": "fantasy-5",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/CriBjqLUwMDdxCZSjANtl.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/CriBjqLUwMDdxCZSjANtl.png"
     },
     {
       "provider": "Florida",
@@ -457,7 +457,7 @@
       ],
       "provider_id": "florida",
       "game_id": "florida-lotto",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/aZoAAiNLdyQsg9-Es_sB6.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/aZoAAiNLdyQsg9-Es_sB6.png"
     },
     {
       "provider": "Florida",
@@ -474,7 +474,7 @@
       ],
       "provider_id": "florida",
       "game_id": "florida-lotto-double-play",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/XmOfH1Z-hluPaxNE_HdQm.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/XmOfH1Z-hluPaxNE_HdQm.png"
     },
     {
       "provider": "Florida",
@@ -491,7 +491,7 @@
       ],
       "provider_id": "florida",
       "game_id": "jackpot-triple-play",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/JQV5t-E43-bVrI3EnoGVF.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/JQV5t-E43-bVrI3EnoGVF.png"
     },
     {
       "provider": "Florida",
@@ -505,7 +505,7 @@
       ],
       "provider_id": "florida",
       "game_id": "pick-2",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/GKMZqXRfPt1p0nJYX7pxy.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/GKMZqXRfPt1p0nJYX7pxy.png"
     },
     {
       "provider": "Florida",
@@ -519,7 +519,7 @@
       ],
       "provider_id": "florida",
       "game_id": "pick-2",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/IMcrQ-_V7bUdZxYXpi-IG.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/IMcrQ-_V7bUdZxYXpi-IG.png"
     },
     {
       "provider": "Florida",
@@ -534,7 +534,7 @@
       ],
       "provider_id": "florida",
       "game_id": "pick-3",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/oAnDqfz23nIlydTndMG4B.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/oAnDqfz23nIlydTndMG4B.png"
     },
     {
       "provider": "Florida",
@@ -549,7 +549,7 @@
       ],
       "provider_id": "florida",
       "game_id": "pick-3",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/Nj18AtB13f848Nhx04q7H.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/Nj18AtB13f848Nhx04q7H.png"
     },
     {
       "provider": "Florida",
@@ -565,7 +565,7 @@
       ],
       "provider_id": "florida",
       "game_id": "pick-4",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/-dfLEFbizfDl8Z6oP1lp0.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/-dfLEFbizfDl8Z6oP1lp0.png"
     },
     {
       "provider": "Florida",
@@ -581,7 +581,7 @@
       ],
       "provider_id": "florida",
       "game_id": "pick-4",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/_CRZZDXBETZuAPwpTaHiR.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/_CRZZDXBETZuAPwpTaHiR.png"
     },
     {
       "provider": "Florida",
@@ -598,7 +598,7 @@
       ],
       "provider_id": "florida",
       "game_id": "pick-5",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/8DJQJcwetQUXLFonz8XkO.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/8DJQJcwetQUXLFonz8XkO.png"
     },
     {
       "provider": "Florida",
@@ -615,7 +615,91 @@
       ],
       "provider_id": "florida",
       "game_id": "pick-5",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/0nIHDm90fY5BJ7Eb8Gihu.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/0nIHDm90fY5BJ7Eb8Gihu.png"
+    },
+    {
+      "provider": "Haiti Bolet",
+      "game": "Haiti Bolet 10:30 AM",
+      "edition": null,
+      "date": "2026-09-30",
+      "numbers": [
+        "21",
+        "61",
+        "16"
+      ],
+      "provider_id": "haiti-bolet",
+      "game_id": "haiti-bolet-10-30-am",
+      "logo_url": "https://cdn.kiskoo.com/2026/08/05/ACt-5A0B1bXFM_yP6M5ok.png"
+    },
+    {
+      "provider": "Haiti Bolet",
+      "game": "Haiti Bolet 11:30 AM",
+      "edition": null,
+      "date": "2026-09-30",
+      "numbers": [
+        "71",
+        "00",
+        "61"
+      ],
+      "provider_id": "haiti-bolet",
+      "game_id": "haiti-bolet-11-30-am",
+      "logo_url": "https://cdn.kiskoo.com/2026/08/05/AUttQ2rY_F4j8zap7xGfJ.png"
+    },
+    {
+      "provider": "Haiti Bolet",
+      "game": "Haiti Bolet 5:30 PM",
+      "edition": null,
+      "date": "2026-09-29",
+      "numbers": [
+        "77",
+        "43",
+        "10"
+      ],
+      "provider_id": "haiti-bolet",
+      "game_id": "haiti-bolet-5-30-pm",
+      "logo_url": "https://cdn.kiskoo.com/2026/08/05/jwjT8irunj02WX5X6p8-O.png"
+    },
+    {
+      "provider": "Haiti Bolet",
+      "game": "Haiti Bolet 6:30 PM",
+      "edition": null,
+      "date": "2026-09-29",
+      "numbers": [
+        "01",
+        "21",
+        "97"
+      ],
+      "provider_id": "haiti-bolet",
+      "game_id": "haiti-bolet-6-30-pm",
+      "logo_url": "https://cdn.kiskoo.com/2026/08/05/ncSXXoHL3KuOY2hv55v4q.png"
+    },
+    {
+      "provider": "Haiti Bolet",
+      "game": "Haiti Bolet 7:30 PM",
+      "edition": null,
+      "date": "2026-09-29",
+      "numbers": [
+        "83",
+        "55",
+        "50"
+      ],
+      "provider_id": "haiti-bolet",
+      "game_id": "haiti-bolet-7-30-pm",
+      "logo_url": "https://cdn.kiskoo.com/2026/08/05/xB30ZYe3NJDp-is9FtOAb.png"
+    },
+    {
+      "provider": "Haiti Bolet",
+      "game": "Haiti Bolet 9:30 AM",
+      "edition": null,
+      "date": "2026-09-30",
+      "numbers": [
+        "66",
+        "47",
+        "34"
+      ],
+      "provider_id": "haiti-bolet",
+      "game_id": "haiti-bolet-9-30-am",
+      "logo_url": "https://cdn.kiskoo.com/2026/08/05/UD6I2dH_QnQxp3ccZJ0Ip.png"
     },
     {
       "provider": "King Lottery",
@@ -629,7 +713,7 @@
       ],
       "provider_id": "king-lottery",
       "game_id": "king-lottery",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/b2dwqagLLzJ0c59YRteWB.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/b2dwqagLLzJ0c59YRteWB.png"
     },
     {
       "provider": "King Lottery",
@@ -643,7 +727,7 @@
       ],
       "provider_id": "king-lottery",
       "game_id": "king-lottery",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/Lt0AsGpSIjRio6aJhUPeq.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/Lt0AsGpSIjRio6aJhUPeq.png"
     },
     {
       "provider": "King Lottery",
@@ -658,7 +742,7 @@
       ],
       "provider_id": "king-lottery",
       "game_id": "loto-pool",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/fQLQIHmded6zi65FLSiRp.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/fQLQIHmded6zi65FLSiRp.png"
     },
     {
       "provider": "King Lottery",
@@ -673,7 +757,7 @@
       ],
       "provider_id": "king-lottery",
       "game_id": "loto-pool",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/D4gqLsy7GB5O-HRTanp_q.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/D4gqLsy7GB5O-HRTanp_q.png"
     },
     {
       "provider": "King Lottery",
@@ -687,7 +771,7 @@
       ],
       "provider_id": "king-lottery",
       "game_id": "philipsburg",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/d9rpsf5tdA5b3GHxWdJnt.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/d9rpsf5tdA5b3GHxWdJnt.png"
     },
     {
       "provider": "King Lottery",
@@ -701,7 +785,7 @@
       ],
       "provider_id": "king-lottery",
       "game_id": "philipsburg",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/-RFomjmG791z3Cu9ziF_B.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/-RFomjmG791z3Cu9ziF_B.png"
     },
     {
       "provider": "King Lottery",
@@ -715,7 +799,7 @@
       ],
       "provider_id": "king-lottery",
       "game_id": "pick-3",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/cMc7tkYQqHh5PTPMm5BtQ.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/cMc7tkYQqHh5PTPMm5BtQ.png"
     },
     {
       "provider": "King Lottery",
@@ -729,7 +813,7 @@
       ],
       "provider_id": "king-lottery",
       "game_id": "pick-3",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/VxN9wn-nSWGw-sR-dwegd.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/VxN9wn-nSWGw-sR-dwegd.png"
     },
     {
       "provider": "King Lottery",
@@ -744,7 +828,7 @@
       ],
       "provider_id": "king-lottery",
       "game_id": "pick-4",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/adhwqFxtDyBdfT1Z2B70L.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/adhwqFxtDyBdfT1Z2B70L.png"
     },
     {
       "provider": "King Lottery",
@@ -759,7 +843,7 @@
       ],
       "provider_id": "king-lottery",
       "game_id": "pick-4",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/nb_2OtzC5boF0cpFbQisd.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/nb_2OtzC5boF0cpFbQisd.png"
     },
     {
       "provider": "La Primera",
@@ -771,7 +855,7 @@
       ],
       "provider_id": "la-primera",
       "game_id": "el-quinielon",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/oS1rBR5NB0LREQGzntRo0.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/oS1rBR5NB0LREQGzntRo0.png"
     },
     {
       "provider": "La Primera",
@@ -783,7 +867,7 @@
       ],
       "provider_id": "la-primera",
       "game_id": "el-quinielon",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/Y08nQkHQi570VfU68B8Rj.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/Y08nQkHQi570VfU68B8Rj.png"
     },
     {
       "provider": "La Primera",
@@ -800,7 +884,7 @@
       ],
       "provider_id": "la-primera",
       "game_id": "loto-5",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/59HRb8tMjkvZ5l0js77Lm.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/59HRb8tMjkvZ5l0js77Lm.png"
     },
     {
       "provider": "La Primera",
@@ -814,7 +898,7 @@
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/tDVwjpdds0o-H5EknATKs.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/tDVwjpdds0o-H5EknATKs.png"
     },
     {
       "provider": "La Primera",
@@ -828,7 +912,7 @@
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/3xOsXgB-ufPiIkq50am1P.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/3xOsXgB-ufPiIkq50am1P.png"
     },
     {
       "provider": "La Suerte Dominicana",
@@ -842,7 +926,7 @@
       ],
       "provider_id": "la-suerte-dominicana",
       "game_id": "la-suerte",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/cUyw14cxGTeKq7XW5BZiE.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/cUyw14cxGTeKq7XW5BZiE.png"
     },
     {
       "provider": "La Suerte Dominicana",
@@ -856,7 +940,7 @@
       ],
       "provider_id": "la-suerte-dominicana",
       "game_id": "la-suerte",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/cs_K0PnCyrQQBSz6WWeRF.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/cs_K0PnCyrQQBSz6WWeRF.png"
     },
     {
       "provider": "Leidsa",
@@ -875,7 +959,7 @@
       ],
       "provider_id": "leidsa",
       "game_id": "loto-mas",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/GxJVTP8YgORDNGlLBVku-.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/GxJVTP8YgORDNGlLBVku-.png"
     },
     {
       "provider": "Leidsa",
@@ -891,7 +975,7 @@
       ],
       "provider_id": "leidsa",
       "game_id": "loto-pool",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/wMN9K_6gUtQ_4uIW4JjRx.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/wMN9K_6gUtQ_4uIW4JjRx.png"
     },
     {
       "provider": "Leidsa",
@@ -905,7 +989,7 @@
       ],
       "provider_id": "leidsa",
       "game_id": "pega-3-mas",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/MntmdvVbBNHfH2a2SDvqc.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/MntmdvVbBNHfH2a2SDvqc.png"
     },
     {
       "provider": "Leidsa",
@@ -919,7 +1003,7 @@
       ],
       "provider_id": "leidsa",
       "game_id": "quiniela",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/wMAQoiXYtsgYy67_em0zV.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/wMAQoiXYtsgYy67_em0zV.png"
     },
     {
       "provider": "Leidsa",
@@ -950,7 +1034,7 @@
       ],
       "provider_id": "leidsa",
       "game_id": "super-kino-tv",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/rGDdzZBvC9xED0svR4X1z.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/rGDdzZBvC9xED0svR4X1z.png"
     },
     {
       "provider": "Leidsa",
@@ -963,7 +1047,7 @@
       ],
       "provider_id": "leidsa",
       "game_id": "super-pale",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/-uHZ-kpRUiRTI_KMdfSwt.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/-uHZ-kpRUiRTI_KMdfSwt.png"
     },
     {
       "provider": "LoteDom",
@@ -978,7 +1062,7 @@
       ],
       "provider_id": "lotedom",
       "game_id": "agarra-4",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/8h1zjnEYQhpXQ5ZSmrufg.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/8h1zjnEYQhpXQ5ZSmrufg.png"
     },
     {
       "provider": "LoteDom",
@@ -990,7 +1074,7 @@
       ],
       "provider_id": "lotedom",
       "game_id": "el-quemaito-mayor",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/iW_CjO9mPcfgEF9CJJPf-.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/iW_CjO9mPcfgEF9CJJPf-.png"
     },
     {
       "provider": "LoteDom",
@@ -1004,7 +1088,7 @@
       ],
       "provider_id": "lotedom",
       "game_id": "quiniela",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/xtOoPeG6uBbdgWygtnxhJ.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/xtOoPeG6uBbdgWygtnxhJ.png"
     },
     {
       "provider": "LoteDom",
@@ -1017,7 +1101,7 @@
       ],
       "provider_id": "lotedom",
       "game_id": "super-pale",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/uAH16Wvk-pA6DkRyNaPcX.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/uAH16Wvk-pA6DkRyNaPcX.png"
     },
     {
       "provider": "Loteka",
@@ -1033,7 +1117,7 @@
       ],
       "provider_id": "loteka",
       "game_id": "mega-chances",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/9RnNns5bRhkv8To5jCvWa.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/9RnNns5bRhkv8To5jCvWa.png"
     },
     {
       "provider": "Loteka",
@@ -1045,7 +1129,7 @@
       ],
       "provider_id": "loteka",
       "game_id": "mega-chances-repartidera",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/jk1wSsmKtxnGWqPBz09hg.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/jk1wSsmKtxnGWqPBz09hg.png"
     },
     {
       "provider": "Loteka",
@@ -1064,7 +1148,7 @@
       ],
       "provider_id": "loteka",
       "game_id": "megalotto",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/IsWXLF_MEpj3y71QV9fAg.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/IsWXLF_MEpj3y71QV9fAg.png"
     },
     {
       "provider": "Loteka",
@@ -1078,7 +1162,7 @@
       ],
       "provider_id": "loteka",
       "game_id": "quiniela",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/hut-F1Z2M2OlcvqihkK_n.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/hut-F1Z2M2OlcvqihkK_n.png"
     },
     {
       "provider": "Loteka",
@@ -1092,7 +1176,7 @@
       ],
       "provider_id": "loteka",
       "game_id": "toca-3",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/_vnCuYOi8uIEsWWcVPyyZ.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/_vnCuYOi8uIEsWWcVPyyZ.png"
     },
     {
       "provider": "Lotería Nacional",
@@ -1106,7 +1190,7 @@
       ],
       "provider_id": "loteria-nacional",
       "game_id": "billetes-domingo",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/QlLesDaa_Cjkr-_aE6tWH.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/QlLesDaa_Cjkr-_aE6tWH.png"
     },
     {
       "provider": "Lotería Nacional",
@@ -1120,7 +1204,7 @@
       ],
       "provider_id": "loteria-nacional",
       "game_id": "gana-mas",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/6kjMLTnFd3e-ptBUTgkt9.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/6kjMLTnFd3e-ptBUTgkt9.png"
     },
     {
       "provider": "Lotería Nacional",
@@ -1136,7 +1220,7 @@
       ],
       "provider_id": "loteria-nacional",
       "game_id": "juega-pega",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/xRxWDKpdC-1b3wtSjl20X.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/xRxWDKpdC-1b3wtSjl20X.png"
     },
     {
       "provider": "Lotería Nacional",
@@ -1150,7 +1234,7 @@
       ],
       "provider_id": "loteria-nacional",
       "game_id": "loteria-nacional",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/JYiKvsBvOfzmPnsYdLDKD.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/JYiKvsBvOfzmPnsYdLDKD.png"
     },
     {
       "provider": "Lotería Real",
@@ -1166,7 +1250,7 @@
       ],
       "provider_id": "loteria-real",
       "game_id": "chance-real",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/08/18/UG4EAYf1Ef70Nhp4UxCl4.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/08/18/UG4EAYf1Ef70Nhp4UxCl4.png"
     },
     {
       "provider": "Lotería Real",
@@ -1180,7 +1264,7 @@
       ],
       "provider_id": "loteria-real",
       "game_id": "loteria-real",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/09/02/5J1DNiHv79SpmMBEOZH-J.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/09/02/5J1DNiHv79SpmMBEOZH-J.png"
     },
     {
       "provider": "Lotería Real",
@@ -1195,7 +1279,7 @@
       ],
       "provider_id": "loteria-real",
       "game_id": "loto-pool",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/93e3dLU80nJOWPJZHphq3.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/93e3dLU80nJOWPJZHphq3.png"
     },
     {
       "provider": "Lotería Real",
@@ -1210,7 +1294,7 @@
       ],
       "provider_id": "loteria-real",
       "game_id": "loto-pool",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/08/18/fhx3R8jmz-R3uhgAMxjA_.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/08/18/fhx3R8jmz-R3uhgAMxjA_.png"
     },
     {
       "provider": "Lotería Real",
@@ -1227,7 +1311,7 @@
       ],
       "provider_id": "loteria-real",
       "game_id": "loto-real",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/4oixZG8PfO3xbeiqAi6hI.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/4oixZG8PfO3xbeiqAi6hI.png"
     },
     {
       "provider": "Lotería Real",
@@ -1241,7 +1325,7 @@
       ],
       "provider_id": "loteria-real",
       "game_id": "nueva-yol-real",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/es8MiIzDJCxAq6EzMSkSS.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/es8MiIzDJCxAq6EzMSkSS.png"
     },
     {
       "provider": "Lotería Real",
@@ -1256,7 +1340,7 @@
       ],
       "provider_id": "loteria-real",
       "game_id": "pega-4",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/Xsk2rTKYzKJac2B3wrBfg.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/Xsk2rTKYzKJac2B3wrBfg.png"
     },
     {
       "provider": "Lotería Real",
@@ -1270,7 +1354,7 @@
       ],
       "provider_id": "loteria-real",
       "game_id": "quiniela",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/Ul4txIaPONEMGYgvt1CHV.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/Ul4txIaPONEMGYgvt1CHV.png"
     },
     {
       "provider": "Lotería Real",
@@ -1282,7 +1366,7 @@
       ],
       "provider_id": "loteria-real",
       "game_id": "repartidera-real",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/08/18/40gwyVI-XgGlXJKd12NSL.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/08/18/40gwyVI-XgGlXJKd12NSL.png"
     },
     {
       "provider": "Lotería Real",
@@ -1295,7 +1379,7 @@
       ],
       "provider_id": "loteria-real",
       "game_id": "super-pale",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/ec754pJ8YFLN_XLKrXa9x.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/ec754pJ8YFLN_XLKrXa9x.png"
     },
     {
       "provider": "Lotería Real",
@@ -1307,7 +1391,7 @@
       ],
       "provider_id": "loteria-real",
       "game_id": "tu-fecha-real",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/y0Gb0LP8NzbN69oiZiH-8.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/y0Gb0LP8NzbN69oiZiH-8.png"
     },
     {
       "provider": "New York",
@@ -1324,7 +1408,7 @@
       ],
       "provider_id": "new-york",
       "game_id": "millionaire-for-life",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/08/05/A-VZGF1eD4T-GUL9v99Py.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/08/05/A-VZGF1eD4T-GUL9v99Py.png"
     },
     {
       "provider": "New York",
@@ -1342,7 +1426,7 @@
       ],
       "provider_id": "new-york",
       "game_id": "new-york-lotto",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/WTj7nt8ujdw-ImunyuBnR.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/WTj7nt8ujdw-ImunyuBnR.png"
     },
     {
       "provider": "New York",
@@ -1356,7 +1440,7 @@
       ],
       "provider_id": "new-york",
       "game_id": "numbers",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/UWKS_jCFj9O4pthUSnd-o.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/UWKS_jCFj9O4pthUSnd-o.png"
     },
     {
       "provider": "New York",
@@ -1370,7 +1454,7 @@
       ],
       "provider_id": "new-york",
       "game_id": "numbers",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/ensLQUO0iH8MSdu0r4eov.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/ensLQUO0iH8MSdu0r4eov.png"
     },
     {
       "provider": "New York",
@@ -1386,7 +1470,7 @@
       ],
       "provider_id": "new-york",
       "game_id": "take-5",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/Fr_TnvtqPzcfV0nPBSUt4.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/Fr_TnvtqPzcfV0nPBSUt4.png"
     },
     {
       "provider": "New York",
@@ -1402,7 +1486,7 @@
       ],
       "provider_id": "new-york",
       "game_id": "take-5",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/KYAYRqQWcAEjwsgdJ5GW_.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/KYAYRqQWcAEjwsgdJ5GW_.png"
     },
     {
       "provider": "New York",
@@ -1417,7 +1501,7 @@
       ],
       "provider_id": "new-york",
       "game_id": "win-4",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/NSJRLT9hCU7RrBq1nDa3P.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/NSJRLT9hCU7RrBq1nDa3P.png"
     },
     {
       "provider": "New York",
@@ -1432,7 +1516,7 @@
       ],
       "provider_id": "new-york",
       "game_id": "win-4",
-      "logo_url": "https://temp-lottery.s3.us-east-1.amazonaws.com/2026/05/19/4-jVAqQOH8W3csjEMCpFU.png"
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/4-jVAqQOH8W3csjEMCpFU.png"
     }
   ]
 }
