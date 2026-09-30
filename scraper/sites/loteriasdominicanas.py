@@ -187,6 +187,17 @@ def _logo_url(*candidates: Optional[dict]) -> Optional[str]:
     return None
 
 
+DIAS_SIN_SORTEO = 60
+
+
+def _dias_desde(iso_utc: str) -> int:
+    try:
+        d = datetime.strptime(iso_utc[:10], "%Y-%m-%d").replace(tzinfo=timezone.utc)
+    except ValueError:
+        return 0
+    return (datetime.now(timezone.utc) - d).days
+
+
 def _yyyymmdd(iso_utc: str) -> str:
     """Session.date is always midnight America/Santo_Domingo expressed
     as UTC (`...T04:00:00.000Z`), so a plain ISO date slice gets the
@@ -230,6 +241,11 @@ def _draws_for(company_id: str, provider: str) -> List[Draw]:
         sess = sessions[0]
         numbers = _flatten_score(sess.get("score") or [], inner.get("score_layout") or [])
         if not numbers:
+            continue
+        # Un juego sin sorteos en 60 días ya no existe, aunque la web lo siga
+        # listando: Cash 4 Life terminó el 21-feb-2026 y en la app salía ese
+        # resultado viejo como si fuera el último.
+        if _dias_desde(sess.get("date") or "") > DIAS_SIN_SORTEO:
             continue
 
         # 1) Explicit override wins. 2) Suffix split. 3) Bare title.
