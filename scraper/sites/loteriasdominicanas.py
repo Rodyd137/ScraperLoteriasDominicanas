@@ -45,11 +45,14 @@ from ..schema import Draw, slugify
 from . import registry
 
 API_BASE  = "https://api.loteriasdominicanas.com/dominicana"
-S3_BASE   = "https://temp-lottery.s3.us-east-1.amazonaws.com"
+# El CDN de la propia web. El bucket de S3 que usábamos antes devuelve 403
+# en todo lo subido desde agosto (logos de Lotería Real, Haiti Bolet…);
+# este sirve lo viejo y lo nuevo con la misma clave.
+S3_BASE   = "https://cdn.kiskoo.com"
 ORIGIN    = "https://loteriasdominicanas.com"
 TIMEOUT_S = 12
 
-# 12 companies, mapped to the CANONICAL provider name the iOS app already
+# 13 companies, mapped to the CANONICAL provider name the iOS app already
 # knows (provider_id = slugify(canonical)). Changing the canonical name
 # would silently wipe user favorites/subscriptions stored by slug.
 COMPANIES: List[Tuple[str, str]] = [
@@ -66,6 +69,10 @@ COMPANIES: List[Tuple[str, str]] = [
     ("6966a6d3ea7015c3b8a3d5f1", "LoteDom"),
     ("6966a6d3ea7015c3b8a3d60e", "Anguila"),
     ("6966a6d3ea7015c3b8a3d643", "King Lottery"),
+    # Añadida en la web hacia el 5-ago-2026: seis sorteos al día
+    # (9:30, 10:30 y 11:30 AM; 5:30, 6:30 y 7:30 PM). Los títulos llevan
+    # la hora, como Anguila, y así se quedan.
+    ("6a4e8a2607d516b9c50a6cea", "Haiti Bolet"),
 ]
 
 # Longest-first so "Día" doesn't accidentally swallow "Medio Día".
