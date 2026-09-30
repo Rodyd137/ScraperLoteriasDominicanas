@@ -271,6 +271,7 @@ def _draws_for(company_id: str, provider: str) -> List[Draw]:
                 inner.get("mobile_logo"),
                 data.get("logo"),
             ),
+            provider_logo_url=_logo_url(data.get("logo")),
         ))
 
     print(f"[DEBUG][{provider}] encontrados:",

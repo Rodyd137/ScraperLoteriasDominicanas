@@ -34,6 +34,11 @@ class Draw:
     # el card no tiene imagen reconocible.
     logo_url: Optional[str] = None
 
+    # El logo de la EMPRESA (Leidsa, La Primera…), no el del juego. Es el
+    # que va en la fila del proveedor; sin él, la app ponía el del primer
+    # juego (El Quinielón en La Primera).
+    provider_logo_url: Optional[str] = None
+
 @dataclass
 class Payload:
     source: str
