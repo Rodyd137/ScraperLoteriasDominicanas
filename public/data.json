@@ -1,24 +1,7 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-09-30T15:43:34.266070Z",
+  "last_updated": "2026-09-30T15:58:06.777039Z",
   "draws": [
-    {
-      "provider": "Americanas",
-      "game": "Cash 4 Life",
-      "edition": null,
-      "date": "2026-02-21",
-      "numbers": [
-        "25",
-        "52",
-        "20",
-        "55",
-        "30",
-        "04"
-      ],
-      "provider_id": "americanas",
-      "game_id": "cash-4-life",
-      "logo_url": "https://cdn.kiskoo.com/2026/05/19/Apdk6Mt7vLltNur3vfYuV.png"
-    },
     {
       "provider": "Americanas",
       "game": "Georgia",
@@ -1326,21 +1309,6 @@
       "provider_id": "loteria-real",
       "game_id": "nueva-yol-real",
       "logo_url": "https://cdn.kiskoo.com/2026/05/19/es8MiIzDJCxAq6EzMSkSS.png"
-    },
-    {
-      "provider": "Lotería Real",
-      "game": "Pega 4",
-      "edition": null,
-      "date": "2026-03-31",
-      "numbers": [
-        "03",
-        "08",
-        "02",
-        "00"
-      ],
-      "provider_id": "loteria-real",
-      "game_id": "pega-4",
-      "logo_url": "https://cdn.kiskoo.com/2026/05/19/Xsk2rTKYzKJac2B3wrBfg.png"
     },
     {
       "provider": "Lotería Real",
