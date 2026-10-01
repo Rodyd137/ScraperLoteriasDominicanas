@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-10-01T20:01:16.782901Z",
+  "last_updated": "2026-10-01T22:32:25.042964Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -255,11 +255,11 @@
       "provider": "Anguila",
       "game": "Anguila 5:00 PM",
       "edition": null,
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "numbers": [
-        "04",
-        "76",
-        "72"
+        "93",
+        "13",
+        "40"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-5-00-pm",
@@ -270,11 +270,11 @@
       "provider": "Anguila",
       "game": "Anguila 6:00 PM",
       "edition": null,
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "numbers": [
-        "01",
-        "84",
-        "30"
+        "41",
+        "25",
+        "79"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-6-00-pm",
@@ -392,12 +392,12 @@
       "provider": "Anguila",
       "game": "La Cuarteta 6:00 PM",
       "edition": null,
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "numbers": [
-        "29",
-        "79",
-        "55",
-        "38"
+        "74",
+        "63",
+        "00",
+        "68"
       ],
       "provider_id": "anguila",
       "game_id": "la-cuarteta-6-00-pm",
@@ -674,11 +674,11 @@
       "provider": "Haiti Bolet",
       "game": "Haiti Bolet 5:30 PM",
       "edition": null,
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "numbers": [
-        "57",
-        "44",
-        "06"
+        "36",
+        "21",
+        "51"
       ],
       "provider_id": "haiti-bolet",
       "game_id": "haiti-bolet-5-30-pm",
@@ -977,11 +977,11 @@
       "provider": "La Suerte Dominicana",
       "game": "La Suerte",
       "edition": "Tarde",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "numbers": [
-        "66",
-        "25",
-        "46"
+        "12",
+        "54",
+        "14"
       ],
       "provider_id": "la-suerte-dominicana",
       "game_id": "la-suerte",
