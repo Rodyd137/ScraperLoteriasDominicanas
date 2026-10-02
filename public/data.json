@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-10-02T03:00:19.087639Z",
+  "last_updated": "2026-10-02T09:29:43.861525Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -21,11 +21,11 @@
       "provider": "Americanas",
       "game": "Georgia",
       "edition": "Noche",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "numbers": [
-        "39",
-        "84",
-        "55"
+        "74",
+        "77",
+        "75"
       ],
       "provider_id": "americanas",
       "game_id": "georgia",
@@ -84,11 +84,11 @@
       "provider": "Americanas",
       "game": "New Jersey",
       "edition": "Noche",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "numbers": [
-        "21",
-        "07",
-        "80"
+        "48",
+        "53",
+        "43"
       ],
       "provider_id": "americanas",
       "game_id": "new-jersey",
@@ -441,13 +441,13 @@
       "provider": "Florida",
       "game": "Fantasy 5",
       "edition": "Noche",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "numbers": [
-        "11",
-        "21",
-        "26",
-        "32",
-        "13"
+        "28",
+        "27",
+        "10",
+        "33",
+        "20"
       ],
       "provider_id": "florida",
       "game_id": "fantasy-5",
@@ -1472,13 +1472,13 @@
       "provider": "New York",
       "game": "Millionaire For Life",
       "edition": null,
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "numbers": [
-        "13",
-        "18",
-        "22",
-        "23",
-        "51",
+        "12",
+        "16",
+        "32",
+        "33",
+        "56",
         "02"
       ],
       "provider_id": "new-york",
