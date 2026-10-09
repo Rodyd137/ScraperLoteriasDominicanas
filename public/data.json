@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-10-09T00:57:56.904771Z",
+  "last_updated": "2026-10-09T02:48:05.745953Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -165,11 +165,11 @@
       "provider": "Anguila",
       "game": "Anguila 10:00 PM",
       "edition": null,
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "numbers": [
-        "35",
-        "06",
-        "30"
+        "96",
+        "82",
+        "79"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-10-00-pm",
@@ -345,11 +345,11 @@
       "provider": "Anguila",
       "game": "Anguila 9:00 PM",
       "edition": null,
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "numbers": [
-        "90",
-        "70",
-        "95"
+        "97",
+        "96",
+        "60"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-9-00-pm",
@@ -408,12 +408,12 @@
       "provider": "Anguila",
       "game": "La Cuarteta 9:00 PM",
       "edition": null,
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "numbers": [
-        "73",
-        "99",
-        "17",
-        "29"
+        "51",
+        "08",
+        "37",
+        "13"
       ],
       "provider_id": "anguila",
       "game_id": "la-cuarteta-9-00-pm",
@@ -527,11 +527,11 @@
       "provider": "Florida",
       "game": "Pick 2",
       "edition": "Noche",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "numbers": [
-        "06",
-        "09",
-        "01"
+        "07",
+        "02",
+        "00"
       ],
       "provider_id": "florida",
       "game_id": "pick-2",
@@ -558,12 +558,12 @@
       "provider": "Florida",
       "game": "Pick 3",
       "edition": "Noche",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "numbers": [
-        "03",
-        "03",
-        "00",
-        "01"
+        "05",
+        "01",
+        "05",
+        "00"
       ],
       "provider_id": "florida",
       "game_id": "pick-3",
@@ -591,13 +591,13 @@
       "provider": "Florida",
       "game": "Pick 4",
       "edition": "Noche",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "numbers": [
-        "09",
-        "03",
-        "09",
-        "07",
-        "01"
+        "02",
+        "08",
+        "08",
+        "04",
+        "00"
       ],
       "provider_id": "florida",
       "game_id": "pick-4",
@@ -626,14 +626,14 @@
       "provider": "Florida",
       "game": "Pick 5",
       "edition": "Noche",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "numbers": [
+        "01",
+        "02",
+        "06",
         "05",
-        "06",
-        "06",
-        "04",
-        "07",
-        "01"
+        "03",
+        "00"
       ],
       "provider_id": "florida",
       "game_id": "pick-5",
@@ -1012,13 +1012,13 @@
       "provider": "Leidsa",
       "game": "Loto Pool",
       "edition": null,
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "numbers": [
-        "03",
-        "17",
         "04",
-        "20",
-        "18"
+        "03",
+        "28",
+        "19",
+        "17"
       ],
       "provider_id": "leidsa",
       "game_id": "loto-pool",
@@ -1044,11 +1044,11 @@
       "provider": "Leidsa",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "numbers": [
-        "15",
-        "65",
-        "66"
+        "97",
+        "72",
+        "45"
       ],
       "provider_id": "leidsa",
       "game_id": "quiniela",
@@ -1059,28 +1059,28 @@
       "provider": "Leidsa",
       "game": "Super Kino TV",
       "edition": null,
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "numbers": [
-        "25",
-        "79",
-        "32",
-        "29",
-        "24",
-        "54",
+        "05",
         "65",
-        "48",
-        "80",
-        "12",
-        "71",
-        "82",
-        "35",
-        "50",
-        "10",
-        "11",
+        "14",
         "46",
+        "69",
+        "73",
+        "44",
+        "39",
+        "06",
+        "41",
         "64",
-        "17",
-        "01"
+        "63",
+        "28",
+        "60",
+        "75",
+        "27",
+        "82",
+        "77",
+        "30",
+        "35"
       ],
       "provider_id": "leidsa",
       "game_id": "super-kino-tv",
@@ -1091,10 +1091,10 @@
       "provider": "Leidsa",
       "game": "Súper Palé",
       "edition": null,
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "numbers": [
-        "15",
-        "14"
+        "97",
+        "49"
       ],
       "provider_id": "leidsa",
       "game_id": "super-pale",
@@ -1305,11 +1305,11 @@
       "provider": "Lotería Nacional",
       "game": "Lotería Nacional",
       "edition": null,
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "numbers": [
-        "14",
-        "59",
-        "00"
+        "49",
+        "25",
+        "27"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "loteria-nacional",
@@ -1524,11 +1524,11 @@
       "provider": "New York",
       "game": "Numbers",
       "edition": "Noche",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "numbers": [
-        "03",
-        "06",
-        "01"
+        "07",
+        "09",
+        "04"
       ],
       "provider_id": "new-york",
       "game_id": "numbers",
@@ -1556,13 +1556,13 @@
       "provider": "New York",
       "game": "Take 5",
       "edition": "Noche",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "numbers": [
-        "14",
-        "07",
-        "21",
-        "08",
-        "18"
+        "19",
+        "13",
+        "11",
+        "18",
+        "29"
       ],
       "provider_id": "new-york",
       "game_id": "take-5",
@@ -1589,12 +1589,12 @@
       "provider": "New York",
       "game": "Win 4",
       "edition": "Noche",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "numbers": [
-        "01",
-        "09",
-        "01",
-        "05"
+        "04",
+        "08",
+        "05",
+        "09"
       ],
       "provider_id": "new-york",
       "game_id": "win-4",
