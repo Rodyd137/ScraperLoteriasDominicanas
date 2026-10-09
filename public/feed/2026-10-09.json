@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-10-09T03:31:59.068003Z",
+  "last_updated": "2026-10-09T10:51:16.692151Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -21,11 +21,11 @@
       "provider": "Americanas",
       "game": "Georgia",
       "edition": "Noche",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "numbers": [
-        "64",
-        "60",
-        "29"
+        "57",
+        "71",
+        "91"
       ],
       "provider_id": "americanas",
       "game_id": "georgia",
@@ -1472,14 +1472,14 @@
       "provider": "New York",
       "game": "Millionaire For Life",
       "edition": null,
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "numbers": [
-        "15",
-        "19",
+        "13",
         "33",
-        "52",
-        "57",
-        "05"
+        "46",
+        "55",
+        "58",
+        "03"
       ],
       "provider_id": "new-york",
       "game_id": "millionaire-for-life",
