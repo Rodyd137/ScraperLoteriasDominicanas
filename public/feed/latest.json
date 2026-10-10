@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-10-10T03:12:05.728797Z",
+  "last_updated": "2026-10-10T09:46:54.838882Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -21,11 +21,11 @@
       "provider": "Americanas",
       "game": "Georgia",
       "edition": "Noche",
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "numbers": [
-        "57",
-        "71",
-        "91"
+        "53",
+        "86",
+        "00"
       ],
       "provider_id": "americanas",
       "game_id": "georgia",
@@ -51,14 +51,14 @@
       "provider": "Americanas",
       "game": "Mega Millions",
       "edition": null,
-      "date": "2026-10-06",
+      "date": "2026-10-09",
       "numbers": [
-        "26",
-        "42",
-        "54",
-        "51",
-        "32",
-        "22"
+        "07",
+        "16",
+        "70",
+        "02",
+        "63",
+        "08"
       ],
       "provider_id": "americanas",
       "game_id": "mega-millions",
@@ -441,13 +441,13 @@
       "provider": "Florida",
       "game": "Fantasy 5",
       "edition": "Noche",
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "numbers": [
-        "35",
-        "13",
+        "31",
+        "19",
         "11",
-        "28",
-        "15"
+        "03",
+        "14"
       ],
       "provider_id": "florida",
       "game_id": "fantasy-5",
@@ -494,14 +494,14 @@
       "provider": "Florida",
       "game": "Jackpot Triple Play",
       "edition": null,
-      "date": "2026-10-06",
+      "date": "2026-10-09",
       "numbers": [
-        "22",
-        "15",
-        "31",
-        "36",
-        "17",
-        "35"
+        "38",
+        "45",
+        "05",
+        "42",
+        "14",
+        "09"
       ],
       "provider_id": "florida",
       "game_id": "jackpot-triple-play",
@@ -1472,14 +1472,14 @@
       "provider": "New York",
       "game": "Millionaire For Life",
       "edition": null,
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "numbers": [
-        "13",
-        "33",
-        "46",
-        "55",
-        "58",
-        "03"
+        "01",
+        "02",
+        "05",
+        "51",
+        "57",
+        "04"
       ],
       "provider_id": "new-york",
       "game_id": "millionaire-for-life",
