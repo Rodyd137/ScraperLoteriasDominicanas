@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-10-11T16:33:23.297638Z",
+  "last_updated": "2026-10-11T17:55:45.117448Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -69,11 +69,11 @@
       "provider": "Americanas",
       "game": "New Jersey",
       "edition": "Día",
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "numbers": [
-        "69",
-        "18",
-        "39"
+        "38",
+        "71",
+        "42"
       ],
       "provider_id": "americanas",
       "game_id": "new-jersey",
@@ -135,11 +135,11 @@
       "provider": "Anguila",
       "game": "Anguila 1:00 PM",
       "edition": null,
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "numbers": [
-        "14",
-        "13",
-        "33"
+        "97",
+        "51",
+        "88"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-1-00-pm",
@@ -360,12 +360,12 @@
       "provider": "Anguila",
       "game": "La Cuarteta 1:00 PM",
       "edition": null,
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "numbers": [
-        "82",
-        "93",
-        "24",
-        "66"
+        "58",
+        "80",
+        "02",
+        "94"
       ],
       "provider_id": "anguila",
       "game_id": "la-cuarteta-1-00-pm",
@@ -424,13 +424,13 @@
       "provider": "Florida",
       "game": "Fantasy",
       "edition": "Día",
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "numbers": [
-        "32",
-        "02",
-        "06",
-        "08",
-        "11"
+        "17",
+        "11",
+        "21",
+        "09",
+        "28"
       ],
       "provider_id": "florida",
       "game_id": "fantasy",
@@ -512,10 +512,10 @@
       "provider": "Florida",
       "game": "Pick 2",
       "edition": "Día",
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "numbers": [
-        "07",
-        "01",
+        "05",
+        "04",
         "04"
       ],
       "provider_id": "florida",
@@ -542,11 +542,11 @@
       "provider": "Florida",
       "game": "Pick 3",
       "edition": "Día",
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "numbers": [
-        "07",
-        "04",
-        "04",
+        "05",
+        "01",
+        "06",
         "04"
       ],
       "provider_id": "florida",
@@ -574,12 +574,12 @@
       "provider": "Florida",
       "game": "Pick 4",
       "edition": "Día",
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "numbers": [
-        "03",
         "05",
-        "04",
-        "07",
+        "03",
+        "02",
+        "09",
         "04"
       ],
       "provider_id": "florida",
@@ -608,13 +608,13 @@
       "provider": "Florida",
       "game": "Pick 5",
       "edition": "Día",
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "numbers": [
-        "03",
-        "05",
-        "03",
-        "05",
-        "09",
+        "01",
+        "01",
+        "01",
+        "06",
+        "06",
         "04"
       ],
       "provider_id": "florida",
@@ -796,11 +796,11 @@
       "provider": "King Lottery",
       "game": "Philipsburg",
       "edition": "Día",
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "numbers": [
-        "6942",
-        "9849",
-        "0248"
+        "4340",
+        "2212",
+        "2974"
       ],
       "provider_id": "king-lottery",
       "game_id": "philipsburg",
@@ -962,11 +962,11 @@
       "provider": "La Suerte Dominicana",
       "game": "La Suerte",
       "edition": "Día",
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "numbers": [
-        "12",
-        "34",
-        "72"
+        "74",
+        "97",
+        "07"
       ],
       "provider_id": "la-suerte-dominicana",
       "game_id": "la-suerte",
@@ -1213,11 +1213,11 @@
       "provider": "Loteka",
       "game": "Quiniela",
       "edition": "Día",
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "numbers": [
+        "40",
         "64",
-        "81",
-        "40"
+        "57"
       ],
       "provider_id": "loteka",
       "game_id": "quiniela",
@@ -1352,12 +1352,12 @@
       "provider": "Lotería Real",
       "game": "Loto Pool",
       "edition": null,
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "numbers": [
-        "08",
-        "47",
-        "34",
-        "11"
+        "15",
+        "35",
+        "36",
+        "18"
       ],
       "provider_id": "loteria-real",
       "game_id": "loto-pool",
@@ -1402,11 +1402,11 @@
       "provider": "Lotería Real",
       "game": "Nueva Yol Real",
       "edition": null,
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "numbers": [
-        "08",
-        "54",
-        "28"
+        "34",
+        "66",
+        "98"
       ],
       "provider_id": "loteria-real",
       "game_id": "nueva-yol-real",
@@ -1417,11 +1417,11 @@
       "provider": "Lotería Real",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "numbers": [
-        "23",
-        "93",
-        "24"
+        "97",
+        "22",
+        "64"
       ],
       "provider_id": "loteria-real",
       "game_id": "quiniela",
@@ -1459,9 +1459,9 @@
       "provider": "Lotería Real",
       "game": "Tu Fecha Real",
       "edition": null,
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "numbers": [
-        "25"
+        "11"
       ],
       "provider_id": "loteria-real",
       "game_id": "tu-fecha-real",
