@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-10-12T20:56:13.447091Z",
+  "last_updated": "2026-10-12T21:37:45.348020Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -255,11 +255,11 @@
       "provider": "Anguila",
       "game": "Anguila 5:00 PM",
       "edition": null,
-      "date": "2026-10-11",
+      "date": "2026-10-12",
       "numbers": [
         "28",
-        "60",
-        "50"
+        "66",
+        "08"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-5-00-pm",
@@ -674,11 +674,11 @@
       "provider": "Haiti Bolet",
       "game": "Haiti Bolet 5:30 PM",
       "edition": null,
-      "date": "2026-10-11",
+      "date": "2026-10-12",
       "numbers": [
-        "48",
-        "80",
-        "16"
+        "88",
+        "07",
+        "08"
       ],
       "provider_id": "haiti-bolet",
       "game_id": "haiti-bolet-5-30-pm",
