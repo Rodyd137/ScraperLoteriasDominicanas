@@ -1,0 +1,1663 @@
+{
+  "source": "https://loteriasdominicanas.com",
+  "last_updated": "2026-10-15T01:13:23.658209Z",
+  "draws": [
+    {
+      "provider": "Americanas",
+      "game": "Georgia",
+      "edition": "Día",
+      "date": "2026-10-14",
+      "numbers": [
+        "93",
+        "33",
+        "63"
+      ],
+      "provider_id": "americanas",
+      "game_id": "georgia",
+      "logo_url": "https://cdn.kiskoo.com/2026/08/26/i2xSKjki_CrAtU-w_JENw.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/lUpJq9x_V8-w9v2tnYLq-.png"
+    },
+    {
+      "provider": "Americanas",
+      "game": "Georgia",
+      "edition": "Noche",
+      "date": "2026-10-13",
+      "numbers": [
+        "73",
+        "35",
+        "60"
+      ],
+      "provider_id": "americanas",
+      "game_id": "georgia",
+      "logo_url": "https://cdn.kiskoo.com/2026/08/26/AGFZ3kGw1SOSHTnuSAHzW.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/lUpJq9x_V8-w9v2tnYLq-.png"
+    },
+    {
+      "provider": "Americanas",
+      "game": "Georgia",
+      "edition": "Tarde",
+      "date": "2026-10-14",
+      "numbers": [
+        "01",
+        "10",
+        "85"
+      ],
+      "provider_id": "americanas",
+      "game_id": "georgia",
+      "logo_url": "https://cdn.kiskoo.com/2026/09/08/QyJVvqFS5rFtnwnvyXS5q.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/lUpJq9x_V8-w9v2tnYLq-.png"
+    },
+    {
+      "provider": "Americanas",
+      "game": "Mega Millions",
+      "edition": null,
+      "date": "2026-10-13",
+      "numbers": [
+        "12",
+        "66",
+        "11",
+        "40",
+        "15",
+        "17"
+      ],
+      "provider_id": "americanas",
+      "game_id": "mega-millions",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/O9R_OrQqkUE_VV9exgs8K.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/lUpJq9x_V8-w9v2tnYLq-.png"
+    },
+    {
+      "provider": "Americanas",
+      "game": "New Jersey",
+      "edition": "Día",
+      "date": "2026-10-14",
+      "numbers": [
+        "08",
+        "39",
+        "11"
+      ],
+      "provider_id": "americanas",
+      "game_id": "new-jersey",
+      "logo_url": "https://cdn.kiskoo.com/2026/08/26/WFUw-IoZR2h0bDQI61DV1.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/lUpJq9x_V8-w9v2tnYLq-.png"
+    },
+    {
+      "provider": "Americanas",
+      "game": "New Jersey",
+      "edition": "Noche",
+      "date": "2026-10-13",
+      "numbers": [
+        "33",
+        "69",
+        "04"
+      ],
+      "provider_id": "americanas",
+      "game_id": "new-jersey",
+      "logo_url": "https://cdn.kiskoo.com/2026/08/26/WSTWN4wj-ti7PdpUBy3Kc.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/lUpJq9x_V8-w9v2tnYLq-.png"
+    },
+    {
+      "provider": "Americanas",
+      "game": "PowerBall",
+      "edition": null,
+      "date": "2026-10-12",
+      "numbers": [
+        "22",
+        "38",
+        "69",
+        "28",
+        "51",
+        "09"
+      ],
+      "provider_id": "americanas",
+      "game_id": "powerball",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/G0J6youQz_BWDus4VZ75G.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/lUpJq9x_V8-w9v2tnYLq-.png"
+    },
+    {
+      "provider": "Americanas",
+      "game": "PowerBall Double Play",
+      "edition": null,
+      "date": "2026-10-12",
+      "numbers": [
+        "25",
+        "53",
+        "23",
+        "54",
+        "51",
+        "16"
+      ],
+      "provider_id": "americanas",
+      "game_id": "powerball-double-play",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/F1zuJGoJVHX8t0vmYt6iG.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/lUpJq9x_V8-w9v2tnYLq-.png"
+    },
+    {
+      "provider": "Anguila",
+      "game": "Anguila 1:00 PM",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "98",
+        "52",
+        "23"
+      ],
+      "provider_id": "anguila",
+      "game_id": "anguila-1-00-pm",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/RQSr67dKkXZrzP3Aw2k14.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/yZIh1wjum775hSi0entsX.png"
+    },
+    {
+      "provider": "Anguila",
+      "game": "Anguila 10:00 AM",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "37",
+        "91",
+        "00"
+      ],
+      "provider_id": "anguila",
+      "game_id": "anguila-10-00-am",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/VtE_YGWIjMXi-8-_54vJJ.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/yZIh1wjum775hSi0entsX.png"
+    },
+    {
+      "provider": "Anguila",
+      "game": "Anguila 10:00 PM",
+      "edition": null,
+      "date": "2026-10-13",
+      "numbers": [
+        "84",
+        "21",
+        "32"
+      ],
+      "provider_id": "anguila",
+      "game_id": "anguila-10-00-pm",
+      "logo_url": "https://cdn.kiskoo.com/2026/08/05/s1PuqWPsPPEcrNDC8_4GP.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/yZIh1wjum775hSi0entsX.png"
+    },
+    {
+      "provider": "Anguila",
+      "game": "Anguila 11:00 AM",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "67",
+        "48",
+        "93"
+      ],
+      "provider_id": "anguila",
+      "game_id": "anguila-11-00-am",
+      "logo_url": "https://cdn.kiskoo.com/2026/08/05/zIMvump7QH6TWZpfd5Ti7.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/yZIh1wjum775hSi0entsX.png"
+    },
+    {
+      "provider": "Anguila",
+      "game": "Anguila 12:00 PM",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "91",
+        "28",
+        "08"
+      ],
+      "provider_id": "anguila",
+      "game_id": "anguila-12-00-pm",
+      "logo_url": "https://cdn.kiskoo.com/2026/08/05/dMEUIMpc9o4iNyKIZG8ie.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/yZIh1wjum775hSi0entsX.png"
+    },
+    {
+      "provider": "Anguila",
+      "game": "Anguila 2:00 PM",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "50",
+        "47",
+        "66"
+      ],
+      "provider_id": "anguila",
+      "game_id": "anguila-2-00-pm",
+      "logo_url": "https://cdn.kiskoo.com/2026/08/05/CXfXTbrCQpVQM1sr_sA84.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/yZIh1wjum775hSi0entsX.png"
+    },
+    {
+      "provider": "Anguila",
+      "game": "Anguila 3:00 PM",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "33",
+        "07",
+        "41"
+      ],
+      "provider_id": "anguila",
+      "game_id": "anguila-3-00-pm",
+      "logo_url": "https://cdn.kiskoo.com/2026/08/05/ndWV3om1VcGSAbQF5GlaW.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/yZIh1wjum775hSi0entsX.png"
+    },
+    {
+      "provider": "Anguila",
+      "game": "Anguila 4:00 PM",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "44",
+        "07",
+        "05"
+      ],
+      "provider_id": "anguila",
+      "game_id": "anguila-4-00-pm",
+      "logo_url": "https://cdn.kiskoo.com/2026/08/05/9ObJoa0f8-lN-j31-8M_x.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/yZIh1wjum775hSi0entsX.png"
+    },
+    {
+      "provider": "Anguila",
+      "game": "Anguila 5:00 PM",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "54",
+        "59",
+        "60"
+      ],
+      "provider_id": "anguila",
+      "game_id": "anguila-5-00-pm",
+      "logo_url": "https://cdn.kiskoo.com/2026/08/05/GnqM2vTktdtj0kAYmCLKN.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/yZIh1wjum775hSi0entsX.png"
+    },
+    {
+      "provider": "Anguila",
+      "game": "Anguila 6:00 PM",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "02",
+        "33",
+        "29"
+      ],
+      "provider_id": "anguila",
+      "game_id": "anguila-6-00-pm",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/dy-rguyYJdplDu-Q9Fr_6.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/yZIh1wjum775hSi0entsX.png"
+    },
+    {
+      "provider": "Anguila",
+      "game": "Anguila 7:00 PM",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "34",
+        "41",
+        "17"
+      ],
+      "provider_id": "anguila",
+      "game_id": "anguila-7-00-pm",
+      "logo_url": "https://cdn.kiskoo.com/2026/08/05/yDa4Jkh85F_3ECBsnZoVj.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/yZIh1wjum775hSi0entsX.png"
+    },
+    {
+      "provider": "Anguila",
+      "game": "Anguila 8:00  AM",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "82",
+        "97",
+        "75"
+      ],
+      "provider_id": "anguila",
+      "game_id": "anguila-8-00-am",
+      "logo_url": "https://cdn.kiskoo.com/2026/08/05/LBWSfYn71Ob4n0c8-ZK-q.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/yZIh1wjum775hSi0entsX.png"
+    },
+    {
+      "provider": "Anguila",
+      "game": "Anguila 8:00 PM",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "90",
+        "22",
+        "59"
+      ],
+      "provider_id": "anguila",
+      "game_id": "anguila-8-00-pm",
+      "logo_url": "https://cdn.kiskoo.com/2026/08/05/T6yPBB0kNb_Z_vHj6kjUS.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/yZIh1wjum775hSi0entsX.png"
+    },
+    {
+      "provider": "Anguila",
+      "game": "Anguila 9:00 AM",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "07",
+        "13",
+        "20"
+      ],
+      "provider_id": "anguila",
+      "game_id": "anguila-9-00-am",
+      "logo_url": "https://cdn.kiskoo.com/2026/08/05/5lxvjD5cHRYzQRQ-Q_kI5.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/yZIh1wjum775hSi0entsX.png"
+    },
+    {
+      "provider": "Anguila",
+      "game": "Anguila 9:00 PM",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "54",
+        "92",
+        "94"
+      ],
+      "provider_id": "anguila",
+      "game_id": "anguila-9-00-pm",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/E0_wYqSmwvW1dhJvth60N.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/yZIh1wjum775hSi0entsX.png"
+    },
+    {
+      "provider": "Anguila",
+      "game": "La Cuarteta 1:00 PM",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "99",
+        "56",
+        "24",
+        "20"
+      ],
+      "provider_id": "anguila",
+      "game_id": "la-cuarteta-1-00-pm",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/UECe4XMlOnAliYhi27r8W.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/yZIh1wjum775hSi0entsX.png"
+    },
+    {
+      "provider": "Anguila",
+      "game": "La Cuarteta 10:00 AM",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "30",
+        "85",
+        "49",
+        "50"
+      ],
+      "provider_id": "anguila",
+      "game_id": "la-cuarteta-10-00-am",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/i-XwBSWQwdIrPp8_q34_q.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/yZIh1wjum775hSi0entsX.png"
+    },
+    {
+      "provider": "Anguila",
+      "game": "La Cuarteta 6:00 PM",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "36",
+        "65",
+        "81",
+        "30"
+      ],
+      "provider_id": "anguila",
+      "game_id": "la-cuarteta-6-00-pm",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/ZHRQXbRVnWHn36mLnohPR.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/yZIh1wjum775hSi0entsX.png"
+    },
+    {
+      "provider": "Anguila",
+      "game": "La Cuarteta 9:00 PM",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "34",
+        "51",
+        "18",
+        "53"
+      ],
+      "provider_id": "anguila",
+      "game_id": "la-cuarteta-9-00-pm",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/PCwYefaoKOQpCWnZYv8UP.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/yZIh1wjum775hSi0entsX.png"
+    },
+    {
+      "provider": "Florida",
+      "game": "Fantasy",
+      "edition": "Día",
+      "date": "2026-10-14",
+      "numbers": [
+        "20",
+        "24",
+        "05",
+        "35",
+        "14"
+      ],
+      "provider_id": "florida",
+      "game_id": "fantasy",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/36_d7WwG2juCy-FcIg_mx.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/7DclzngvSNbkfsmkBOFyj.png"
+    },
+    {
+      "provider": "Florida",
+      "game": "Fantasy 5",
+      "edition": "Noche",
+      "date": "2026-10-13",
+      "numbers": [
+        "29",
+        "30",
+        "20",
+        "17",
+        "18"
+      ],
+      "provider_id": "florida",
+      "game_id": "fantasy-5",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/CriBjqLUwMDdxCZSjANtl.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/7DclzngvSNbkfsmkBOFyj.png"
+    },
+    {
+      "provider": "Florida",
+      "game": "Florida Lotto",
+      "edition": null,
+      "date": "2026-10-10",
+      "numbers": [
+        "23",
+        "32",
+        "29",
+        "05",
+        "49",
+        "46"
+      ],
+      "provider_id": "florida",
+      "game_id": "florida-lotto",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/aZoAAiNLdyQsg9-Es_sB6.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/7DclzngvSNbkfsmkBOFyj.png"
+    },
+    {
+      "provider": "Florida",
+      "game": "Florida Lotto Double Play",
+      "edition": null,
+      "date": "2026-10-10",
+      "numbers": [
+        "17",
+        "34",
+        "19",
+        "21",
+        "15",
+        "36"
+      ],
+      "provider_id": "florida",
+      "game_id": "florida-lotto-double-play",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/XmOfH1Z-hluPaxNE_HdQm.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/7DclzngvSNbkfsmkBOFyj.png"
+    },
+    {
+      "provider": "Florida",
+      "game": "Jackpot Triple Play",
+      "edition": null,
+      "date": "2026-10-13",
+      "numbers": [
+        "35",
+        "07",
+        "41",
+        "16",
+        "43",
+        "38"
+      ],
+      "provider_id": "florida",
+      "game_id": "jackpot-triple-play",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/JQV5t-E43-bVrI3EnoGVF.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/7DclzngvSNbkfsmkBOFyj.png"
+    },
+    {
+      "provider": "Florida",
+      "game": "Pick 2",
+      "edition": "Día",
+      "date": "2026-10-14",
+      "numbers": [
+        "04",
+        "01",
+        "08"
+      ],
+      "provider_id": "florida",
+      "game_id": "pick-2",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/GKMZqXRfPt1p0nJYX7pxy.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/7DclzngvSNbkfsmkBOFyj.png"
+    },
+    {
+      "provider": "Florida",
+      "game": "Pick 2",
+      "edition": "Noche",
+      "date": "2026-10-13",
+      "numbers": [
+        "02",
+        "08",
+        "09"
+      ],
+      "provider_id": "florida",
+      "game_id": "pick-2",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/IMcrQ-_V7bUdZxYXpi-IG.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/7DclzngvSNbkfsmkBOFyj.png"
+    },
+    {
+      "provider": "Florida",
+      "game": "Pick 3",
+      "edition": "Día",
+      "date": "2026-10-14",
+      "numbers": [
+        "06",
+        "00",
+        "00",
+        "08"
+      ],
+      "provider_id": "florida",
+      "game_id": "pick-3",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/oAnDqfz23nIlydTndMG4B.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/7DclzngvSNbkfsmkBOFyj.png"
+    },
+    {
+      "provider": "Florida",
+      "game": "Pick 3",
+      "edition": "Noche",
+      "date": "2026-10-13",
+      "numbers": [
+        "08",
+        "00",
+        "08",
+        "09"
+      ],
+      "provider_id": "florida",
+      "game_id": "pick-3",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/Nj18AtB13f848Nhx04q7H.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/7DclzngvSNbkfsmkBOFyj.png"
+    },
+    {
+      "provider": "Florida",
+      "game": "Pick 4",
+      "edition": "Día",
+      "date": "2026-10-14",
+      "numbers": [
+        "09",
+        "06",
+        "07",
+        "04",
+        "08"
+      ],
+      "provider_id": "florida",
+      "game_id": "pick-4",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/-dfLEFbizfDl8Z6oP1lp0.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/7DclzngvSNbkfsmkBOFyj.png"
+    },
+    {
+      "provider": "Florida",
+      "game": "Pick 4",
+      "edition": "Noche",
+      "date": "2026-10-13",
+      "numbers": [
+        "04",
+        "02",
+        "04",
+        "08",
+        "09"
+      ],
+      "provider_id": "florida",
+      "game_id": "pick-4",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/_CRZZDXBETZuAPwpTaHiR.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/7DclzngvSNbkfsmkBOFyj.png"
+    },
+    {
+      "provider": "Florida",
+      "game": "Pick 5",
+      "edition": "Día",
+      "date": "2026-10-14",
+      "numbers": [
+        "06",
+        "00",
+        "00",
+        "01",
+        "04",
+        "08"
+      ],
+      "provider_id": "florida",
+      "game_id": "pick-5",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/8DJQJcwetQUXLFonz8XkO.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/7DclzngvSNbkfsmkBOFyj.png"
+    },
+    {
+      "provider": "Florida",
+      "game": "Pick 5",
+      "edition": "Noche",
+      "date": "2026-10-13",
+      "numbers": [
+        "01",
+        "07",
+        "07",
+        "00",
+        "07",
+        "09"
+      ],
+      "provider_id": "florida",
+      "game_id": "pick-5",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/0nIHDm90fY5BJ7Eb8Gihu.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/7DclzngvSNbkfsmkBOFyj.png"
+    },
+    {
+      "provider": "Haiti Bolet",
+      "game": "Haiti Bolet 10:30 AM",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "45",
+        "49",
+        "60"
+      ],
+      "provider_id": "haiti-bolet",
+      "game_id": "haiti-bolet-10-30-am",
+      "logo_url": "https://cdn.kiskoo.com/2026/08/05/ACt-5A0B1bXFM_yP6M5ok.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/08/05/wR12GvxB43J8tMsUvt5QN.png"
+    },
+    {
+      "provider": "Haiti Bolet",
+      "game": "Haiti Bolet 11:30 AM",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "50",
+        "89",
+        "83"
+      ],
+      "provider_id": "haiti-bolet",
+      "game_id": "haiti-bolet-11-30-am",
+      "logo_url": "https://cdn.kiskoo.com/2026/08/05/AUttQ2rY_F4j8zap7xGfJ.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/08/05/wR12GvxB43J8tMsUvt5QN.png"
+    },
+    {
+      "provider": "Haiti Bolet",
+      "game": "Haiti Bolet 5:30 PM",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "51",
+        "51",
+        "76"
+      ],
+      "provider_id": "haiti-bolet",
+      "game_id": "haiti-bolet-5-30-pm",
+      "logo_url": "https://cdn.kiskoo.com/2026/08/05/jwjT8irunj02WX5X6p8-O.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/08/05/wR12GvxB43J8tMsUvt5QN.png"
+    },
+    {
+      "provider": "Haiti Bolet",
+      "game": "Haiti Bolet 6:30 PM",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "03",
+        "91",
+        "81"
+      ],
+      "provider_id": "haiti-bolet",
+      "game_id": "haiti-bolet-6-30-pm",
+      "logo_url": "https://cdn.kiskoo.com/2026/08/05/ncSXXoHL3KuOY2hv55v4q.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/08/05/wR12GvxB43J8tMsUvt5QN.png"
+    },
+    {
+      "provider": "Haiti Bolet",
+      "game": "Haiti Bolet 7:30 PM",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "30",
+        "77",
+        "28"
+      ],
+      "provider_id": "haiti-bolet",
+      "game_id": "haiti-bolet-7-30-pm",
+      "logo_url": "https://cdn.kiskoo.com/2026/08/05/xB30ZYe3NJDp-is9FtOAb.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/08/05/wR12GvxB43J8tMsUvt5QN.png"
+    },
+    {
+      "provider": "Haiti Bolet",
+      "game": "Haiti Bolet 9:30 AM",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "58",
+        "45",
+        "45"
+      ],
+      "provider_id": "haiti-bolet",
+      "game_id": "haiti-bolet-9-30-am",
+      "logo_url": "https://cdn.kiskoo.com/2026/08/05/UD6I2dH_QnQxp3ccZJ0Ip.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/08/05/wR12GvxB43J8tMsUvt5QN.png"
+    },
+    {
+      "provider": "King Lottery",
+      "game": "King Lottery",
+      "edition": "Día",
+      "date": "2026-10-14",
+      "numbers": [
+        "65",
+        "94",
+        "93"
+      ],
+      "provider_id": "king-lottery",
+      "game_id": "king-lottery",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/b2dwqagLLzJ0c59YRteWB.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/GscKDMFfdrJ2voBbo-Bn3.png"
+    },
+    {
+      "provider": "King Lottery",
+      "game": "King Lottery",
+      "edition": "Noche",
+      "date": "2026-10-14",
+      "numbers": [
+        "34",
+        "56",
+        "06"
+      ],
+      "provider_id": "king-lottery",
+      "game_id": "king-lottery",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/Lt0AsGpSIjRio6aJhUPeq.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/GscKDMFfdrJ2voBbo-Bn3.png"
+    },
+    {
+      "provider": "King Lottery",
+      "game": "Loto Pool",
+      "edition": "Día",
+      "date": "2026-10-14",
+      "numbers": [
+        "27",
+        "00",
+        "23",
+        "33"
+      ],
+      "provider_id": "king-lottery",
+      "game_id": "loto-pool",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/fQLQIHmded6zi65FLSiRp.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/GscKDMFfdrJ2voBbo-Bn3.png"
+    },
+    {
+      "provider": "King Lottery",
+      "game": "Loto Pool",
+      "edition": "Noche",
+      "date": "2026-10-14",
+      "numbers": [
+        "06",
+        "59",
+        "25",
+        "53"
+      ],
+      "provider_id": "king-lottery",
+      "game_id": "loto-pool",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/D4gqLsy7GB5O-HRTanp_q.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/GscKDMFfdrJ2voBbo-Bn3.png"
+    },
+    {
+      "provider": "King Lottery",
+      "game": "Philipsburg",
+      "edition": "Día",
+      "date": "2026-10-14",
+      "numbers": [
+        "2597",
+        "6054",
+        "5168"
+      ],
+      "provider_id": "king-lottery",
+      "game_id": "philipsburg",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/d9rpsf5tdA5b3GHxWdJnt.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/GscKDMFfdrJ2voBbo-Bn3.png"
+    },
+    {
+      "provider": "King Lottery",
+      "game": "Philipsburg",
+      "edition": "Noche",
+      "date": "2026-10-14",
+      "numbers": [
+        "0628",
+        "6258",
+        "4740"
+      ],
+      "provider_id": "king-lottery",
+      "game_id": "philipsburg",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/-RFomjmG791z3Cu9ziF_B.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/GscKDMFfdrJ2voBbo-Bn3.png"
+    },
+    {
+      "provider": "King Lottery",
+      "game": "Pick 3",
+      "edition": "Día",
+      "date": "2026-10-14",
+      "numbers": [
+        "09",
+        "06",
+        "05"
+      ],
+      "provider_id": "king-lottery",
+      "game_id": "pick-3",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/cMc7tkYQqHh5PTPMm5BtQ.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/GscKDMFfdrJ2voBbo-Bn3.png"
+    },
+    {
+      "provider": "King Lottery",
+      "game": "Pick 3",
+      "edition": "Noche",
+      "date": "2026-10-14",
+      "numbers": [
+        "03",
+        "03",
+        "04"
+      ],
+      "provider_id": "king-lottery",
+      "game_id": "pick-3",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/VxN9wn-nSWGw-sR-dwegd.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/GscKDMFfdrJ2voBbo-Bn3.png"
+    },
+    {
+      "provider": "King Lottery",
+      "game": "Pick 4",
+      "edition": "Día",
+      "date": "2026-10-14",
+      "numbers": [
+        "09",
+        "04",
+        "09",
+        "03"
+      ],
+      "provider_id": "king-lottery",
+      "game_id": "pick-4",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/adhwqFxtDyBdfT1Z2B70L.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/GscKDMFfdrJ2voBbo-Bn3.png"
+    },
+    {
+      "provider": "King Lottery",
+      "game": "Pick 4",
+      "edition": "Noche",
+      "date": "2026-10-14",
+      "numbers": [
+        "05",
+        "06",
+        "00",
+        "06"
+      ],
+      "provider_id": "king-lottery",
+      "game_id": "pick-4",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/nb_2OtzC5boF0cpFbQisd.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/GscKDMFfdrJ2voBbo-Bn3.png"
+    },
+    {
+      "provider": "La Primera",
+      "game": "El Quinielón",
+      "edition": "Día",
+      "date": "2026-10-14",
+      "numbers": [
+        "24"
+      ],
+      "provider_id": "la-primera",
+      "game_id": "el-quinielon",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/oS1rBR5NB0LREQGzntRo0.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/myNpx51T2vYLkpH-UTdUO.png"
+    },
+    {
+      "provider": "La Primera",
+      "game": "El Quinielón",
+      "edition": "Noche",
+      "date": "2026-10-14",
+      "numbers": [
+        "09"
+      ],
+      "provider_id": "la-primera",
+      "game_id": "el-quinielon",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/Y08nQkHQi570VfU68B8Rj.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/myNpx51T2vYLkpH-UTdUO.png"
+    },
+    {
+      "provider": "La Primera",
+      "game": "Loto 5",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "23",
+        "35",
+        "25",
+        "19",
+        "30",
+        "06"
+      ],
+      "provider_id": "la-primera",
+      "game_id": "loto-5",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/59HRb8tMjkvZ5l0js77Lm.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/myNpx51T2vYLkpH-UTdUO.png"
+    },
+    {
+      "provider": "La Primera",
+      "game": "Quiniela",
+      "edition": "Medio Día",
+      "date": "2026-10-14",
+      "numbers": [
+        "52",
+        "29",
+        "47"
+      ],
+      "provider_id": "la-primera",
+      "game_id": "quiniela",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/tDVwjpdds0o-H5EknATKs.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/myNpx51T2vYLkpH-UTdUO.png"
+    },
+    {
+      "provider": "La Primera",
+      "game": "Quiniela",
+      "edition": "Noche",
+      "date": "2026-10-14",
+      "numbers": [
+        "28",
+        "02",
+        "97"
+      ],
+      "provider_id": "la-primera",
+      "game_id": "quiniela",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/3xOsXgB-ufPiIkq50am1P.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/myNpx51T2vYLkpH-UTdUO.png"
+    },
+    {
+      "provider": "La Suerte Dominicana",
+      "game": "La Suerte",
+      "edition": "Día",
+      "date": "2026-10-14",
+      "numbers": [
+        "91",
+        "06",
+        "95"
+      ],
+      "provider_id": "la-suerte-dominicana",
+      "game_id": "la-suerte",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/cUyw14cxGTeKq7XW5BZiE.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/0Lf7MowOlzHknjpHnQ0n3.png"
+    },
+    {
+      "provider": "La Suerte Dominicana",
+      "game": "La Suerte",
+      "edition": "Tarde",
+      "date": "2026-10-14",
+      "numbers": [
+        "36",
+        "88",
+        "35"
+      ],
+      "provider_id": "la-suerte-dominicana",
+      "game_id": "la-suerte",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/cs_K0PnCyrQQBSz6WWeRF.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/0Lf7MowOlzHknjpHnQ0n3.png"
+    },
+    {
+      "provider": "Leidsa",
+      "game": "Loto Más",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "36",
+        "40",
+        "11",
+        "25",
+        "35",
+        "29",
+        "09",
+        "10"
+      ],
+      "provider_id": "leidsa",
+      "game_id": "loto-mas",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/GxJVTP8YgORDNGlLBVku-.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/do8bauOb8NiwWWSaRZW1j.png"
+    },
+    {
+      "provider": "Leidsa",
+      "game": "Loto Pool",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "16",
+        "20",
+        "24",
+        "27",
+        "01"
+      ],
+      "provider_id": "leidsa",
+      "game_id": "loto-pool",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/wMN9K_6gUtQ_4uIW4JjRx.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/do8bauOb8NiwWWSaRZW1j.png"
+    },
+    {
+      "provider": "Leidsa",
+      "game": "Pega 3 Más",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "14",
+        "10",
+        "44"
+      ],
+      "provider_id": "leidsa",
+      "game_id": "pega-3-mas",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/MntmdvVbBNHfH2a2SDvqc.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/do8bauOb8NiwWWSaRZW1j.png"
+    },
+    {
+      "provider": "Leidsa",
+      "game": "Quiniela",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "00",
+        "08",
+        "43"
+      ],
+      "provider_id": "leidsa",
+      "game_id": "quiniela",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/wMAQoiXYtsgYy67_em0zV.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/do8bauOb8NiwWWSaRZW1j.png"
+    },
+    {
+      "provider": "Leidsa",
+      "game": "Super Kino TV",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "14",
+        "46",
+        "07",
+        "06",
+        "72",
+        "51",
+        "21",
+        "78",
+        "63",
+        "52",
+        "28",
+        "70",
+        "42",
+        "76",
+        "68",
+        "36",
+        "13",
+        "31",
+        "81",
+        "80"
+      ],
+      "provider_id": "leidsa",
+      "game_id": "super-kino-tv",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/rGDdzZBvC9xED0svR4X1z.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/do8bauOb8NiwWWSaRZW1j.png"
+    },
+    {
+      "provider": "Leidsa",
+      "game": "Súper Palé",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "00",
+        "04"
+      ],
+      "provider_id": "leidsa",
+      "game_id": "super-pale",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/-uHZ-kpRUiRTI_KMdfSwt.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/do8bauOb8NiwWWSaRZW1j.png"
+    },
+    {
+      "provider": "LoteDom",
+      "game": "Agarra 4",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "38",
+        "17",
+        "66",
+        "48"
+      ],
+      "provider_id": "lotedom",
+      "game_id": "agarra-4",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/8h1zjnEYQhpXQ5ZSmrufg.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/F30IpFXGz5hk56VX320zD.png"
+    },
+    {
+      "provider": "LoteDom",
+      "game": "Agarra 4",
+      "edition": "Noche",
+      "date": "2026-10-13",
+      "numbers": [
+        "09",
+        "05",
+        "18",
+        "20"
+      ],
+      "provider_id": "lotedom",
+      "game_id": "agarra-4",
+      "logo_url": "https://cdn.kiskoo.com/2026/10/13/6wRaabgj0ns5P7swAW8AI.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/F30IpFXGz5hk56VX320zD.png"
+    },
+    {
+      "provider": "LoteDom",
+      "game": "El Quemaito",
+      "edition": "Noche",
+      "date": "2026-10-13",
+      "numbers": [
+        "20"
+      ],
+      "provider_id": "lotedom",
+      "game_id": "el-quemaito",
+      "logo_url": "https://cdn.kiskoo.com/2026/10/13/aY0A0WwSVfqd8x9gmC7JZ.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/F30IpFXGz5hk56VX320zD.png"
+    },
+    {
+      "provider": "LoteDom",
+      "game": "El Quemaito Mayor",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "48"
+      ],
+      "provider_id": "lotedom",
+      "game_id": "el-quemaito-mayor",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/iW_CjO9mPcfgEF9CJJPf-.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/F30IpFXGz5hk56VX320zD.png"
+    },
+    {
+      "provider": "LoteDom",
+      "game": "LoteDom",
+      "edition": "Noche",
+      "date": "2026-10-13",
+      "numbers": [
+        "09",
+        "05",
+        "18"
+      ],
+      "provider_id": "lotedom",
+      "game_id": "lotedom",
+      "logo_url": "https://cdn.kiskoo.com/2026/10/12/qi-w39ki-bjaFWn6faG8z.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/F30IpFXGz5hk56VX320zD.png"
+    },
+    {
+      "provider": "LoteDom",
+      "game": "Quiniela",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "38",
+        "17",
+        "66"
+      ],
+      "provider_id": "lotedom",
+      "game_id": "quiniela",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/xtOoPeG6uBbdgWygtnxhJ.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/F30IpFXGz5hk56VX320zD.png"
+    },
+    {
+      "provider": "LoteDom",
+      "game": "Súper Palé",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "38",
+        "48"
+      ],
+      "provider_id": "lotedom",
+      "game_id": "super-pale",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/uAH16Wvk-pA6DkRyNaPcX.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/F30IpFXGz5hk56VX320zD.png"
+    },
+    {
+      "provider": "LoteDom",
+      "game": "Súper Palé",
+      "edition": "Noche",
+      "date": "2026-10-13",
+      "numbers": [
+        "09",
+        "20"
+      ],
+      "provider_id": "lotedom",
+      "game_id": "super-pale",
+      "logo_url": "https://cdn.kiskoo.com/2026/10/13/49aAxYEMTzlqQKVYr745p.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/F30IpFXGz5hk56VX320zD.png"
+    },
+    {
+      "provider": "Loteka",
+      "game": "Mega Chances",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "35",
+        "31",
+        "51",
+        "99",
+        "32"
+      ],
+      "provider_id": "loteka",
+      "game_id": "mega-chances",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/9RnNns5bRhkv8To5jCvWa.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/tQJACwzRO-jFr0Kx1zCIr.png"
+    },
+    {
+      "provider": "Loteka",
+      "game": "Mega Chances Repartidera",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "37"
+      ],
+      "provider_id": "loteka",
+      "game_id": "mega-chances-repartidera",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/jk1wSsmKtxnGWqPBz09hg.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/tQJACwzRO-jFr0Kx1zCIr.png"
+    },
+    {
+      "provider": "Loteka",
+      "game": "MegaLotto",
+      "edition": null,
+      "date": "2026-10-12",
+      "numbers": [
+        "32",
+        "35",
+        "02",
+        "23",
+        "04",
+        "34",
+        "09",
+        "07"
+      ],
+      "provider_id": "loteka",
+      "game_id": "megalotto",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/IsWXLF_MEpj3y71QV9fAg.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/tQJACwzRO-jFr0Kx1zCIr.png"
+    },
+    {
+      "provider": "Loteka",
+      "game": "Quiniela",
+      "edition": "Día",
+      "date": "2026-10-14",
+      "numbers": [
+        "64",
+        "49",
+        "11"
+      ],
+      "provider_id": "loteka",
+      "game_id": "quiniela",
+      "logo_url": "https://cdn.kiskoo.com/2026/09/30/uX3eBUCxRMfn6BjUTSktx.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/tQJACwzRO-jFr0Kx1zCIr.png"
+    },
+    {
+      "provider": "Loteka",
+      "game": "Quiniela",
+      "edition": "Noche",
+      "date": "2026-10-14",
+      "numbers": [
+        "36",
+        "56",
+        "20"
+      ],
+      "provider_id": "loteka",
+      "game_id": "quiniela",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/hut-F1Z2M2OlcvqihkK_n.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/tQJACwzRO-jFr0Kx1zCIr.png"
+    },
+    {
+      "provider": "Loteka",
+      "game": "Toca 3",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "00",
+        "02",
+        "02"
+      ],
+      "provider_id": "loteka",
+      "game_id": "toca-3",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/_vnCuYOi8uIEsWWcVPyyZ.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/tQJACwzRO-jFr0Kx1zCIr.png"
+    },
+    {
+      "provider": "Lotería Nacional",
+      "game": "Billetes Domingo",
+      "edition": null,
+      "date": "2026-10-11",
+      "numbers": [
+        "196178",
+        "161672",
+        "360043"
+      ],
+      "provider_id": "loteria-nacional",
+      "game_id": "billetes-domingo",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/QlLesDaa_Cjkr-_aE6tWH.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/cR8aDyxpC2lODX34ysMlf.png"
+    },
+    {
+      "provider": "Lotería Nacional",
+      "game": "Gana Más",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "26",
+        "47",
+        "09"
+      ],
+      "provider_id": "loteria-nacional",
+      "game_id": "gana-mas",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/6kjMLTnFd3e-ptBUTgkt9.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/cR8aDyxpC2lODX34ysMlf.png"
+    },
+    {
+      "provider": "Lotería Nacional",
+      "game": "Juega + Pega +",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "01",
+        "20",
+        "09",
+        "10",
+        "25"
+      ],
+      "provider_id": "loteria-nacional",
+      "game_id": "juega-pega",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/xRxWDKpdC-1b3wtSjl20X.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/cR8aDyxpC2lODX34ysMlf.png"
+    },
+    {
+      "provider": "Lotería Nacional",
+      "game": "Lotería Nacional",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "04",
+        "19",
+        "74"
+      ],
+      "provider_id": "loteria-nacional",
+      "game_id": "loteria-nacional",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/JYiKvsBvOfzmPnsYdLDKD.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/cR8aDyxpC2lODX34ysMlf.png"
+    },
+    {
+      "provider": "Lotería Real",
+      "game": "Chance Real",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "13",
+        "72",
+        "88",
+        "87",
+        "32"
+      ],
+      "provider_id": "loteria-real",
+      "game_id": "chance-real",
+      "logo_url": "https://cdn.kiskoo.com/2026/08/18/UG4EAYf1Ef70Nhp4UxCl4.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/UdNfodGEotLxKQ0h_V2g_.png"
+    },
+    {
+      "provider": "Lotería Real",
+      "game": "Lotería Real",
+      "edition": "Noche",
+      "date": "2026-10-14",
+      "numbers": [
+        "09",
+        "26",
+        "19"
+      ],
+      "provider_id": "loteria-real",
+      "game_id": "loteria-real",
+      "logo_url": "https://cdn.kiskoo.com/2026/09/02/5J1DNiHv79SpmMBEOZH-J.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/UdNfodGEotLxKQ0h_V2g_.png"
+    },
+    {
+      "provider": "Lotería Real",
+      "game": "Loto Pool",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "13",
+        "46",
+        "91",
+        "12"
+      ],
+      "provider_id": "loteria-real",
+      "game_id": "loto-pool",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/93e3dLU80nJOWPJZHphq3.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/UdNfodGEotLxKQ0h_V2g_.png"
+    },
+    {
+      "provider": "Lotería Real",
+      "game": "Loto Pool",
+      "edition": "Noche",
+      "date": "2026-10-14",
+      "numbers": [
+        "23",
+        "61",
+        "79",
+        "56"
+      ],
+      "provider_id": "loteria-real",
+      "game_id": "loto-pool",
+      "logo_url": "https://cdn.kiskoo.com/2026/08/18/fhx3R8jmz-R3uhgAMxjA_.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/UdNfodGEotLxKQ0h_V2g_.png"
+    },
+    {
+      "provider": "Lotería Real",
+      "game": "Loto Real",
+      "edition": null,
+      "date": "2026-10-13",
+      "numbers": [
+        "28",
+        "17",
+        "13",
+        "08",
+        "22",
+        "30"
+      ],
+      "provider_id": "loteria-real",
+      "game_id": "loto-real",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/4oixZG8PfO3xbeiqAi6hI.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/UdNfodGEotLxKQ0h_V2g_.png"
+    },
+    {
+      "provider": "Lotería Real",
+      "game": "Nueva Yol Real",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "78",
+        "79",
+        "31"
+      ],
+      "provider_id": "loteria-real",
+      "game_id": "nueva-yol-real",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/es8MiIzDJCxAq6EzMSkSS.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/UdNfodGEotLxKQ0h_V2g_.png"
+    },
+    {
+      "provider": "Lotería Real",
+      "game": "Quiniela",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "20",
+        "43",
+        "39"
+      ],
+      "provider_id": "loteria-real",
+      "game_id": "quiniela",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/Ul4txIaPONEMGYgvt1CHV.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/UdNfodGEotLxKQ0h_V2g_.png"
+    },
+    {
+      "provider": "Lotería Real",
+      "game": "Repartidera Real",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "58"
+      ],
+      "provider_id": "loteria-real",
+      "game_id": "repartidera-real",
+      "logo_url": "https://cdn.kiskoo.com/2026/08/18/40gwyVI-XgGlXJKd12NSL.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/UdNfodGEotLxKQ0h_V2g_.png"
+    },
+    {
+      "provider": "Lotería Real",
+      "game": "Súper Palé",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "20",
+        "26"
+      ],
+      "provider_id": "loteria-real",
+      "game_id": "super-pale",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/ec754pJ8YFLN_XLKrXa9x.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/UdNfodGEotLxKQ0h_V2g_.png"
+    },
+    {
+      "provider": "Lotería Real",
+      "game": "Tu Fecha Real",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "01"
+      ],
+      "provider_id": "loteria-real",
+      "game_id": "tu-fecha-real",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/y0Gb0LP8NzbN69oiZiH-8.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/UdNfodGEotLxKQ0h_V2g_.png"
+    },
+    {
+      "provider": "New York",
+      "game": "Millionaire For Life",
+      "edition": null,
+      "date": "2026-10-13",
+      "numbers": [
+        "03",
+        "07",
+        "35",
+        "45",
+        "53",
+        "04"
+      ],
+      "provider_id": "new-york",
+      "game_id": "millionaire-for-life",
+      "logo_url": "https://cdn.kiskoo.com/2026/08/05/A-VZGF1eD4T-GUL9v99Py.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/_HZufyyP4m49wjdvRz-h5.png"
+    },
+    {
+      "provider": "New York",
+      "game": "New York Lotto",
+      "edition": null,
+      "date": "2026-10-14",
+      "numbers": [
+        "36",
+        "55",
+        "08",
+        "35",
+        "21",
+        "56",
+        "01"
+      ],
+      "provider_id": "new-york",
+      "game_id": "new-york-lotto",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/WTj7nt8ujdw-ImunyuBnR.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/_HZufyyP4m49wjdvRz-h5.png"
+    },
+    {
+      "provider": "New York",
+      "game": "Numbers",
+      "edition": "Día",
+      "date": "2026-10-14",
+      "numbers": [
+        "03",
+        "08",
+        "09"
+      ],
+      "provider_id": "new-york",
+      "game_id": "numbers",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/UWKS_jCFj9O4pthUSnd-o.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/_HZufyyP4m49wjdvRz-h5.png"
+    },
+    {
+      "provider": "New York",
+      "game": "Numbers",
+      "edition": "Noche",
+      "date": "2026-10-13",
+      "numbers": [
+        "03",
+        "05",
+        "09"
+      ],
+      "provider_id": "new-york",
+      "game_id": "numbers",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/ensLQUO0iH8MSdu0r4eov.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/_HZufyyP4m49wjdvRz-h5.png"
+    },
+    {
+      "provider": "New York",
+      "game": "Take 5",
+      "edition": "Día",
+      "date": "2026-10-14",
+      "numbers": [
+        "37",
+        "02",
+        "13",
+        "39",
+        "24"
+      ],
+      "provider_id": "new-york",
+      "game_id": "take-5",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/Fr_TnvtqPzcfV0nPBSUt4.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/_HZufyyP4m49wjdvRz-h5.png"
+    },
+    {
+      "provider": "New York",
+      "game": "Take 5",
+      "edition": "Noche",
+      "date": "2026-10-13",
+      "numbers": [
+        "30",
+        "31",
+        "20",
+        "15",
+        "05"
+      ],
+      "provider_id": "new-york",
+      "game_id": "take-5",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/KYAYRqQWcAEjwsgdJ5GW_.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/_HZufyyP4m49wjdvRz-h5.png"
+    },
+    {
+      "provider": "New York",
+      "game": "Win 4",
+      "edition": "Día",
+      "date": "2026-10-14",
+      "numbers": [
+        "08",
+        "09",
+        "01",
+        "06"
+      ],
+      "provider_id": "new-york",
+      "game_id": "win-4",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/NSJRLT9hCU7RrBq1nDa3P.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/_HZufyyP4m49wjdvRz-h5.png"
+    },
+    {
+      "provider": "New York",
+      "game": "Win 4",
+      "edition": "Noche",
+      "date": "2026-10-13",
+      "numbers": [
+        "02",
+        "07",
+        "08",
+        "09"
+      ],
+      "provider_id": "new-york",
+      "game_id": "win-4",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/4-jVAqQOH8W3csjEMCpFU.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/_HZufyyP4m49wjdvRz-h5.png"
+    }
+  ]
+}
