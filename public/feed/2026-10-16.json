@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-10-16T23:04:34.861075Z",
+  "last_updated": "2026-10-16T23:14:11.735855Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -950,7 +950,8 @@
       "date": "2026-10-16",
       "numbers": [
         "36",
-        "36"
+        "36",
+        "79"
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela",
