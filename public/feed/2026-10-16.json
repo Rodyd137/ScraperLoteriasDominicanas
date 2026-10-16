@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-10-16T17:13:03.039320Z",
+  "last_updated": "2026-10-16T17:47:49.609024Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -512,11 +512,11 @@
       "provider": "Florida",
       "game": "Pick 2",
       "edition": "Día",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "numbers": [
-        "04",
+        "05",
         "01",
-        "02"
+        "07"
       ],
       "provider_id": "florida",
       "game_id": "pick-2",
@@ -542,12 +542,12 @@
       "provider": "Florida",
       "game": "Pick 3",
       "edition": "Día",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "numbers": [
-        "00",
-        "03",
+        "09",
         "05",
-        "02"
+        "02",
+        "07"
       ],
       "provider_id": "florida",
       "game_id": "pick-3",
@@ -574,13 +574,13 @@
       "provider": "Florida",
       "game": "Pick 4",
       "edition": "Día",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "numbers": [
-        "08",
-        "08",
-        "06",
-        "04",
-        "02"
+        "03",
+        "02",
+        "05",
+        "09",
+        "07"
       ],
       "provider_id": "florida",
       "game_id": "pick-4",
@@ -608,14 +608,14 @@
       "provider": "Florida",
       "game": "Pick 5",
       "edition": "Día",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "numbers": [
-        "09",
-        "09",
         "03",
-        "00",
-        "07",
-        "02"
+        "08",
+        "05",
+        "03",
+        "01",
+        "07"
       ],
       "provider_id": "florida",
       "game_id": "pick-5",
@@ -1271,11 +1271,11 @@
       "provider": "Loteka",
       "game": "Quiniela",
       "edition": "Día",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "numbers": [
-        "39",
-        "81",
-        "94"
+        "80",
+        "84",
+        "84"
       ],
       "provider_id": "loteka",
       "game_id": "quiniela",
