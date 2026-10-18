@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-10-18T12:58:36.812329Z",
+  "last_updated": "2026-10-18T16:24:10.432810Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -150,11 +150,11 @@
       "provider": "Anguila",
       "game": "Anguila 10:00 AM",
       "edition": null,
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "numbers": [
-        "29",
-        "18",
-        "31"
+        "39",
+        "22",
+        "97"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-10-00-am",
@@ -180,11 +180,11 @@
       "provider": "Anguila",
       "game": "Anguila 11:00 AM",
       "edition": null,
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "numbers": [
-        "77",
-        "84",
-        "68"
+        "19",
+        "01",
+        "19"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-11-00-am",
@@ -195,11 +195,11 @@
       "provider": "Anguila",
       "game": "Anguila 12:00 PM",
       "edition": null,
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "numbers": [
-        "30",
-        "51",
-        "07"
+        "16",
+        "86",
+        "01"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-12-00-pm",
@@ -330,11 +330,11 @@
       "provider": "Anguila",
       "game": "Anguila 9:00 AM",
       "edition": null,
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "numbers": [
-        "20",
+        "71",
         "10",
-        "55"
+        "05"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-9-00-am",
@@ -376,12 +376,12 @@
       "provider": "Anguila",
       "game": "La Cuarteta 10:00 AM",
       "edition": null,
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "numbers": [
-        "71",
-        "01",
-        "43",
-        "69"
+        "83",
+        "66",
+        "25",
+        "62"
       ],
       "provider_id": "anguila",
       "game_id": "la-cuarteta-10-00-am",
@@ -644,11 +644,11 @@
       "provider": "Haiti Bolet",
       "game": "Haiti Bolet 10:30 AM",
       "edition": null,
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "numbers": [
-        "46",
-        "87",
-        "29"
+        "61",
+        "49",
+        "45"
       ],
       "provider_id": "haiti-bolet",
       "game_id": "haiti-bolet-10-30-am",
@@ -659,11 +659,11 @@
       "provider": "Haiti Bolet",
       "game": "Haiti Bolet 11:30 AM",
       "edition": null,
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "numbers": [
-        "83",
-        "42",
-        "32"
+        "85",
+        "27",
+        "30"
       ],
       "provider_id": "haiti-bolet",
       "game_id": "haiti-bolet-11-30-am",
@@ -719,11 +719,11 @@
       "provider": "Haiti Bolet",
       "game": "Haiti Bolet 9:30 AM",
       "edition": null,
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "numbers": [
-        "65",
-        "56",
-        "66"
+        "09",
+        "03",
+        "83"
       ],
       "provider_id": "haiti-bolet",
       "game_id": "haiti-bolet-9-30-am",
@@ -888,9 +888,9 @@
       "provider": "La Primera",
       "game": "El Quinielón",
       "edition": "Día",
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "numbers": [
-        "32"
+        "58"
       ],
       "provider_id": "la-primera",
       "game_id": "el-quinielon",
@@ -932,11 +932,11 @@
       "provider": "La Primera",
       "game": "Quiniela",
       "edition": "Medio Día",
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "numbers": [
-        "72",
-        "94",
-        "33"
+        "93",
+        "15",
+        "06"
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela",
@@ -1105,12 +1105,12 @@
       "provider": "LoteDom",
       "game": "Agarra 4",
       "edition": null,
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "numbers": [
-        "85",
-        "62",
-        "98",
-        "40"
+        "69",
+        "30",
+        "53",
+        "92"
       ],
       "provider_id": "lotedom",
       "game_id": "agarra-4",
@@ -1150,9 +1150,9 @@
       "provider": "LoteDom",
       "game": "El Quemaito Mayor",
       "edition": null,
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "numbers": [
-        "40"
+        "92"
       ],
       "provider_id": "lotedom",
       "game_id": "el-quemaito-mayor",
@@ -1178,11 +1178,11 @@
       "provider": "LoteDom",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "numbers": [
-        "85",
-        "62",
-        "98"
+        "69",
+        "30",
+        "53"
       ],
       "provider_id": "lotedom",
       "game_id": "quiniela",
@@ -1193,10 +1193,10 @@
       "provider": "LoteDom",
       "game": "Súper Palé",
       "edition": null,
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "numbers": [
-        "85",
-        "40"
+        "69",
+        "92"
       ],
       "provider_id": "lotedom",
       "game_id": "super-pale",
