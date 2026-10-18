@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-10-18T22:31:24.294694Z",
+  "last_updated": "2026-10-18T22:45:48.952391Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -689,10 +689,10 @@
       "provider": "Haiti Bolet",
       "game": "Haiti Bolet 6:30 PM",
       "edition": null,
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "numbers": [
-        "35",
-        "53",
+        "83",
+        "98",
         "25"
       ],
       "provider_id": "haiti-bolet",
