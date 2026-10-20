@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-10-20T21:26:42.385827Z",
+  "last_updated": "2026-10-20T23:36:43.337594Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -36,11 +36,11 @@
       "provider": "Americanas",
       "game": "Georgia",
       "edition": "Tarde",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "numbers": [
-        "07",
-        "93",
-        "80"
+        "44",
+        "12",
+        "12"
       ],
       "provider_id": "americanas",
       "game_id": "georgia",
@@ -270,11 +270,11 @@
       "provider": "Anguila",
       "game": "Anguila 6:00 PM",
       "edition": null,
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "numbers": [
-        "57",
-        "86",
-        "47"
+        "71",
+        "69",
+        "26"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-6-00-pm",
@@ -285,11 +285,11 @@
       "provider": "Anguila",
       "game": "Anguila 7:00 PM",
       "edition": null,
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "numbers": [
-        "60",
-        "50",
-        "75"
+        "20",
+        "52",
+        "96"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-7-00-pm",
@@ -392,12 +392,12 @@
       "provider": "Anguila",
       "game": "La Cuarteta 6:00 PM",
       "edition": null,
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "numbers": [
-        "55",
-        "40",
-        "53",
-        "42"
+        "23",
+        "81",
+        "93",
+        "05"
       ],
       "provider_id": "anguila",
       "game_id": "la-cuarteta-6-00-pm",
@@ -674,11 +674,11 @@
       "provider": "Haiti Bolet",
       "game": "Haiti Bolet 5:30 PM",
       "edition": null,
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "numbers": [
-        "35",
-        "41",
-        "03"
+        "29",
+        "08",
+        "62"
       ],
       "provider_id": "haiti-bolet",
       "game_id": "haiti-bolet-5-30-pm",
@@ -689,11 +689,11 @@
       "provider": "Haiti Bolet",
       "game": "Haiti Bolet 6:30 PM",
       "edition": null,
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "numbers": [
-        "37",
-        "94",
-        "81"
+        "35",
+        "90",
+        "00"
       ],
       "provider_id": "haiti-bolet",
       "game_id": "haiti-bolet-6-30-pm",
@@ -704,11 +704,11 @@
       "provider": "Haiti Bolet",
       "game": "Haiti Bolet 7:30 PM",
       "edition": null,
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "numbers": [
-        "17",
-        "56",
-        "73"
+        "79",
+        "39",
+        "86"
       ],
       "provider_id": "haiti-bolet",
       "game_id": "haiti-bolet-7-30-pm",
@@ -901,9 +901,9 @@
       "provider": "La Primera",
       "game": "El Quinielón",
       "edition": "Noche",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "numbers": [
-        "81"
+        "97"
       ],
       "provider_id": "la-primera",
       "game_id": "el-quinielon",
@@ -914,14 +914,14 @@
       "provider": "La Primera",
       "game": "Loto 5",
       "edition": null,
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "numbers": [
         "17",
-        "18",
-        "29",
-        "27",
-        "30",
-        "03"
+        "37",
+        "33",
+        "06",
+        "25",
+        "02"
       ],
       "provider_id": "la-primera",
       "game_id": "loto-5",
@@ -947,11 +947,11 @@
       "provider": "La Primera",
       "game": "Quiniela",
       "edition": "Noche",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "numbers": [
-        "39",
-        "04",
-        "55"
+        "05",
+        "93",
+        "63"
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela",
@@ -977,11 +977,11 @@
       "provider": "La Suerte Dominicana",
       "game": "La Suerte",
       "edition": "Tarde",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "numbers": [
-        "09",
-        "86",
-        "36"
+        "23",
+        "30",
+        "24"
       ],
       "provider_id": "la-suerte-dominicana",
       "game_id": "la-suerte",
