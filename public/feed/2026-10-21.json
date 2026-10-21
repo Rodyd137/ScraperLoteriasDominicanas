@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-10-21T09:07:56.079177Z",
+  "last_updated": "2026-10-21T14:51:55.943140Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -150,11 +150,11 @@
       "provider": "Anguila",
       "game": "Anguila 10:00 AM",
       "edition": null,
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "numbers": [
-        "94",
-        "12",
-        "48"
+        "59",
+        "07",
+        "62"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-10-00-am",
@@ -300,11 +300,11 @@
       "provider": "Anguila",
       "game": "Anguila 8:00  AM",
       "edition": null,
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "numbers": [
-        "79",
-        "14",
-        "67"
+        "59",
+        "13",
+        "16"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-8-00-am",
@@ -330,11 +330,11 @@
       "provider": "Anguila",
       "game": "Anguila 9:00 AM",
       "edition": null,
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "numbers": [
-        "68",
-        "49",
-        "11"
+        "22",
+        "15",
+        "17"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-9-00-am",
@@ -376,12 +376,12 @@
       "provider": "Anguila",
       "game": "La Cuarteta 10:00 AM",
       "edition": null,
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "numbers": [
-        "14",
-        "72",
-        "82",
-        "33"
+        "99",
+        "59",
+        "66",
+        "39"
       ],
       "provider_id": "anguila",
       "game_id": "la-cuarteta-10-00-am",
@@ -644,11 +644,11 @@
       "provider": "Haiti Bolet",
       "game": "Haiti Bolet 10:30 AM",
       "edition": null,
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "numbers": [
-        "53",
-        "76",
-        "04"
+        "18",
+        "56",
+        "62"
       ],
       "provider_id": "haiti-bolet",
       "game_id": "haiti-bolet-10-30-am",
@@ -719,11 +719,11 @@
       "provider": "Haiti Bolet",
       "game": "Haiti Bolet 9:30 AM",
       "edition": null,
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "numbers": [
-        "12",
-        "55",
-        "34"
+        "85",
+        "85",
+        "71"
       ],
       "provider_id": "haiti-bolet",
       "game_id": "haiti-bolet-9-30-am",
