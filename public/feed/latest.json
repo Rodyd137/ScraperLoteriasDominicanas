@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-10-21T23:53:36.988977Z",
+  "last_updated": "2026-10-22T01:15:29.716133Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -315,11 +315,11 @@
       "provider": "Anguila",
       "game": "Anguila 8:00 PM",
       "edition": null,
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "numbers": [
-        "69",
-        "64",
-        "51"
+        "11",
+        "20",
+        "98"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-8-00-pm",
@@ -345,11 +345,11 @@
       "provider": "Anguila",
       "game": "Anguila 9:00 PM",
       "edition": null,
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "numbers": [
-        "55",
-        "36",
-        "67"
+        "08",
+        "98",
+        "25"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-9-00-pm",
@@ -408,12 +408,12 @@
       "provider": "Anguila",
       "game": "La Cuarteta 9:00 PM",
       "edition": null,
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "numbers": [
-        "18",
-        "18",
-        "76",
-        "19"
+        "68",
+        "48",
+        "47",
+        "04"
       ],
       "provider_id": "anguila",
       "game_id": "la-cuarteta-9-00-pm",
@@ -992,15 +992,15 @@
       "provider": "Leidsa",
       "game": "Loto Más",
       "edition": null,
-      "date": "2026-10-17",
+      "date": "2026-10-21",
       "numbers": [
-        "07",
-        "32",
-        "05",
+        "29",
+        "10",
         "09",
-        "38",
-        "26",
-        "12",
+        "30",
+        "17",
+        "24",
+        "11",
         "07"
       ],
       "provider_id": "leidsa",
@@ -1012,12 +1012,12 @@
       "provider": "Leidsa",
       "game": "Loto Pool",
       "edition": null,
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "numbers": [
-        "20",
-        "18",
+        "12",
+        "31",
         "16",
-        "19",
+        "24",
         "30"
       ],
       "provider_id": "leidsa",
@@ -1029,11 +1029,11 @@
       "provider": "Leidsa",
       "game": "Pega 3 Más",
       "edition": null,
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "numbers": [
-        "43",
-        "25",
-        "32"
+        "21",
+        "30",
+        "33"
       ],
       "provider_id": "leidsa",
       "game_id": "pega-3-mas",
@@ -1044,11 +1044,11 @@
       "provider": "Leidsa",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "numbers": [
-        "70",
-        "97",
-        "39"
+        "53",
+        "89",
+        "92"
       ],
       "provider_id": "leidsa",
       "game_id": "quiniela",
@@ -1059,28 +1059,28 @@
       "provider": "Leidsa",
       "game": "Super Kino TV",
       "edition": null,
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "numbers": [
-        "60",
-        "12",
-        "64",
-        "25",
-        "59",
-        "33",
-        "48",
-        "38",
-        "67",
-        "34",
-        "30",
-        "44",
-        "14",
-        "29",
-        "07",
-        "08",
-        "46",
-        "13",
+        "24",
+        "76",
+        "71",
+        "10",
+        "41",
+        "51",
+        "63",
+        "17",
+        "19",
         "57",
-        "81"
+        "78",
+        "50",
+        "21",
+        "09",
+        "13",
+        "29",
+        "11",
+        "37",
+        "30",
+        "77"
       ],
       "provider_id": "leidsa",
       "game_id": "super-kino-tv",
@@ -1091,10 +1091,10 @@
       "provider": "Leidsa",
       "game": "Súper Palé",
       "edition": null,
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "numbers": [
-        "70",
-        "64"
+        "53",
+        "35"
       ],
       "provider_id": "leidsa",
       "game_id": "super-pale",
@@ -1221,13 +1221,13 @@
       "provider": "Loteka",
       "game": "Mega Chances",
       "edition": null,
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "numbers": [
-        "68",
+        "66",
+        "90",
+        "42",
         "76",
-        "48",
-        "11",
-        "85"
+        "68"
       ],
       "provider_id": "loteka",
       "game_id": "mega-chances",
@@ -1238,9 +1238,9 @@
       "provider": "Loteka",
       "game": "Mega Chances Repartidera",
       "edition": null,
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "numbers": [
-        "21"
+        "62"
       ],
       "provider_id": "loteka",
       "game_id": "mega-chances-repartidera",
@@ -1286,11 +1286,11 @@
       "provider": "Loteka",
       "game": "Quiniela",
       "edition": "Noche",
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "numbers": [
-        "30",
-        "71",
-        "01"
+        "47",
+        "59",
+        "45"
       ],
       "provider_id": "loteka",
       "game_id": "quiniela",
@@ -1301,11 +1301,11 @@
       "provider": "Loteka",
       "game": "Toca 3",
       "edition": null,
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "numbers": [
-        "04",
-        "05",
-        "09"
+        "00",
+        "00",
+        "07"
       ],
       "provider_id": "loteka",
       "game_id": "toca-3",
@@ -1363,11 +1363,11 @@
       "provider": "Lotería Nacional",
       "game": "Lotería Nacional",
       "edition": null,
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "numbers": [
-        "64",
-        "34",
-        "50"
+        "35",
+        "39",
+        "52"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "loteria-nacional",
@@ -1378,13 +1378,13 @@
       "provider": "Lotería Real",
       "game": "Chance Real",
       "edition": null,
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "numbers": [
-        "64",
-        "12",
-        "66",
-        "03",
-        "43"
+        "25",
+        "33",
+        "51",
+        "56",
+        "93"
       ],
       "provider_id": "loteria-real",
       "game_id": "chance-real",
@@ -1395,11 +1395,11 @@
       "provider": "Lotería Real",
       "game": "Lotería Real",
       "edition": "Noche",
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "numbers": [
-        "03",
-        "94",
-        "75"
+        "57",
+        "45",
+        "09"
       ],
       "provider_id": "loteria-real",
       "game_id": "loteria-real",
@@ -1426,12 +1426,12 @@
       "provider": "Lotería Real",
       "game": "Loto Pool",
       "edition": "Noche",
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "numbers": [
-        "18",
-        "58",
-        "93",
-        "80"
+        "82",
+        "65",
+        "45",
+        "56"
       ],
       "provider_id": "loteria-real",
       "game_id": "loto-pool",
@@ -1490,9 +1490,9 @@
       "provider": "Lotería Real",
       "game": "Repartidera Real",
       "edition": null,
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "numbers": [
-        "44"
+        "82"
       ],
       "provider_id": "loteria-real",
       "game_id": "repartidera-real",
@@ -1548,15 +1548,15 @@
       "provider": "New York",
       "game": "New York Lotto",
       "edition": null,
-      "date": "2026-10-17",
+      "date": "2026-10-21",
       "numbers": [
-        "20",
-        "44",
-        "46",
-        "21",
-        "32",
-        "56",
-        "18"
+        "59",
+        "40",
+        "03",
+        "55",
+        "14",
+        "19",
+        "58"
       ],
       "provider_id": "new-york",
       "game_id": "new-york-lotto",
