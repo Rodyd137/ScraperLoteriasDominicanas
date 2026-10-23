@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-10-23T01:14:21.864356Z",
+  "last_updated": "2026-10-23T02:25:25.477412Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -165,11 +165,11 @@
       "provider": "Anguila",
       "game": "Anguila 10:00 PM",
       "edition": null,
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "numbers": [
-        "04",
-        "53",
-        "14"
+        "62",
+        "57",
+        "46"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-10-00-pm",
@@ -527,11 +527,11 @@
       "provider": "Florida",
       "game": "Pick 2",
       "edition": "Noche",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "numbers": [
-        "01",
-        "00",
-        "03"
+        "09",
+        "03",
+        "05"
       ],
       "provider_id": "florida",
       "game_id": "pick-2",
@@ -558,12 +558,12 @@
       "provider": "Florida",
       "game": "Pick 3",
       "edition": "Noche",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "numbers": [
-        "02",
-        "00",
-        "08",
-        "03"
+        "05",
+        "07",
+        "04",
+        "05"
       ],
       "provider_id": "florida",
       "game_id": "pick-3",
@@ -591,13 +591,13 @@
       "provider": "Florida",
       "game": "Pick 4",
       "edition": "Noche",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "numbers": [
-        "07",
-        "04",
-        "02",
-        "04",
-        "03"
+        "08",
+        "03",
+        "03",
+        "08",
+        "05"
       ],
       "provider_id": "florida",
       "game_id": "pick-4",
@@ -626,14 +626,14 @@
       "provider": "Florida",
       "game": "Pick 5",
       "edition": "Noche",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "numbers": [
-        "04",
-        "00",
-        "06",
-        "09",
+        "05",
+        "03",
         "02",
-        "03"
+        "03",
+        "07",
+        "05"
       ],
       "provider_id": "florida",
       "game_id": "pick-5",
@@ -1121,12 +1121,12 @@
       "provider": "LoteDom",
       "game": "Agarra 4",
       "edition": "Noche",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "numbers": [
-        "62",
-        "73",
-        "13",
-        "39"
+        "72",
+        "34",
+        "25",
+        "87"
       ],
       "provider_id": "lotedom",
       "game_id": "agarra-4",
@@ -1137,9 +1137,9 @@
       "provider": "LoteDom",
       "game": "El Quemaito",
       "edition": "Noche",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "numbers": [
-        "39"
+        "87"
       ],
       "provider_id": "lotedom",
       "game_id": "el-quemaito",
@@ -1163,11 +1163,11 @@
       "provider": "LoteDom",
       "game": "LoteDom",
       "edition": "Noche",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "numbers": [
-        "62",
-        "73",
-        "13"
+        "72",
+        "34",
+        "25"
       ],
       "provider_id": "lotedom",
       "game_id": "lotedom",
@@ -1207,10 +1207,10 @@
       "provider": "LoteDom",
       "game": "Súper Palé",
       "edition": "Noche",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "numbers": [
-        "62",
-        "39"
+        "72",
+        "87"
       ],
       "provider_id": "lotedom",
       "game_id": "super-pale",
