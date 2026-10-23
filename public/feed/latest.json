@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-10-23T21:14:43.120763Z",
+  "last_updated": "2026-10-23T23:44:25.813835Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -36,11 +36,11 @@
       "provider": "Americanas",
       "game": "Georgia",
       "edition": "Tarde",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "numbers": [
-        "61",
-        "09",
-        "22"
+        "54",
+        "18",
+        "90"
       ],
       "provider_id": "americanas",
       "game_id": "georgia",
@@ -270,11 +270,11 @@
       "provider": "Anguila",
       "game": "Anguila 6:00 PM",
       "edition": null,
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "numbers": [
-        "42",
-        "19",
-        "74"
+        "00",
+        "76",
+        "78"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-6-00-pm",
@@ -285,11 +285,11 @@
       "provider": "Anguila",
       "game": "Anguila 7:00 PM",
       "edition": null,
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "numbers": [
-        "26",
         "02",
-        "69"
+        "11",
+        "32"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-7-00-pm",
@@ -392,12 +392,12 @@
       "provider": "Anguila",
       "game": "La Cuarteta 6:00 PM",
       "edition": null,
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "numbers": [
-        "50",
-        "22",
-        "42",
-        "55"
+        "68",
+        "89",
+        "72",
+        "57"
       ],
       "provider_id": "anguila",
       "game_id": "la-cuarteta-6-00-pm",
@@ -674,11 +674,11 @@
       "provider": "Haiti Bolet",
       "game": "Haiti Bolet 5:30 PM",
       "edition": null,
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "numbers": [
-        "00",
-        "91",
-        "81"
+        "25",
+        "07",
+        "85"
       ],
       "provider_id": "haiti-bolet",
       "game_id": "haiti-bolet-5-30-pm",
@@ -689,11 +689,11 @@
       "provider": "Haiti Bolet",
       "game": "Haiti Bolet 6:30 PM",
       "edition": null,
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "numbers": [
-        "77",
-        "75",
-        "65"
+        "56",
+        "16",
+        "68"
       ],
       "provider_id": "haiti-bolet",
       "game_id": "haiti-bolet-6-30-pm",
@@ -704,11 +704,11 @@
       "provider": "Haiti Bolet",
       "game": "Haiti Bolet 7:30 PM",
       "edition": null,
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "numbers": [
-        "73",
-        "67",
-        "53"
+        "60",
+        "26",
+        "13"
       ],
       "provider_id": "haiti-bolet",
       "game_id": "haiti-bolet-7-30-pm",
@@ -749,11 +749,11 @@
       "provider": "King Lottery",
       "game": "King Lottery",
       "edition": "Noche",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "numbers": [
-        "24",
-        "04",
-        "23"
+        "01",
+        "28",
+        "55"
       ],
       "provider_id": "king-lottery",
       "game_id": "king-lottery",
@@ -780,12 +780,12 @@
       "provider": "King Lottery",
       "game": "Loto Pool",
       "edition": "Noche",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "numbers": [
-        "90",
-        "91",
-        "44",
-        "13"
+        "56",
+        "13",
+        "38",
+        "85"
       ],
       "provider_id": "king-lottery",
       "game_id": "loto-pool",
@@ -811,11 +811,11 @@
       "provider": "King Lottery",
       "game": "Philipsburg",
       "edition": "Noche",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "numbers": [
-        "8071",
-        "7986",
-        "9361"
+        "0195",
+        "3033",
+        "4275"
       ],
       "provider_id": "king-lottery",
       "game_id": "philipsburg",
@@ -841,11 +841,11 @@
       "provider": "King Lottery",
       "game": "Pick 3",
       "edition": "Noche",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "numbers": [
         "08",
-        "02",
-        "04"
+        "00",
+        "01"
       ],
       "provider_id": "king-lottery",
       "game_id": "pick-3",
@@ -872,12 +872,12 @@
       "provider": "King Lottery",
       "game": "Pick 4",
       "edition": "Noche",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "numbers": [
-        "00",
-        "04",
         "02",
-        "03"
+        "08",
+        "05",
+        "05"
       ],
       "provider_id": "king-lottery",
       "game_id": "pick-4",
@@ -901,9 +901,9 @@
       "provider": "La Primera",
       "game": "El Quinielón",
       "edition": "Noche",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "numbers": [
-        "85"
+        "66"
       ],
       "provider_id": "la-primera",
       "game_id": "el-quinielon",
@@ -914,14 +914,14 @@
       "provider": "La Primera",
       "game": "Loto 5",
       "edition": null,
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "numbers": [
-        "37",
-        "02",
-        "24",
-        "28",
-        "20",
-        "07"
+        "31",
+        "10",
+        "03",
+        "06",
+        "32",
+        "08"
       ],
       "provider_id": "la-primera",
       "game_id": "loto-5",
@@ -947,11 +947,11 @@
       "provider": "La Primera",
       "game": "Quiniela",
       "edition": "Noche",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "numbers": [
-        "63",
-        "94",
-        "84"
+        "38",
+        "34",
+        "56"
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela",
@@ -977,11 +977,11 @@
       "provider": "La Suerte Dominicana",
       "game": "La Suerte",
       "edition": "Tarde",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "numbers": [
-        "05",
-        "17",
-        "49"
+        "50",
+        "58",
+        "76"
       ],
       "provider_id": "la-suerte-dominicana",
       "game_id": "la-suerte",
