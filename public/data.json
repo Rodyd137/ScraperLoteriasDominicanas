@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-10-25T20:39:48.990640Z",
+  "last_updated": "2026-10-25T22:49:03.286052Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -255,11 +255,11 @@
       "provider": "Anguila",
       "game": "Anguila 5:00 PM",
       "edition": null,
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "numbers": [
-        "11",
-        "76",
-        "46"
+        "97",
+        "97",
+        "74"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-5-00-pm",
@@ -270,11 +270,11 @@
       "provider": "Anguila",
       "game": "Anguila 6:00 PM",
       "edition": null,
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "numbers": [
-        "21",
-        "81",
-        "18"
+        "12",
+        "52",
+        "16"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-6-00-pm",
@@ -392,12 +392,12 @@
       "provider": "Anguila",
       "game": "La Cuarteta 6:00 PM",
       "edition": null,
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "numbers": [
-        "20",
-        "20",
-        "77",
-        "99"
+        "85",
+        "51",
+        "44",
+        "67"
       ],
       "provider_id": "anguila",
       "game_id": "la-cuarteta-6-00-pm",
@@ -674,11 +674,11 @@
       "provider": "Haiti Bolet",
       "game": "Haiti Bolet 5:30 PM",
       "edition": null,
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "numbers": [
-        "12",
-        "67",
-        "64"
+        "98",
+        "56",
+        "50"
       ],
       "provider_id": "haiti-bolet",
       "game_id": "haiti-bolet-5-30-pm",
@@ -689,11 +689,11 @@
       "provider": "Haiti Bolet",
       "game": "Haiti Bolet 6:30 PM",
       "edition": null,
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "numbers": [
-        "25",
-        "54",
-        "15"
+        "36",
+        "28",
+        "46"
       ],
       "provider_id": "haiti-bolet",
       "game_id": "haiti-bolet-6-30-pm",
@@ -1091,10 +1091,10 @@
       "provider": "Leidsa",
       "game": "Súper Palé",
       "edition": null,
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "numbers": [
-        "86",
-        "06"
+        "16",
+        "43"
       ],
       "provider_id": "leidsa",
       "game_id": "super-pale",
@@ -1316,11 +1316,11 @@
       "provider": "Lotería Nacional",
       "game": "Billetes Domingo",
       "edition": null,
-      "date": "2026-10-11",
+      "date": "2026-10-25",
       "numbers": [
-        "196178",
-        "161672",
-        "360043"
+        "235043",
+        "351476",
+        "252933"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "billetes-domingo",
@@ -1363,11 +1363,11 @@
       "provider": "Lotería Nacional",
       "game": "Lotería Nacional",
       "edition": null,
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "numbers": [
-        "06",
-        "80",
-        "17"
+        "43",
+        "76",
+        "33"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "loteria-nacional",
