@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-10-26T22:31:14.886218Z",
+  "last_updated": "2026-10-27T00:13:36.061489Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -36,11 +36,11 @@
       "provider": "Americanas",
       "game": "Georgia",
       "edition": "Tarde",
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "numbers": [
-        "57",
-        "01",
-        "86"
+        "10",
+        "00",
+        "40"
       ],
       "provider_id": "americanas",
       "game_id": "georgia",
@@ -285,11 +285,11 @@
       "provider": "Anguila",
       "game": "Anguila 7:00 PM",
       "edition": null,
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "numbers": [
-        "98",
-        "55",
-        "26"
+        "94",
+        "20",
+        "17"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-7-00-pm",
@@ -315,11 +315,11 @@
       "provider": "Anguila",
       "game": "Anguila 8:00 PM",
       "edition": null,
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "numbers": [
-        "35",
-        "80",
-        "86"
+        "19",
+        "71",
+        "52"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-8-00-pm",
@@ -689,11 +689,11 @@
       "provider": "Haiti Bolet",
       "game": "Haiti Bolet 6:30 PM",
       "edition": null,
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "numbers": [
-        "36",
-        "28",
-        "46"
+        "44",
+        "93",
+        "07"
       ],
       "provider_id": "haiti-bolet",
       "game_id": "haiti-bolet-6-30-pm",
@@ -704,11 +704,11 @@
       "provider": "Haiti Bolet",
       "game": "Haiti Bolet 7:30 PM",
       "edition": null,
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "numbers": [
-        "02",
-        "95",
-        "72"
+        "36",
+        "79",
+        "59"
       ],
       "provider_id": "haiti-bolet",
       "game_id": "haiti-bolet-7-30-pm",
@@ -749,11 +749,11 @@
       "provider": "King Lottery",
       "game": "King Lottery",
       "edition": "Noche",
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "numbers": [
-        "87",
-        "63",
-        "06"
+        "09",
+        "77",
+        "53"
       ],
       "provider_id": "king-lottery",
       "game_id": "king-lottery",
@@ -780,12 +780,12 @@
       "provider": "King Lottery",
       "game": "Loto Pool",
       "edition": "Noche",
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "numbers": [
-        "90",
-        "12",
-        "77",
-        "72"
+        "46",
+        "11",
+        "79",
+        "76"
       ],
       "provider_id": "king-lottery",
       "game_id": "loto-pool",
@@ -811,11 +811,11 @@
       "provider": "King Lottery",
       "game": "Philipsburg",
       "edition": "Noche",
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "numbers": [
-        "8530",
-        "9089",
-        "3766"
+        "9953",
+        "8984",
+        "2050"
       ],
       "provider_id": "king-lottery",
       "game_id": "philipsburg",
@@ -841,11 +841,11 @@
       "provider": "King Lottery",
       "game": "Pick 3",
       "edition": "Noche",
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "numbers": [
-        "05",
-        "08",
-        "07"
+        "09",
+        "00",
+        "09"
       ],
       "provider_id": "king-lottery",
       "game_id": "pick-3",
@@ -872,12 +872,12 @@
       "provider": "King Lottery",
       "game": "Pick 4",
       "edition": "Noche",
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "numbers": [
-        "06",
-        "03",
-        "00",
-        "06"
+        "07",
+        "07",
+        "05",
+        "03"
       ],
       "provider_id": "king-lottery",
       "game_id": "pick-4",
@@ -901,9 +901,9 @@
       "provider": "La Primera",
       "game": "El Quinielón",
       "edition": "Noche",
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "numbers": [
-        "03"
+        "47"
       ],
       "provider_id": "la-primera",
       "game_id": "el-quinielon",
@@ -914,14 +914,14 @@
       "provider": "La Primera",
       "game": "Loto 5",
       "edition": null,
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "numbers": [
-        "19",
-        "34",
-        "30",
-        "37",
         "22",
-        "06"
+        "07",
+        "32",
+        "27",
+        "02",
+        "09"
       ],
       "provider_id": "la-primera",
       "game_id": "loto-5",
@@ -947,11 +947,11 @@
       "provider": "La Primera",
       "game": "Quiniela",
       "edition": "Noche",
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "numbers": [
-        "32",
-        "92",
-        "93"
+        "42",
+        "43",
+        "31"
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela",
@@ -1221,13 +1221,13 @@
       "provider": "Loteka",
       "game": "Mega Chances",
       "edition": null,
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "numbers": [
-        "45",
-        "40",
-        "47",
-        "96",
-        "09"
+        "55",
+        "46",
+        "94",
+        "28",
+        "14"
       ],
       "provider_id": "loteka",
       "game_id": "mega-chances",
@@ -1238,9 +1238,9 @@
       "provider": "Loteka",
       "game": "Mega Chances Repartidera",
       "edition": null,
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "numbers": [
-        "81"
+        "34"
       ],
       "provider_id": "loteka",
       "game_id": "mega-chances-repartidera",
@@ -1251,16 +1251,16 @@
       "provider": "Loteka",
       "game": "MegaLotto",
       "edition": null,
-      "date": "2026-10-22",
+      "date": "2026-10-26",
       "numbers": [
-        "15",
-        "26",
-        "20",
-        "25",
-        "34",
-        "07",
+        "08",
+        "18",
+        "33",
+        "10",
         "03",
-        "10"
+        "23",
+        "08",
+        "07"
       ],
       "provider_id": "loteka",
       "game_id": "megalotto",
@@ -1286,11 +1286,11 @@
       "provider": "Loteka",
       "game": "Quiniela",
       "edition": "Noche",
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "numbers": [
-        "54",
-        "87",
-        "77"
+        "04",
+        "34",
+        "11"
       ],
       "provider_id": "loteka",
       "game_id": "quiniela",
@@ -1301,11 +1301,11 @@
       "provider": "Loteka",
       "game": "Toca 3",
       "edition": null,
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "numbers": [
-        "09",
+        "06",
         "02",
-        "07"
+        "06"
       ],
       "provider_id": "loteka",
       "game_id": "toca-3",
@@ -1378,13 +1378,13 @@
       "provider": "Lotería Real",
       "game": "Chance Real",
       "edition": null,
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "numbers": [
-        "83",
-        "89",
-        "77",
-        "69",
-        "39"
+        "02",
+        "35",
+        "73",
+        "15",
+        "25"
       ],
       "provider_id": "loteria-real",
       "game_id": "chance-real",
@@ -1395,11 +1395,11 @@
       "provider": "Lotería Real",
       "game": "Lotería Real",
       "edition": "Noche",
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "numbers": [
-        "12",
-        "84",
-        "19"
+        "56",
+        "50",
+        "26"
       ],
       "provider_id": "loteria-real",
       "game_id": "loteria-real",
@@ -1426,12 +1426,12 @@
       "provider": "Lotería Real",
       "game": "Loto Pool",
       "edition": "Noche",
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "numbers": [
-        "51",
-        "32",
-        "83",
-        "20"
+        "42",
+        "86",
+        "30",
+        "10"
       ],
       "provider_id": "loteria-real",
       "game_id": "loto-pool",
@@ -1490,9 +1490,9 @@
       "provider": "Lotería Real",
       "game": "Repartidera Real",
       "edition": null,
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "numbers": [
-        "64"
+        "07"
       ],
       "provider_id": "loteria-real",
       "game_id": "repartidera-real",
