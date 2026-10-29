@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-10-29T02:07:59.356292Z",
+  "last_updated": "2026-10-29T03:21:14.050968Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -84,11 +84,11 @@
       "provider": "Americanas",
       "game": "New Jersey",
       "edition": "Noche",
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "numbers": [
-        "04",
-        "72",
-        "00"
+        "96",
+        "74",
+        "36"
       ],
       "provider_id": "americanas",
       "game_id": "new-jersey",
@@ -99,14 +99,14 @@
       "provider": "Americanas",
       "game": "PowerBall",
       "edition": null,
-      "date": "2026-10-26",
+      "date": "2026-10-28",
       "numbers": [
-        "18",
-        "49",
-        "50",
-        "26",
-        "54",
-        "01"
+        "60",
+        "47",
+        "16",
+        "13",
+        "11",
+        "13"
       ],
       "provider_id": "americanas",
       "game_id": "powerball",
@@ -1582,11 +1582,11 @@
       "provider": "New York",
       "game": "Numbers",
       "edition": "Noche",
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "numbers": [
-        "06",
-        "02",
-        "01"
+        "05",
+        "05",
+        "08"
       ],
       "provider_id": "new-york",
       "game_id": "numbers",
@@ -1614,13 +1614,13 @@
       "provider": "New York",
       "game": "Take 5",
       "edition": "Noche",
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "numbers": [
-        "26",
-        "25",
-        "04",
-        "03",
-        "38"
+        "09",
+        "23",
+        "12",
+        "20",
+        "24"
       ],
       "provider_id": "new-york",
       "game_id": "take-5",
@@ -1647,12 +1647,12 @@
       "provider": "New York",
       "game": "Win 4",
       "edition": "Noche",
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "numbers": [
-        "08",
-        "06",
-        "04",
-        "04"
+        "02",
+        "02",
+        "03",
+        "06"
       ],
       "provider_id": "new-york",
       "game_id": "win-4",
