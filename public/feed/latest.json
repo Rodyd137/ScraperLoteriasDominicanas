@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-10-29T03:21:14.050968Z",
+  "last_updated": "2026-10-29T10:11:17.475989Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -21,11 +21,11 @@
       "provider": "Americanas",
       "game": "Georgia",
       "edition": "Noche",
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "numbers": [
-        "15",
-        "94",
-        "46"
+        "76",
+        "59",
+        "44"
       ],
       "provider_id": "americanas",
       "game_id": "georgia",
@@ -117,14 +117,14 @@
       "provider": "Americanas",
       "game": "PowerBall Double Play",
       "edition": null,
-      "date": "2026-10-26",
+      "date": "2026-10-28",
       "numbers": [
-        "24",
-        "11",
-        "14",
-        "59",
-        "05",
-        "08"
+        "65",
+        "23",
+        "15",
+        "48",
+        "22",
+        "09"
       ],
       "provider_id": "americanas",
       "game_id": "powerball-double-play",
@@ -441,13 +441,13 @@
       "provider": "Florida",
       "game": "Fantasy 5",
       "edition": "Noche",
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "numbers": [
-        "10",
-        "18",
-        "19",
+        "32",
+        "05",
+        "02",
         "34",
-        "24"
+        "35"
       ],
       "provider_id": "florida",
       "game_id": "fantasy-5",
@@ -458,14 +458,14 @@
       "provider": "Florida",
       "game": "Florida Lotto",
       "edition": null,
-      "date": "2026-10-24",
+      "date": "2026-10-28",
       "numbers": [
-        "12",
-        "52",
-        "25",
-        "36",
+        "21",
         "13",
-        "02"
+        "45",
+        "03",
+        "09",
+        "47"
       ],
       "provider_id": "florida",
       "game_id": "florida-lotto",
@@ -476,14 +476,14 @@
       "provider": "Florida",
       "game": "Florida Lotto Double Play",
       "edition": null,
-      "date": "2026-10-24",
+      "date": "2026-10-28",
       "numbers": [
-        "42",
-        "25",
-        "23",
-        "22",
+        "11",
+        "44",
+        "12",
+        "47",
         "36",
-        "21"
+        "23"
       ],
       "provider_id": "florida",
       "game_id": "florida-lotto-double-play",
@@ -1530,14 +1530,14 @@
       "provider": "New York",
       "game": "Millionaire For Life",
       "edition": null,
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "numbers": [
-        "13",
-        "21",
-        "22",
-        "23",
-        "33",
-        "03"
+        "15",
+        "30",
+        "36",
+        "44",
+        "46",
+        "01"
       ],
       "provider_id": "new-york",
       "game_id": "millionaire-for-life",
