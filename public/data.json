@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-10-31T17:32:24.168619Z",
+  "last_updated": "2026-10-31T18:09:28.620907Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -210,11 +210,11 @@
       "provider": "Anguila",
       "game": "Anguila 2:00 PM",
       "edition": null,
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "numbers": [
-        "90",
-        "71",
-        "00"
+        "70",
+        "16",
+        "74"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-2-00-pm",
@@ -512,11 +512,11 @@
       "provider": "Florida",
       "game": "Pick 2",
       "edition": "Día",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "numbers": [
-        "07",
-        "04",
-        "07"
+        "01",
+        "03",
+        "08"
       ],
       "provider_id": "florida",
       "game_id": "pick-2",
@@ -542,12 +542,12 @@
       "provider": "Florida",
       "game": "Pick 3",
       "edition": "Día",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "numbers": [
-        "05",
-        "08",
-        "01",
-        "07"
+        "06",
+        "06",
+        "06",
+        "08"
       ],
       "provider_id": "florida",
       "game_id": "pick-3",
@@ -574,13 +574,13 @@
       "provider": "Florida",
       "game": "Pick 4",
       "edition": "Día",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "numbers": [
-        "05",
+        "07",
         "08",
-        "01",
+        "09",
         "00",
-        "07"
+        "08"
       ],
       "provider_id": "florida",
       "game_id": "pick-4",
@@ -608,14 +608,14 @@
       "provider": "Florida",
       "game": "Pick 5",
       "edition": "Día",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "numbers": [
-        "01",
-        "03",
-        "05",
+        "07",
+        "04",
         "09",
-        "03",
-        "07"
+        "01",
+        "09",
+        "08"
       ],
       "provider_id": "florida",
       "game_id": "pick-5",
@@ -1271,11 +1271,11 @@
       "provider": "Loteka",
       "game": "Quiniela",
       "edition": "Día",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "numbers": [
-        "32",
-        "34",
-        "37"
+        "40",
+        "58",
+        "56"
       ],
       "provider_id": "loteka",
       "game_id": "quiniela",
