@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-11-01T18:17:22.360784Z",
+  "last_updated": "2026-11-01T18:44:18.091365Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -512,11 +512,11 @@
       "provider": "Florida",
       "game": "Pick 2",
       "edition": "Día",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "numbers": [
+        "07",
         "01",
-        "03",
-        "08"
+        "07"
       ],
       "provider_id": "florida",
       "game_id": "pick-2",
@@ -542,12 +542,12 @@
       "provider": "Florida",
       "game": "Pick 3",
       "edition": "Día",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "numbers": [
-        "06",
-        "06",
-        "06",
-        "08"
+        "01",
+        "02",
+        "03",
+        "07"
       ],
       "provider_id": "florida",
       "game_id": "pick-3",
@@ -574,13 +574,13 @@
       "provider": "Florida",
       "game": "Pick 4",
       "edition": "Día",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "numbers": [
-        "07",
-        "08",
-        "09",
         "00",
-        "08"
+        "09",
+        "02",
+        "08",
+        "07"
       ],
       "provider_id": "florida",
       "game_id": "pick-4",
@@ -608,14 +608,14 @@
       "provider": "Florida",
       "game": "Pick 5",
       "edition": "Día",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "numbers": [
-        "07",
+        "00",
         "04",
+        "03",
+        "08",
         "09",
-        "01",
-        "09",
-        "08"
+        "07"
       ],
       "provider_id": "florida",
       "game_id": "pick-5",
@@ -1346,13 +1346,13 @@
       "provider": "Lotería Nacional",
       "game": "Juega + Pega +",
       "edition": null,
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "numbers": [
-        "03",
-        "23",
-        "26",
-        "06",
-        "17"
+        "19",
+        "15",
+        "16",
+        "10",
+        "23"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "juega-pega",
