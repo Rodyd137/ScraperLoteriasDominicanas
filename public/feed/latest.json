@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-11-01T01:53:07.658504Z",
+  "last_updated": "2026-11-01T03:02:52.884309Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -84,11 +84,11 @@
       "provider": "Americanas",
       "game": "New Jersey",
       "edition": "Noche",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "numbers": [
-        "80",
-        "33",
-        "06"
+        "04",
+        "62",
+        "68"
       ],
       "provider_id": "americanas",
       "game_id": "new-jersey",
@@ -99,14 +99,14 @@
       "provider": "Americanas",
       "game": "PowerBall",
       "edition": null,
-      "date": "2026-10-28",
+      "date": "2026-10-31",
       "numbers": [
-        "60",
-        "47",
-        "16",
-        "13",
-        "11",
-        "13"
+        "50",
+        "04",
+        "02",
+        "18",
+        "56",
+        "20"
       ],
       "provider_id": "americanas",
       "game_id": "powerball",
@@ -165,11 +165,11 @@
       "provider": "Anguila",
       "game": "Anguila 10:00 PM",
       "edition": null,
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "numbers": [
-        "15",
-        "69",
-        "52"
+        "74",
+        "65",
+        "49"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-10-00-pm",
@@ -1121,12 +1121,12 @@
       "provider": "LoteDom",
       "game": "Agarra 4",
       "edition": "Noche",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "numbers": [
-        "36",
-        "52",
-        "70",
-        "53"
+        "65",
+        "64",
+        "06",
+        "38"
       ],
       "provider_id": "lotedom",
       "game_id": "agarra-4",
@@ -1137,9 +1137,9 @@
       "provider": "LoteDom",
       "game": "El Quemaito",
       "edition": "Noche",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "numbers": [
-        "53"
+        "38"
       ],
       "provider_id": "lotedom",
       "game_id": "el-quemaito",
@@ -1163,11 +1163,11 @@
       "provider": "LoteDom",
       "game": "LoteDom",
       "edition": "Noche",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "numbers": [
-        "36",
-        "52",
-        "70"
+        "65",
+        "64",
+        "06"
       ],
       "provider_id": "lotedom",
       "game_id": "lotedom",
@@ -1207,10 +1207,10 @@
       "provider": "LoteDom",
       "game": "Súper Palé",
       "edition": "Noche",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "numbers": [
-        "36",
-        "53"
+        "65",
+        "38"
       ],
       "provider_id": "lotedom",
       "game_id": "super-pale",
@@ -1582,11 +1582,11 @@
       "provider": "New York",
       "game": "Numbers",
       "edition": "Noche",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "numbers": [
         "05",
-        "00",
-        "00"
+        "06",
+        "03"
       ],
       "provider_id": "new-york",
       "game_id": "numbers",
@@ -1614,13 +1614,13 @@
       "provider": "New York",
       "game": "Take 5",
       "edition": "Noche",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "numbers": [
-        "10",
-        "19",
-        "07",
-        "37",
-        "03"
+        "25",
+        "17",
+        "22",
+        "33",
+        "01"
       ],
       "provider_id": "new-york",
       "game_id": "take-5",
@@ -1647,12 +1647,12 @@
       "provider": "New York",
       "game": "Win 4",
       "edition": "Noche",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "numbers": [
+        "08",
         "04",
         "06",
-        "03",
-        "02"
+        "09"
       ],
       "provider_id": "new-york",
       "game_id": "win-4",
