@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-11-03T03:50:35.224877Z",
+  "last_updated": "2026-11-03T04:28:01.086658Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -84,11 +84,11 @@
       "provider": "Americanas",
       "game": "New Jersey",
       "edition": "Noche",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "numbers": [
-        "78",
-        "84",
-        "16"
+        "77",
+        "74",
+        "63"
       ],
       "provider_id": "americanas",
       "game_id": "new-jersey",
@@ -99,14 +99,14 @@
       "provider": "Americanas",
       "game": "PowerBall",
       "edition": null,
-      "date": "2026-10-31",
+      "date": "2026-11-02",
       "numbers": [
-        "50",
-        "04",
-        "02",
-        "18",
-        "56",
-        "20"
+        "07",
+        "29",
+        "64",
+        "23",
+        "66",
+        "23"
       ],
       "provider_id": "americanas",
       "game_id": "powerball",
@@ -117,14 +117,14 @@
       "provider": "Americanas",
       "game": "PowerBall Double Play",
       "edition": null,
-      "date": "2026-10-31",
+      "date": "2026-11-02",
       "numbers": [
-        "16",
-        "55",
-        "52",
-        "67",
-        "58",
-        "24"
+        "61",
+        "33",
+        "24",
+        "20",
+        "23",
+        "01"
       ],
       "provider_id": "americanas",
       "game_id": "powerball-double-play",
@@ -441,13 +441,13 @@
       "provider": "Florida",
       "game": "Fantasy 5",
       "edition": "Noche",
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "numbers": [
-        "03",
-        "23",
+        "10",
         "02",
-        "18",
-        "04"
+        "17",
+        "01",
+        "23"
       ],
       "provider_id": "florida",
       "game_id": "fantasy-5",
@@ -1530,12 +1530,12 @@
       "provider": "New York",
       "game": "Millionaire For Life",
       "edition": null,
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "numbers": [
-        "17",
+        "14",
         "26",
-        "32",
-        "38",
+        "48",
+        "51",
         "52",
         "03"
       ],
