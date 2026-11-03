@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-11-03T04:28:01.086658Z",
+  "last_updated": "2026-11-03T11:38:11.404580Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -15,21 +15,6 @@
       "provider_id": "americanas",
       "game_id": "georgia",
       "logo_url": "https://cdn.kiskoo.com/2026/08/26/i2xSKjki_CrAtU-w_JENw.png",
-      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/lUpJq9x_V8-w9v2tnYLq-.png"
-    },
-    {
-      "provider": "Americanas",
-      "game": "Georgia",
-      "edition": "Noche",
-      "date": "2026-11-01",
-      "numbers": [
-        "17",
-        "13",
-        "69"
-      ],
-      "provider_id": "americanas",
-      "game_id": "georgia",
-      "logo_url": "https://cdn.kiskoo.com/2026/08/26/AGFZ3kGw1SOSHTnuSAHzW.png",
       "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/lUpJq9x_V8-w9v2tnYLq-.png"
     },
     {
