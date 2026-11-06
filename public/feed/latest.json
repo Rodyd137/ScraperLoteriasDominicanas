@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-11-06T03:12:33.369577Z",
+  "last_updated": "2026-11-06T04:02:00.221391Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -84,11 +84,11 @@
       "provider": "Americanas",
       "game": "New Jersey",
       "edition": "Noche",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "numbers": [
-        "57",
-        "34",
-        "80"
+        "23",
+        "24",
+        "09"
       ],
       "provider_id": "americanas",
       "game_id": "new-jersey",
@@ -1582,11 +1582,11 @@
       "provider": "New York",
       "game": "Numbers",
       "edition": "Noche",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "numbers": [
         "03",
         "01",
-        "01"
+        "05"
       ],
       "provider_id": "new-york",
       "game_id": "numbers",
@@ -1614,13 +1614,13 @@
       "provider": "New York",
       "game": "Take 5",
       "edition": "Noche",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "numbers": [
-        "32",
-        "12",
-        "29",
         "02",
-        "24"
+        "14",
+        "21",
+        "38",
+        "10"
       ],
       "provider_id": "new-york",
       "game_id": "take-5",
@@ -1647,12 +1647,12 @@
       "provider": "New York",
       "game": "Win 4",
       "edition": "Noche",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "numbers": [
-        "02",
+        "08",
         "06",
-        "04",
-        "04"
+        "05",
+        "08"
       ],
       "provider_id": "new-york",
       "game_id": "win-4",
