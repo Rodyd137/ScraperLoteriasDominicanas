@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-11-06T20:39:34.410859Z",
+  "last_updated": "2026-11-06T22:55:30.207197Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -255,11 +255,11 @@
       "provider": "Anguila",
       "game": "Anguila 5:00 PM",
       "edition": null,
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "numbers": [
-        "90",
-        "79",
-        "13"
+        "33",
+        "33",
+        "98"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-5-00-pm",
@@ -270,11 +270,11 @@
       "provider": "Anguila",
       "game": "Anguila 6:00 PM",
       "edition": null,
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "numbers": [
-        "72",
-        "82",
-        "79"
+        "08",
+        "20",
+        "53"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-6-00-pm",
@@ -392,12 +392,12 @@
       "provider": "Anguila",
       "game": "La Cuarteta 6:00 PM",
       "edition": null,
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "numbers": [
-        "97",
         "41",
-        "44",
-        "34"
+        "81",
+        "76",
+        "88"
       ],
       "provider_id": "anguila",
       "game_id": "la-cuarteta-6-00-pm",
@@ -674,11 +674,11 @@
       "provider": "Haiti Bolet",
       "game": "Haiti Bolet 5:30 PM",
       "edition": null,
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "numbers": [
-        "80",
-        "05",
-        "33"
+        "61",
+        "37",
+        "70"
       ],
       "provider_id": "haiti-bolet",
       "game_id": "haiti-bolet-5-30-pm",
@@ -977,11 +977,11 @@
       "provider": "La Suerte Dominicana",
       "game": "La Suerte",
       "edition": "Tarde",
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "numbers": [
-        "80",
-        "12",
-        "21"
+        "20",
+        "17",
+        "17"
       ],
       "provider_id": "la-suerte-dominicana",
       "game_id": "la-suerte",
