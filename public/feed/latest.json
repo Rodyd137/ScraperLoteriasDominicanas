@@ -1,16 +1,16 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-11-07T16:44:30.146770Z",
+  "last_updated": "2026-11-07T17:57:35.585213Z",
   "draws": [
     {
       "provider": "Americanas",
       "game": "Georgia",
       "edition": "Día",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "numbers": [
-        "35",
-        "33",
-        "15"
+        "46",
+        "65",
+        "77"
       ],
       "provider_id": "americanas",
       "game_id": "georgia",
@@ -135,11 +135,11 @@
       "provider": "Anguila",
       "game": "Anguila 1:00 PM",
       "edition": null,
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "numbers": [
-        "08",
-        "40",
-        "00"
+        "60",
+        "09",
+        "20"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-1-00-pm",
@@ -360,12 +360,12 @@
       "provider": "Anguila",
       "game": "La Cuarteta 1:00 PM",
       "edition": null,
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "numbers": [
-        "17",
-        "43",
-        "22",
-        "95"
+        "32",
+        "02",
+        "67",
+        "59"
       ],
       "provider_id": "anguila",
       "game_id": "la-cuarteta-1-00-pm",
@@ -1271,11 +1271,11 @@
       "provider": "Loteka",
       "game": "Quiniela",
       "edition": "Día",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "numbers": [
-        "97",
-        "10",
-        "38"
+        "73",
+        "12",
+        "32"
       ],
       "provider_id": "loteka",
       "game_id": "quiniela",
@@ -1410,12 +1410,12 @@
       "provider": "Lotería Real",
       "game": "Loto Pool",
       "edition": null,
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "numbers": [
-        "85",
-        "57",
-        "93",
-        "55"
+        "29",
+        "49",
+        "84",
+        "76"
       ],
       "provider_id": "loteria-real",
       "game_id": "loto-pool",
@@ -1460,11 +1460,11 @@
       "provider": "Lotería Real",
       "game": "Nueva Yol Real",
       "edition": null,
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "numbers": [
-        "09",
-        "05",
-        "38"
+        "26",
+        "01",
+        "44"
       ],
       "provider_id": "loteria-real",
       "game_id": "nueva-yol-real",
@@ -1475,11 +1475,11 @@
       "provider": "Lotería Real",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "numbers": [
-        "12",
-        "85",
-        "89"
+        "25",
+        "74",
+        "27"
       ],
       "provider_id": "loteria-real",
       "game_id": "quiniela",
@@ -1517,9 +1517,9 @@
       "provider": "Lotería Real",
       "game": "Tu Fecha Real",
       "edition": null,
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "numbers": [
-        "10"
+        "19"
       ],
       "provider_id": "loteria-real",
       "game_id": "tu-fecha-real",
