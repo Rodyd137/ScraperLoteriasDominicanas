@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-11-07T03:38:20.008933Z",
+  "last_updated": "2026-11-07T10:39:10.827548Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -21,11 +21,11 @@
       "provider": "Americanas",
       "game": "Georgia",
       "edition": "Noche",
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "numbers": [
-        "48",
-        "52",
-        "93"
+        "96",
+        "80",
+        "60"
       ],
       "provider_id": "americanas",
       "game_id": "georgia",
@@ -51,14 +51,14 @@
       "provider": "Americanas",
       "game": "Mega Millions",
       "edition": null,
-      "date": "2026-11-03",
+      "date": "2026-11-06",
       "numbers": [
-        "70",
-        "31",
-        "04",
-        "24",
-        "62",
-        "03"
+        "53",
+        "44",
+        "34",
+        "27",
+        "64",
+        "01"
       ],
       "provider_id": "americanas",
       "game_id": "mega-millions",
@@ -84,10 +84,10 @@
       "provider": "Americanas",
       "game": "New Jersey",
       "edition": "Noche",
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "numbers": [
-        "41",
-        "24",
+        "23",
+        "99",
         "09"
       ],
       "provider_id": "americanas",
@@ -441,13 +441,13 @@
       "provider": "Florida",
       "game": "Fantasy 5",
       "edition": "Noche",
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "numbers": [
-        "12",
+        "28",
+        "26",
+        "13",
         "30",
-        "22",
-        "27",
-        "26"
+        "06"
       ],
       "provider_id": "florida",
       "game_id": "fantasy-5",
@@ -494,14 +494,14 @@
       "provider": "Florida",
       "game": "Jackpot Triple Play",
       "edition": null,
-      "date": "2026-11-03",
+      "date": "2026-11-06",
       "numbers": [
-        "38",
+        "46",
+        "09",
+        "33",
         "42",
-        "14",
-        "04",
-        "08",
-        "02"
+        "13",
+        "22"
       ],
       "provider_id": "florida",
       "game_id": "jackpot-triple-play",
@@ -1530,14 +1530,14 @@
       "provider": "New York",
       "game": "Millionaire For Life",
       "edition": null,
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "numbers": [
-        "07",
-        "16",
-        "19",
+        "10",
         "27",
-        "47",
-        "02"
+        "28",
+        "33",
+        "35",
+        "03"
       ],
       "provider_id": "new-york",
       "game_id": "millionaire-for-life",
