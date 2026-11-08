@@ -1,16 +1,16 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-11-08T17:38:09.688852Z",
+  "last_updated": "2026-11-08T18:14:58.238923Z",
   "draws": [
     {
       "provider": "Americanas",
       "game": "Georgia",
       "edition": "Día",
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "numbers": [
-        "46",
-        "65",
-        "77"
+        "57",
+        "17",
+        "37"
       ],
       "provider_id": "americanas",
       "game_id": "georgia",
@@ -69,11 +69,11 @@
       "provider": "Americanas",
       "game": "New Jersey",
       "edition": "Día",
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "numbers": [
-        "02",
-        "69",
-        "00"
+        "03",
+        "67",
+        "37"
       ],
       "provider_id": "americanas",
       "game_id": "new-jersey",
@@ -210,11 +210,11 @@
       "provider": "Anguila",
       "game": "Anguila 2:00 PM",
       "edition": null,
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "numbers": [
-        "75",
-        "61",
-        "37"
+        "13",
+        "48",
+        "82"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-2-00-pm",
@@ -424,13 +424,13 @@
       "provider": "Florida",
       "game": "Fantasy",
       "edition": "Día",
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "numbers": [
-        "14",
-        "03",
-        "13",
-        "27",
-        "21"
+        "28",
+        "19",
+        "23",
+        "16",
+        "17"
       ],
       "provider_id": "florida",
       "game_id": "fantasy",
