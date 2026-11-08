@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-11-08T19:15:15.578326Z",
+  "last_updated": "2026-11-08T21:53:21.957073Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -240,11 +240,11 @@
       "provider": "Anguila",
       "game": "Anguila 4:00 PM",
       "edition": null,
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "numbers": [
-        "21",
-        "05",
-        "47"
+        "24",
+        "02",
+        "40"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-4-00-pm",
@@ -255,10 +255,10 @@
       "provider": "Anguila",
       "game": "Anguila 5:00 PM",
       "edition": null,
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "numbers": [
-        "18",
-        "96",
+        "13",
+        "67",
         "13"
       ],
       "provider_id": "anguila",
@@ -1012,13 +1012,13 @@
       "provider": "Leidsa",
       "game": "Loto Pool",
       "edition": null,
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "numbers": [
-        "07",
-        "01",
-        "31",
-        "11",
-        "26"
+        "22",
+        "03",
+        "28",
+        "24",
+        "18"
       ],
       "provider_id": "leidsa",
       "game_id": "loto-pool",
@@ -1029,11 +1029,11 @@
       "provider": "Leidsa",
       "game": "Pega 3 Más",
       "edition": null,
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "numbers": [
-        "09",
-        "11",
-        "13"
+        "06",
+        "28",
+        "09"
       ],
       "provider_id": "leidsa",
       "game_id": "pega-3-mas",
@@ -1044,11 +1044,11 @@
       "provider": "Leidsa",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "numbers": [
-        "03",
-        "35",
-        "62"
+        "20",
+        "94",
+        "97"
       ],
       "provider_id": "leidsa",
       "game_id": "quiniela",
@@ -1059,28 +1059,28 @@
       "provider": "Leidsa",
       "game": "Super Kino TV",
       "edition": null,
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "numbers": [
-        "20",
-        "10",
-        "15",
-        "75",
-        "37",
-        "68",
-        "76",
-        "79",
-        "49",
-        "36",
-        "54",
-        "52",
-        "07",
+        "12",
+        "27",
         "02",
-        "44",
-        "57",
-        "82",
-        "42",
-        "28",
-        "33"
+        "24",
+        "14",
+        "39",
+        "08",
+        "66",
+        "64",
+        "32",
+        "20",
+        "06",
+        "07",
+        "51",
+        "18",
+        "69",
+        "37",
+        "59",
+        "11",
+        "49"
       ],
       "provider_id": "leidsa",
       "game_id": "super-kino-tv",
@@ -1567,11 +1567,11 @@
       "provider": "New York",
       "game": "Numbers",
       "edition": "Día",
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "numbers": [
-        "01",
+        "08",
         "03",
-        "09"
+        "01"
       ],
       "provider_id": "new-york",
       "game_id": "numbers",
@@ -1597,13 +1597,13 @@
       "provider": "New York",
       "game": "Take 5",
       "edition": "Día",
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "numbers": [
-        "16",
-        "30",
-        "09",
-        "20",
-        "34"
+        "03",
+        "01",
+        "19",
+        "05",
+        "18"
       ],
       "provider_id": "new-york",
       "game_id": "take-5",
@@ -1631,12 +1631,12 @@
       "provider": "New York",
       "game": "Win 4",
       "edition": "Día",
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "numbers": [
+        "01",
         "04",
-        "05",
-        "08",
-        "05"
+        "02",
+        "03"
       ],
       "provider_id": "new-york",
       "game_id": "win-4",
