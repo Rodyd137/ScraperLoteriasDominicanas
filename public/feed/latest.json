@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-11-10T04:29:30.563553Z",
+  "last_updated": "2026-11-10T05:05:05.949285Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -21,11 +21,11 @@
       "provider": "Americanas",
       "game": "Georgia",
       "edition": "Noche",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "numbers": [
-        "75",
-        "06",
-        "35"
+        "63",
+        "76",
+        "28"
       ],
       "provider_id": "americanas",
       "game_id": "georgia",
