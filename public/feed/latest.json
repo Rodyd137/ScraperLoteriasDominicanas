@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-11-11T00:59:22.926999Z",
+  "last_updated": "2026-11-11T02:32:42.931648Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -165,11 +165,11 @@
       "provider": "Anguila",
       "game": "Anguila 10:00 PM",
       "edition": null,
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "numbers": [
-        "99",
-        "71",
-        "81"
+        "70",
+        "45",
+        "41"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-10-00-pm",
@@ -345,11 +345,11 @@
       "provider": "Anguila",
       "game": "Anguila 9:00 PM",
       "edition": null,
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "numbers": [
-        "03",
-        "99",
-        "43"
+        "16",
+        "46",
+        "32"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-9-00-pm",
@@ -408,12 +408,12 @@
       "provider": "Anguila",
       "game": "La Cuarteta 9:00 PM",
       "edition": null,
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "numbers": [
-        "54",
-        "53",
-        "57",
-        "49"
+        "34",
+        "90",
+        "80",
+        "02"
       ],
       "provider_id": "anguila",
       "game_id": "la-cuarteta-9-00-pm",
@@ -1044,11 +1044,11 @@
       "provider": "Leidsa",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "numbers": [
-        "62",
-        "41",
-        "63"
+        "47",
+        "89",
+        "45"
       ],
       "provider_id": "leidsa",
       "game_id": "quiniela",
@@ -1091,10 +1091,10 @@
       "provider": "Leidsa",
       "game": "Súper Palé",
       "edition": null,
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "numbers": [
-        "62",
-        "60"
+        "47",
+        "23"
       ],
       "provider_id": "leidsa",
       "game_id": "super-pale",
@@ -1121,12 +1121,12 @@
       "provider": "LoteDom",
       "game": "Agarra 4",
       "edition": "Noche",
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "numbers": [
-        "12",
-        "11",
-        "86",
-        "50"
+        "73",
+        "82",
+        "93",
+        "32"
       ],
       "provider_id": "lotedom",
       "game_id": "agarra-4",
@@ -1137,9 +1137,9 @@
       "provider": "LoteDom",
       "game": "El Quemaito",
       "edition": "Noche",
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "numbers": [
-        "50"
+        "32"
       ],
       "provider_id": "lotedom",
       "game_id": "el-quemaito",
@@ -1163,11 +1163,11 @@
       "provider": "LoteDom",
       "game": "LoteDom",
       "edition": "Noche",
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "numbers": [
-        "12",
-        "11",
-        "86"
+        "73",
+        "82",
+        "93"
       ],
       "provider_id": "lotedom",
       "game_id": "lotedom",
@@ -1207,10 +1207,10 @@
       "provider": "LoteDom",
       "game": "Súper Palé",
       "edition": "Noche",
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "numbers": [
-        "12",
-        "50"
+        "73",
+        "32"
       ],
       "provider_id": "lotedom",
       "game_id": "super-pale",
@@ -1363,11 +1363,11 @@
       "provider": "Lotería Nacional",
       "game": "Lotería Nacional",
       "edition": null,
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "numbers": [
-        "60",
-        "48",
-        "99"
+        "23",
+        "66",
+        "40"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "loteria-nacional",
