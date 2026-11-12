@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-11-12T03:37:28.609611Z",
+  "last_updated": "2026-11-12T04:47:14.788364Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -21,11 +21,11 @@
       "provider": "Americanas",
       "game": "Georgia",
       "edition": "Noche",
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "numbers": [
-        "09",
-        "26",
-        "13"
+        "01",
+        "52",
+        "37"
       ],
       "provider_id": "americanas",
       "game_id": "georgia",
@@ -84,11 +84,11 @@
       "provider": "Americanas",
       "game": "New Jersey",
       "edition": "Noche",
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "numbers": [
-        "39",
-        "14",
-        "47"
+        "19",
+        "16",
+        "49"
       ],
       "provider_id": "americanas",
       "game_id": "new-jersey",
@@ -99,14 +99,14 @@
       "provider": "Americanas",
       "game": "PowerBall",
       "edition": null,
-      "date": "2026-11-09",
+      "date": "2026-11-11",
       "numbers": [
+        "57",
         "45",
-        "13",
-        "48",
-        "41",
-        "34",
-        "25"
+        "08",
+        "51",
+        "42",
+        "17"
       ],
       "provider_id": "americanas",
       "game_id": "powerball",
@@ -117,14 +117,14 @@
       "provider": "Americanas",
       "game": "PowerBall Double Play",
       "edition": null,
-      "date": "2026-11-07",
+      "date": "2026-11-11",
       "numbers": [
+        "55",
         "45",
-        "11",
-        "26",
-        "17",
-        "37",
-        "07"
+        "27",
+        "15",
+        "52",
+        "01"
       ],
       "provider_id": "americanas",
       "game_id": "powerball-double-play",
@@ -441,13 +441,13 @@
       "provider": "Florida",
       "game": "Fantasy 5",
       "edition": "Noche",
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "numbers": [
-        "32",
-        "25",
-        "26",
+        "04",
         "16",
-        "07"
+        "23",
+        "10",
+        "15"
       ],
       "provider_id": "florida",
       "game_id": "fantasy-5",
@@ -458,14 +458,14 @@
       "provider": "Florida",
       "game": "Florida Lotto",
       "edition": null,
-      "date": "2026-11-07",
+      "date": "2026-11-11",
       "numbers": [
-        "14",
-        "02",
-        "28",
         "05",
-        "01",
-        "40"
+        "30",
+        "18",
+        "50",
+        "42",
+        "21"
       ],
       "provider_id": "florida",
       "game_id": "florida-lotto",
@@ -476,14 +476,14 @@
       "provider": "Florida",
       "game": "Florida Lotto Double Play",
       "edition": null,
-      "date": "2026-11-07",
+      "date": "2026-11-11",
       "numbers": [
-        "07",
-        "44",
-        "18",
-        "40",
-        "01",
-        "14"
+        "53",
+        "21",
+        "36",
+        "47",
+        "12",
+        "23"
       ],
       "provider_id": "florida",
       "game_id": "florida-lotto-double-play",
@@ -1530,14 +1530,14 @@
       "provider": "New York",
       "game": "Millionaire For Life",
       "edition": null,
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "numbers": [
-        "02",
-        "09",
-        "14",
+        "06",
+        "17",
+        "28",
         "41",
-        "43",
-        "03"
+        "47",
+        "01"
       ],
       "provider_id": "new-york",
       "game_id": "millionaire-for-life",
