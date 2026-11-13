@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-11-13T19:14:23.006534Z",
+  "last_updated": "2026-11-13T20:22:28.035112Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -240,11 +240,11 @@
       "provider": "Anguila",
       "game": "Anguila 4:00 PM",
       "edition": null,
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "numbers": [
-        "99",
-        "21",
-        "87"
+        "19",
+        "39",
+        "82"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-4-00-pm",
@@ -1567,11 +1567,11 @@
       "provider": "New York",
       "game": "Numbers",
       "edition": "Día",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "numbers": [
         "02",
-        "05",
-        "06"
+        "09",
+        "07"
       ],
       "provider_id": "new-york",
       "game_id": "numbers",
@@ -1597,13 +1597,13 @@
       "provider": "New York",
       "game": "Take 5",
       "edition": "Día",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "numbers": [
-        "26",
-        "33",
-        "34",
-        "22",
-        "04"
+        "24",
+        "28",
+        "02",
+        "39",
+        "08"
       ],
       "provider_id": "new-york",
       "game_id": "take-5",
@@ -1631,12 +1631,12 @@
       "provider": "New York",
       "game": "Win 4",
       "edition": "Día",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "numbers": [
-        "01",
-        "05",
+        "03",
         "06",
-        "08"
+        "04",
+        "09"
       ],
       "provider_id": "new-york",
       "game_id": "win-4",
