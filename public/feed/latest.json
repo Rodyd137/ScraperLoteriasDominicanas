@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-11-15T19:32:13.541443Z",
+  "last_updated": "2026-11-15T20:03:26.058723Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -240,11 +240,11 @@
       "provider": "Anguila",
       "game": "Anguila 4:00 PM",
       "edition": null,
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "numbers": [
-        "53",
-        "09",
-        "09"
+        "31",
+        "27",
+        "78"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-4-00-pm",
@@ -1012,13 +1012,13 @@
       "provider": "Leidsa",
       "game": "Loto Pool",
       "edition": null,
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "numbers": [
-        "03",
-        "25",
-        "11",
-        "18",
-        "10"
+        "22",
+        "31",
+        "08",
+        "16",
+        "06"
       ],
       "provider_id": "leidsa",
       "game_id": "loto-pool",
@@ -1029,11 +1029,11 @@
       "provider": "Leidsa",
       "game": "Pega 3 Más",
       "edition": null,
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "numbers": [
-        "45",
-        "13",
-        "05"
+        "01",
+        "50",
+        "46"
       ],
       "provider_id": "leidsa",
       "game_id": "pega-3-mas",
@@ -1044,11 +1044,11 @@
       "provider": "Leidsa",
       "game": "Quiniela",
       "edition": null,
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "numbers": [
-        "53",
-        "97",
-        "54"
+        "78",
+        "85",
+        "22"
       ],
       "provider_id": "leidsa",
       "game_id": "quiniela",
@@ -1059,28 +1059,28 @@
       "provider": "Leidsa",
       "game": "Super Kino TV",
       "edition": null,
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "numbers": [
-        "17",
-        "71",
-        "68",
-        "51",
-        "03",
-        "24",
-        "04",
-        "20",
+        "52",
+        "69",
+        "22",
+        "38",
+        "49",
+        "76",
+        "65",
+        "61",
         "11",
         "74",
-        "39",
-        "37",
-        "45",
-        "47",
+        "08",
+        "71",
+        "60",
+        "33",
+        "43",
         "40",
-        "55",
-        "78",
-        "50",
-        "34",
-        "08"
+        "13",
+        "48",
+        "47",
+        "30"
       ],
       "provider_id": "leidsa",
       "game_id": "super-kino-tv",
