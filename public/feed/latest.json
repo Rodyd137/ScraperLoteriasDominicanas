@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-11-15T18:29:49.910032Z",
+  "last_updated": "2026-11-15T19:16:32.433657Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -225,11 +225,11 @@
       "provider": "Anguila",
       "game": "Anguila 3:00 PM",
       "edition": null,
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "numbers": [
-        "45",
-        "24",
-        "74"
+        "69",
+        "23",
+        "87"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-3-00-pm",
@@ -512,11 +512,11 @@
       "provider": "Florida",
       "game": "Pick 2",
       "edition": "Día",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "numbers": [
-        "09",
-        "07",
-        "03"
+        "05",
+        "00",
+        "00"
       ],
       "provider_id": "florida",
       "game_id": "pick-2",
@@ -542,12 +542,12 @@
       "provider": "Florida",
       "game": "Pick 3",
       "edition": "Día",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "numbers": [
-        "05",
         "07",
-        "06",
-        "03"
+        "09",
+        "07",
+        "00"
       ],
       "provider_id": "florida",
       "game_id": "pick-3",
@@ -574,13 +574,13 @@
       "provider": "Florida",
       "game": "Pick 4",
       "edition": "Día",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "numbers": [
-        "00",
-        "06",
+        "07",
+        "08",
         "05",
-        "00",
-        "03"
+        "03",
+        "00"
       ],
       "provider_id": "florida",
       "game_id": "pick-4",
@@ -608,14 +608,14 @@
       "provider": "Florida",
       "game": "Pick 5",
       "edition": "Día",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "numbers": [
+        "03",
         "07",
-        "04",
-        "08",
+        "00",
+        "07",
         "06",
-        "04",
-        "03"
+        "00"
       ],
       "provider_id": "florida",
       "game_id": "pick-5",
@@ -1331,11 +1331,11 @@
       "provider": "Lotería Nacional",
       "game": "Gana Más",
       "edition": null,
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "numbers": [
-        "03",
-        "21",
-        "83"
+        "70",
+        "55",
+        "90"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "gana-mas",
@@ -1346,13 +1346,13 @@
       "provider": "Lotería Nacional",
       "game": "Juega + Pega +",
       "edition": null,
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "numbers": [
-        "22",
-        "13",
-        "03",
-        "11",
-        "22"
+        "20",
+        "06",
+        "25",
+        "14",
+        "12"
       ],
       "provider_id": "loteria-nacional",
       "game_id": "juega-pega",
@@ -1503,10 +1503,10 @@
       "provider": "Lotería Real",
       "game": "Súper Palé",
       "edition": null,
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "numbers": [
-        "67",
-        "03"
+        "48",
+        "70"
       ],
       "provider_id": "loteria-real",
       "game_id": "super-pale",
