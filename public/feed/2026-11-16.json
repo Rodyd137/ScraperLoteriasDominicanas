@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-11-16T00:45:09.666766Z",
+  "last_updated": "2026-11-16T02:34:23.119186Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -165,11 +165,11 @@
       "provider": "Anguila",
       "game": "Anguila 10:00 PM",
       "edition": null,
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "numbers": [
-        "21",
-        "56",
-        "43"
+        "19",
+        "17",
+        "72"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-10-00-pm",
@@ -345,11 +345,11 @@
       "provider": "Anguila",
       "game": "Anguila 9:00 PM",
       "edition": null,
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "numbers": [
-        "12",
-        "24",
-        "15"
+        "10",
+        "73",
+        "87"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-9-00-pm",
@@ -408,12 +408,12 @@
       "provider": "Anguila",
       "game": "La Cuarteta 9:00 PM",
       "edition": null,
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "numbers": [
-        "85",
-        "01",
-        "98",
-        "30"
+        "12",
+        "62",
+        "65",
+        "62"
       ],
       "provider_id": "anguila",
       "game_id": "la-cuarteta-9-00-pm",
@@ -977,11 +977,11 @@
       "provider": "La Suerte Dominicana",
       "game": "La Suerte",
       "edition": "Tarde",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "numbers": [
-        "35",
-        "91",
-        "13"
+        "19",
+        "66",
+        "90"
       ],
       "provider_id": "la-suerte-dominicana",
       "game_id": "la-suerte",
@@ -1121,11 +1121,11 @@
       "provider": "LoteDom",
       "game": "Agarra 4",
       "edition": "Noche",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "numbers": [
-        "28",
-        "44",
-        "67",
+        "15",
+        "66",
+        "91",
         "02"
       ],
       "provider_id": "lotedom",
@@ -1137,7 +1137,7 @@
       "provider": "LoteDom",
       "game": "El Quemaito",
       "edition": "Noche",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "numbers": [
         "02"
       ],
@@ -1163,11 +1163,11 @@
       "provider": "LoteDom",
       "game": "LoteDom",
       "edition": "Noche",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "numbers": [
-        "28",
-        "44",
-        "67"
+        "15",
+        "66",
+        "91"
       ],
       "provider_id": "lotedom",
       "game_id": "lotedom",
@@ -1207,9 +1207,9 @@
       "provider": "LoteDom",
       "game": "Súper Palé",
       "edition": "Noche",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "numbers": [
-        "28",
+        "15",
         "02"
       ],
       "provider_id": "lotedom",
