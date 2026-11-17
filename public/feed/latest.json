@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-11-17T22:00:46.764553Z",
+  "last_updated": "2026-11-17T22:44:12.728766Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -392,12 +392,12 @@
       "provider": "Anguila",
       "game": "La Cuarteta 6:00 PM",
       "edition": null,
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "numbers": [
-        "30",
-        "87",
-        "10",
-        "25"
+        "20",
+        "58",
+        "38",
+        "86"
       ],
       "provider_id": "anguila",
       "game_id": "la-cuarteta-6-00-pm",
@@ -674,11 +674,11 @@
       "provider": "Haiti Bolet",
       "game": "Haiti Bolet 5:30 PM",
       "edition": null,
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "numbers": [
         "26",
-        "74",
-        "76"
+        "47",
+        "28"
       ],
       "provider_id": "haiti-bolet",
       "game_id": "haiti-bolet-5-30-pm",
@@ -977,11 +977,11 @@
       "provider": "La Suerte Dominicana",
       "game": "La Suerte",
       "edition": "Tarde",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "numbers": [
-        "22",
-        "31",
-        "05"
+        "65",
+        "38",
+        "16"
       ],
       "provider_id": "la-suerte-dominicana",
       "game_id": "la-suerte",
