@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-11-20T22:03:33.723764Z",
+  "last_updated": "2026-11-20T23:52:16.392730Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -285,11 +285,11 @@
       "provider": "Anguila",
       "game": "Anguila 7:00 PM",
       "edition": null,
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "numbers": [
-        "80",
-        "62",
-        "91"
+        "59",
+        "88",
+        "52"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-7-00-pm",
@@ -396,7 +396,8 @@
       "numbers": [
         "63",
         "03",
-        "57"
+        "57",
+        "28"
       ],
       "provider_id": "anguila",
       "game_id": "la-cuarteta-6-00-pm",
@@ -673,11 +674,11 @@
       "provider": "Haiti Bolet",
       "game": "Haiti Bolet 5:30 PM",
       "edition": null,
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "numbers": [
-        "88",
-        "13",
-        "45"
+        "45",
+        "64",
+        "04"
       ],
       "provider_id": "haiti-bolet",
       "game_id": "haiti-bolet-5-30-pm",
@@ -688,11 +689,11 @@
       "provider": "Haiti Bolet",
       "game": "Haiti Bolet 6:30 PM",
       "edition": null,
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "numbers": [
-        "44",
-        "64",
-        "30"
+        "60",
+        "14",
+        "01"
       ],
       "provider_id": "haiti-bolet",
       "game_id": "haiti-bolet-6-30-pm",
@@ -748,11 +749,11 @@
       "provider": "King Lottery",
       "game": "King Lottery",
       "edition": "Noche",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "numbers": [
-        "03",
-        "80",
-        "61"
+        "79",
+        "75",
+        "50"
       ],
       "provider_id": "king-lottery",
       "game_id": "king-lottery",
@@ -779,12 +780,12 @@
       "provider": "King Lottery",
       "game": "Loto Pool",
       "edition": "Noche",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "numbers": [
-        "95",
-        "80",
-        "70",
-        "09"
+        "05",
+        "56",
+        "76",
+        "52"
       ],
       "provider_id": "king-lottery",
       "game_id": "loto-pool",
@@ -810,11 +811,11 @@
       "provider": "King Lottery",
       "game": "Philipsburg",
       "edition": "Noche",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "numbers": [
-        "9625",
-        "3572",
-        "8671"
+        "2663",
+        "0689",
+        "5996"
       ],
       "provider_id": "king-lottery",
       "game_id": "philipsburg",
@@ -840,11 +841,11 @@
       "provider": "King Lottery",
       "game": "Pick 3",
       "edition": "Noche",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "numbers": [
-        "03",
-        "00",
-        "03"
+        "02",
+        "07",
+        "09"
       ],
       "provider_id": "king-lottery",
       "game_id": "pick-3",
@@ -871,12 +872,12 @@
       "provider": "King Lottery",
       "game": "Pick 4",
       "edition": "Noche",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "numbers": [
-        "08",
-        "00",
-        "06",
-        "01"
+        "07",
+        "05",
+        "05",
+        "00"
       ],
       "provider_id": "king-lottery",
       "game_id": "pick-4",
@@ -900,9 +901,9 @@
       "provider": "La Primera",
       "game": "El Quinielón",
       "edition": "Noche",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "numbers": [
-        "07"
+        "71"
       ],
       "provider_id": "la-primera",
       "game_id": "el-quinielon",
@@ -913,14 +914,14 @@
       "provider": "La Primera",
       "game": "Loto 5",
       "edition": null,
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "numbers": [
-        "09",
-        "13",
-        "18",
-        "20",
-        "30",
-        "04"
+        "34",
+        "25",
+        "31",
+        "06",
+        "38",
+        "07"
       ],
       "provider_id": "la-primera",
       "game_id": "loto-5",
@@ -946,11 +947,11 @@
       "provider": "La Primera",
       "game": "Quiniela",
       "edition": "Noche",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "numbers": [
-        "72",
-        "30",
-        "88"
+        "51",
+        "01",
+        "90"
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela",
