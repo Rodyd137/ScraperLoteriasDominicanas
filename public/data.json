@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-11-22T03:55:18.729007Z",
+  "last_updated": "2026-11-22T12:16:59.447545Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -21,11 +21,11 @@
       "provider": "Americanas",
       "game": "Georgia",
       "edition": "Noche",
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "numbers": [
-        "18",
-        "27",
-        "69"
+        "02",
+        "30",
+        "09"
       ],
       "provider_id": "americanas",
       "game_id": "georgia",
@@ -84,11 +84,11 @@
       "provider": "Americanas",
       "game": "New Jersey",
       "edition": "Noche",
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "numbers": [
-        "71",
-        "29",
-        "13"
+        "26",
+        "70",
+        "87"
       ],
       "provider_id": "americanas",
       "game_id": "new-jersey",
@@ -99,14 +99,14 @@
       "provider": "Americanas",
       "game": "PowerBall",
       "edition": null,
-      "date": "2026-11-18",
+      "date": "2026-11-21",
       "numbers": [
-        "31",
-        "18",
-        "51",
-        "43",
-        "62",
-        "12"
+        "45",
+        "05",
+        "36",
+        "33",
+        "29",
+        "22"
       ],
       "provider_id": "americanas",
       "game_id": "powerball",
@@ -117,14 +117,14 @@
       "provider": "Americanas",
       "game": "PowerBall Double Play",
       "edition": null,
-      "date": "2026-11-18",
+      "date": "2026-11-21",
       "numbers": [
-        "06",
-        "48",
-        "04",
-        "08",
-        "55",
-        "19"
+        "69",
+        "68",
+        "42",
+        "45",
+        "10",
+        "22"
       ],
       "provider_id": "americanas",
       "game_id": "powerball-double-play",
@@ -300,11 +300,11 @@
       "provider": "Anguila",
       "game": "Anguila 8:00  AM",
       "edition": null,
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "numbers": [
-        "78",
-        "66",
-        "26"
+        "72",
+        "45",
+        "81"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-8-00-am",
@@ -441,13 +441,13 @@
       "provider": "Florida",
       "game": "Fantasy 5",
       "edition": "Noche",
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "numbers": [
-        "32",
-        "06",
-        "04",
+        "03",
         "15",
-        "23"
+        "09",
+        "02",
+        "29"
       ],
       "provider_id": "florida",
       "game_id": "fantasy-5",
@@ -458,14 +458,14 @@
       "provider": "Florida",
       "game": "Florida Lotto",
       "edition": null,
-      "date": "2026-11-18",
+      "date": "2026-11-21",
       "numbers": [
-        "27",
-        "51",
-        "20",
         "08",
-        "34",
-        "19"
+        "48",
+        "23",
+        "09",
+        "30",
+        "36"
       ],
       "provider_id": "florida",
       "game_id": "florida-lotto",
@@ -476,14 +476,14 @@
       "provider": "Florida",
       "game": "Florida Lotto Double Play",
       "edition": null,
-      "date": "2026-11-18",
+      "date": "2026-11-21",
       "numbers": [
-        "41",
-        "49",
-        "06",
-        "35",
-        "25",
-        "10"
+        "32",
+        "48",
+        "29",
+        "01",
+        "24",
+        "04"
       ],
       "provider_id": "florida",
       "game_id": "florida-lotto-double-play",
@@ -1530,14 +1530,14 @@
       "provider": "New York",
       "game": "Millionaire For Life",
       "edition": null,
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "numbers": [
-        "02",
-        "06",
-        "19",
-        "20",
-        "30",
-        "04"
+        "10",
+        "12",
+        "18",
+        "26",
+        "33",
+        "02"
       ],
       "provider_id": "new-york",
       "game_id": "millionaire-for-life",
