@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-11-23T03:31:01.958868Z",
+  "last_updated": "2026-11-23T04:36:21.439596Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -84,11 +84,11 @@
       "provider": "Americanas",
       "game": "New Jersey",
       "edition": "Noche",
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "numbers": [
-        "26",
-        "70",
-        "87"
+        "14",
+        "13",
+        "55"
       ],
       "provider_id": "americanas",
       "game_id": "new-jersey",
@@ -435,23 +435,6 @@
       "provider_id": "florida",
       "game_id": "fantasy",
       "logo_url": "https://cdn.kiskoo.com/2026/05/19/36_d7WwG2juCy-FcIg_mx.png",
-      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/7DclzngvSNbkfsmkBOFyj.png"
-    },
-    {
-      "provider": "Florida",
-      "game": "Fantasy 5",
-      "edition": "Noche",
-      "date": "2026-11-21",
-      "numbers": [
-        "03",
-        "15",
-        "09",
-        "02",
-        "29"
-      ],
-      "provider_id": "florida",
-      "game_id": "fantasy-5",
-      "logo_url": "https://cdn.kiskoo.com/2026/05/19/CriBjqLUwMDdxCZSjANtl.png",
       "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/7DclzngvSNbkfsmkBOFyj.png"
     },
     {
@@ -1530,13 +1513,13 @@
       "provider": "New York",
       "game": "Millionaire For Life",
       "edition": null,
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "numbers": [
-        "10",
+        "11",
         "12",
-        "18",
-        "26",
-        "33",
+        "37",
+        "43",
+        "44",
         "02"
       ],
       "provider_id": "new-york",
