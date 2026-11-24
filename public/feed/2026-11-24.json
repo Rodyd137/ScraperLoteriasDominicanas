@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-11-24T23:22:34.873279Z",
+  "last_updated": "2026-11-24T23:42:03.910941Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -689,11 +689,11 @@
       "provider": "Haiti Bolet",
       "game": "Haiti Bolet 6:30 PM",
       "edition": null,
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "numbers": [
-        "71",
-        "21",
-        "85"
+        "53",
+        "48",
+        "38"
       ],
       "provider_id": "haiti-bolet",
       "game_id": "haiti-bolet-6-30-pm",
@@ -749,11 +749,11 @@
       "provider": "King Lottery",
       "game": "King Lottery",
       "edition": "Noche",
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "numbers": [
-        "83",
-        "03",
-        "12"
+        "21",
+        "43",
+        "38"
       ],
       "provider_id": "king-lottery",
       "game_id": "king-lottery",
@@ -780,12 +780,12 @@
       "provider": "King Lottery",
       "game": "Loto Pool",
       "edition": "Noche",
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "numbers": [
-        "82",
-        "76",
-        "68",
-        "52"
+        "48",
+        "59",
+        "39",
+        "45"
       ],
       "provider_id": "king-lottery",
       "game_id": "loto-pool",
@@ -811,11 +811,11 @@
       "provider": "King Lottery",
       "game": "Philipsburg",
       "edition": "Noche",
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "numbers": [
-        "6025",
-        "7254",
-        "4415"
+        "0691",
+        "1828",
+        "0995"
       ],
       "provider_id": "king-lottery",
       "game_id": "philipsburg",
@@ -841,11 +841,11 @@
       "provider": "King Lottery",
       "game": "Pick 3",
       "edition": "Noche",
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "numbers": [
-        "08",
-        "08",
-        "03"
+        "04",
+        "02",
+        "01"
       ],
       "provider_id": "king-lottery",
       "game_id": "pick-3",
@@ -872,12 +872,12 @@
       "provider": "King Lottery",
       "game": "Pick 4",
       "edition": "Noche",
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "numbers": [
-        "00",
+        "04",
         "03",
-        "01",
-        "02"
+        "03",
+        "08"
       ],
       "provider_id": "king-lottery",
       "game_id": "pick-4",
