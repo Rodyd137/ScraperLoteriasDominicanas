@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-11-24T22:56:19.440319Z",
+  "last_updated": "2026-11-24T23:22:34.873279Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -285,11 +285,11 @@
       "provider": "Anguila",
       "game": "Anguila 7:00 PM",
       "edition": null,
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "numbers": [
-        "03",
-        "81",
-        "10"
+        "66",
+        "84",
+        "05"
       ],
       "provider_id": "anguila",
       "game_id": "anguila-7-00-pm",
@@ -901,9 +901,9 @@
       "provider": "La Primera",
       "game": "El Quinielón",
       "edition": "Noche",
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "numbers": [
-        "48"
+        "11"
       ],
       "provider_id": "la-primera",
       "game_id": "el-quinielon",
@@ -914,14 +914,14 @@
       "provider": "La Primera",
       "game": "Loto 5",
       "edition": null,
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "numbers": [
-        "30",
+        "17",
+        "04",
         "10",
-        "31",
-        "03",
-        "08",
-        "07"
+        "18",
+        "29",
+        "02"
       ],
       "provider_id": "la-primera",
       "game_id": "loto-5",
@@ -947,11 +947,11 @@
       "provider": "La Primera",
       "game": "Quiniela",
       "edition": "Noche",
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "numbers": [
-        "54",
-        "14",
-        "64"
+        "42",
+        "60",
+        "32"
       ],
       "provider_id": "la-primera",
       "game_id": "quiniela",
