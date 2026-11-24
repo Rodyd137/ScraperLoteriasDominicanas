@@ -1,6 +1,6 @@
 {
   "source": "https://loteriasdominicanas.com",
-  "last_updated": "2026-11-24T03:54:19.659300Z",
+  "last_updated": "2026-11-24T06:46:49.337157Z",
   "draws": [
     {
       "provider": "Americanas",
@@ -21,11 +21,11 @@
       "provider": "Americanas",
       "game": "Georgia",
       "edition": "Noche",
-      "date": "2026-11-22",
+      "date": "2026-11-23",
       "numbers": [
-        "88",
-        "87",
-        "77"
+        "54",
+        "33",
+        "25"
       ],
       "provider_id": "americanas",
       "game_id": "georgia",
@@ -84,11 +84,11 @@
       "provider": "Americanas",
       "game": "New Jersey",
       "edition": "Noche",
-      "date": "2026-11-22",
+      "date": "2026-11-23",
       "numbers": [
-        "14",
-        "13",
-        "55"
+        "74",
+        "97",
+        "36"
       ],
       "provider_id": "americanas",
       "game_id": "new-jersey",
@@ -99,14 +99,14 @@
       "provider": "Americanas",
       "game": "PowerBall",
       "edition": null,
-      "date": "2026-11-21",
+      "date": "2026-11-23",
       "numbers": [
-        "45",
-        "05",
-        "36",
-        "33",
-        "29",
-        "22"
+        "58",
+        "27",
+        "09",
+        "07",
+        "40",
+        "19"
       ],
       "provider_id": "americanas",
       "game_id": "powerball",
@@ -117,14 +117,14 @@
       "provider": "Americanas",
       "game": "PowerBall Double Play",
       "edition": null,
-      "date": "2026-11-21",
+      "date": "2026-11-23",
       "numbers": [
-        "69",
-        "68",
-        "42",
-        "45",
-        "10",
-        "22"
+        "36",
+        "51",
+        "48",
+        "40",
+        "35",
+        "03"
       ],
       "provider_id": "americanas",
       "game_id": "powerball-double-play",
@@ -435,6 +435,23 @@
       "provider_id": "florida",
       "game_id": "fantasy",
       "logo_url": "https://cdn.kiskoo.com/2026/05/19/36_d7WwG2juCy-FcIg_mx.png",
+      "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/7DclzngvSNbkfsmkBOFyj.png"
+    },
+    {
+      "provider": "Florida",
+      "game": "Fantasy 5",
+      "edition": "Noche",
+      "date": "2026-11-23",
+      "numbers": [
+        "20",
+        "12",
+        "24",
+        "28",
+        "06"
+      ],
+      "provider_id": "florida",
+      "game_id": "fantasy-5",
+      "logo_url": "https://cdn.kiskoo.com/2026/05/19/CriBjqLUwMDdxCZSjANtl.png",
       "provider_logo_url": "https://cdn.kiskoo.com/2026/05/19/7DclzngvSNbkfsmkBOFyj.png"
     },
     {
@@ -1513,14 +1530,14 @@
       "provider": "New York",
       "game": "Millionaire For Life",
       "edition": null,
-      "date": "2026-11-22",
+      "date": "2026-11-23",
       "numbers": [
-        "11",
-        "12",
-        "37",
-        "43",
-        "44",
-        "02"
+        "05",
+        "08",
+        "10",
+        "20",
+        "32",
+        "05"
       ],
       "provider_id": "new-york",
       "game_id": "millionaire-for-life",
